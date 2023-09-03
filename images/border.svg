@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512">
+	<defs>
+		<linearGradient id="gradient-outer" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(65)">
+			<!-- <stop offset="0%" stop-color="#9B6E5A" stop-opacity="1" /> -->
+			<stop offset="0%" stop-color="#9B6E5A" stop-opacity="1" />
+			<stop offset="100%" stop-color="#14050A" stop-opacity="1" />
+		</linearGradient>
+		<linearGradient id="gradient-middle" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(65)">
+			<stop offset="0%" stop-color="#644B3C" stop-opacity="1" />
+			<stop offset="100%" stop-color="#D7C8AF" stop-opacity="1" />
+		</linearGradient>	
+		<linearGradient id="gradient-inner" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(65)">
+			<stop offset="50%" stop-color="#551914" stop-opacity="1" />
+			<stop offset="100%" stop-color="#3C050A" stop-opacity="1" />
+		</linearGradient>			
+	</defs>
+	
+	<circle cx="256" cy="256" r="250" fill="url(#gradient-outer)" fill-opacity="100%" mask="url(#hole)"></circle>
+	<circle cx="256" cy="256" r="240" fill="url(#gradient-middle)" fill-opacity="100%" mask="url(#hole)"></circle>
+	<circle cx="256" cy="256" r="220" fill="url(#gradient-inner)" fill-opacity="100%" mask="url(#hole)"></circle>
+	
+	<mask id="hole">
+		<rect x="0" y="0" width="512" height="512" fill="white"/>
+		<circle cx="256" cy="256" r="210" fill="black"/>
+	</mask>	
+	
+</svg>
