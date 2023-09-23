@@ -1825,5 +1825,14 @@
         "timestamp": 1695502440648,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "ZFP8RyQW4SNtJ3AE": {
+        "id": "ZFP8RyQW4SNtJ3AE",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Nyzuros",
+        "prompt": "Fantasy art Nyzuros drow elf humanoid Male Drow Hunter in the style of Greg Rutkowski",
+        "timestamp": 1695502440649,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
