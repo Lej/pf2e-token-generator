@@ -1951,5 +1951,14 @@
         "timestamp": 1695502440656,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mlifDVJJWwjFtUxv": {
+        "id": "mlifDVJJWwjFtUxv",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Murmur",
+        "prompt": "Fantasy art Murmur humanoid Female feebleminded medusa in the style of Greg Rutkowski",
+        "timestamp": 1695502440656,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
