@@ -2464,5 +2464,14 @@
         "timestamp": 1695502440680,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3oCs4xRge4oXjQC4": {
+        "id": "3oCs4xRge4oXjQC4",
+        "compendium": "one-shot-bestiary",
+        "name": "Meliosa's Leshy",
+        "prompt": "Fantasy art Meliosa's Leshy leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1695502440681,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
