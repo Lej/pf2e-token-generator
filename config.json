@@ -1915,5 +1915,14 @@
         "timestamp": 1695502440654,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "qOkxxiM4tNf96CHQ": {
+        "id": "qOkxxiM4tNf96CHQ",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Seugathi Guard",
+        "prompt": "Fantasy art Seugathi Guard aberration seugathi Seugathi servant in the style of Greg Rutkowski",
+        "timestamp": 1695502440655,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
