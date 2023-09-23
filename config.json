@@ -2428,5 +2428,14 @@
         "timestamp": 1695502440679,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "iPhDi4SU6pbTJmef": {
+        "id": "iPhDi4SU6pbTJmef",
+        "compendium": "one-shot-bestiary",
+        "name": "Auldegrund Grimcarver",
+        "prompt": "Fantasy art Auldegrund Grimcarver devil dwarf fiend humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440680,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
