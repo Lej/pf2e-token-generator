@@ -381,6 +381,10 @@
         "AXp5EzgP7p8FrYpN": {
             "actor": "modules/pf2e-ai-token-placeholders/images/book-of-the-dead-bestiary/AXp5EzgP7p8FrYpN/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/book-of-the-dead-bestiary/AXp5EzgP7p8FrYpN/token.webp"
+        },
+        "Yv9e7NSCzPuhlCnH": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/book-of-the-dead-bestiary/Yv9e7NSCzPuhlCnH/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/book-of-the-dead-bestiary/Yv9e7NSCzPuhlCnH/token.webp"
         }
     }
 }

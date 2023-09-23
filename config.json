@@ -853,5 +853,14 @@
         "timestamp": 1695502440599,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Yv9e7NSCzPuhlCnH": {
+        "id": "Yv9e7NSCzPuhlCnH",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Graveknight Warmaster",
+        "prompt": "Fantasy art Graveknight Warmaster undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440599,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
