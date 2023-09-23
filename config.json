@@ -1555,5 +1555,14 @@
         "timestamp": 1695502440633,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "3d3NAcPfvn07mcGN": {
+        "id": "3d3NAcPfvn07mcGN",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Afflicted Irnakurse",
+        "prompt": "Fantasy art Afflicted Irnakurse aberration in the style of Greg Rutkowski",
+        "timestamp": 1695502440633,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
