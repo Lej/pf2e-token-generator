@@ -1105,5 +1105,14 @@
         "timestamp": 1695502440611,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0PrrwvV1936eSCQy": {
+        "id": "0PrrwvV1936eSCQy",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Tormented (Burning)",
+        "prompt": "Fantasy art Tormented Burning undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440611,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
