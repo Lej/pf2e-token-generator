@@ -1060,5 +1060,14 @@
         "timestamp": 1695502440608,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "h0OtQsMR4OqnYatd": {
+        "id": "h0OtQsMR4OqnYatd",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Deathless Hierophant Of Urgathoa",
+        "prompt": "Fantasy art Deathless Hierophant Of Urgathoa undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440609,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
