@@ -358,5 +358,13 @@
         "prompt": "Fantasy art Drow Warrior drow elf humanoid in the style of Greg Rutkowski",
         "timestamp": 1695496530364,
         "seed": 1024
+    },
+    "Br1AtKUHe3nbzjnY": {
+        "id": "Br1AtKUHe3nbzjnY",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Mimic (BB)",
+        "prompt": "Fantasy art Mimic aberration in the style of Greg Rutkowski",
+        "timestamp": 1695496530364,
+        "seed": 1024
     }
 }
