@@ -1024,5 +1024,14 @@
         "timestamp": 1695502440607,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7pk1DLc96LMcHBB5": {
+        "id": "7pk1DLc96LMcHBB5",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Vanyver",
+        "prompt": "Fantasy art Vanyver darvakka shadow undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440608,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
