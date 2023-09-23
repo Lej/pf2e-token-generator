@@ -511,5 +511,14 @@
         "timestamp": 1695502440581,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "ishwgxZAlNJxNwGE": {
+        "id": "ishwgxZAlNJxNwGE",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Daqqanoenyent",
+        "prompt": "Fantasy art Daqqanoenyent undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440582,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
