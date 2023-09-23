@@ -25,5 +25,5 @@ jobs:
         with:
           allowUpdates: true #An optional flag which indicates if we should update a release if it already exists. Defaults to false.
           name: ${{github.run_number}}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
           artifacts: "./module.json, ./module.zip"
