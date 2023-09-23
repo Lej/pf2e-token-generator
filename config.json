@@ -1924,5 +1924,14 @@
         "timestamp": 1695502440655,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vHei0y2PKlXfxQ8Z": {
+        "id": "vHei0y2PKlXfxQ8Z",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Child of Belcorra",
+        "prompt": "Fantasy art Child of Belcorra mummy undead Bog mummy in the style of Greg Rutkowski",
+        "timestamp": 1695502440655,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
