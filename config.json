@@ -238,5 +238,13 @@
         "prompt": "Fantasy art Goblin Commando goblin humanoid in the style of Greg Rutkowski",
         "timestamp": 1695496530360,
         "seed": 1024
+    },
+    "gdXok08bITkhowDJ": {
+        "id": "gdXok08bITkhowDJ",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Ogre Warrior (BB)",
+        "prompt": "Fantasy art Ogre Warrior giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695496530360,
+        "seed": 1024
     }
 }
