@@ -1753,5 +1753,14 @@
         "timestamp": 1695502440644,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "HBRz8BVLVN9u9Odp": {
+        "id": "HBRz8BVLVN9u9Odp",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Corpselight",
+        "prompt": "Fantasy art Corpselight undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440645,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
