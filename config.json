@@ -907,5 +907,14 @@
         "timestamp": 1695502440603,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sgeULAtaLvg0Uhyn": {
+        "id": "sgeULAtaLvg0Uhyn",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Cadaverous Rake",
+        "prompt": "Fantasy art Cadaverous Rake undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440604,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
