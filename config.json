@@ -1267,5 +1267,14 @@
         "timestamp": 1695502440618,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ol2lji9lH7PXh1uw": {
+        "id": "ol2lji9lH7PXh1uw",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Bone Croupier",
+        "prompt": "Fantasy art Bone Croupier undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440619,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
