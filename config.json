@@ -826,5 +826,14 @@
         "timestamp": 1695502440598,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ypOgr8kPy6KqXAAd": {
+        "id": "ypOgr8kPy6KqXAAd",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Seetangeist",
+        "prompt": "Fantasy art Seetangeist aquatic mindless swarm undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440598,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
