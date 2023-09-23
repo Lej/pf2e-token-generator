@@ -637,5 +637,14 @@
         "timestamp": 1695502440587,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "40P14vZZXKLhBD6q": {
+        "id": "40P14vZZXKLhBD6q",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Sykever",
+        "prompt": "Fantasy art Sykever darvakka shadow undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440588,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
