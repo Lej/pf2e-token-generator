@@ -538,5 +538,14 @@
         "timestamp": 1695502440583,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vHEJOONP1ERjuxxl": {
+        "id": "vHEJOONP1ERjuxxl",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Urveth",
+        "prompt": "Fantasy art Urveth darvakka shadow undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440584,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
