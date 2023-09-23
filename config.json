@@ -366,5 +366,13 @@
         "prompt": "Fantasy art Mimic aberration in the style of Greg Rutkowski",
         "timestamp": 1695496530364,
         "seed": 1024
+    },
+    "NVWaLagWOu5tCCZu": {
+        "id": "NVWaLagWOu5tCCZu",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Sod Hound (BB)",
+        "prompt": "Fantasy art Sod Hound earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1695496530364,
+        "seed": 1024
     }
 }

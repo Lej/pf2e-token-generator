@@ -185,6 +185,10 @@
         "Br1AtKUHe3nbzjnY": {
             "actor": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/Br1AtKUHe3nbzjnY/actor.png",
             "token": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/Br1AtKUHe3nbzjnY/token.png"
+        },
+        "NVWaLagWOu5tCCZu": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/NVWaLagWOu5tCCZu/actor.png",
+            "token": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/NVWaLagWOu5tCCZu/token.png"
         }
     }
 }
