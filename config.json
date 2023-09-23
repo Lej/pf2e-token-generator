@@ -2545,5 +2545,14 @@
         "timestamp": 1695502440684,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RGcXNLz4TaziTInr": {
+        "id": "RGcXNLz4TaziTInr",
+        "compendium": "one-shot-bestiary",
+        "name": "Pairaka (One-Shot #4)",
+        "prompt": "Fantasy art Pairaka div fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440684,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
