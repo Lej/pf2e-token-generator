@@ -1519,5 +1519,14 @@
         "timestamp": 1695502440630,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wCztuDEePLs9ZsEl": {
+        "id": "wCztuDEePLs9ZsEl",
+        "compendium": "shadows-at-sundown-bestiary",
+        "name": "Strigoi Progenitor",
+        "prompt": "Fantasy art Strigoi Progenitor shadow undead vampire rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440631,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
