@@ -134,5 +134,13 @@
         "prompt": "Fantasy art Giant Rat animal in the style of Greg Rutkowski",
         "timestamp": 1695496530356,
         "seed": 1024
+    },
+    "aeCoh4u6c5kt1iCs": {
+        "id": "aeCoh4u6c5kt1iCs",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Gargoyle (BB)",
+        "prompt": "Fantasy art Gargoyle beast earth in the style of Greg Rutkowski",
+        "timestamp": 1695496530356,
+        "seed": 1024
     }
 }
