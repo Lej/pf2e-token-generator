@@ -518,5 +518,13 @@
         "prompt": "Fantasy art Ecorche undead in the style of Greg Rutkowski",
         "timestamp": 1695496530370,
         "seed": 1024
+    },
+    "GcHzyaMYK5QeKUyM": {
+        "id": "GcHzyaMYK5QeKUyM",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Pale Stranger",
+        "prompt": "Fantasy art Pale Stranger undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530371,
+        "seed": 1024
     }
 }
