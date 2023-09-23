@@ -376,5 +376,14 @@
         "timestamp": 1695502440577,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cZDiyluplFqRxmGy": {
+        "id": "cZDiyluplFqRxmGy",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Animated Armor (BB)",
+        "prompt": "Fantasy art Animated Armor construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695502440577,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
