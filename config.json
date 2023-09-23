@@ -510,5 +510,13 @@
         "prompt": "Fantasy art Excorion undead in the style of Greg Rutkowski",
         "timestamp": 1695496530370,
         "seed": 1024
+    },
+    "zqftTUpxqkdLx2IY": {
+        "id": "zqftTUpxqkdLx2IY",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Ecorche",
+        "prompt": "Fantasy art Ecorche undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530370,
+        "seed": 1024
     }
 }
