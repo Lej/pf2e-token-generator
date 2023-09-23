@@ -438,5 +438,13 @@
         "prompt": "Fantasy art Doppelganger humanoid in the style of Greg Rutkowski",
         "timestamp": 1695496530366,
         "seed": 1024
+    },
+    "2H2AEwQnfKJC0nrd": {
+        "id": "2H2AEwQnfKJC0nrd",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Ghost Commoner (BB)",
+        "prompt": "Fantasy art Ghost Commoner ghost incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530366,
+        "seed": 1024
     }
 }
