@@ -1411,5 +1411,14 @@
         "timestamp": 1695502440624,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "x0RGlIHXDN9y0D08": {
+        "id": "x0RGlIHXDN9y0D08",
+        "compendium": "malevolence-bestiary",
+        "name": "Corrupted Nosoi",
+        "prompt": "Fantasy art Corrupted Nosoi monitor psychopomp in the style of Greg Rutkowski",
+        "timestamp": 1695502440624,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
