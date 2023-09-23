@@ -1483,5 +1483,14 @@
         "timestamp": 1695502440628,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sawfqpGNObMA41at": {
+        "id": "sawfqpGNObMA41at",
+        "compendium": "shadows-at-sundown-bestiary",
+        "name": "Ileosa's Shell",
+        "prompt": "Fantasy art Ileosa's Shell undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440628,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
