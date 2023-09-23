@@ -115,6 +115,10 @@
         "jGzVwekcRX5aQpbT": {
             "actor": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/jGzVwekcRX5aQpbT/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/jGzVwekcRX5aQpbT/token.webp"
+        },
+        "gdXok08bITkhowDJ": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/gdXok08bITkhowDJ/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/gdXok08bITkhowDJ/token.webp"
         }
     }
 }
