@@ -1600,5 +1600,14 @@
         "timestamp": 1695502440635,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tOL4rWj2oYWZ4ow2": {
+        "id": "tOL4rWj2oYWZ4ow2",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Aller Rosk",
+        "prompt": "Fantasy art Aller Rosk ghoul undead Male ghoul tattoo artist in the style of Greg Rutkowski",
+        "timestamp": 1695502440635,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
