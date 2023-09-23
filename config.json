@@ -2581,5 +2581,14 @@
         "timestamp": 1695502440685,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ws7D95828SXNi4Vp": {
+        "id": "ws7D95828SXNi4Vp",
+        "compendium": "one-shot-bestiary",
+        "name": "Carl The Cobbler",
+        "prompt": "Fantasy art Carl The Cobbler fey Variant redcap in the style of Greg Rutkowski",
+        "timestamp": 1695502440685,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

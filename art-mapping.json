@@ -1157,6 +1157,10 @@
         "VKHaguCFtnDVMXTz": {
             "actor": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/VKHaguCFtnDVMXTz/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/VKHaguCFtnDVMXTz/token.webp"
+        },
+        "ws7D95828SXNi4Vp": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/ws7D95828SXNi4Vp/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/ws7D95828SXNi4Vp/token.webp"
         }
     }
 }
