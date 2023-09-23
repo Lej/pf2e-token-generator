@@ -1843,5 +1843,14 @@
         "timestamp": 1695502440649,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DDJGNAh3rfyIupAb": {
+        "id": "DDJGNAh3rfyIupAb",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Belcorra Haruvex",
+        "prompt": "Fantasy art Belcorra Haruvex ghost incorporeal spirit undead Female ghost sorcerer rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440651,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
