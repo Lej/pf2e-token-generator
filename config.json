@@ -534,5 +534,13 @@
         "prompt": "Fantasy art Shredskin undead in the style of Greg Rutkowski",
         "timestamp": 1695496530371,
         "seed": 1024
+    },
+    "Ze8SKqa4T8lhSDup": {
+        "id": "Ze8SKqa4T8lhSDup",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Pale Sovereign",
+        "prompt": "Fantasy art Pale Sovereign undead rituals in the style of Greg Rutkowski",
+        "timestamp": 1695496530372,
+        "seed": 1024
     }
 }
