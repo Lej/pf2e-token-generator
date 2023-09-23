@@ -2131,5 +2131,14 @@
         "timestamp": 1695502440665,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "R0EEgMDKcynpAWoa": {
+        "id": "R0EEgMDKcynpAWoa",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Otari Ilvashti",
+        "prompt": "Fantasy art Otari Ilvashti ghost incorporeal spirit undead Male ghost adventurer in the style of Greg Rutkowski",
+        "timestamp": 1695502440666,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
