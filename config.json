@@ -574,5 +574,14 @@
         "timestamp": 1695502440585,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "GcHzyaMYK5QeKUyM": {
+        "id": "GcHzyaMYK5QeKUyM",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Pale Stranger",
+        "prompt": "Fantasy art Pale Stranger undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440585,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
