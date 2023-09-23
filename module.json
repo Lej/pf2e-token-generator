@@ -1,0 +1,15 @@
+{
+  "id": "pf2e-ai-token-placeholders",
+  "title": "PF2E AI Token Placeholders",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "AI generated tokens as an alternative to the default token image.",
+  "flags": {
+    "pf2e-ai-token-placeholders": {
+      "pf2e-art": "modules/pf2e-ai-token-placeholders/art-mapping.json"
+    }
+  }
+}
