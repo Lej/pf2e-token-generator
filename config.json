@@ -268,5 +268,14 @@
         "timestamp": 1695499560056,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Hkq9ZS2J2iKnT7vT": {
+        "id": "Hkq9ZS2J2iKnT7vT",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Sewer Ooze (BB)",
+        "prompt": "Fantasy art Sewer Ooze mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1695499560056,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
