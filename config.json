@@ -1393,5 +1393,14 @@
         "timestamp": 1695502440622,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "JMXNSC7M2SRGZbhy": {
+        "id": "JMXNSC7M2SRGZbhy",
+        "compendium": "malevolence-bestiary",
+        "name": "Undead Brain Collector",
+        "prompt": "Fantasy art Undead Brain Collector aberration undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440623,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
