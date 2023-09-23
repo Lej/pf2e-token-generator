@@ -1384,5 +1384,14 @@
         "timestamp": 1695502440622,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "YSL27Oq2xFIzrq9u": {
+        "id": "YSL27Oq2xFIzrq9u",
+        "compendium": "malevolence-bestiary",
+        "name": "Nils Kelveken",
+        "prompt": "Fantasy art Nils Kelveken skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440622,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
