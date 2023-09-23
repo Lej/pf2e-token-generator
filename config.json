@@ -638,5 +638,13 @@
         "prompt": "Fantasy art Siabrae undead in the style of Greg Rutkowski",
         "timestamp": 1695496530378,
         "seed": 1024
+    },
+    "j88xR2MqqZrmF5Wz": {
+        "id": "j88xR2MqqZrmF5Wz",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Raw Nerve",
+        "prompt": "Fantasy art Raw Nerve undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530378,
+        "seed": 1024
     }
 }
