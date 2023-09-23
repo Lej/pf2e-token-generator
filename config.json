@@ -2140,5 +2140,14 @@
         "timestamp": 1695502440666,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bif3iQcDPi27rx6x": {
+        "id": "bif3iQcDPi27rx6x",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Salaisa Malthulas",
+        "prompt": "Fantasy art Salaisa Malthulas drow elf humanoid Female drow head warden in the style of Greg Rutkowski",
+        "timestamp": 1695502440666,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
