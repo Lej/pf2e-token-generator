@@ -1717,5 +1717,14 @@
         "timestamp": 1695502440643,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "V73Oqm1EL1KOoXOl": {
+        "id": "V73Oqm1EL1KOoXOl",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Morlock Engineer",
+        "prompt": "Fantasy art Morlock Engineer humanoid morlock in the style of Greg Rutkowski",
+        "timestamp": 1695502440643,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
