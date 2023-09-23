@@ -2455,5 +2455,14 @@
         "timestamp": 1695502440680,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8BMVxqhcdNtdStUj": {
+        "id": "8BMVxqhcdNtdStUj",
+        "compendium": "one-shot-bestiary",
+        "name": "Scented Candle Homunculus",
+        "prompt": "Fantasy art Scented Candle Homunculus construct Variant homunculus in the style of Greg Rutkowski",
+        "timestamp": 1695502440680,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
