@@ -2500,5 +2500,14 @@
         "timestamp": 1695502440682,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ki4Wf1p5DlJaIYmU": {
+        "id": "ki4Wf1p5DlJaIYmU",
+        "compendium": "one-shot-bestiary",
+        "name": "Simulacrum",
+        "prompt": "Fantasy art Simulacrum dwarf humanoid minion in the style of Greg Rutkowski",
+        "timestamp": 1695502440682,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
