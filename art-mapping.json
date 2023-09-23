@@ -226,5 +226,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/2H2AEwQnfKJC0nrd/actor.png",
             "token": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/2H2AEwQnfKJC0nrd/token.png"
         }
+    },
+    "book-of-the-dead-bestiary": {
+        "ZSrMFLrb5CzFH5WX": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/book-of-the-dead-bestiary/ZSrMFLrb5CzFH5WX/actor.png",
+            "token": "modules/pf2e-ai-token-placeholders/images/book-of-the-dead-bestiary/ZSrMFLrb5CzFH5WX/token.png"
+        }
     }
 }

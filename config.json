@@ -446,5 +446,13 @@
         "prompt": "Fantasy art Ghost Commoner ghost incorporeal spirit undead in the style of Greg Rutkowski",
         "timestamp": 1695496530366,
         "seed": 1024
+    },
+    "ZSrMFLrb5CzFH5WX": {
+        "id": "ZSrMFLrb5CzFH5WX",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Provincial Jiang-shi",
+        "prompt": "Fantasy art Provincial Jiang-shi undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1695496530367,
+        "seed": 1024
     }
 }
