@@ -2185,5 +2185,14 @@
         "timestamp": 1695502440668,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "JrowrtDilEG8dN2s": {
+        "id": "JrowrtDilEG8dN2s",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Quara Orshendiel",
+        "prompt": "Fantasy art Quara Orshendiel drow elf humanoid Female drow leader in the style of Greg Rutkowski",
+        "timestamp": 1695502440668,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
