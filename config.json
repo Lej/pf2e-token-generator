@@ -1141,5 +1141,14 @@
         "timestamp": 1695502440612,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Nzf3AfA46cBiWCwN": {
+        "id": "Nzf3AfA46cBiWCwN",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Vetalarana Manipulator",
+        "prompt": "Fantasy art Vetalarana Manipulator undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1695502440613,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
