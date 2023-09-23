@@ -606,5 +606,13 @@
         "prompt": "Fantasy art Wight Commander undead wight in the style of Greg Rutkowski",
         "timestamp": 1695496530375,
         "seed": 1024
+    },
+    "f2dAjBXK55w6rnsh": {
+        "id": "f2dAjBXK55w6rnsh",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Tormented (Dislocation)",
+        "prompt": "Fantasy art Tormented Dislocation undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530375,
+        "seed": 1024
     }
 }
