@@ -1375,5 +1375,14 @@
         "timestamp": 1695502440622,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vcFMNQf9vg7r11ca": {
+        "id": "vcFMNQf9vg7r11ca",
+        "compendium": "malevolence-bestiary",
+        "name": "Xarwin's Manifestation",
+        "prompt": "Fantasy art Xarwin's Manifestation incorporeal undead wraith in the style of Greg Rutkowski",
+        "timestamp": 1695502440622,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
