@@ -358,5 +358,14 @@
         "timestamp": 1695502440577,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4MwjCsa5O9aAjxSm": {
+        "id": "4MwjCsa5O9aAjxSm",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Boar (BB)",
+        "prompt": "Fantasy art Boar animal in the style of Greg Rutkowski",
+        "timestamp": 1695502440577,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
