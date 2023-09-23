@@ -61,5 +61,14 @@
         "timestamp": 1695502440568,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xKYIN88ULPFgSZmw": {
+        "id": "xKYIN88ULPFgSZmw",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Drow Sneak (BB)",
+        "prompt": "Fantasy art Drow Sneak drow elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695502440568,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
