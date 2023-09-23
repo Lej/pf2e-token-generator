@@ -478,5 +478,13 @@
         "prompt": "Fantasy art Faithless Ecclesiarch undead in the style of Greg Rutkowski",
         "timestamp": 1695496530368,
         "seed": 1024
+    },
+    "Wv9iS7JacYjymqlY": {
+        "id": "Wv9iS7JacYjymqlY",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Harlo Krant",
+        "prompt": "Fantasy art Harlo Krant undead zombie Male variant zombie lord in the style of Greg Rutkowski",
+        "timestamp": 1695496530369,
+        "seed": 1024
     }
 }
