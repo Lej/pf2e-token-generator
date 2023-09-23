@@ -2608,5 +2608,14 @@
         "timestamp": 1695502440689,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JmGKKXdAxUkJtdTm": {
+        "id": "JmGKKXdAxUkJtdTm",
+        "compendium": "impossible-lands-bestiary",
+        "name": "Ugvashi",
+        "prompt": "Fantasy art Ugvashi animal in the style of Greg Rutkowski",
+        "timestamp": 1695502440689,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
