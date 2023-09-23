@@ -2473,5 +2473,14 @@
         "timestamp": 1695502440681,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vTJkvG8rDs0O8HzF": {
+        "id": "vTJkvG8rDs0O8HzF",
+        "compendium": "one-shot-bestiary",
+        "name": "Meliosa's Leshy (Golden Bamboo Leshy)",
+        "prompt": "Fantasy art Meliosa's Leshy Golden Bamboo Leshy leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1695502440681,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
