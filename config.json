@@ -970,5 +970,14 @@
         "timestamp": 1695502440605,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pDA6tCwQ3pE6ji4U": {
+        "id": "pDA6tCwQ3pE6ji4U",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Shadern Immolator",
+        "prompt": "Fantasy art Shadern Immolator fire goblin humanoid mortic in the style of Greg Rutkowski",
+        "timestamp": 1695502440605,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
