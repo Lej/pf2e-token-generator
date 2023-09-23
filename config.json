@@ -2122,5 +2122,14 @@
         "timestamp": 1695502440665,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vX4SBXIICKfrM4pF": {
+        "id": "vX4SBXIICKfrM4pF",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Hellforge Barbazu",
+        "prompt": "Fantasy art Hellforge Barbazu devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440665,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
