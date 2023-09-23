@@ -1149,6 +1149,10 @@
         "BFTodEMAuiYhte03": {
             "actor": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/BFTodEMAuiYhte03/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/BFTodEMAuiYhte03/token.webp"
+        },
+        "hfoTGdl5WdS5s1Ss": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/hfoTGdl5WdS5s1Ss/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/hfoTGdl5WdS5s1Ss/token.webp"
         }
     }
 }

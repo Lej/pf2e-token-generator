@@ -2563,5 +2563,14 @@
         "timestamp": 1695502440684,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hfoTGdl5WdS5s1Ss": {
+        "id": "hfoTGdl5WdS5s1Ss",
+        "compendium": "one-shot-bestiary",
+        "name": "Taxidermic Dog",
+        "prompt": "Fantasy art Taxidermic Dog mindless undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440685,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
