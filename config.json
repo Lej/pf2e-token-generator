@@ -1627,5 +1627,14 @@
         "timestamp": 1695502440636,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HnIyJuqKNOvK7eOJ": {
+        "id": "HnIyJuqKNOvK7eOJ",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Nox",
+        "prompt": "Fantasy art Nox caligni humanoid Nonbinary caligni lutenist in the style of Greg Rutkowski",
+        "timestamp": 1695502440636,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
