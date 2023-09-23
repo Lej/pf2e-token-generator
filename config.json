@@ -558,5 +558,13 @@
         "prompt": "Fantasy art Fiddling Bones undead in the style of Greg Rutkowski",
         "timestamp": 1695496530372,
         "seed": 1024
+    },
+    "mL4l2kwPPSMKwzQo": {
+        "id": "mL4l2kwPPSMKwzQo",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Onryo",
+        "prompt": "Fantasy art Onryo undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530373,
+        "seed": 1024
     }
 }
