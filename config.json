@@ -174,5 +174,13 @@
         "prompt": "Fantasy art Orc Trooper humanoid orc in the style of Greg Rutkowski",
         "timestamp": 1695496530358,
         "seed": 1024
+    },
+    "LHHgGSs0ELCR4CYK": {
+        "id": "LHHgGSs0ELCR4CYK",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Ghoul (BB)",
+        "prompt": "Fantasy art Ghoul ghoul undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530358,
+        "seed": 1024
     }
 }
