@@ -502,5 +502,14 @@
         "timestamp": 1695502440581,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hjBcN7ulP6FSK7ie": {
+        "id": "hjBcN7ulP6FSK7ie",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Tormented (Starvation)",
+        "prompt": "Fantasy art Tormented Starvation undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440581,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
