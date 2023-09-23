@@ -646,5 +646,13 @@
         "prompt": "Fantasy art Raw Nerve undead in the style of Greg Rutkowski",
         "timestamp": 1695496530378,
         "seed": 1024
+    },
+    "TipfHGlT5ctn1JV0": {
+        "id": "TipfHGlT5ctn1JV0",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Zombie Mammoth",
+        "prompt": "Fantasy art Zombie Mammoth mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695496530379,
+        "seed": 1024
     }
 }
