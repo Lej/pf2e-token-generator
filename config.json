@@ -1051,5 +1051,14 @@
         "timestamp": 1695502440608,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nbVljZhCnWgGxA18": {
+        "id": "nbVljZhCnWgGxA18",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Zombie Owlbear",
+        "prompt": "Fantasy art Zombie Owlbear mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695502440608,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
