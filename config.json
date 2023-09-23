@@ -655,5 +655,14 @@
         "prompt": "Fantasy art Zombie Mammoth mindless undead zombie in the style of Greg Rutkowski",
         "timestamp": 1695496530379,
         "seed": 1024
+    },
+    "j777BjOqZff6S1v9": {
+        "id": "j777BjOqZff6S1v9",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Bhuta",
+        "prompt": "Fantasy art Bhuta incorporeal undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530379,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
