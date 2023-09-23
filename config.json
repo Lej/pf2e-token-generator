@@ -1474,5 +1474,14 @@
         "timestamp": 1695502440627,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ry6Sih9K9iyhAN5C": {
+        "id": "Ry6Sih9K9iyhAN5C",
+        "compendium": "shadows-at-sundown-bestiary",
+        "name": "Acolyte of Pharasma",
+        "prompt": "Fantasy art Acolyte of Pharasma human humanoid Cleric of Pharasma in the style of Greg Rutkowski",
+        "timestamp": 1695502440628,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
