@@ -342,5 +342,13 @@
         "prompt": "Fantasy art Orc Commander humanoid orc in the style of Greg Rutkowski",
         "timestamp": 1695496530363,
         "seed": 1024
+    },
+    "cZDiyluplFqRxmGy": {
+        "id": "cZDiyluplFqRxmGy",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Animated Armor (BB)",
+        "prompt": "Fantasy art Animated Armor construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695496530363,
+        "seed": 1024
     }
 }
