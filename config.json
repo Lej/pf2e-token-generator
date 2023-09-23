@@ -1771,5 +1771,14 @@
         "timestamp": 1695502440645,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "To0MLA0arpkiE6Cz": {
+        "id": "To0MLA0arpkiE6Cz",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Deep End Sarglagon",
+        "prompt": "Fantasy art Deep End Sarglagon amphibious devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440646,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
