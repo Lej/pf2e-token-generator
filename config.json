@@ -1564,5 +1564,14 @@
         "timestamp": 1695502440633,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "78Vf1Lk9ph2RGDgL": {
+        "id": "78Vf1Lk9ph2RGDgL",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Deepwater Dhuthorex",
+        "prompt": "Fantasy art Deepwater Dhuthorex aberration aquatic in the style of Greg Rutkowski",
+        "timestamp": 1695502440633,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
