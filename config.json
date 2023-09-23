@@ -952,5 +952,14 @@
         "timestamp": 1695502440605,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "abnTemoEnsqZPbKZ": {
+        "id": "abnTemoEnsqZPbKZ",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Last Guard",
+        "prompt": "Fantasy art Last Guard incorporeal spirit troop undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440605,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
