@@ -898,5 +898,14 @@
         "timestamp": 1695502440602,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "z8WJtCyoVHlcSxYy": {
+        "id": "z8WJtCyoVHlcSxYy",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Skeletal Titan",
+        "prompt": "Fantasy art Skeletal Titan mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440603,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
