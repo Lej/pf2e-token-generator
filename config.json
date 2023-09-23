@@ -118,5 +118,13 @@
         "prompt": "Fantasy art Hobgoblin Warrior goblin humanoid in the style of Greg Rutkowski",
         "timestamp": 1695496530356,
         "seed": 1024
+    },
+    "QaldZV2p9RpMXzzn": {
+        "id": "QaldZV2p9RpMXzzn",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Green Kobold Dragon Mage (BB)",
+        "prompt": "Fantasy art Green Kobold Dragon Mage humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695496530356,
+        "seed": 1024
     }
 }
