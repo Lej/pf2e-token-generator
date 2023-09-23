@@ -2599,5 +2599,14 @@
         "timestamp": 1695502440685,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "qmw82W0WhPkn9UTW": {
+        "id": "qmw82W0WhPkn9UTW",
+        "compendium": "impossible-lands-bestiary",
+        "name": "Clockwork Cannoneer",
+        "prompt": "Fantasy art Clockwork Cannoneer clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695502440689,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
