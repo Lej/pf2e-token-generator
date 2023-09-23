@@ -2518,5 +2518,14 @@
         "timestamp": 1695502440683,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ds8kPHp9yV6F34oX": {
+        "id": "ds8kPHp9yV6F34oX",
+        "compendium": "one-shot-bestiary",
+        "name": "Meliosa's Leshy (Minkaian Honeysuckle Leshy)",
+        "prompt": "Fantasy art Meliosa's Leshy Minkaian Honeysuckle Leshy leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1695502440683,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
