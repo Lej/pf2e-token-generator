@@ -484,5 +484,14 @@
         "timestamp": 1695502440580,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2H2AEwQnfKJC0nrd": {
+        "id": "2H2AEwQnfKJC0nrd",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Ghost Commoner (BB)",
+        "prompt": "Fantasy art Ghost Commoner ghost incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440580,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
