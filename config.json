@@ -590,5 +590,13 @@
         "prompt": "Fantasy art Iroran Mummy mummy undead in the style of Greg Rutkowski",
         "timestamp": 1695496530374,
         "seed": 1024
+    },
+    "z3BpUMkUFoXqOFgf": {
+        "id": "z3BpUMkUFoXqOFgf",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Scorned Hound",
+        "prompt": "Fantasy art Scorned Hound undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530374,
+        "seed": 1024
     }
 }
