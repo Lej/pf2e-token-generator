@@ -2050,5 +2050,14 @@
         "timestamp": 1695502440660,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TiAzR8SnYwhACWbj": {
+        "id": "TiAzR8SnYwhACWbj",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Observation Deck Seugathi Researcher",
+        "prompt": "Fantasy art Observation Deck Seugathi Researcher aberration seugathi Seugathi servant in the style of Greg Rutkowski",
+        "timestamp": 1695502440661,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
