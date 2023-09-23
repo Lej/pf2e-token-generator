@@ -1042,5 +1042,14 @@
         "timestamp": 1695502440608,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vvxnRuYBU2uCBPPI": {
+        "id": "vvxnRuYBU2uCBPPI",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Little Man In The Woods",
+        "prompt": "Fantasy art Little Man In The Woods undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440608,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
