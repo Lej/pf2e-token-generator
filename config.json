@@ -808,5 +808,14 @@
         "timestamp": 1695502440597,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VYLTAIVA9qUsbujo": {
+        "id": "VYLTAIVA9qUsbujo",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Waldgeist",
+        "prompt": "Fantasy art Waldgeist incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440598,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
