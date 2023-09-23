@@ -17,6 +17,11 @@ jobs:
           manifest: https://github.com/${{github.repository}}/releases/latest/download/module.json
           download: https://github.com/${{github.repository}}/releases/download/${{github.run_number}}/module.zip
       - run: zip -r ./module.zip module.json art-mapping.json images/
+      - name: Create Tag
+        uses: mathieudutour/github-tag-action@v6.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          custom_tag: ${{github.run_number}}
       - name: Create Release
         uses: ncipollo/release-action@v1
         with:
@@ -25,13 +30,3 @@ jobs:
           tag: ${{github.run_number}}
           token: ${{ secrets.PAT }}
           artifacts: "./module.json, ./module.zip"
-      - name: Create Tag
-        uses: actions/github-script@v5
-        with:
-          script: |
-            github.rest.git.createRef({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              ref: 'refs/tags/v${{github.run_number}}',
-              sha: context.sha
-            })
