@@ -295,5 +295,14 @@
         "timestamp": 1695499560057,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "R9eoGwQ2tudxUKxS": {
+        "id": "R9eoGwQ2tudxUKxS",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Black Kobold Dragon Mage (BB)",
+        "prompt": "Fantasy art Black Kobold Dragon Mage humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695499560057,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
