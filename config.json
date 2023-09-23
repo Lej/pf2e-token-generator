@@ -493,5 +493,14 @@
         "timestamp": 1695502440580,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZSrMFLrb5CzFH5WX": {
+        "id": "ZSrMFLrb5CzFH5WX",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Provincial Jiang-shi",
+        "prompt": "Fantasy art Provincial Jiang-shi undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1695502440581,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
