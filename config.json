@@ -1015,5 +1015,14 @@
         "timestamp": 1695502440607,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "M59XiYnJ4Z3bSwCC": {
+        "id": "M59XiYnJ4Z3bSwCC",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Polong",
+        "prompt": "Fantasy art Polong incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440607,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
