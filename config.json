@@ -736,5 +736,14 @@
         "timestamp": 1695502440592,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "LWLUaSHl8YCZdDMH": {
+        "id": "LWLUaSHl8YCZdDMH",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Vetalarana Emergent",
+        "prompt": "Fantasy art Vetalarana Emergent undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1695502440592,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
