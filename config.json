@@ -232,5 +232,14 @@
         "timestamp": 1695502440573,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "XrmHgbKgcHDi4OnK": {
+        "id": "XrmHgbKgcHDi4OnK",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Shadow (BB)",
+        "prompt": "Fantasy art Shadow incorporeal undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440573,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
