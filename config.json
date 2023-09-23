@@ -2374,5 +2374,14 @@
         "timestamp": 1695502440677,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "h0Ztbh36be4rpJCz": {
+        "id": "h0Ztbh36be4rpJCz",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Dulac",
+        "prompt": "Fantasy art Dulac caligni humanoid Female caligni cult leader in the style of Greg Rutkowski",
+        "timestamp": 1695502440677,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
