@@ -88,5 +88,14 @@
         "timestamp": 1695499560051,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gvCCATlH9mPGWbsp": {
+        "id": "gvCCATlH9mPGWbsp",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Troll (BB)",
+        "prompt": "Fantasy art Troll giant troll in the style of Greg Rutkowski",
+        "timestamp": 1695499560052,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
