@@ -542,5 +542,13 @@
         "prompt": "Fantasy art Pale Sovereign undead rituals in the style of Greg Rutkowski",
         "timestamp": 1695496530372,
         "seed": 1024
+    },
+    "ZqZlji7aCGCGATMP": {
+        "id": "ZqZlji7aCGCGATMP",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Zombie Snake",
+        "prompt": "Fantasy art Zombie Snake mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695496530372,
+        "seed": 1024
     }
 }
