@@ -133,5 +133,14 @@
         "timestamp": 1695502440570,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AYwdybUfm4meGUTJ": {
+        "id": "AYwdybUfm4meGUTJ",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Giant Rat (BB)",
+        "prompt": "Fantasy art Giant Rat animal in the style of Greg Rutkowski",
+        "timestamp": 1695502440570,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
