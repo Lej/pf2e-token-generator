@@ -2365,5 +2365,14 @@
         "timestamp": 1695502440676,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vS1YISLmSnkNotkL": {
+        "id": "vS1YISLmSnkNotkL",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Seugathi Reality Warper",
+        "prompt": "Fantasy art Seugathi Reality Warper aberration seugathi in the style of Greg Rutkowski",
+        "timestamp": 1695502440677,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
