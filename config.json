@@ -14,5 +14,13 @@
         "prompt": "Fantasy art Red Kobold Dragon Mage humanoid kobold in the style of Greg Rutkowski",
         "timestamp": 1695496530353,
         "seed": 1024
+    },
+    "ZMr28tFTA5NUcBTi": {
+        "id": "ZMr28tFTA5NUcBTi",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Web Lurker (BB)",
+        "prompt": "Fantasy art Web Lurker aberration in the style of Greg Rutkowski",
+        "timestamp": 1695496530353,
+        "seed": 1024
     }
 }
