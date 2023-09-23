@@ -799,5 +799,14 @@
         "timestamp": 1695502440597,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VN2Vz1dxA9ti66bC": {
+        "id": "VN2Vz1dxA9ti66bC",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Tormented (Impalement)",
+        "prompt": "Fantasy art Tormented Impalement undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440597,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
