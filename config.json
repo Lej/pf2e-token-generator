@@ -2401,5 +2401,14 @@
         "timestamp": 1695502440678,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "BJYrYqkV7PkXgSfk": {
+        "id": "BJYrYqkV7PkXgSfk",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Gibtas Bounder",
+        "prompt": "Fantasy art Gibtas Bounder aberration in the style of Greg Rutkowski",
+        "timestamp": 1695502440678,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
