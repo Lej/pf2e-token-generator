@@ -1996,5 +1996,14 @@
         "timestamp": 1695502440658,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Sbxt8YT0AOFfVCPX": {
+        "id": "Sbxt8YT0AOFfVCPX",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Urdefhan Lasher",
+        "prompt": "Fantasy art Urdefhan Lasher humanoid urdefhan in the style of Greg Rutkowski",
+        "timestamp": 1695502440658,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
