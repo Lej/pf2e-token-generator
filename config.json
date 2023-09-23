@@ -772,5 +772,14 @@
         "timestamp": 1695502440594,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8qB0gj8salw8746I": {
+        "id": "8qB0gj8salw8746I",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Mummy Prophet Of Set",
+        "prompt": "Fantasy art Mummy Prophet Of Set mummy undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440595,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
