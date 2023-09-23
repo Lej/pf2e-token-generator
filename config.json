@@ -2212,5 +2212,14 @@
         "timestamp": 1695502440669,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "czQFet5Qo63IXtHl": {
+        "id": "czQFet5Qo63IXtHl",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Reaper Skull Puffball",
+        "prompt": "Fantasy art Reaper Skull Puffball fungus mindless in the style of Greg Rutkowski",
+        "timestamp": 1695502440669,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
