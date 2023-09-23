@@ -43,5 +43,14 @@
         "timestamp": 1695499560051,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9sa2KE4Fbh3OPH7M": {
+        "id": "9sa2KE4Fbh3OPH7M",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Brine Shark (BB)",
+        "prompt": "Fantasy art Brine Shark aquatic elemental water in the style of Greg Rutkowski",
+        "timestamp": 1695499560051,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
