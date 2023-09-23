@@ -2203,5 +2203,14 @@
         "timestamp": 1695502440669,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KSFGGxU3qxYJzWpe": {
+        "id": "KSFGGxU3qxYJzWpe",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Morlock Scavenger",
+        "prompt": "Fantasy art Morlock Scavenger humanoid morlock in the style of Greg Rutkowski",
+        "timestamp": 1695502440669,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
