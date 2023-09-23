@@ -1645,5 +1645,14 @@
         "timestamp": 1695502440637,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OqoWbYOyHDGHEeHV": {
+        "id": "OqoWbYOyHDGHEeHV",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Drow Hunter",
+        "prompt": "Fantasy art Drow Hunter drow elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695502440637,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
