@@ -430,5 +430,13 @@
         "prompt": "Fantasy art Kobold Scout humanoid kobold in the style of Greg Rutkowski",
         "timestamp": 1695496530366,
         "seed": 1024
+    },
+    "AdQVjlOWB6rmBRVp": {
+        "id": "AdQVjlOWB6rmBRVp",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Doppelganger (BB)",
+        "prompt": "Fantasy art Doppelganger humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695496530366,
+        "seed": 1024
     }
 }
