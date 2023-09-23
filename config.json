@@ -34,5 +34,14 @@
         "timestamp": 1695499560050,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jeAGl6OAVrrIPgu3": {
+        "id": "jeAGl6OAVrrIPgu3",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Hell Hound (BB)",
+        "prompt": "Fantasy art Hell Hound beast fiend fire in the style of Greg Rutkowski",
+        "timestamp": 1695499560051,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
