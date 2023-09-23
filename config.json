@@ -158,5 +158,13 @@
         "prompt": "Fantasy art Zephyr Hawk air elemental in the style of Greg Rutkowski",
         "timestamp": 1695496530357,
         "seed": 1024
+    },
+    "93hZtLl9pRRfqI05": {
+        "id": "93hZtLl9pRRfqI05",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Blue Kobold Dragon Mage (BB)",
+        "prompt": "Fantasy art Blue Kobold Dragon Mage humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695496530358,
+        "seed": 1024
     }
 }
