@@ -1888,5 +1888,14 @@
         "timestamp": 1695502440653,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BOaM3pAuWl06Q6IZ": {
+        "id": "BOaM3pAuWl06Q6IZ",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Poisoning Room Specter",
+        "prompt": "Fantasy art Poisoning Room Specter incorporeal undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440653,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
