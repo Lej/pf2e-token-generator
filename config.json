@@ -754,5 +754,14 @@
         "timestamp": 1695502440592,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3pQvzrGhxO3bUwYT": {
+        "id": "3pQvzrGhxO3bUwYT",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Iruxi Ossature",
+        "prompt": "Fantasy art Iruxi Ossature lizardfolk undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440593,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
