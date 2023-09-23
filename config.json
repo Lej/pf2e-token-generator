@@ -1258,5 +1258,14 @@
         "timestamp": 1695502440618,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "27NxweHr9rB1hDCn": {
+        "id": "27NxweHr9rB1hDCn",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Deathless Acolyte Of Urgathoa",
+        "prompt": "Fantasy art Deathless Acolyte Of Urgathoa undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440618,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
