@@ -961,5 +961,14 @@
         "timestamp": 1695502440605,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "e49MDE5dJQ1XFq3O": {
+        "id": "e49MDE5dJQ1XFq3O",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Predatory Rabbit",
+        "prompt": "Fantasy art Predatory Rabbit undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440605,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
