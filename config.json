@@ -1699,5 +1699,14 @@
         "timestamp": 1695502440641,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8Iozx4jbIGHxK4yf": {
+        "id": "8Iozx4jbIGHxK4yf",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Barcumbuk",
+        "prompt": "Fantasy art Barcumbuk devil fiend Male erinys rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440642,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
