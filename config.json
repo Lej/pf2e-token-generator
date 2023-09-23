@@ -2338,5 +2338,14 @@
         "timestamp": 1695502440676,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9Tr4aUNr2wxxMDcg": {
+        "id": "9Tr4aUNr2wxxMDcg",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Cratonys",
+        "prompt": "Fantasy art Cratonys fiend velstrac Female evangelist velstrac in the style of Greg Rutkowski",
+        "timestamp": 1695502440676,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
