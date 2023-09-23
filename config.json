@@ -1150,5 +1150,14 @@
         "timestamp": 1695502440613,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ToGAEKKOplpXzaQQ": {
+        "id": "ToGAEKKOplpXzaQQ",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Wolf Skeleton",
+        "prompt": "Fantasy art Wolf Skeleton mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440614,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
