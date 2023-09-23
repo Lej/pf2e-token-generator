@@ -2005,5 +2005,14 @@
         "timestamp": 1695502440658,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oXnpdJVN6NIE58W3": {
+        "id": "oXnpdJVN6NIE58W3",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Caliddo Haruvex",
+        "prompt": "Fantasy art Caliddo Haruvex undead Male graveknight in the style of Greg Rutkowski",
+        "timestamp": 1695502440659,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
