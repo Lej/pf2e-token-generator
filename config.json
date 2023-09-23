@@ -1195,5 +1195,14 @@
         "timestamp": 1695502440615,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zOEuwWcvD7sQA1kc": {
+        "id": "zOEuwWcvD7sQA1kc",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Ichor Slinger",
+        "prompt": "Fantasy art Ichor Slinger undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440615,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
