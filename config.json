@@ -1663,5 +1663,14 @@
         "timestamp": 1695502440638,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Np787X9Z4aQxOdCg": {
+        "id": "Np787X9Z4aQxOdCg",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Khurfel",
+        "prompt": "Fantasy art Khurfel humanoid urdefhan Male urdefhan war champion in the style of Greg Rutkowski",
+        "timestamp": 1695502440638,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
