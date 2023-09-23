@@ -2617,5 +2617,14 @@
         "timestamp": 1695502440689,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1SIx3wcRvplbfwk3": {
+        "id": "1SIx3wcRvplbfwk3",
+        "compendium": "impossible-lands-bestiary",
+        "name": "Stone Sister",
+        "prompt": "Fantasy art Stone Sister undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440689,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
