@@ -126,5 +126,13 @@
         "prompt": "Fantasy art Green Kobold Dragon Mage humanoid kobold in the style of Greg Rutkowski",
         "timestamp": 1695496530356,
         "seed": 1024
+    },
+    "AYwdybUfm4meGUTJ": {
+        "id": "AYwdybUfm4meGUTJ",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Giant Rat (BB)",
+        "prompt": "Fantasy art Giant Rat animal in the style of Greg Rutkowski",
+        "timestamp": 1695496530356,
+        "seed": 1024
     }
 }
