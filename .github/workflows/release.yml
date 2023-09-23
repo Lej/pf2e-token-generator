@@ -25,3 +25,13 @@ jobs:
           tag: ${{github.run_number}}
           token: ${{ secrets.PAT }}
           artifacts: "./module.json, ./module.zip"
+      - name: Create Tag
+        uses: actions/github-script@v5
+        with:
+          script: |
+            github.rest.git.createRef({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: 'refs/tags/v${{github.run_number}}',
+              sha: context.sha
+            })
