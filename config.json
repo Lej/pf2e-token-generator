@@ -2635,5 +2635,14 @@
         "timestamp": 1695502440689,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AIQMB0ysHNeodKG4": {
+        "id": "AIQMB0ysHNeodKG4",
+        "compendium": "impossible-lands-bestiary",
+        "name": "Spellscar Fext",
+        "prompt": "Fantasy art Spellscar Fext undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440690,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

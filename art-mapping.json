@@ -1183,6 +1183,10 @@
         "1MxubcO4SB8PwmKT": {
             "actor": "modules/pf2e-ai-token-placeholders/images/impossible-lands-bestiary/1MxubcO4SB8PwmKT/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/impossible-lands-bestiary/1MxubcO4SB8PwmKT/token.webp"
+        },
+        "AIQMB0ysHNeodKG4": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/impossible-lands-bestiary/AIQMB0ysHNeodKG4/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/impossible-lands-bestiary/AIQMB0ysHNeodKG4/token.webp"
         }
     }
 }
