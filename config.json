@@ -1816,5 +1816,14 @@
         "timestamp": 1695502440648,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ChRgdkplhO1D81Lg": {
+        "id": "ChRgdkplhO1D81Lg",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Bright Walker",
+        "prompt": "Fantasy art Bright Walker incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440648,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
