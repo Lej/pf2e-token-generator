@@ -1249,5 +1249,14 @@
         "timestamp": 1695502440617,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vaVIJeQnKFUeaC8K": {
+        "id": "vaVIJeQnKFUeaC8K",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Combusted",
+        "prompt": "Fantasy art Combusted fire undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440618,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
