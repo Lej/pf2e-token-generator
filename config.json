@@ -454,5 +454,13 @@
         "prompt": "Fantasy art Provincial Jiang-shi undead vampire in the style of Greg Rutkowski",
         "timestamp": 1695496530367,
         "seed": 1024
+    },
+    "hjBcN7ulP6FSK7ie": {
+        "id": "hjBcN7ulP6FSK7ie",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Tormented (Starvation)",
+        "prompt": "Fantasy art Tormented Starvation undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530367,
+        "seed": 1024
     }
 }
