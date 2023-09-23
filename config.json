@@ -1510,5 +1510,14 @@
         "timestamp": 1695502440629,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JzoZZ0SurEHMeAPR": {
+        "id": "JzoZZ0SurEHMeAPR",
+        "compendium": "shadows-at-sundown-bestiary",
+        "name": "Lorthact",
+        "prompt": "Fantasy art Lorthact devil fiend in the style of Greg Rutkowski",
+        "timestamp": 1695502440630,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
