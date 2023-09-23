@@ -997,5 +997,14 @@
         "timestamp": 1695502440606,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "uURI8Netd0ytD9vc": {
+        "id": "uURI8Netd0ytD9vc",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Sluagh Reaper",
+        "prompt": "Fantasy art Sluagh Reaper fey undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440607,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
