@@ -2410,5 +2410,14 @@
         "timestamp": 1695502440678,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Aw74KaHNvnWG349N": {
+        "id": "Aw74KaHNvnWG349N",
+        "compendium": "one-shot-bestiary",
+        "name": "Meliosa's Leshy (Mint Leshy)",
+        "prompt": "Fantasy art Meliosa's Leshy Mint Leshy leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1695502440678,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
