@@ -304,5 +304,14 @@
         "timestamp": 1695499560057,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0oWKApY5FR8IO7GG": {
+        "id": "0oWKApY5FR8IO7GG",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Orc Scrapper (BB)",
+        "prompt": "Fantasy art Orc Scrapper humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1695499560058,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
