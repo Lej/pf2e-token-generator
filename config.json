@@ -166,5 +166,13 @@
         "prompt": "Fantasy art Blue Kobold Dragon Mage humanoid kobold in the style of Greg Rutkowski",
         "timestamp": 1695496530358,
         "seed": 1024
+    },
+    "EtRqBsWh1Hv1toqh": {
+        "id": "EtRqBsWh1Hv1toqh",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Orc Trooper (BB)",
+        "prompt": "Fantasy art Orc Trooper humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1695496530358,
+        "seed": 1024
     }
 }
