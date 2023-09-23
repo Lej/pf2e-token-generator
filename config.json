@@ -334,5 +334,13 @@
         "prompt": "Fantasy art Boar animal in the style of Greg Rutkowski",
         "timestamp": 1695496530363,
         "seed": 1024
+    },
+    "5xjmJoJvBhASkEKS": {
+        "id": "5xjmJoJvBhASkEKS",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Orc Commander (BB)",
+        "prompt": "Fantasy art Orc Commander humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1695496530363,
+        "seed": 1024
     }
 }
