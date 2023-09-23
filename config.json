@@ -1366,5 +1366,14 @@
         "timestamp": 1695502440621,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sdpB7n2LbzVRqrnv": {
+        "id": "sdpB7n2LbzVRqrnv",
+        "compendium": "malevolence-bestiary",
+        "name": "Yianyin",
+        "prompt": "Fantasy art Yianyin monitor psychopomp in the style of Greg Rutkowski",
+        "timestamp": 1695502440622,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

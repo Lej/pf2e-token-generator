@@ -611,6 +611,10 @@
         "1wb9Vi3V4GDeOBCt": {
             "actor": "modules/pf2e-ai-token-placeholders/images/malevolence-bestiary/1wb9Vi3V4GDeOBCt/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/malevolence-bestiary/1wb9Vi3V4GDeOBCt/token.webp"
+        },
+        "sdpB7n2LbzVRqrnv": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/malevolence-bestiary/sdpB7n2LbzVRqrnv/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/malevolence-bestiary/sdpB7n2LbzVRqrnv/token.webp"
         }
     }
 }
