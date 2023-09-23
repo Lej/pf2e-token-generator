@@ -1879,5 +1879,14 @@
         "timestamp": 1695502440653,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "T6vOuhM1KV5Fr75F": {
+        "id": "T6vOuhM1KV5Fr75F",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Gibtanius",
+        "prompt": "Fantasy art Gibtanius aberration in the style of Greg Rutkowski",
+        "timestamp": 1695502440653,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
