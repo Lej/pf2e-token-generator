@@ -2230,5 +2230,14 @@
         "timestamp": 1695502440669,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "njfwxMPXTPA5AegD": {
+        "id": "njfwxMPXTPA5AegD",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Summoning Chamber Erinys",
+        "prompt": "Fantasy art Summoning Chamber Erinys devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440670,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
