@@ -1870,5 +1870,14 @@
         "timestamp": 1695502440652,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xAfkUwJYq5JLmSrW": {
+        "id": "xAfkUwJYq5JLmSrW",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Boss Skrawng",
+        "prompt": "Fantasy art Boss Skrawng fey gremlin Male mitflit gang boss in the style of Greg Rutkowski",
+        "timestamp": 1695502440653,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
