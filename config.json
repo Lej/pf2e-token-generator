@@ -2590,5 +2590,14 @@
         "timestamp": 1695502440685,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SoSFKK1TmqMqtnuR": {
+        "id": "SoSFKK1TmqMqtnuR",
+        "compendium": "one-shot-bestiary",
+        "name": "Doatara the Poisoner",
+        "prompt": "Fantasy art Doatara the Poisoner human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695502440685,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
