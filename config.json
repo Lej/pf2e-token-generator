@@ -1978,5 +1978,14 @@
         "timestamp": 1695502440657,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "hia81Ut7fEREbhkq": {
+        "id": "hia81Ut7fEREbhkq",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Jarelle Kaldrian",
+        "prompt": "Fantasy art Jarelle Kaldrian ghost incorporeal spirit undead Female human ghost librarian in the style of Greg Rutkowski",
+        "timestamp": 1695502440657,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
