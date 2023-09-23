@@ -1690,5 +1690,14 @@
         "timestamp": 1695502440640,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zkiaelYxDB1ttlCI": {
+        "id": "zkiaelYxDB1ttlCI",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Dhuthorex Sage",
+        "prompt": "Fantasy art Dhuthorex Sage aberration amphibious in the style of Greg Rutkowski",
+        "timestamp": 1695502440641,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
