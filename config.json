@@ -214,5 +214,14 @@
         "timestamp": 1695499560055,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6NdqvKIlxo4cGhf8": {
+        "id": "6NdqvKIlxo4cGhf8",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Giant Spider (BB)",
+        "prompt": "Fantasy art Giant Spider animal in the style of Greg Rutkowski",
+        "timestamp": 1695499560055,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
