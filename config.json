@@ -1330,5 +1330,14 @@
         "timestamp": 1695502440620,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VgBE6ow0CvsQxFkq": {
+        "id": "VgBE6ow0CvsQxFkq",
+        "compendium": "malevolence-bestiary",
+        "name": "Algea",
+        "prompt": "Fantasy art Algea monitor psychopomp swarm rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440621,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
