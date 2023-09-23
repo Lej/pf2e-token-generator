@@ -1861,5 +1861,14 @@
         "timestamp": 1695502440652,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "lMCEVxKkQ7XK6Nid": {
+        "id": "lMCEVxKkQ7XK6Nid",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Canker Cultist",
+        "prompt": "Fantasy art Canker Cultist ghoul undead Ghoul zealot in the style of Greg Rutkowski",
+        "timestamp": 1695502440652,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
