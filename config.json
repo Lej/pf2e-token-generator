@@ -430,5 +430,14 @@
         "timestamp": 1695502440579,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jnmUcTs4hn1c5bz9": {
+        "id": "jnmUcTs4hn1c5bz9",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Pugwampi (BB)",
+        "prompt": "Fantasy art Pugwampi fey gremlin in the style of Greg Rutkowski",
+        "timestamp": 1695502440579,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
