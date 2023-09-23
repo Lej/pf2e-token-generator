@@ -2266,5 +2266,14 @@
         "timestamp": 1695502440672,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tYzzLLUv9WBhHhQY": {
+        "id": "tYzzLLUv9WBhHhQY",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Carman Rajani",
+        "prompt": "Fantasy art Carman Rajani human humanoid Male human scoundrel in the style of Greg Rutkowski",
+        "timestamp": 1695502440672,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
