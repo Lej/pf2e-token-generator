@@ -1969,5 +1969,14 @@
         "timestamp": 1695502440657,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "ro9oVsu1cuCP8OQH": {
+        "id": "ro9oVsu1cuCP8OQH",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Deadtide Skeleton Guard",
+        "prompt": "Fantasy art Deadtide Skeleton Guard mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440657,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
