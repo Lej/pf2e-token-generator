@@ -277,5 +277,14 @@
         "timestamp": 1695499560056,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "shT19KaQjWRVrHLI": {
+        "id": "shT19KaQjWRVrHLI",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Goblin Igniter (BB)",
+        "prompt": "Fantasy art Goblin Igniter goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695499560057,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
