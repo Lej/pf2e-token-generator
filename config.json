@@ -1528,5 +1528,14 @@
         "timestamp": 1695502440631,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6RVzMyC9c61J616H": {
+        "id": "6RVzMyC9c61J616H",
+        "compendium": "shadows-at-sundown-bestiary",
+        "name": "Bishop Keppira D'Bear",
+        "prompt": "Fantasy art Bishop Keppira D'Bear shadow undead vampire Female strigoi in the style of Greg Rutkowski",
+        "timestamp": 1695502440632,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
