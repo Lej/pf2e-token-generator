@@ -1420,5 +1420,14 @@
         "timestamp": 1695502440624,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sEss0ea0kYrkkti8": {
+        "id": "sEss0ea0kYrkkti8",
+        "compendium": "shadows-at-sundown-bestiary",
+        "name": "Loreavor",
+        "prompt": "Fantasy art Loreavor astral in the style of Greg Rutkowski",
+        "timestamp": 1695502440624,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
