@@ -690,5 +690,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/shadows-at-sundown-bestiary/6RVzMyC9c61J616H/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/shadows-at-sundown-bestiary/6RVzMyC9c61J616H/token.webp"
         }
+    },
+    "abomination-vaults-bestiary": {
+        "lH2rdwiyOPStkQvZ": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/abomination-vaults-bestiary/lH2rdwiyOPStkQvZ/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/abomination-vaults-bestiary/lH2rdwiyOPStkQvZ/token.webp"
+        }
     }
 }

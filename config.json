@@ -1537,5 +1537,14 @@
         "timestamp": 1695502440632,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lH2rdwiyOPStkQvZ": {
+        "id": "lH2rdwiyOPStkQvZ",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Morlock Cultist",
+        "prompt": "Fantasy art Morlock Cultist humanoid morlock in the style of Greg Rutkowski",
+        "timestamp": 1695502440632,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
