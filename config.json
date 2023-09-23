@@ -486,5 +486,13 @@
         "prompt": "Fantasy art Harlo Krant undead zombie Male variant zombie lord in the style of Greg Rutkowski",
         "timestamp": 1695496530369,
         "seed": 1024
+    },
+    "vHEJOONP1ERjuxxl": {
+        "id": "vHEJOONP1ERjuxxl",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Urveth",
+        "prompt": "Fantasy art Urveth darvakka shadow undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530370,
+        "seed": 1024
     }
 }
