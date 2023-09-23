@@ -475,5 +475,14 @@
         "timestamp": 1695502440580,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AdQVjlOWB6rmBRVp": {
+        "id": "AdQVjlOWB6rmBRVp",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Doppelganger (BB)",
+        "prompt": "Fantasy art Doppelganger humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695502440580,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
