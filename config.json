@@ -1204,5 +1204,14 @@
         "timestamp": 1695502440615,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ipVQuGff2OeTVwFK": {
+        "id": "ipVQuGff2OeTVwFK",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Skeletal Mage",
+        "prompt": "Fantasy art Skeletal Mage skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440616,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
