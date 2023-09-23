@@ -190,5 +190,13 @@
         "prompt": "Fantasy art Wolf animal in the style of Greg Rutkowski",
         "timestamp": 1695496530358,
         "seed": 1024
+    },
+    "wqPYzMNgYvrO6oEP": {
+        "id": "wqPYzMNgYvrO6oEP",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Leopard (BB)",
+        "prompt": "Fantasy art Leopard animal in the style of Greg Rutkowski",
+        "timestamp": 1695496530359,
+        "seed": 1024
     }
 }
