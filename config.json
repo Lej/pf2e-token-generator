@@ -2032,5 +2032,14 @@
         "timestamp": 1695502440659,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gUihlg28MEloIqE3": {
+        "id": "gUihlg28MEloIqE3",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Dune Candle",
+        "prompt": "Fantasy art Dune Candle aberration air in the style of Greg Rutkowski",
+        "timestamp": 1695502440659,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
