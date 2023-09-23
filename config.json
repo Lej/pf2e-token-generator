@@ -2275,5 +2275,14 @@
         "timestamp": 1695502440672,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Mk6Uo4Vt1HkG9EvL": {
+        "id": "Mk6Uo4Vt1HkG9EvL",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Urevian",
+        "prompt": "Fantasy art Urevian devil fiend Male phistophilus field commander rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440673,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
