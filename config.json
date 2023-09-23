@@ -1672,5 +1672,14 @@
         "timestamp": 1695502440638,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OTT7CCkonkfwhJ8Y": {
+        "id": "OTT7CCkonkfwhJ8Y",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Urdefhan Blood Mage",
+        "prompt": "Fantasy art Urdefhan Blood Mage humanoid urdefhan in the style of Greg Rutkowski",
+        "timestamp": 1695502440640,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
