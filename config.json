@@ -582,5 +582,13 @@
         "prompt": "Fantasy art Sykever darvakka shadow undead in the style of Greg Rutkowski",
         "timestamp": 1695496530374,
         "seed": 1024
+    },
+    "tb2nr2ycARadI3Pg": {
+        "id": "tb2nr2ycARadI3Pg",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Iroran Mummy",
+        "prompt": "Fantasy art Iroran Mummy mummy undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530374,
+        "seed": 1024
     }
 }
