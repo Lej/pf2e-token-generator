@@ -550,5 +550,13 @@
         "prompt": "Fantasy art Zombie Snake mindless undead zombie in the style of Greg Rutkowski",
         "timestamp": 1695496530372,
         "seed": 1024
+    },
+    "jIypNMJE7rVYpItG": {
+        "id": "jIypNMJE7rVYpItG",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Fiddling Bones",
+        "prompt": "Fantasy art Fiddling Bones undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530372,
+        "seed": 1024
     }
 }
