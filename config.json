@@ -350,5 +350,13 @@
         "prompt": "Fantasy art Animated Armor construct mindless in the style of Greg Rutkowski",
         "timestamp": 1695496530363,
         "seed": 1024
+    },
+    "sW8koPLrSgHalAnq": {
+        "id": "sW8koPLrSgHalAnq",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Drow Warrior (BB)",
+        "prompt": "Fantasy art Drow Warrior drow elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695496530364,
+        "seed": 1024
     }
 }
