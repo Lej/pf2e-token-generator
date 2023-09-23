@@ -318,5 +318,13 @@
         "prompt": "Fantasy art Giant Centipede animal in the style of Greg Rutkowski",
         "timestamp": 1695496530363,
         "seed": 1024
+    },
+    "5H8ZX7y5IkUBhvhF": {
+        "id": "5H8ZX7y5IkUBhvhF",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Skeleton Guard (BB)",
+        "prompt": "Fantasy art Skeleton Guard mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530363,
+        "seed": 1024
     }
 }
