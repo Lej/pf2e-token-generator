@@ -1231,5 +1231,14 @@
         "timestamp": 1695502440616,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "avBb4LvR3TsYpXma": {
+        "id": "avBb4LvR3TsYpXma",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Queen Sluagh",
+        "prompt": "Fantasy art Queen Sluagh fey undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440617,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
