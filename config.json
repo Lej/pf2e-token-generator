@@ -466,5 +466,14 @@
         "timestamp": 1695502440580,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rPaHIh0ICnTLnRO6": {
+        "id": "rPaHIh0ICnTLnRO6",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Kobold Scout (BB)",
+        "prompt": "Fantasy art Kobold Scout humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695502440580,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
