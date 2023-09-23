@@ -526,5 +526,13 @@
         "prompt": "Fantasy art Pale Stranger undead in the style of Greg Rutkowski",
         "timestamp": 1695496530371,
         "seed": 1024
+    },
+    "eEE3lRhXCjGzlRLJ": {
+        "id": "eEE3lRhXCjGzlRLJ",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Shredskin",
+        "prompt": "Fantasy art Shredskin undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530371,
+        "seed": 1024
     }
 }
