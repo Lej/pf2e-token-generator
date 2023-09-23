@@ -1096,5 +1096,14 @@
         "timestamp": 1695502440610,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "xxFiRpQdvbKd0P12": {
+        "id": "xxFiRpQdvbKd0P12",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Hungry Ghost",
+        "prompt": "Fantasy art Hungry Ghost ghost incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440611,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
