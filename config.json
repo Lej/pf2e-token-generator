@@ -1159,5 +1159,14 @@
         "timestamp": 1695502440614,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hDQmEtisrgRmufUW": {
+        "id": "hDQmEtisrgRmufUW",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Fluxwraith",
+        "prompt": "Fantasy art Fluxwraith incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440614,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
