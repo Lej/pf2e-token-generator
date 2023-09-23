@@ -1735,5 +1735,14 @@
         "timestamp": 1695502440643,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eoQgRltsgJWa4aeC": {
+        "id": "eoQgRltsgJWa4aeC",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Nhimbaloth's Cutter",
+        "prompt": "Fantasy art Nhimbaloth's Cutter construct golem mindless Variant glass golem in the style of Greg Rutkowski",
+        "timestamp": 1695502440644,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
