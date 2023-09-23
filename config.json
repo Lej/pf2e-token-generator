@@ -206,5 +206,13 @@
         "prompt": "Fantasy art Giant Spider animal in the style of Greg Rutkowski",
         "timestamp": 1695496530359,
         "seed": 1024
+    },
+    "5MVBU86ZRw2ANMQn": {
+        "id": "5MVBU86ZRw2ANMQn",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Skeletal Giant (BB)",
+        "prompt": "Fantasy art Skeletal Giant mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530359,
+        "seed": 1024
     }
 }
