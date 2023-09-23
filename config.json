@@ -448,5 +448,14 @@
         "timestamp": 1695502440579,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jVZRROs0GzDjVrgi": {
+        "id": "jVZRROs0GzDjVrgi",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Goblin Warrior (BB)",
+        "prompt": "Fantasy art Goblin Warrior goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695502440579,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
