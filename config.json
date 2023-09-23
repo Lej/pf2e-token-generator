@@ -988,5 +988,14 @@
         "timestamp": 1695502440606,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8o27tdIZFp0eTs5N": {
+        "id": "8o27tdIZFp0eTs5N",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Zombie Lord",
+        "prompt": "Fantasy art Zombie Lord undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695502440606,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
