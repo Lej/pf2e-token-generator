@@ -614,5 +614,13 @@
         "prompt": "Fantasy art Tormented Dislocation undead in the style of Greg Rutkowski",
         "timestamp": 1695496530375,
         "seed": 1024
+    },
+    "S5dXAmvghYCIrQDe": {
+        "id": "S5dXAmvghYCIrQDe",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Decrepit Mummy",
+        "prompt": "Fantasy art Decrepit Mummy mummy undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530375,
+        "seed": 1024
     }
 }
