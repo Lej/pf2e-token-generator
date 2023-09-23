@@ -916,5 +916,14 @@
         "timestamp": 1695502440604,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vOuiG3tRcr8yL4jh": {
+        "id": "vOuiG3tRcr8yL4jh",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Ghul",
+        "prompt": "Fantasy art Ghul genie ghul undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440604,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
