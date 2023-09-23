@@ -630,5 +630,13 @@
         "prompt": "Fantasy art Ghost Pirate Captain ghost incorporeal spirit undead in the style of Greg Rutkowski",
         "timestamp": 1695496530375,
         "seed": 1024
+    },
+    "hhoSyH9QthtvFptC": {
+        "id": "hhoSyH9QthtvFptC",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Siabrae",
+        "prompt": "Fantasy art Siabrae undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530378,
+        "seed": 1024
     }
 }
