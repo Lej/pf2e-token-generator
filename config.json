@@ -2482,5 +2482,14 @@
         "timestamp": 1695502440681,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OvM1oLgQ7V2qa3vy": {
+        "id": "OvM1oLgQ7V2qa3vy",
+        "compendium": "one-shot-bestiary",
+        "name": "Cultist of Alocer",
+        "prompt": "Fantasy art Cultist of Alocer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695502440682,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
