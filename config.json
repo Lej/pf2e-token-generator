@@ -2347,5 +2347,14 @@
         "timestamp": 1695502440676,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rketcmqDQJbFFYfq": {
+        "id": "rketcmqDQJbFFYfq",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Bone Gladiator",
+        "prompt": "Fantasy art Bone Gladiator mindless skeleton undead Variant skeletal hulk in the style of Greg Rutkowski",
+        "timestamp": 1695502440676,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
