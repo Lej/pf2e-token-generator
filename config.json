@@ -844,5 +844,14 @@
         "timestamp": 1695502440598,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AXp5EzgP7p8FrYpN": {
+        "id": "AXp5EzgP7p8FrYpN",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Tormented (Crushing)",
+        "prompt": "Fantasy art Tormented Crushing undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440599,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
