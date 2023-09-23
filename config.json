@@ -2437,5 +2437,14 @@
         "timestamp": 1695502440680,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OPaV3fwegwyQY48m": {
+        "id": "OPaV3fwegwyQY48m",
+        "compendium": "one-shot-bestiary",
+        "name": "Lawn Crawfish",
+        "prompt": "Fantasy art Lawn Crawfish aberration aquatic in the style of Greg Rutkowski",
+        "timestamp": 1695502440680,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

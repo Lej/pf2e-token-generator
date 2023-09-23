@@ -1093,6 +1093,10 @@
         "iPhDi4SU6pbTJmef": {
             "actor": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/iPhDi4SU6pbTJmef/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/iPhDi4SU6pbTJmef/token.webp"
+        },
+        "OPaV3fwegwyQY48m": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/OPaV3fwegwyQY48m/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/OPaV3fwegwyQY48m/token.webp"
         }
     }
 }
