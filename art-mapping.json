@@ -1125,6 +1125,10 @@
         "ki4Wf1p5DlJaIYmU": {
             "actor": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/ki4Wf1p5DlJaIYmU/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/ki4Wf1p5DlJaIYmU/token.webp"
+        },
+        "ODOBHqugzvfGkZVS": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/ODOBHqugzvfGkZVS/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/ODOBHqugzvfGkZVS/token.webp"
         }
     }
 }
