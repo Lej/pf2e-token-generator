@@ -979,5 +979,14 @@
         "timestamp": 1695502440605,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "JazJz2crkoG9koQR": {
+        "id": "JazJz2crkoG9koQR",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Fallen Champion",
+        "prompt": "Fantasy art Fallen Champion undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440606,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
