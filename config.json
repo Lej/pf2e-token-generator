@@ -1186,5 +1186,14 @@
         "timestamp": 1695502440615,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dlizffh8cFUFOhUf": {
+        "id": "dlizffh8cFUFOhUf",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Jitterbone Contortionist",
+        "prompt": "Fantasy art Jitterbone Contortionist halfling humanoid mortic in the style of Greg Rutkowski",
+        "timestamp": 1695502440615,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
