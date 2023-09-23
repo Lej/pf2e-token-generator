@@ -2293,5 +2293,14 @@
         "timestamp": 1695502440673,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "w2N0foudBFcRCaHK": {
+        "id": "w2N0foudBFcRCaHK",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Nhakazarin",
+        "prompt": "Fantasy art Nhakazarin ghoul undead Female ghoul cult leader in the style of Greg Rutkowski",
+        "timestamp": 1695502440674,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
