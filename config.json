@@ -2248,5 +2248,14 @@
         "timestamp": 1695502440670,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "A4MusxxoLxwMVZua": {
+        "id": "A4MusxxoLxwMVZua",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Drill Field Barbazu",
+        "prompt": "Fantasy art Drill Field Barbazu devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440671,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
