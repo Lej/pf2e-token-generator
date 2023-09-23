@@ -110,5 +110,13 @@
         "prompt": "Fantasy art Viper animal in the style of Greg Rutkowski",
         "timestamp": 1695496530355,
         "seed": 1024
+    },
+    "M8oJOKJ4AgrLZcJQ": {
+        "id": "M8oJOKJ4AgrLZcJQ",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Hobgoblin Warrior (BB)",
+        "prompt": "Fantasy art Hobgoblin Warrior goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695496530356,
+        "seed": 1024
     }
 }
