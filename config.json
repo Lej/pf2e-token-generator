@@ -322,5 +322,14 @@
         "timestamp": 1695502440576,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AleeS0IRqT4tUphB": {
+        "id": "AleeS0IRqT4tUphB",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Kobold Boss Zolgran (BB)",
+        "prompt": "Fantasy art Kobold Boss Zolgran humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695502440576,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
