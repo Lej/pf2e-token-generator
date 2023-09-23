@@ -2536,5 +2536,14 @@
         "timestamp": 1695502440683,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "I9nJltbnjRRTKjoj": {
+        "id": "I9nJltbnjRRTKjoj",
+        "compendium": "one-shot-bestiary",
+        "name": "Vilm",
+        "prompt": "Fantasy art Vilm fey gremlin Variant jinkin ripclaw in the style of Greg Rutkowski",
+        "timestamp": 1695502440684,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
