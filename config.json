@@ -2221,5 +2221,14 @@
         "timestamp": 1695502440669,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YXF12ssz8tEh2YUe": {
+        "id": "YXF12ssz8tEh2YUe",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Will-o'-the-Deep",
+        "prompt": "Fantasy art Will-o'-the-Deep aberration air amphibious in the style of Greg Rutkowski",
+        "timestamp": 1695502440669,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
