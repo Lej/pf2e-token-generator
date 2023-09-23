@@ -69,7 +69,8 @@
         "name": "Drow Sneak (BB)",
         "prompt": "Fantasy art Drow Sneak drow elf humanoid in the style of Greg Rutkowski",
         "timestamp": 1695496530354,
-        "seed": 1024
+        "seed": 1024,
+        "used_seed": 1025
     },
     "hiGwRWdxAsoCII4f": {
         "id": "hiGwRWdxAsoCII4f",
