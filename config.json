@@ -1762,5 +1762,14 @@
         "timestamp": 1695502440645,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mrxDc0fj5t5CvjJQ": {
+        "id": "mrxDc0fj5t5CvjJQ",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Shanrigol Behemoth",
+        "prompt": "Fantasy art Shanrigol Behemoth aberration undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440645,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
