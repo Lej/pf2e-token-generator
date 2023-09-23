@@ -246,5 +246,13 @@
         "prompt": "Fantasy art Ogre Warrior giant humanoid in the style of Greg Rutkowski",
         "timestamp": 1695496530360,
         "seed": 1024
+    },
+    "Hkq9ZS2J2iKnT7vT": {
+        "id": "Hkq9ZS2J2iKnT7vT",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Sewer Ooze (BB)",
+        "prompt": "Fantasy art Sewer Ooze mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1695496530360,
+        "seed": 1024
     }
 }
