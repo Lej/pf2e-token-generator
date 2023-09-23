@@ -2572,5 +2572,14 @@
         "timestamp": 1695502440685,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VKHaguCFtnDVMXTz": {
+        "id": "VKHaguCFtnDVMXTz",
+        "compendium": "one-shot-bestiary",
+        "name": "Jinkin Ripclaw",
+        "prompt": "Fantasy art Jinkin Ripclaw fey gremlin in the style of Greg Rutkowski",
+        "timestamp": 1695502440685,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
