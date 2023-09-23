@@ -2527,5 +2527,14 @@
         "timestamp": 1695502440683,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pPk3CgAHycfQZno7": {
+        "id": "pPk3CgAHycfQZno7",
+        "compendium": "one-shot-bestiary",
+        "name": "Kelorbeyan Guard",
+        "prompt": "Fantasy art Kelorbeyan Guard human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695502440683,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

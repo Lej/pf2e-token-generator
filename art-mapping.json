@@ -1133,6 +1133,10 @@
         "ds8kPHp9yV6F34oX": {
             "actor": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/ds8kPHp9yV6F34oX/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/ds8kPHp9yV6F34oX/token.webp"
+        },
+        "pPk3CgAHycfQZno7": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/pPk3CgAHycfQZno7/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/pPk3CgAHycfQZno7/token.webp"
         }
     }
 }
