@@ -1033,5 +1033,14 @@
         "timestamp": 1695502440608,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "bckYmdaq03CUDdc5": {
+        "id": "bckYmdaq03CUDdc5",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Gholdako",
+        "prompt": "Fantasy art Gholdako undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440608,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
