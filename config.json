@@ -1960,5 +1960,14 @@
         "timestamp": 1695502440656,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "dWOK0nzGWyc5NkNz": {
+        "id": "dWOK0nzGWyc5NkNz",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Lady's Whisper",
+        "prompt": "Fantasy art Lady's Whisper undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440657,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
