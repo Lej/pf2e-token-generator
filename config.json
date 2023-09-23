@@ -934,5 +934,14 @@
         "timestamp": 1695502440604,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7WqlOvjoqURmeorA": {
+        "id": "7WqlOvjoqURmeorA",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Death Coach",
+        "prompt": "Fantasy art Death Coach incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440605,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
