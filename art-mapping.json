@@ -93,6 +93,10 @@
         "LHHgGSs0ELCR4CYK": {
             "actor": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/LHHgGSs0ELCR4CYK/actor.png",
             "token": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/LHHgGSs0ELCR4CYK/token.png"
+        },
+        "Oilfs8Atv2LjAsUS": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/Oilfs8Atv2LjAsUS/actor.png",
+            "token": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/Oilfs8Atv2LjAsUS/token.png"
         }
     }
 }

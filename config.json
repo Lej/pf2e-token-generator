@@ -182,5 +182,13 @@
         "prompt": "Fantasy art Ghoul ghoul undead in the style of Greg Rutkowski",
         "timestamp": 1695496530358,
         "seed": 1024
+    },
+    "Oilfs8Atv2LjAsUS": {
+        "id": "Oilfs8Atv2LjAsUS",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Wolf (BB)",
+        "prompt": "Fantasy art Wolf animal in the style of Greg Rutkowski",
+        "timestamp": 1695496530358,
+        "seed": 1024
     }
 }
