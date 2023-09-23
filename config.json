@@ -1492,5 +1492,14 @@
         "timestamp": 1695502440628,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "8oeuD5h4OzXsxZS5": {
+        "id": "8oeuD5h4OzXsxZS5",
+        "compendium": "shadows-at-sundown-bestiary",
+        "name": "Scarlet Walker",
+        "prompt": "Fantasy art Scarlet Walker aberration dream in the style of Greg Rutkowski",
+        "timestamp": 1695502440629,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
