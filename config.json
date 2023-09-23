@@ -382,5 +382,13 @@
         "prompt": "Fantasy art Harpy humanoid in the style of Greg Rutkowski",
         "timestamp": 1695496530364,
         "seed": 1024
+    },
+    "4Axci50gPQArPg7d": {
+        "id": "4Axci50gPQArPg7d",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Kobold Trapmaster (BB)",
+        "prompt": "Fantasy art Kobold Trapmaster humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695496530364,
+        "seed": 1024
     }
 }
