@@ -310,5 +310,13 @@
         "prompt": "Fantasy art Owlbear animal in the style of Greg Rutkowski",
         "timestamp": 1695496530362,
         "seed": 1024
+    },
+    "BKPRkJgq7ehsW7uX": {
+        "id": "BKPRkJgq7ehsW7uX",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Giant Centipede (BB)",
+        "prompt": "Fantasy art Giant Centipede animal in the style of Greg Rutkowski",
+        "timestamp": 1695496530363,
+        "seed": 1024
     }
 }
