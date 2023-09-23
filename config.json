@@ -102,5 +102,13 @@
         "prompt": "Fantasy art Xulgath Warrior humanoid xulgath in the style of Greg Rutkowski",
         "timestamp": 1695496530355,
         "seed": 1024
+    },
+    "lFlXmieuHTBIonhj": {
+        "id": "lFlXmieuHTBIonhj",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Viper (BB)",
+        "prompt": "Fantasy art Viper animal in the style of Greg Rutkowski",
+        "timestamp": 1695496530355,
+        "seed": 1024
     }
 }
