@@ -520,5 +520,14 @@
         "timestamp": 1695502440582,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "A5GOni2mXNhVsdRg": {
+        "id": "A5GOni2mXNhVsdRg",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Faithless Ecclesiarch",
+        "prompt": "Fantasy art Faithless Ecclesiarch undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440582,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
