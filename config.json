@@ -6,5 +6,13 @@
         "prompt": "Fantasy art Grandfather Mantis minion monitor spirit Yarrika's spirit guardian in the style of Greg Rutkowski",
         "timestamp": 1695489657260,
         "seed": 1024
+    },
+    "CJuHwIRCAgTB1SEl": {
+        "id": "CJuHwIRCAgTB1SEl",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Red Kobold Dragon Mage (BB)",
+        "prompt": "Fantasy art Red Kobold Dragon Mage   humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695490169105,
+        "seed": 1024
     }
 }

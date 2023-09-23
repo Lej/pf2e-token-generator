@@ -4,5 +4,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/fists-of-the-ruby-phoenix-bestiary/KfpYMKJ1ka9volP6/actor.png",
             "token": "modules/pf2e-ai-token-placeholders/images/fists-of-the-ruby-phoenix-bestiary/KfpYMKJ1ka9volP6/token.png"
         }
+    },
+    "menace-under-otari-bestiary": {
+        "CJuHwIRCAgTB1SEl": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/CJuHwIRCAgTB1SEl/actor.png",
+            "token": "modules/pf2e-ai-token-placeholders/images/menace-under-otari-bestiary/CJuHwIRCAgTB1SEl/token.png"
+        }
     }
 }
