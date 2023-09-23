@@ -628,5 +628,14 @@
         "timestamp": 1695502440587,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sucEX2JFrVevTNjU": {
+        "id": "sucEX2JFrVevTNjU",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Drake Skeleton",
+        "prompt": "Fantasy art Drake Skeleton mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440587,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
