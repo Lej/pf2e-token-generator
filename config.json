@@ -2302,5 +2302,14 @@
         "timestamp": 1695502440674,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "55SmPtsUXsridUjJ": {
+        "id": "55SmPtsUXsridUjJ",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Dragon's Blood Puffball",
+        "prompt": "Fantasy art Dragon's Blood Puffball fungus mindless in the style of Greg Rutkowski",
+        "timestamp": 1695502440674,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
