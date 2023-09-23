@@ -691,5 +691,14 @@
         "timestamp": 1695502440589,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UMDBlaViAdaw2lnN": {
+        "id": "UMDBlaViAdaw2lnN",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Ghost Pirate Captain",
+        "prompt": "Fantasy art Ghost Pirate Captain ghost incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440589,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
