@@ -505,6 +505,10 @@
         "7JWjoMGf7f7PZgSD": {
             "actor": "modules/pf2e-ai-token-placeholders/images/book-of-the-dead-bestiary/7JWjoMGf7f7PZgSD/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/book-of-the-dead-bestiary/7JWjoMGf7f7PZgSD/token.webp"
+        },
+        "L0JAq1IGEsjJwTbl": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/book-of-the-dead-bestiary/L0JAq1IGEsjJwTbl/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/book-of-the-dead-bestiary/L0JAq1IGEsjJwTbl/token.webp"
         }
     }
 }

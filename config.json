@@ -1132,5 +1132,14 @@
         "timestamp": 1695502440612,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "L0JAq1IGEsjJwTbl": {
+        "id": "L0JAq1IGEsjJwTbl",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Minister Of Tumult",
+        "prompt": "Fantasy art Minister Of Tumult undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1695502440612,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
