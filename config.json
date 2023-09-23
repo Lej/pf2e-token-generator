@@ -70,5 +70,13 @@
         "prompt": "Fantasy art Drow Sneak drow elf humanoid in the style of Greg Rutkowski",
         "timestamp": 1695496530354,
         "seed": 1024
+    },
+    "hiGwRWdxAsoCII4f": {
+        "id": "hiGwRWdxAsoCII4f",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Cinder Rat (BB)",
+        "prompt": "Fantasy art Cinder Rat elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1695496530355,
+        "seed": 1024
     }
 }
