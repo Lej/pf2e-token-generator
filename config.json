@@ -1303,5 +1303,14 @@
         "timestamp": 1695502440619,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XrSjNpkJkBO6ysRG": {
+        "id": "XrSjNpkJkBO6ysRG",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Gashadokuro",
+        "prompt": "Fantasy art Gashadokuro undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440620,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
