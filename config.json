@@ -1114,5 +1114,14 @@
         "timestamp": 1695502440611,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "T9osQMcC96l4X9lk": {
+        "id": "T9osQMcC96l4X9lk",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Beetle Carapace",
+        "prompt": "Fantasy art Beetle Carapace mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440611,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
