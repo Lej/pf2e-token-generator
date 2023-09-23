@@ -2041,5 +2041,14 @@
         "timestamp": 1695502440659,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kzHRJGLvjOJk5WU7": {
+        "id": "kzHRJGLvjOJk5WU7",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Drow Cavern Seer",
+        "prompt": "Fantasy art Drow Cavern Seer drow elf humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440660,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
