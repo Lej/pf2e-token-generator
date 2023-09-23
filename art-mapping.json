@@ -783,6 +783,10 @@
         "eoQgRltsgJWa4aeC": {
             "actor": "modules/pf2e-ai-token-placeholders/images/abomination-vaults-bestiary/eoQgRltsgJWa4aeC/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/abomination-vaults-bestiary/eoQgRltsgJWa4aeC/token.webp"
+        },
+        "VeyuTE1GUJ71oMMn": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/abomination-vaults-bestiary/VeyuTE1GUJ71oMMn/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/abomination-vaults-bestiary/VeyuTE1GUJ71oMMn/token.webp"
         }
     }
 }
