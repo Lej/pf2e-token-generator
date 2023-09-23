@@ -1438,5 +1438,14 @@
         "timestamp": 1695502440625,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PRw22TOw6Z7ke5yp": {
+        "id": "PRw22TOw6Z7ke5yp",
+        "compendium": "shadows-at-sundown-bestiary",
+        "name": "Ibrique",
+        "prompt": "Fantasy art Ibrique ghoul undead Female variant dero ghoul in the style of Greg Rutkowski",
+        "timestamp": 1695502440625,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
