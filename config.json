@@ -2356,5 +2356,14 @@
         "timestamp": 1695502440676,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NXdpFypPPmRwYBT1": {
+        "id": "NXdpFypPPmRwYBT1",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Spellvoid",
+        "prompt": "Fantasy art Spellvoid aberration air in the style of Greg Rutkowski",
+        "timestamp": 1695502440676,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
