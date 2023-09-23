@@ -1501,5 +1501,14 @@
         "timestamp": 1695502440629,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8optIXEiVUjfY0ph": {
+        "id": "8optIXEiVUjfY0ph",
+        "compendium": "shadows-at-sundown-bestiary",
+        "name": "Profane Ghoul",
+        "prompt": "Fantasy art Profane Ghoul ghoul undead Variant ghoul in the style of Greg Rutkowski",
+        "timestamp": 1695502440629,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
