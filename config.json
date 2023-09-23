@@ -925,5 +925,14 @@
         "timestamp": 1695502440604,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "z72hPIIjIiLIxnor": {
+        "id": "z72hPIIjIiLIxnor",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Withered",
+        "prompt": "Fantasy art Withered undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695502440604,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
