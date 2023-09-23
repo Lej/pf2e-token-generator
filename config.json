@@ -835,5 +835,14 @@
         "timestamp": 1695502440598,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "uqY9TkQTO5n9rCLZ": {
+        "id": "uqY9TkQTO5n9rCLZ",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Llorona",
+        "prompt": "Fantasy art Llorona incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440598,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
