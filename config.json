@@ -286,5 +286,13 @@
         "prompt": "Fantasy art Orc Scrapper humanoid orc in the style of Greg Rutkowski",
         "timestamp": 1695496530361,
         "seed": 1024
+    },
+    "kCRfBZqCugMQmdpd": {
+        "id": "kCRfBZqCugMQmdpd",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "White Kobold Dragon Mage (BB)",
+        "prompt": "Fantasy art White Kobold Dragon Mage humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695496530362,
+        "seed": 1024
     }
 }
