@@ -1348,5 +1348,14 @@
         "timestamp": 1695502440621,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Y9GX6pST1P9Y3Okh": {
+        "id": "Y9GX6pST1P9Y3Okh",
+        "compendium": "malevolence-bestiary",
+        "name": "Haunted Nosoi",
+        "prompt": "Fantasy art Haunted Nosoi monitor psychopomp undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440621,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
