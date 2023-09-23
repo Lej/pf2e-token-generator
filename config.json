@@ -2086,5 +2086,14 @@
         "timestamp": 1695502440663,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cMpgGvq1fGxh8wI0": {
+        "id": "cMpgGvq1fGxh8wI0",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Seugathi Researcher",
+        "prompt": "Fantasy art Seugathi Researcher aberration seugathi Seugathi servant in the style of Greg Rutkowski",
+        "timestamp": 1695502440664,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
