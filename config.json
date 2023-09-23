@@ -1357,5 +1357,14 @@
         "timestamp": 1695502440621,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1wb9Vi3V4GDeOBCt": {
+        "id": "1wb9Vi3V4GDeOBCt",
+        "compendium": "malevolence-bestiary",
+        "name": "Ixirizmid",
+        "prompt": "Fantasy art Ixirizmid fungus rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440621,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
