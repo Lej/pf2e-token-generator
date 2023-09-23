@@ -2059,5 +2059,14 @@
         "timestamp": 1695502440661,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WR07Z6MjvebSHzI7": {
+        "id": "WR07Z6MjvebSHzI7",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Ryta",
+        "prompt": "Fantasy art Ryta humanoid ratfolk Female ratfolk lutenist in the style of Greg Rutkowski",
+        "timestamp": 1695502440662,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
