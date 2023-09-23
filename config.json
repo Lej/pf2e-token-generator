@@ -94,5 +94,13 @@
         "prompt": "Fantasy art Troll giant troll in the style of Greg Rutkowski",
         "timestamp": 1695496530355,
         "seed": 1024
+    },
+    "RTzFvmdSCf5yhguy": {
+        "id": "RTzFvmdSCf5yhguy",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Xulgath Warrior (BB)",
+        "prompt": "Fantasy art Xulgath Warrior humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1695496530355,
+        "seed": 1024
     }
 }
