@@ -79,5 +79,14 @@
         "timestamp": 1695502440568,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WPsgrCUSFCqgDvJi": {
+        "id": "WPsgrCUSFCqgDvJi",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Green Dragon Wyrmling (BB)",
+        "prompt": "Fantasy art Green Dragon Wyrmling amphibious dragon in the style of Greg Rutkowski",
+        "timestamp": 1695502440569,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
