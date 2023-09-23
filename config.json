@@ -2491,5 +2491,14 @@
         "timestamp": 1695502440682,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PbCcYOGqsDU96a4y": {
+        "id": "PbCcYOGqsDU96a4y",
+        "compendium": "one-shot-bestiary",
+        "name": "Giant Pirate Skeleton",
+        "prompt": "Fantasy art Giant Pirate Skeleton mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440682,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
