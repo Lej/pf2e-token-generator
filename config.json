@@ -862,5 +862,14 @@
         "timestamp": 1695502440599,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NcqruxA82SFvTnD1": {
+        "id": "NcqruxA82SFvTnD1",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Child of Urgathoa",
+        "prompt": "Fantasy art Child of Urgathoa undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440600,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
