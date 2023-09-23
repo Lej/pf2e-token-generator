@@ -1339,5 +1339,14 @@
         "timestamp": 1695502440621,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Wkn2wZbsNSifAnBh": {
+        "id": "Wkn2wZbsNSifAnBh",
+        "compendium": "malevolence-bestiary",
+        "name": "Anitoli Nostraema",
+        "prompt": "Fantasy art Anitoli Nostraema undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440621,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
