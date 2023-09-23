@@ -2023,5 +2023,14 @@
         "timestamp": 1695502440659,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xj1Qn0VA4H4aKSjW": {
+        "id": "xj1Qn0VA4H4aKSjW",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Jaul's Wolf",
+        "prompt": "Fantasy art Jaul's Wolf animal Male wolf in the style of Greg Rutkowski",
+        "timestamp": 1695502440659,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
