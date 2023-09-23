@@ -2158,5 +2158,14 @@
         "timestamp": 1695502440667,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qXT1SQDtGqMkVl7Q": {
+        "id": "qXT1SQDtGqMkVl7Q",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Shanrigol Heap",
+        "prompt": "Fantasy art Shanrigol Heap aberration undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440667,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
