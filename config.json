@@ -62,5 +62,13 @@
         "prompt": "Fantasy art Zombie Shambler mindless undead zombie in the style of Greg Rutkowski",
         "timestamp": 1695496530354,
         "seed": 1024
+    },
+    "xKYIN88ULPFgSZmw": {
+        "id": "xKYIN88ULPFgSZmw",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Drow Sneak (BB)",
+        "prompt": "Fantasy art Drow Sneak drow elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695496530354,
+        "seed": 1024
     }
 }
