@@ -230,5 +230,13 @@
         "prompt": "Fantasy art Wight undead wight in the style of Greg Rutkowski",
         "timestamp": 1695496530359,
         "seed": 1024
+    },
+    "jGzVwekcRX5aQpbT": {
+        "id": "jGzVwekcRX5aQpbT",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Goblin Commando (BB)",
+        "prompt": "Fantasy art Goblin Commando goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695496530360,
+        "seed": 1024
     }
 }
