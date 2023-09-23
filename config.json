@@ -1582,5 +1582,14 @@
         "timestamp": 1695502440634,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZAXuvUW6kl6v3SuW": {
+        "id": "ZAXuvUW6kl6v3SuW",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Volluk Azrinae",
+        "prompt": "Fantasy art Volluk Azrinae aberration swarm Male worm that walks occultist rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440635,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
