@@ -7,8 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: microsoft/variable-substitution@v1
       - name: Variable Substitution
+        uses: microsoft/variable-substitution@v1
         with:
           files: "module.json"
         env:
@@ -18,7 +18,6 @@ jobs:
           download: https://github.com/${{github.repository}}/releases/download/${{github.run_number}}/module.zip
       - run: zip -r ./module.zip module.json art-mapping.json images/
       - name: Create Release
-        id: create_version_release
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true #An optional flag which indicates if we should update a release if it already exists. Defaults to false.
