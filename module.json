@@ -11,5 +11,8 @@
     "pf2e-ai-token-placeholders": {
       "pf2e-art": "modules/pf2e-ai-token-placeholders/art-mapping.json"
     }
-  }
+  },
+  "url": "https://github.com/Lej/pf2e-token-generator",
+  "manifest": "PLACEHOLDER",
+  "download": "PLACEHOLDER"
 }
