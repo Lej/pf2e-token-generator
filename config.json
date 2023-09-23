@@ -1987,5 +1987,14 @@
         "timestamp": 1695502440657,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qoyopMMlRdgPAbXZ": {
+        "id": "qoyopMMlRdgPAbXZ",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Vischari",
+        "prompt": "Fantasy art Vischari humanoid urdefhan Female urdefhan pugilist in the style of Greg Rutkowski",
+        "timestamp": 1695502440658,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
