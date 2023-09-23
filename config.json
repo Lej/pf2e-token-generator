@@ -2149,5 +2149,14 @@
         "timestamp": 1695502440666,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2K0oJcLauMwyRNZQ": {
+        "id": "2K0oJcLauMwyRNZQ",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Murschen",
+        "prompt": "Fantasy art Murschen humanoid skulk Male skulk brawler in the style of Greg Rutkowski",
+        "timestamp": 1695502440667,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
