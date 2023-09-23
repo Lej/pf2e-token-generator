@@ -2176,5 +2176,14 @@
         "timestamp": 1695502440667,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3vn9W5SThovdsEnY": {
+        "id": "3vn9W5SThovdsEnY",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Sacuishu",
+        "prompt": "Fantasy art Sacuishu aberration air Female will-o'-wisp spy in the style of Greg Rutkowski",
+        "timestamp": 1695502440668,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
