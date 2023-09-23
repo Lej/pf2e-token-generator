@@ -1177,5 +1177,14 @@
         "timestamp": 1695502440614,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "c6qRZuHQ7RHJEAtj": {
+        "id": "c6qRZuHQ7RHJEAtj",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Grappling Spirit",
+        "prompt": "Fantasy art Grappling Spirit incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440615,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
