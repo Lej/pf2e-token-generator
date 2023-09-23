@@ -2095,5 +2095,14 @@
         "timestamp": 1695502440664,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "OErk9kO3PhYwMXoJ": {
+        "id": "OErk9kO3PhYwMXoJ",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Siora Fallowglade",
+        "prompt": "Fantasy art Siora Fallowglade incorporeal undead Female greater shadow in the style of Greg Rutkowski",
+        "timestamp": 1695502440664,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
