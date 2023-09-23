@@ -2104,5 +2104,14 @@
         "timestamp": 1695502440664,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4bznEiwsJvInwZwA": {
+        "id": "4bznEiwsJvInwZwA",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Torture Chamber Barbazu",
+        "prompt": "Fantasy art Torture Chamber Barbazu devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440665,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
