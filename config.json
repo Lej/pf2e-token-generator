@@ -294,5 +294,13 @@
         "prompt": "Fantasy art White Kobold Dragon Mage humanoid kobold in the style of Greg Rutkowski",
         "timestamp": 1695496530362,
         "seed": 1024
+    },
+    "AleeS0IRqT4tUphB": {
+        "id": "AleeS0IRqT4tUphB",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Kobold Boss Zolgran (BB)",
+        "prompt": "Fantasy art Kobold Boss Zolgran humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695496530362,
+        "seed": 1024
     }
 }
