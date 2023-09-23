@@ -817,5 +817,14 @@
         "timestamp": 1695502440598,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ur3dzfmvtN7lyPNG": {
+        "id": "Ur3dzfmvtN7lyPNG",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Taunting Skull",
+        "prompt": "Fantasy art Taunting Skull undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440598,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
