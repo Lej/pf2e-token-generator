@@ -54,5 +54,13 @@
         "prompt": "Fantasy art Brine Shark aquatic elemental water in the style of Greg Rutkowski",
         "timestamp": 1695496530354,
         "seed": 1024
+    },
+    "0plBflWwrCWQO2RO": {
+        "id": "0plBflWwrCWQO2RO",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Zombie Shambler (BB)",
+        "prompt": "Fantasy art Zombie Shambler mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695496530354,
+        "seed": 1024
     }
 }
