@@ -1447,5 +1447,14 @@
         "timestamp": 1695502440625,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "km4jIE3xBRZoY9o7": {
+        "id": "km4jIE3xBRZoY9o7",
+        "compendium": "shadows-at-sundown-bestiary",
+        "name": "Yniesse Zenderholm",
+        "prompt": "Fantasy art Yniesse Zenderholm human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695502440626,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
