@@ -1240,5 +1240,14 @@
         "timestamp": 1695502440617,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3CdslCv2CMP7O12F": {
+        "id": "3CdslCv2CMP7O12F",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Mummified Cat",
+        "prompt": "Fantasy art Mummified Cat mummy undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440617,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
