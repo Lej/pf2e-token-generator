@@ -1276,5 +1276,14 @@
         "timestamp": 1695502440619,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DMZo6DXmScDXJpJd": {
+        "id": "DMZo6DXmScDXJpJd",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Hunter Wight",
+        "prompt": "Fantasy art Hunter Wight undead wight in the style of Greg Rutkowski",
+        "timestamp": 1695502440619,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
