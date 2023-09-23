@@ -2311,5 +2311,14 @@
         "timestamp": 1695502440674,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tXfiVIThQlBT6B1H": {
+        "id": "tXfiVIThQlBT6B1H",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Voidbracken Chuul",
+        "prompt": "Fantasy art Voidbracken Chuul aberration amphibious Variant chuul in the style of Greg Rutkowski",
+        "timestamp": 1695502440674,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
