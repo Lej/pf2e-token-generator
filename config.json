@@ -2077,5 +2077,14 @@
         "timestamp": 1695502440663,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tZCFmJonHkhGg1Vs": {
+        "id": "tZCFmJonHkhGg1Vs",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Urdefhan Death Scout",
+        "prompt": "Fantasy art Urdefhan Death Scout humanoid urdefhan in the style of Greg Rutkowski",
+        "timestamp": 1695502440663,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
