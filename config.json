@@ -2257,5 +2257,14 @@
         "timestamp": 1695502440671,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZDYMKYZVyR8Fqakp": {
+        "id": "ZDYMKYZVyR8Fqakp",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Wrin Sivinxi",
+        "prompt": "Fantasy art Wrin Sivinxi elf humanoid tiefling Female tiefling elf oddities merchant in the style of Greg Rutkowski",
+        "timestamp": 1695502440672,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
