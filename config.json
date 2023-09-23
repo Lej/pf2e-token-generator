@@ -1429,5 +1429,14 @@
         "timestamp": 1695502440624,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OsRWaQVTonZBmZo1": {
+        "id": "OsRWaQVTonZBmZo1",
+        "compendium": "shadows-at-sundown-bestiary",
+        "name": "Strigoi Servant",
+        "prompt": "Fantasy art Strigoi Servant shadow undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1695502440625,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
