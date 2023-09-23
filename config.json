@@ -646,5 +646,14 @@
         "timestamp": 1695502440588,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "tb2nr2ycARadI3Pg": {
+        "id": "tb2nr2ycARadI3Pg",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Iroran Mummy",
+        "prompt": "Fantasy art Iroran Mummy mummy undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440588,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
