@@ -2194,5 +2194,14 @@
         "timestamp": 1695502440668,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zsgW8hHm3JfZUgwF": {
+        "id": "zsgW8hHm3JfZUgwF",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Mulventok",
+        "prompt": "Fantasy art Mulventok aberration in the style of Greg Rutkowski",
+        "timestamp": 1695502440669,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
