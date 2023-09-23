@@ -1465,5 +1465,14 @@
         "timestamp": 1695502440626,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0jAkZcP5559iO0wo": {
+        "id": "0jAkZcP5559iO0wo",
+        "compendium": "shadows-at-sundown-bestiary",
+        "name": "Aliriel",
+        "prompt": "Fantasy art Aliriel shadow undead vampire Female human strigoi necromancer rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440627,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
