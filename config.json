@@ -302,5 +302,13 @@
         "prompt": "Fantasy art Kobold Boss Zolgran humanoid kobold in the style of Greg Rutkowski",
         "timestamp": 1695496530362,
         "seed": 1024
+    },
+    "X03vq2RWi2jiA6Ri": {
+        "id": "X03vq2RWi2jiA6Ri",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Owlbear (BB)",
+        "prompt": "Fantasy art Owlbear animal in the style of Greg Rutkowski",
+        "timestamp": 1695496530362,
+        "seed": 1024
     }
 }
