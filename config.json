@@ -1006,5 +1006,14 @@
         "timestamp": 1695502440607,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5ukWvQqK17BQl31O": {
+        "id": "5ukWvQqK17BQl31O",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Lacedon",
+        "prompt": "Fantasy art Lacedon amphibious ghoul undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440607,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
