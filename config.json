@@ -1852,5 +1852,14 @@
         "timestamp": 1695502440651,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jE8BEe6pcnGraw2p": {
+        "id": "jE8BEe6pcnGraw2p",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Jafaki",
+        "prompt": "Fantasy art Jafaki aberration seugathi Seugathi fleshwarper in the style of Greg Rutkowski",
+        "timestamp": 1695502440652,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
