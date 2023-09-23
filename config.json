@@ -664,5 +664,14 @@
         "timestamp": 1695502440588,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kY8MSttryLjbI5wN": {
+        "id": "kY8MSttryLjbI5wN",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Wight Commander",
+        "prompt": "Fantasy art Wight Commander undead wight in the style of Greg Rutkowski",
+        "timestamp": 1695502440589,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
