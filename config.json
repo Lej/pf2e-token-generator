@@ -262,5 +262,13 @@
         "prompt": "Fantasy art Goblin Igniter goblin humanoid in the style of Greg Rutkowski",
         "timestamp": 1695496530360,
         "seed": 1024
+    },
+    "r9w1n85mp9Ip4QiS": {
+        "id": "r9w1n85mp9Ip4QiS",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Kobold Warrior (BB)",
+        "prompt": "Fantasy art Kobold Warrior humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695496530361,
+        "seed": 1024
     }
 }
