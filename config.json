@@ -398,5 +398,13 @@
         "prompt": "Fantasy art Pugwampi fey gremlin in the style of Greg Rutkowski",
         "timestamp": 1695496530365,
         "seed": 1024
+    },
+    "rPHxXClTnoPYHYuZ": {
+        "id": "rPHxXClTnoPYHYuZ",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Basilisk (BB)",
+        "prompt": "Fantasy art Basilisk beast in the style of Greg Rutkowski",
+        "timestamp": 1695496530365,
+        "seed": 1024
     }
 }
