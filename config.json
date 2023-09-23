@@ -326,5 +326,13 @@
         "prompt": "Fantasy art Skeleton Guard mindless skeleton undead in the style of Greg Rutkowski",
         "timestamp": 1695496530363,
         "seed": 1024
+    },
+    "4MwjCsa5O9aAjxSm": {
+        "id": "4MwjCsa5O9aAjxSm",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Boar (BB)",
+        "prompt": "Fantasy art Boar animal in the style of Greg Rutkowski",
+        "timestamp": 1695496530363,
+        "seed": 1024
     }
 }
