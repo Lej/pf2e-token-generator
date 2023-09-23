@@ -592,5 +592,14 @@
         "timestamp": 1695502440585,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ze8SKqa4T8lhSDup": {
+        "id": "Ze8SKqa4T8lhSDup",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Pale Sovereign",
+        "prompt": "Fantasy art Pale Sovereign undead rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440586,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
