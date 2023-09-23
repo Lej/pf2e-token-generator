@@ -1078,5 +1078,14 @@
         "timestamp": 1695502440610,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qO20so7Mv2pmsLL1": {
+        "id": "qO20so7Mv2pmsLL1",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Husk Zombie",
+        "prompt": "Fantasy art Husk Zombie undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695502440610,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
