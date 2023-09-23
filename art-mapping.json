@@ -627,6 +627,10 @@
         "JMXNSC7M2SRGZbhy": {
             "actor": "modules/pf2e-ai-token-placeholders/images/malevolence-bestiary/JMXNSC7M2SRGZbhy/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/malevolence-bestiary/JMXNSC7M2SRGZbhy/token.webp"
+        },
+        "n3taMFiViyEQ5JAi": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/malevolence-bestiary/n3taMFiViyEQ5JAi/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/malevolence-bestiary/n3taMFiViyEQ5JAi/token.webp"
         }
     }
 }
