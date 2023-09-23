@@ -214,5 +214,13 @@
         "prompt": "Fantasy art Skeletal Giant mindless skeleton undead in the style of Greg Rutkowski",
         "timestamp": 1695496530359,
         "seed": 1024
+    },
+    "XrmHgbKgcHDi4OnK": {
+        "id": "XrmHgbKgcHDi4OnK",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Shadow (BB)",
+        "prompt": "Fantasy art Shadow incorporeal undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530359,
+        "seed": 1024
     }
 }
