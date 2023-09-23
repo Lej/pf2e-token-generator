@@ -1933,5 +1933,14 @@
         "timestamp": 1695502440655,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3ry9WSvMMXHUe3kE": {
+        "id": "3ry9WSvMMXHUe3kE",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Beluthus",
+        "prompt": "Fantasy art Beluthus undead Male devourer rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440655,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
