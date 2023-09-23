@@ -598,5 +598,13 @@
         "prompt": "Fantasy art Scorned Hound undead in the style of Greg Rutkowski",
         "timestamp": 1695496530374,
         "seed": 1024
+    },
+    "kY8MSttryLjbI5wN": {
+        "id": "kY8MSttryLjbI5wN",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Wight Commander",
+        "prompt": "Fantasy art Wight Commander undead wight in the style of Greg Rutkowski",
+        "timestamp": 1695496530375,
+        "seed": 1024
     }
 }
