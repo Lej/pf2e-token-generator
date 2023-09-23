@@ -943,5 +943,14 @@
         "timestamp": 1695502440605,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EDhme1IKgO34NDrt": {
+        "id": "EDhme1IKgO34NDrt",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Festering Gnasher",
+        "prompt": "Fantasy art Festering Gnasher undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440605,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
