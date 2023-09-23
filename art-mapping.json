@@ -1085,6 +1085,10 @@
         "Aw74KaHNvnWG349N": {
             "actor": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/Aw74KaHNvnWG349N/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/Aw74KaHNvnWG349N/token.webp"
+        },
+        "T2lqHFAnZ1u6Z6MD": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/T2lqHFAnZ1u6Z6MD/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/one-shot-bestiary/T2lqHFAnZ1u6Z6MD/token.webp"
         }
     }
 }

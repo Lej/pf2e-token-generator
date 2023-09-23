@@ -2419,5 +2419,14 @@
         "timestamp": 1695502440678,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "T2lqHFAnZ1u6Z6MD": {
+        "id": "T2lqHFAnZ1u6Z6MD",
+        "compendium": "one-shot-bestiary",
+        "name": "Doatara the Priest",
+        "prompt": "Fantasy art Doatara the Priest human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695502440679,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
