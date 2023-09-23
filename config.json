@@ -1573,5 +1573,14 @@
         "timestamp": 1695502440633,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aIDLQY5mBPyxTjZ2": {
+        "id": "aIDLQY5mBPyxTjZ2",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Witchfire Warden",
+        "prompt": "Fantasy art Witchfire Warden incorporeal spirit undead Witchfire rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440634,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
