@@ -403,5 +403,14 @@
         "timestamp": 1695502440578,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NVWaLagWOu5tCCZu": {
+        "id": "NVWaLagWOu5tCCZu",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Sod Hound (BB)",
+        "prompt": "Fantasy art Sod Hound earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1695502440578,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
