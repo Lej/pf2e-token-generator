@@ -494,5 +494,13 @@
         "prompt": "Fantasy art Urveth darvakka shadow undead in the style of Greg Rutkowski",
         "timestamp": 1695496530370,
         "seed": 1024
+    },
+    "1hdQjYLtup92Jlls": {
+        "id": "1hdQjYLtup92Jlls",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Obrousian",
+        "prompt": "Fantasy art Obrousian amphibious undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530370,
+        "seed": 1024
     }
 }
