@@ -142,5 +142,13 @@
         "prompt": "Fantasy art Gargoyle beast earth in the style of Greg Rutkowski",
         "timestamp": 1695496530356,
         "seed": 1024
+    },
+    "FaBHkmFGuEIqIYM1": {
+        "id": "FaBHkmFGuEIqIYM1",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Drow Priestess (BB)",
+        "prompt": "Fantasy art Drow Priestess drow elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695496530357,
+        "seed": 1024
     }
 }
