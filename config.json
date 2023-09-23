@@ -374,5 +374,13 @@
         "prompt": "Fantasy art Sod Hound earth elemental in the style of Greg Rutkowski",
         "timestamp": 1695496530364,
         "seed": 1024
+    },
+    "AuCC04X2AO8oFN75": {
+        "id": "AuCC04X2AO8oFN75",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Harpy (BB)",
+        "prompt": "Fantasy art Harpy humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695496530364,
+        "seed": 1024
     }
 }
