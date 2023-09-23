@@ -462,5 +462,13 @@
         "prompt": "Fantasy art Tormented Starvation undead in the style of Greg Rutkowski",
         "timestamp": 1695496530367,
         "seed": 1024
+    },
+    "ishwgxZAlNJxNwGE": {
+        "id": "ishwgxZAlNJxNwGE",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Daqqanoenyent",
+        "prompt": "Fantasy art Daqqanoenyent undead in the style of Greg Rutkowski",
+        "timestamp": 1695496530367,
+        "seed": 1024
     }
 }
