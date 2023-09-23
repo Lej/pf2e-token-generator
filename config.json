@@ -414,5 +414,13 @@
         "prompt": "Fantasy art Goblin Warrior goblin humanoid in the style of Greg Rutkowski",
         "timestamp": 1695496530365,
         "seed": 1024
+    },
+    "YdBCG0vzOA5BgoIi": {
+        "id": "YdBCG0vzOA5BgoIi",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Xulgath Boss (BB)",
+        "prompt": "Fantasy art Xulgath Boss humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1695496530365,
+        "seed": 1024
     }
 }
