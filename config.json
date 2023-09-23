@@ -2554,5 +2554,14 @@
         "timestamp": 1695502440684,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BFTodEMAuiYhte03": {
+        "id": "BFTodEMAuiYhte03",
+        "compendium": "one-shot-bestiary",
+        "name": "Princess Sunset",
+        "prompt": "Fantasy art Princess Sunset construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695502440684,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
