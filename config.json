@@ -2329,5 +2329,14 @@
         "timestamp": 1695502440675,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5iuvJLceeLJPlR8O": {
+        "id": "5iuvJLceeLJPlR8O",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Viscous Black Pudding",
+        "prompt": "Fantasy art Viscous Black Pudding mindless ooze Variant black pudding in the style of Greg Rutkowski",
+        "timestamp": 1695502440676,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
