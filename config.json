@@ -889,5 +889,14 @@
         "timestamp": 1695502440602,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lhzNUX83TTYpJuma": {
+        "id": "lhzNUX83TTYpJuma",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Unrisen",
+        "prompt": "Fantasy art Unrisen undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440602,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
