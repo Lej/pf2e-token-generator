@@ -718,5 +718,14 @@
         "timestamp": 1695502440591,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "TipfHGlT5ctn1JV0": {
+        "id": "TipfHGlT5ctn1JV0",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Zombie Mammoth",
+        "prompt": "Fantasy art Zombie Mammoth mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695502440591,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
