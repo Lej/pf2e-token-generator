@@ -1591,5 +1591,14 @@
         "timestamp": 1695502440635,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3H1rBpUQwTcNd6xZ": {
+        "id": "3H1rBpUQwTcNd6xZ",
+        "compendium": "abomination-vaults-bestiary",
+        "name": "Chandriu Invisar",
+        "prompt": "Fantasy art Chandriu Invisar ghost incorporeal spirit undead Female drow ghost administrator in the style of Greg Rutkowski",
+        "timestamp": 1695502440635,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
