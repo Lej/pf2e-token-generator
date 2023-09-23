@@ -763,5 +763,14 @@
         "timestamp": 1695502440593,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zPQZLswJISQrvPb7": {
+        "id": "zPQZLswJISQrvPb7",
+        "compendium": "book-of-the-dead-bestiary",
+        "name": "Runecarved Lich",
+        "prompt": "Fantasy art Runecarved Lich undead in the style of Greg Rutkowski",
+        "timestamp": 1695502440594,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
