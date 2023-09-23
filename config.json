@@ -150,5 +150,13 @@
         "prompt": "Fantasy art Drow Priestess drow elf humanoid in the style of Greg Rutkowski",
         "timestamp": 1695496530357,
         "seed": 1024
+    },
+    "cBHpMcVaLRPZu9po": {
+        "id": "cBHpMcVaLRPZu9po",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Zephyr Hawk (BB)",
+        "prompt": "Fantasy art Zephyr Hawk air elemental in the style of Greg Rutkowski",
+        "timestamp": 1695496530357,
+        "seed": 1024
     }
 }
