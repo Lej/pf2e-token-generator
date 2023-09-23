@@ -1456,5 +1456,14 @@
         "timestamp": 1695502440626,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "litxGHyUUR64CWQJ": {
+        "id": "litxGHyUUR64CWQJ",
+        "compendium": "shadows-at-sundown-bestiary",
+        "name": "Abridan Ashau",
+        "prompt": "Fantasy art Abridan Ashau human humanoid Male human ex-cleric rituals in the style of Greg Rutkowski",
+        "timestamp": 1695502440626,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

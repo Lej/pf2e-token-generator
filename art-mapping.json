@@ -653,6 +653,10 @@
         "km4jIE3xBRZoY9o7": {
             "actor": "modules/pf2e-ai-token-placeholders/images/shadows-at-sundown-bestiary/km4jIE3xBRZoY9o7/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/shadows-at-sundown-bestiary/km4jIE3xBRZoY9o7/token.webp"
+        },
+        "litxGHyUUR64CWQJ": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/shadows-at-sundown-bestiary/litxGHyUUR64CWQJ/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/shadows-at-sundown-bestiary/litxGHyUUR64CWQJ/token.webp"
         }
     }
 }
