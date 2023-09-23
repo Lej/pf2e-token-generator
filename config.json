@@ -16,5 +16,14 @@
         "timestamp": 1695502440567,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UjREHs2JQoO85Glt": {
+        "id": "UjREHs2JQoO85Glt",
+        "compendium": "menace-under-otari-bestiary",
+        "name": "Bugbear Marauder (BB)",
+        "prompt": "Fantasy art Bugbear Marauder goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695502440567,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
