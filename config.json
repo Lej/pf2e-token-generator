@@ -8080,5 +8080,14 @@
         "timestamp": 1695547973063,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "QZVLjVPLl0PNo2K3": {
+        "id": "QZVLjVPLl0PNo2K3",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Fleshforge Prototype (Leaping Charge)",
+        "prompt": "Fantasy art Fleshforge Prototype Leaping Charge construct in the style of Greg Rutkowski",
+        "timestamp": 1695547973063,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
