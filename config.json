@@ -12535,5 +12535,14 @@
         "timestamp": 1695572870375,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dEAneTvoPuQXZoLR": {
+        "id": "dEAneTvoPuQXZoLR",
+        "compendium": "pathfinder-bestiary",
+        "name": "Gibbering Mouther",
+        "prompt": "Fantasy art Gibbering Mouther aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870375,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
