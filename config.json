@@ -2977,5 +2977,14 @@
         "timestamp": 1695547972823,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JD5sD7vwwlU2DwJI": {
+        "id": "JD5sD7vwwlU2DwJI",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Angazhani",
+        "prompt": "Fantasy art Angazhani beast in the style of Greg Rutkowski",
+        "timestamp": 1695547972824,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
