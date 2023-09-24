@@ -4831,5 +4831,14 @@
         "timestamp": 1695547972898,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WfCLrFwwWSA7KRUu": {
+        "id": "WfCLrFwwWSA7KRUu",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Living Rune (Primal)",
+        "prompt": "Fantasy art Living Rune Primal construct in the style of Greg Rutkowski",
+        "timestamp": 1695547972899,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
