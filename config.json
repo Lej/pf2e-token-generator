@@ -6946,5 +6946,14 @@
         "timestamp": 1695547973025,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "D2Bc4GbmiuW29310": {
+        "id": "D2Bc4GbmiuW29310",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Elite Boggard Swampseer (PFS 1-24, Animal Staff)",
+        "prompt": "Fantasy art Elite Boggard Swampseer amphibious boggard humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973026,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
