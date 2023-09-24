@@ -15658,5 +15658,14 @@
         "timestamp": 1695572870531,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rCErTabCxzPbR0ON": {
+        "id": "rCErTabCxzPbR0ON",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Insidious Dragon Forest Rot",
+        "prompt": "Fantasy art Insidious Dragon Forest Rot aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870532,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
