@@ -3957,6 +3957,10 @@
         "cINSKPBcnWgzeTFx": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-4-bestiary/cINSKPBcnWgzeTFx/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-4-bestiary/cINSKPBcnWgzeTFx/token.webp"
+        },
+        "7W9dzIWzgEOB2UTK": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-4-bestiary/7W9dzIWzgEOB2UTK/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-4-bestiary/7W9dzIWzgEOB2UTK/token.webp"
         }
     }
 }
