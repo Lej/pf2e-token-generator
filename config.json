@@ -14749,5 +14749,14 @@
         "timestamp": 1695572870502,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "U3RoZnfVAAKbrULX": {
+        "id": "U3RoZnfVAAKbrULX",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Disciple of Urxehl (9-10)",
+        "prompt": "Fantasy art Disciple of Urxehl incorporeal undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870503,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
