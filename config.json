@@ -16432,5 +16432,14 @@
         "timestamp": 1695572870556,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0hy54Fyobwdb7AGN": {
+        "id": "0hy54Fyobwdb7AGN",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Follower of Shumfallow",
+        "prompt": "Fantasy art Follower of Shumfallow fungus leshy Fungus leshy supplicants in the style of Greg Rutkowski",
+        "timestamp": 1695572870556,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }

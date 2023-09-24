@@ -7335,6 +7335,10 @@
         "GyrL5Q66shXthhZL": {
             "actor": "modules/pf2e-ai-token-placeholders/images/outlaws-of-alkenstar-bestiary/GyrL5Q66shXthhZL/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/outlaws-of-alkenstar-bestiary/GyrL5Q66shXthhZL/token.webp"
+        },
+        "0hy54Fyobwdb7AGN": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/outlaws-of-alkenstar-bestiary/0hy54Fyobwdb7AGN/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/outlaws-of-alkenstar-bestiary/0hy54Fyobwdb7AGN/token.webp"
         }
     }
 }
