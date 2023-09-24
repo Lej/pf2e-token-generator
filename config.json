@@ -11545,5 +11545,14 @@
         "timestamp": 1695572870332,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HeoH8hi5iieKPuJ2": {
+        "id": "HeoH8hi5iieKPuJ2",
+        "compendium": "pathfinder-bestiary",
+        "name": "Deadly Mantis",
+        "prompt": "Fantasy art Deadly Mantis animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870333,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
