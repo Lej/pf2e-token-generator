@@ -5047,5 +5047,14 @@
         "timestamp": 1695547972908,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tr9bmyZ6CYl2FPnr": {
+        "id": "tr9bmyZ6CYl2FPnr",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Valkyrie",
+        "prompt": "Fantasy art Valkyrie aesir monitor in the style of Greg Rutkowski",
+        "timestamp": 1695547972908,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
