@@ -4480,5 +4480,14 @@
         "timestamp": 1695547972883,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PJCeh8sj9Sm5Eqz8": {
+        "id": "PJCeh8sj9Sm5Eqz8",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Draxie",
+        "prompt": "Fantasy art Draxie fey sprite in the style of Greg Rutkowski",
+        "timestamp": 1695547972884,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
