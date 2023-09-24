@@ -10159,5 +10159,14 @@
         "timestamp": 1695572870140,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "bo3BDHT7P1IK7oLp": {
+        "id": "bo3BDHT7P1IK7oLp",
+        "compendium": "mwangi-expanse-bestiary",
+        "name": "Anadi Elder",
+        "prompt": "Fantasy art Anadi Elder anadi humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870141,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
