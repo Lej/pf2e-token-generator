@@ -17872,5 +17872,14 @@
         "timestamp": 1695572870609,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9dUSCjehW90dZalE": {
+        "id": "9dUSCjehW90dZalE",
+        "compendium": "fall-of-plaguestone",
+        "name": "Fiery Leopard",
+        "prompt": "Fantasy art Fiery Leopard animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870609,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
