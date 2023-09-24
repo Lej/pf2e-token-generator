@@ -11347,5 +11347,14 @@
         "timestamp": 1695572870324,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "k3Lt3bWBadXvlIbG": {
+        "id": "k3Lt3bWBadXvlIbG",
+        "compendium": "pathfinder-bestiary",
+        "name": "Poltergeist",
+        "prompt": "Fantasy art Poltergeist incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870325,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
