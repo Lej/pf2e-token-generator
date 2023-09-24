@@ -9367,5 +9367,14 @@
         "timestamp": 1695572870106,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "y1Pe1I9h9gKzWC8k": {
+        "id": "y1Pe1I9h9gKzWC8k",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Patched Up Automaton",
+        "prompt": "Fantasy art Patched Up Automaton automaton construct in the style of Greg Rutkowski",
+        "timestamp": 1695572870106,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
