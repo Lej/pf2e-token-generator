@@ -2923,5 +2923,14 @@
         "timestamp": 1695547972821,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6AvQH0XXccorLE6d": {
+        "id": "6AvQH0XXccorLE6d",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Skinstitch",
+        "prompt": "Fantasy art Skinstitch construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695547972822,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
