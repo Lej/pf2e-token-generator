@@ -5074,5 +5074,14 @@
         "timestamp": 1695547972909,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cmzlnTgWcJjnISAK": {
+        "id": "cmzlnTgWcJjnISAK",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Kokogiak",
+        "prompt": "Fantasy art Kokogiak beast in the style of Greg Rutkowski",
+        "timestamp": 1695547972909,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
