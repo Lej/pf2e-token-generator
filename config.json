@@ -8467,5 +8467,14 @@
         "timestamp": 1695547973077,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0x30gt2GzALItGAh": {
+        "id": "0x30gt2GzALItGAh",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Recon Patroller",
+        "prompt": "Fantasy art Recon Patroller humanoid Variant poacher in the style of Greg Rutkowski",
+        "timestamp": 1695547973077,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
