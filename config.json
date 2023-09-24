@@ -13462,5 +13462,14 @@
         "timestamp": 1695572870410,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "saEPHCN5lDiylb5H": {
+        "id": "saEPHCN5lDiylb5H",
+        "compendium": "pathfinder-bestiary",
+        "name": "Black Pudding",
+        "prompt": "Fantasy art Black Pudding mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1695572870410,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
