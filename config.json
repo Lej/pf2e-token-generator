@@ -3166,5 +3166,14 @@
         "timestamp": 1695547972830,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8M91u7Q3javRQVEY": {
+        "id": "8M91u7Q3javRQVEY",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Raktavarna",
+        "prompt": "Fantasy art Raktavarna fiend rakshasa in the style of Greg Rutkowski",
+        "timestamp": 1695547972830,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
