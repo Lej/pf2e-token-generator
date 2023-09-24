@@ -14227,5 +14227,14 @@
         "timestamp": 1695572870467,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rWweGgOu9uJVlnra": {
+        "id": "rWweGgOu9uJVlnra",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Thoqqua",
+        "prompt": "Fantasy art Thoqqua earth elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1695572870467,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
