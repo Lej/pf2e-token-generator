@@ -14146,5 +14146,14 @@
         "timestamp": 1695572870465,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IYrz3P4rsRr0TnmK": {
+        "id": "IYrz3P4rsRr0TnmK",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "The Disciples",
+        "prompt": "Fantasy art The Disciples undead Variant unrisen in the style of Greg Rutkowski",
+        "timestamp": 1695572870465,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
