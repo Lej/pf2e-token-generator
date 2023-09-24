@@ -17377,5 +17377,14 @@
         "timestamp": 1695572870593,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7eJJIIVEDB3EFFcZ": {
+        "id": "7eJJIIVEDB3EFFcZ",
+        "compendium": "npc-gallery",
+        "name": "Bodyguard",
+        "prompt": "Fantasy art Bodyguard human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870593,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
