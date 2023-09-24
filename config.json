@@ -4597,5 +4597,14 @@
         "timestamp": 1695547972887,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9KZRWATLOGP7QGyM": {
+        "id": "9KZRWATLOGP7QGyM",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Fire Wisp",
+        "prompt": "Fantasy art Fire Wisp elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1695547972887,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
