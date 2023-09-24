@@ -17026,5 +17026,14 @@
         "timestamp": 1695572870579,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lemVxzg2Pnx9Nu3d": {
+        "id": "lemVxzg2Pnx9Nu3d",
+        "compendium": "npc-gallery",
+        "name": "Troubadour",
+        "prompt": "Fantasy art Troubadour human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870580,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
