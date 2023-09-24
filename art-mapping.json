@@ -7809,6 +7809,10 @@
         "5LvpvIMhaYLcyAk6": {
             "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/5LvpvIMhaYLcyAk6/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/5LvpvIMhaYLcyAk6/token.webp"
+        },
+        "JsTI2SEZdg2j03gf": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/JsTI2SEZdg2j03gf/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/JsTI2SEZdg2j03gf/token.webp"
         }
     }
 }
