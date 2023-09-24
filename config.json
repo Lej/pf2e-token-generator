@@ -13291,5 +13291,14 @@
         "timestamp": 1695572870401,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Iw2QccAkRc5Vnfzj": {
+        "id": "Iw2QccAkRc5Vnfzj",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ghaele",
+        "prompt": "Fantasy art Ghaele azata celestial rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870402,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
