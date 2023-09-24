@@ -8125,5 +8125,14 @@
         "timestamp": 1695547973064,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NTPKBjuubDmuSJTN": {
+        "id": "NTPKBjuubDmuSJTN",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Vicious Vulpine",
+        "prompt": "Fantasy art Vicious Vulpine beast in the style of Greg Rutkowski",
+        "timestamp": 1695547973064,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
