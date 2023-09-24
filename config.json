@@ -9160,5 +9160,14 @@
         "timestamp": 1695572870100,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "548JZ6YeXsfYxVe5": {
+        "id": "548JZ6YeXsfYxVe5",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Animated Dagger",
+        "prompt": "Fantasy art Animated Dagger construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870100,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
