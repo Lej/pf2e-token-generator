@@ -13498,5 +13498,14 @@
         "timestamp": 1695572870411,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZSQ4M8qeAv4dkLq1": {
+        "id": "ZSQ4M8qeAv4dkLq1",
+        "compendium": "pathfinder-bestiary",
+        "name": "Skum",
+        "prompt": "Fantasy art Skum amphibious humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870411,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
