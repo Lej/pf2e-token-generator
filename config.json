@@ -7837,5 +7837,14 @@
         "timestamp": 1695547973055,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mUWCqhhcmEHsSjKo": {
+        "id": "mUWCqhhcmEHsSjKo",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Blue Streak Mage (5-6)",
+        "prompt": "Fantasy art Blue Streak Mage human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973055,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
