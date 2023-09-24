@@ -10339,5 +10339,14 @@
         "timestamp": 1695572870275,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VAWmwDA08ZLQd8lW": {
+        "id": "VAWmwDA08ZLQd8lW",
+        "compendium": "pathfinder-bestiary",
+        "name": "Vampire Bat Swarm",
+        "prompt": "Fantasy art Vampire Bat Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1695572870275,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
