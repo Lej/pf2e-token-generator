@@ -4381,5 +4381,14 @@
         "timestamp": 1695547972880,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "AxfH7V8A38VVugYo": {
+        "id": "AxfH7V8A38VVugYo",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Lampad",
+        "prompt": "Fantasy art Lampad earth fey nymph in the style of Greg Rutkowski",
+        "timestamp": 1695547972881,
+        "seed": 1024,
+        "used_seed": 1028
     }
 }
