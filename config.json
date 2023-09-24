@@ -16990,5 +16990,14 @@
         "timestamp": 1695572870577,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PoIuzIWFnlAQ8pdH": {
+        "id": "PoIuzIWFnlAQ8pdH",
+        "compendium": "npc-gallery",
+        "name": "Beast Tamer",
+        "prompt": "Fantasy art Beast Tamer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870578,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
