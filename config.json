@@ -3193,5 +3193,14 @@
         "timestamp": 1695547972831,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0HTju4vf8ADAAh2g": {
+        "id": "0HTju4vf8ADAAh2g",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Air Wisp",
+        "prompt": "Fantasy art Air Wisp air elemental in the style of Greg Rutkowski",
+        "timestamp": 1695547972831,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
