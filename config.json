@@ -17071,5 +17071,14 @@
         "timestamp": 1695572870581,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DSA03902sWGot0ev": {
+        "id": "DSA03902sWGot0ev",
+        "compendium": "npc-gallery",
+        "name": "Miner",
+        "prompt": "Fantasy art Miner human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870581,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
