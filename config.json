@@ -3274,5 +3274,14 @@
         "timestamp": 1695547972834,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "HiazGJoPkJ3gQVAO": {
+        "id": "HiazGJoPkJ3gQVAO",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Grioth Cultist",
+        "prompt": "Fantasy art Grioth Cultist grioth humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972835,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
