@@ -15694,5 +15694,14 @@
         "timestamp": 1695572870532,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "StqA0Lpk26G4Ux1l": {
+        "id": "StqA0Lpk26G4Ux1l",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "The Saboteur (5-6)",
+        "prompt": "Fantasy art The Saboteur amphibious humanoid sea-devil in the style of Greg Rutkowski",
+        "timestamp": 1695572870533,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
