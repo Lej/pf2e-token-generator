@@ -15991,5 +15991,14 @@
         "timestamp": 1695572870541,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NAUPuR7aWSQ6mBUs": {
+        "id": "NAUPuR7aWSQ6mBUs",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Usij Cultist",
+        "prompt": "Fantasy art Usij Cultist human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870542,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
