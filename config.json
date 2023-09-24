@@ -7099,5 +7099,14 @@
         "timestamp": 1695547973031,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "9f5t3nOOqhNykqhj": {
+        "id": "9f5t3nOOqhNykqhj",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Angry Fox",
+        "prompt": "Fantasy art Angry Fox animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973031,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
