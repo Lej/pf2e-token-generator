@@ -6685,5 +6685,14 @@
         "timestamp": 1695547973018,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "mjD8kNTb8IC5FBNA": {
+        "id": "mjD8kNTb8IC5FBNA",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Ravenous Giant Centipede",
+        "prompt": "Fantasy art Ravenous Giant Centipede animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973018,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
