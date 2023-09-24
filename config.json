@@ -14947,5 +14947,14 @@
         "timestamp": 1695572870510,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IF1DWtelPtUF5aKh": {
+        "id": "IF1DWtelPtUF5aKh",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Scorched Cavern Troll",
+        "prompt": "Fantasy art Scorched Cavern Troll earth giant troll in the style of Greg Rutkowski",
+        "timestamp": 1695572870510,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

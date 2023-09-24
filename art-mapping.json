@@ -6673,6 +6673,10 @@
         "RO4UAvgak0jAo2We": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-2-bestiary/RO4UAvgak0jAo2We/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-2-bestiary/RO4UAvgak0jAo2We/token.webp"
+        },
+        "IF1DWtelPtUF5aKh": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-2-bestiary/IF1DWtelPtUF5aKh/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-2-bestiary/IF1DWtelPtUF5aKh/token.webp"
         }
     }
 }
