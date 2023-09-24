@@ -17530,5 +17530,14 @@
         "timestamp": 1695572870598,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OSCpJYTr6xNIxqZi": {
+        "id": "OSCpJYTr6xNIxqZi",
+        "compendium": "npc-gallery",
+        "name": "Server",
+        "prompt": "Fantasy art Server human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870599,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
