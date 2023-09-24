@@ -6595,5 +6595,14 @@
         "timestamp": 1695547973014,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "RUXPx9VPJCmuD1V8": {
+        "id": "RUXPx9VPJCmuD1V8",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Mr. Chitters (5-6)",
+        "prompt": "Fantasy art Mr. Chitters monitor protean in the style of Greg Rutkowski",
+        "timestamp": 1695547973015,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
