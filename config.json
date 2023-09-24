@@ -6631,5 +6631,14 @@
         "timestamp": 1695547973016,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "uedXIip0UPHJ4Egt": {
+        "id": "uedXIip0UPHJ4Egt",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Flaming Skull Skeleton Guard",
+        "prompt": "Fantasy art Flaming Skull Skeleton Guard mindless skeleton undead Variant skeleton guard in the style of Greg Rutkowski",
+        "timestamp": 1695547973016,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
