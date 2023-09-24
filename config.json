@@ -16027,5 +16027,14 @@
         "timestamp": 1695572870543,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zNN1Af6Xx5Tmglcu": {
+        "id": "zNN1Af6Xx5Tmglcu",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Tewakam Nekotek (5-6)",
+        "prompt": "Fantasy art Tewakam Nekotek human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870544,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
