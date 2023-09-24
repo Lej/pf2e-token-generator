@@ -9403,5 +9403,14 @@
         "timestamp": 1695572870107,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QbvkJokjXuCAaJcl": {
+        "id": "QbvkJokjXuCAaJcl",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Enormous Rat",
+        "prompt": "Fantasy art Enormous Rat animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870107,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
