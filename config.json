@@ -7090,5 +7090,14 @@
         "timestamp": 1695547973030,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UjVrEU4MTBH2eZOq": {
+        "id": "UjVrEU4MTBH2eZOq",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Weak Ceustodaemon (PFS 1-01)",
+        "prompt": "Fantasy art Weak Ceustodaemon daemon fiend in the style of Greg Rutkowski",
+        "timestamp": 1695547973031,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
