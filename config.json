@@ -15001,5 +15001,14 @@
         "timestamp": 1695572870512,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DlIJbeLe4iNKMOQd": {
+        "id": "DlIJbeLe4iNKMOQd",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Run-Down Efreet",
+        "prompt": "Fantasy art Run-Down Efreet elemental fire genie in the style of Greg Rutkowski",
+        "timestamp": 1695572870512,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
