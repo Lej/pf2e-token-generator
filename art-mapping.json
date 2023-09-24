@@ -1223,6 +1223,10 @@
         "UgGyHJ39EHztCV5m": {
             "actor": "modules/pf2e-ai-token-placeholders/images/impossible-lands-bestiary/UgGyHJ39EHztCV5m/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/impossible-lands-bestiary/UgGyHJ39EHztCV5m/token.webp"
+        },
+        "KTabPRN489yjTvek": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/impossible-lands-bestiary/KTabPRN489yjTvek/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/impossible-lands-bestiary/KTabPRN489yjTvek/token.webp"
         }
     }
 }
