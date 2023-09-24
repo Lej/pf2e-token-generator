@@ -15298,5 +15298,14 @@
         "timestamp": 1695572870520,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yEvWtmFxwVsNGjWh": {
+        "id": "yEvWtmFxwVsNGjWh",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Unkillable Zombie Shambler",
+        "prompt": "Fantasy art Unkillable Zombie Shambler mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695572870521,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
