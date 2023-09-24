@@ -14056,5 +14056,14 @@
         "timestamp": 1695572870436,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XH1Wqnxy8Cq9Z5Cn": {
+        "id": "XH1Wqnxy8Cq9Z5Cn",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Grimbal",
+        "prompt": "Fantasy art Grimbal ghost incorporeal spirit undead Male dwarf ghost in the style of Greg Rutkowski",
+        "timestamp": 1695572870462,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

@@ -6274,5 +6274,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/BRo0snV2sH6TFuh6/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/BRo0snV2sH6TFuh6/token.webp"
         }
+    },
+    "crown-of-the-kobold-king-bestiary": {
+        "XH1Wqnxy8Cq9Z5Cn": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/crown-of-the-kobold-king-bestiary/XH1Wqnxy8Cq9Z5Cn/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/crown-of-the-kobold-king-bestiary/XH1Wqnxy8Cq9Z5Cn/token.webp"
+        }
     }
 }
