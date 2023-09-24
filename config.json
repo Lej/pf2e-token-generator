@@ -7081,5 +7081,14 @@
         "timestamp": 1695547973030,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TmDKaw1WenWKvNBU": {
+        "id": "TmDKaw1WenWKvNBU",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Tough Mountain Goat",
+        "prompt": "Fantasy art Tough Mountain Goat animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973030,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
