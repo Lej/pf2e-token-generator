@@ -7207,5 +7207,14 @@
         "timestamp": 1695547973034,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "whbIBJJxlv5oVm6c": {
+        "id": "whbIBJJxlv5oVm6c",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Leshy Crafter (3-4)",
+        "prompt": "Fantasy art Leshy Crafter leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1695547973035,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
