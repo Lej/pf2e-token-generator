@@ -13705,5 +13705,14 @@
         "timestamp": 1695572870421,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Tpuqwt6Af29EMtqX": {
+        "id": "Tpuqwt6Af29EMtqX",
+        "compendium": "pathfinder-bestiary",
+        "name": "Alchemical Golem",
+        "prompt": "Fantasy art Alchemical Golem alchemical construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870421,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
