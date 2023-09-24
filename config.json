@@ -4534,5 +4534,14 @@
         "timestamp": 1695547972885,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RZ1SLG0gxrOYSKRs": {
+        "id": "RZ1SLG0gxrOYSKRs",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Vanara Disciple",
+        "prompt": "Fantasy art Vanara Disciple humanoid vanara in the style of Greg Rutkowski",
+        "timestamp": 1695547972885,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
