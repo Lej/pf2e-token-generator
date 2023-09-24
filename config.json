@@ -7009,5 +7009,14 @@
         "timestamp": 1695547973028,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "v8Spc0ALJdX8WUi4": {
+        "id": "v8Spc0ALJdX8WUi4",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Eerie Skeletal Giant",
+        "prompt": "Fantasy art Eerie Skeletal Giant skeleton undead Variant skeletal giant in the style of Greg Rutkowski",
+        "timestamp": 1695547973029,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
