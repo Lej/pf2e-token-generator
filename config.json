@@ -12355,5 +12355,14 @@
         "timestamp": 1695572870368,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FwH05kDUlC8CwWTU": {
+        "id": "FwH05kDUlC8CwWTU",
+        "compendium": "pathfinder-bestiary",
+        "name": "Troll King",
+        "prompt": "Fantasy art Troll King giant troll in the style of Greg Rutkowski",
+        "timestamp": 1695572870368,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
