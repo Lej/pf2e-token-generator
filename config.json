@@ -13642,5 +13642,14 @@
         "timestamp": 1695572870419,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "t4bHhZBBDUyVzEmf": {
+        "id": "t4bHhZBBDUyVzEmf",
+        "compendium": "pathfinder-bestiary",
+        "name": "Iron Golem",
+        "prompt": "Fantasy art Iron Golem construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870419,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
