@@ -12598,5 +12598,14 @@
         "timestamp": 1695572870377,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VoLW6eUxMSsXvgVP": {
+        "id": "VoLW6eUxMSsXvgVP",
+        "compendium": "pathfinder-bestiary",
+        "name": "Duskwalker Ghost Hunter",
+        "prompt": "Fantasy art Duskwalker Ghost Hunter duskwalker human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870377,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
