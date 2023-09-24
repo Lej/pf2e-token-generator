@@ -16801,5 +16801,14 @@
         "timestamp": 1695572870568,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UgaIxXmbPe7qcrNk": {
+        "id": "UgaIxXmbPe7qcrNk",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Smog Wraith",
+        "prompt": "Fantasy art Smog Wraith incorporeal undead wraith in the style of Greg Rutkowski",
+        "timestamp": 1695572870568,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
