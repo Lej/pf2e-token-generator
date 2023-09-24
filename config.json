@@ -13084,5 +13084,14 @@
         "timestamp": 1695572870394,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wRQ7TZdd0n5UIIao": {
+        "id": "wRQ7TZdd0n5UIIao",
+        "compendium": "pathfinder-bestiary",
+        "name": "Will-o'-Wisp",
+        "prompt": "Fantasy art Will-o'-Wisp aberration air in the style of Greg Rutkowski",
+        "timestamp": 1695572870394,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
