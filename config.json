@@ -9952,5 +9952,14 @@
         "timestamp": 1695572870130,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "weilkjJuw0L1iFdZ": {
+        "id": "weilkjJuw0L1iFdZ",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Determined Thisnabel (1-2)",
+        "prompt": "Fantasy art Determined Thisnabel gnome humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870130,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
