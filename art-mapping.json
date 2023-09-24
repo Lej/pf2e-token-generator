@@ -1977,6 +1977,10 @@
         "CXCdPqMRX58sBQ9G": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/CXCdPqMRX58sBQ9G/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/CXCdPqMRX58sBQ9G/token.webp"
+        },
+        "BrGvmcM6jl3xUs4d": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/BrGvmcM6jl3xUs4d/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/BrGvmcM6jl3xUs4d/token.webp"
         }
     }
 }

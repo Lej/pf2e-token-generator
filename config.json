@@ -4417,5 +4417,14 @@
         "timestamp": 1695547972882,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BrGvmcM6jl3xUs4d": {
+        "id": "BrGvmcM6jl3xUs4d",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Cobbleswarm",
+        "prompt": "Fantasy art Cobbleswarm aberration earth swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547972882,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
