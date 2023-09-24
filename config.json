@@ -6046,5 +6046,14 @@
         "timestamp": 1695547972992,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RPqISpa2Jq8Jy3dh": {
+        "id": "RPqISpa2Jq8Jy3dh",
+        "compendium": "pfs-introductions-bestiary",
+        "name": "Rain In Cloudy Day",
+        "prompt": "Fantasy art Rain In Cloudy Day fungus leshy in the style of Greg Rutkowski",
+        "timestamp": 1695547972992,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
