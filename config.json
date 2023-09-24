@@ -14785,5 +14785,14 @@
         "timestamp": 1695572870505,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9X3qkp1qsii5LFQP": {
+        "id": "9X3qkp1qsii5LFQP",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Famished Mimic",
+        "prompt": "Fantasy art Famished Mimic aberration Variant mimic in the style of Greg Rutkowski",
+        "timestamp": 1695572870505,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
