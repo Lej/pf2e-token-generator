@@ -2896,5 +2896,14 @@
         "timestamp": 1695547972821,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BPmotFI9EoIqSatr": {
+        "id": "BPmotFI9EoIqSatr",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Japalisura",
+        "prompt": "Fantasy art Japalisura asura fiend in the style of Greg Rutkowski",
+        "timestamp": 1695547972821,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
