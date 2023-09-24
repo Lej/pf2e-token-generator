@@ -12193,5 +12193,14 @@
         "timestamp": 1695572870361,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "B0QyZEjAXUG5TsJU": {
+        "id": "B0QyZEjAXUG5TsJU",
+        "compendium": "pathfinder-bestiary",
+        "name": "Storm Giant",
+        "prompt": "Fantasy art Storm Giant amphibious giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870361,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
