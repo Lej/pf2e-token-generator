@@ -8710,5 +8710,14 @@
         "timestamp": 1695547973088,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8WT81nQ029L5MN34": {
+        "id": "8WT81nQ029L5MN34",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Veteran Vermlek",
+        "prompt": "Fantasy art Veteran Vermlek demon fiend Variant vermlek in the style of Greg Rutkowski",
+        "timestamp": 1695547973088,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
