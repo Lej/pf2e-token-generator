@@ -15379,5 +15379,14 @@
         "timestamp": 1695572870522,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xmKHQAQ9z7XrPNp7": {
+        "id": "xmKHQAQ9z7XrPNp7",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Russian Soldier (7-8)",
+        "prompt": "Fantasy art Russian Soldier human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870523,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
