@@ -10960,5 +10960,14 @@
         "timestamp": 1695572870306,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "x4mlZseBP5bWcy4H": {
+        "id": "x4mlZseBP5bWcy4H",
+        "compendium": "pathfinder-bestiary",
+        "name": "Barghest",
+        "prompt": "Fantasy art Barghest fiend in the style of Greg Rutkowski",
+        "timestamp": 1695572870307,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
