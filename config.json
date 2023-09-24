@@ -12229,5 +12229,14 @@
         "timestamp": 1695572870362,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9X7hOvCKy1bqw0g6": {
+        "id": "9X7hOvCKy1bqw0g6",
+        "compendium": "pathfinder-bestiary",
+        "name": "Giant Tarantula",
+        "prompt": "Fantasy art Giant Tarantula animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870362,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
