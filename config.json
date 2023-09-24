@@ -6964,5 +6964,14 @@
         "timestamp": 1695547973027,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8hdL1UOQZ1WPb6v7": {
+        "id": "8hdL1UOQZ1WPb6v7",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Groetus's Chosen (3-4)",
+        "prompt": "Fantasy art Groetus's Chosen human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973027,
+        "seed": 1024,
+        "used_seed": 1027
     }
 }
