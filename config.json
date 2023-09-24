@@ -6280,5 +6280,14 @@
         "timestamp": 1695547973006,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "U2igHGiYNNclSdsm": {
+        "id": "U2igHGiYNNclSdsm",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Spirit Guardian Statue",
+        "prompt": "Fantasy art Spirit Guardian Statue construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695547973006,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
