@@ -12220,5 +12220,14 @@
         "timestamp": 1695572870362,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qpRJOzx3bJ7rolHp": {
+        "id": "qpRJOzx3bJ7rolHp",
+        "compendium": "pathfinder-bestiary",
+        "name": "Manticore",
+        "prompt": "Fantasy art Manticore beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870362,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
