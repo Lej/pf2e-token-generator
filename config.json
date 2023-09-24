@@ -14452,5 +14452,14 @@
         "timestamp": 1695572870493,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6kRWSFIjPusy4d58": {
+        "id": "6kRWSFIjPusy4d58",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "The Scholar of Sorts (1-2)",
+        "prompt": "Fantasy art The Scholar of Sorts monitor protean in the style of Greg Rutkowski",
+        "timestamp": 1695572870493,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
