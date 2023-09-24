@@ -16783,5 +16783,14 @@
         "timestamp": 1695572870566,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GmK9VzDtB1i7pmGI": {
+        "id": "GmK9VzDtB1i7pmGI",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Parsus",
+        "prompt": "Fantasy art Parsus dhampir human humanoid Pangender dhampir necromancer in the style of Greg Rutkowski",
+        "timestamp": 1695572870567,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
