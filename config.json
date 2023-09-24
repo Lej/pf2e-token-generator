@@ -2842,5 +2842,14 @@
         "timestamp": 1695547972819,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HObVT8aJnsx5nnqu": {
+        "id": "HObVT8aJnsx5nnqu",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Tikbalang",
+        "prompt": "Fantasy art Tikbalang beast in the style of Greg Rutkowski",
+        "timestamp": 1695547972819,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
