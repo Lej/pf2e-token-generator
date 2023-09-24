@@ -17638,5 +17638,14 @@
         "timestamp": 1695572870602,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "B09JfuBZHjcRXztU": {
+        "id": "B09JfuBZHjcRXztU",
+        "compendium": "npc-gallery",
+        "name": "Burglar",
+        "prompt": "Fantasy art Burglar human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870603,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

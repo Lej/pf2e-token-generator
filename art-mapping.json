@@ -7873,6 +7873,10 @@
         "hxyImo4ts3O0BrAY": {
             "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/hxyImo4ts3O0BrAY/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/hxyImo4ts3O0BrAY/token.webp"
+        },
+        "B09JfuBZHjcRXztU": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/B09JfuBZHjcRXztU/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/B09JfuBZHjcRXztU/token.webp"
         }
     }
 }
