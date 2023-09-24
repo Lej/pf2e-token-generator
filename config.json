@@ -7603,5 +7603,14 @@
         "timestamp": 1695547973047,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "js2sA6P939oTuLuI": {
+        "id": "js2sA6P939oTuLuI",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Ahrkinos (5-6)",
+        "prompt": "Fantasy art Ahrkinos amphibious dragon water in the style of Greg Rutkowski",
+        "timestamp": 1695547973047,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
