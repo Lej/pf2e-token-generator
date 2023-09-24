@@ -12706,5 +12706,14 @@
         "timestamp": 1695572870381,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "skwkJmgz7mqIcStF": {
+        "id": "skwkJmgz7mqIcStF",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ettin",
+        "prompt": "Fantasy art Ettin giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870381,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
