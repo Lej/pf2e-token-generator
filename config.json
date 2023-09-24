@@ -11482,5 +11482,14 @@
         "timestamp": 1695572870330,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "c6AE2Mh8BRtBgbtz": {
+        "id": "c6AE2Mh8BRtBgbtz",
+        "compendium": "pathfinder-bestiary",
+        "name": "Arboreal Regent",
+        "prompt": "Fantasy art Arboreal Regent plant in the style of Greg Rutkowski",
+        "timestamp": 1695572870330,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
