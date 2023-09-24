@@ -16189,5 +16189,14 @@
         "timestamp": 1695572870549,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NR74QIX0qE7AeZmg": {
+        "id": "NR74QIX0qE7AeZmg",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Clearwater Cleaner",
+        "prompt": "Fantasy art Clearwater Cleaner leshy plant male and female vine leshys in the style of Greg Rutkowski",
+        "timestamp": 1695572870549,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
