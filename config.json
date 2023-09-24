@@ -10474,5 +10474,14 @@
         "timestamp": 1695572870278,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "sPClc6y3dT3XZupv": {
+        "id": "sPClc6y3dT3XZupv",
+        "compendium": "pathfinder-bestiary",
+        "name": "Rat Swarm",
+        "prompt": "Fantasy art Rat Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1695572870278,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
