@@ -16252,5 +16252,14 @@
         "timestamp": 1695572870550,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3BFECcR5ggVH69Gu": {
+        "id": "3BFECcR5ggVH69Gu",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Skeletal Crocodile",
+        "prompt": "Fantasy art Skeletal Crocodile mindless skeleton undead Variant elite skeletal hulk in the style of Greg Rutkowski",
+        "timestamp": 1695572870551,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
