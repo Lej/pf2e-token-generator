@@ -11986,5 +11986,14 @@
         "timestamp": 1695572870352,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KclNszYZ7sjwE9nX": {
+        "id": "KclNszYZ7sjwE9nX",
+        "compendium": "pathfinder-bestiary",
+        "name": "Hobgoblin Archer",
+        "prompt": "Fantasy art Hobgoblin Archer goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870352,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
