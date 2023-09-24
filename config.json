@@ -8782,5 +8782,14 @@
         "timestamp": 1695547973091,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mjE5Fgn1nmJIPOP7": {
+        "id": "mjE5Fgn1nmJIPOP7",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Damaged Automaton",
+        "prompt": "Fantasy art Damaged Automaton automaton construct in the style of Greg Rutkowski",
+        "timestamp": 1695547973091,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
