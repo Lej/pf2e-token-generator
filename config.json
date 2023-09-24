@@ -10798,5 +10798,14 @@
         "timestamp": 1695572870294,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ePa0KmNPpR4zUPfX": {
+        "id": "ePa0KmNPpR4zUPfX",
+        "compendium": "pathfinder-bestiary",
+        "name": "Dero Magister",
+        "prompt": "Fantasy art Dero Magister dero humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870295,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
