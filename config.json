@@ -4768,5 +4768,14 @@
         "timestamp": 1695547972896,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fLyIWlTCW3cUPjvd": {
+        "id": "fLyIWlTCW3cUPjvd",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Animated Furnace",
+        "prompt": "Fantasy art Animated Furnace construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695547972896,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
