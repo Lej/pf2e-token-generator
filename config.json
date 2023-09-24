@@ -3625,5 +3625,14 @@
         "timestamp": 1695547972845,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4glVe36VTR8HTjcE": {
+        "id": "4glVe36VTR8HTjcE",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Girtablilu Sentry",
+        "prompt": "Fantasy art Girtablilu Sentry beast in the style of Greg Rutkowski",
+        "timestamp": 1695547972845,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
