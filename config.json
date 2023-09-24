@@ -5866,5 +5866,14 @@
         "timestamp": 1695547972984,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AmkhY7NErzNgbsN0": {
+        "id": "AmkhY7NErzNgbsN0",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Narwhal",
+        "prompt": "Fantasy art Narwhal animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1695547972985,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
