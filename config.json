@@ -14209,5 +14209,14 @@
         "timestamp": 1695572870467,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gGtA1Dhiai4jOTte": {
+        "id": "gGtA1Dhiai4jOTte",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Hymmir Urath",
+        "prompt": "Fantasy art Hymmir Urath ghoul undead Male human barbarian ghoul in the style of Greg Rutkowski",
+        "timestamp": 1695572870467,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
