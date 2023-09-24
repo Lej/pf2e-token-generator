@@ -3022,5 +3022,14 @@
         "timestamp": 1695547972824,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kBIl96jzJjOd0LkZ": {
+        "id": "kBIl96jzJjOd0LkZ",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Namorrodor",
+        "prompt": "Fantasy art Namorrodor shadow undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972825,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
