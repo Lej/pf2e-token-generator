@@ -10447,5 +10447,14 @@
         "timestamp": 1695572870277,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6XlGTt3RveX49YbC": {
+        "id": "6XlGTt3RveX49YbC",
+        "compendium": "pathfinder-bestiary",
+        "name": "Shambler",
+        "prompt": "Fantasy art Shambler plant in the style of Greg Rutkowski",
+        "timestamp": 1695572870278,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
