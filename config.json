@@ -12283,5 +12283,14 @@
         "timestamp": 1695572870364,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kPBSSOuR8n8vZHXB": {
+        "id": "kPBSSOuR8n8vZHXB",
+        "compendium": "pathfinder-bestiary",
+        "name": "Otyugh",
+        "prompt": "Fantasy art Otyugh aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870365,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
