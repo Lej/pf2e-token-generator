@@ -4183,5 +4183,14 @@
         "timestamp": 1695547972872,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sESP4UwiJHeNUYEv": {
+        "id": "sESP4UwiJHeNUYEv",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Monkey Swarm",
+        "prompt": "Fantasy art Monkey Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547972872,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
