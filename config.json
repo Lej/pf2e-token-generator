@@ -14308,5 +14308,14 @@
         "timestamp": 1695572870488,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "dqPqUX69bPiVdMNG": {
+        "id": "dqPqUX69bPiVdMNG",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Lesser Bruorsivi Mandragora",
+        "prompt": "Fantasy art Lesser Bruorsivi Mandragora plant in the style of Greg Rutkowski",
+        "timestamp": 1695572870488,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
