@@ -9772,5 +9772,14 @@
         "timestamp": 1695572870120,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "neAEB3E1yECRRmEv": {
+        "id": "neAEB3E1yECRRmEv",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Stabilized Ochre Jelly",
+        "prompt": "Fantasy art Stabilized Ochre Jelly mindless ooze Variant ochre jelly in the style of Greg Rutkowski",
+        "timestamp": 1695572870120,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
