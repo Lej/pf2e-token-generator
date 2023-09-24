@@ -6091,5 +6091,14 @@
         "timestamp": 1695547972999,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ySXw00WW2LJoDhZ6": {
+        "id": "ySXw00WW2LJoDhZ6",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Crowd Leader",
+        "prompt": "Fantasy art Crowd Leader humanoid human in the style of Greg Rutkowski",
+        "timestamp": 1695547972999,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
