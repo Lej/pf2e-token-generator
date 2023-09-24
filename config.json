@@ -17917,5 +17917,14 @@
         "timestamp": 1695572870610,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VSffsyt5RONB4k2U": {
+        "id": "VSffsyt5RONB4k2U",
+        "compendium": "kingmaker-bestiary",
+        "name": "General Avinash Jurrg",
+        "prompt": "Fantasy art General Avinash Jurrg fiend giant humanoid oni Variant male onidoshi in the style of Greg Rutkowski",
+        "timestamp": 1695572870611,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
