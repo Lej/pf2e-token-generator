@@ -13201,5 +13201,14 @@
         "timestamp": 1695572870398,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZzMJ7Y4qxapAVvlF": {
+        "id": "ZzMJ7Y4qxapAVvlF",
+        "compendium": "pathfinder-bestiary",
+        "name": "Cassisian",
+        "prompt": "Fantasy art Cassisian angel celestial in the style of Greg Rutkowski",
+        "timestamp": 1695572870399,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
