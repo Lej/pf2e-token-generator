@@ -3580,5 +3580,14 @@
         "timestamp": 1695547972844,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "79pfivF3swvfsJE4": {
+        "id": "79pfivF3swvfsJE4",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Caligni Vanguard",
+        "prompt": "Fantasy art Caligni Vanguard caligni humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972844,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
