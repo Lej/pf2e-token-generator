@@ -13858,5 +13858,14 @@
         "timestamp": 1695572870426,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "I4o2Gqpr2ioiUXA9": {
+        "id": "I4o2Gqpr2ioiUXA9",
+        "compendium": "pathfinder-bestiary",
+        "name": "Xulgath Leader",
+        "prompt": "Fantasy art Xulgath Leader humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1695572870427,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
