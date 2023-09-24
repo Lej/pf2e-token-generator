@@ -7891,5 +7891,14 @@
         "timestamp": 1695547973057,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Uhb6f4ettpS7K2Jl": {
+        "id": "Uhb6f4ettpS7K2Jl",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Blue Streak Ambushers (7-8)",
+        "prompt": "Fantasy art Blue Streak Ambushers human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973057,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
