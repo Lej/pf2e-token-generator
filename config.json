@@ -4471,5 +4471,14 @@
         "timestamp": 1695547972883,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "krbmyD1SuPQb4QfF": {
+        "id": "krbmyD1SuPQb4QfF",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Blood Painter",
+        "prompt": "Fantasy art Blood Painter aberration in the style of Greg Rutkowski",
+        "timestamp": 1695547972883,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
