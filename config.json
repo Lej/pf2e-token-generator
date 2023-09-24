@@ -3409,5 +3409,14 @@
         "timestamp": 1695547972839,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RTTs4lvkcPz8u6IY": {
+        "id": "RTTs4lvkcPz8u6IY",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Azarketi Explorer",
+        "prompt": "Fantasy art Azarketi Explorer amphibious azarketi humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972839,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
