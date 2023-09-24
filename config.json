@@ -16018,5 +16018,14 @@
         "timestamp": 1695572870543,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QQ93gOZxsfTdTSn2": {
+        "id": "QQ93gOZxsfTdTSn2",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Storm Bear (3-4)",
+        "prompt": "Fantasy art Storm Bear beast electricity in the style of Greg Rutkowski",
+        "timestamp": 1695572870543,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
