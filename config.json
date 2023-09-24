@@ -10897,5 +10897,14 @@
         "timestamp": 1695572870302,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0FGz2eXm0SB04sJW": {
+        "id": "0FGz2eXm0SB04sJW",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ancient Green Dragon",
+        "prompt": "Fantasy art Ancient Green Dragon amphibious dragon in the style of Greg Rutkowski",
+        "timestamp": 1695572870303,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
