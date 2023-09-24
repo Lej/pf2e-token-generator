@@ -13408,5 +13408,14 @@
         "timestamp": 1695572870408,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kkFVngQUGTACeggf": {
+        "id": "kkFVngQUGTACeggf",
+        "compendium": "pathfinder-bestiary",
+        "name": "Medusa",
+        "prompt": "Fantasy art Medusa humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870408,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
