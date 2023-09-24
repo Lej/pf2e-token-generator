@@ -13066,5 +13066,14 @@
         "timestamp": 1695572870394,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZXbr1ke1vF0ZFKY3": {
+        "id": "ZXbr1ke1vF0ZFKY3",
+        "compendium": "pathfinder-bestiary",
+        "name": "Roper",
+        "prompt": "Fantasy art Roper aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870394,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
