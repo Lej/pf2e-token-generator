@@ -15883,5 +15883,14 @@
         "timestamp": 1695572870538,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "GIJOVHi9G7tcoMds": {
+        "id": "GIJOVHi9G7tcoMds",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Lesser Skeletal Cyclops",
+        "prompt": "Fantasy art Lesser Skeletal Cyclops mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870538,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
