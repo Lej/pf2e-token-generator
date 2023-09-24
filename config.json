@@ -11563,5 +11563,14 @@
         "timestamp": 1695572870333,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9llfviiJg5bJlBth": {
+        "id": "9llfviiJg5bJlBth",
+        "compendium": "pathfinder-bestiary",
+        "name": "Mukradi",
+        "prompt": "Fantasy art Mukradi beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870333,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
