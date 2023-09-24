@@ -14767,5 +14767,14 @@
         "timestamp": 1695572870504,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "c7uwPrgkjqSKRXQG": {
+        "id": "c7uwPrgkjqSKRXQG",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Qxal, The Thorned Monarch",
+        "prompt": "Fantasy art Qxal, The Thorned Monarch fey in the style of Greg Rutkowski",
+        "timestamp": 1695572870505,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
