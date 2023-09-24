@@ -3441,6 +3441,10 @@
         "5hR3mQw2sEy3Fy8g": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-1-bestiary/5hR3mQw2sEy3Fy8g/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-1-bestiary/5hR3mQw2sEy3Fy8g/token.webp"
+        },
+        "4MXoQZUrmGeuySrp": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-1-bestiary/4MXoQZUrmGeuySrp/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-1-bestiary/4MXoQZUrmGeuySrp/token.webp"
         }
     }
 }
