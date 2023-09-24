@@ -8368,5 +8368,14 @@
         "timestamp": 1695547973073,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "awImEAjEPe1LOY8m": {
+        "id": "awImEAjEPe1LOY8m",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Ralthiss (1-2)",
+        "prompt": "Fantasy art Ralthiss human humanoid Male human cultist in the style of Greg Rutkowski",
+        "timestamp": 1695547973074,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
