@@ -6793,5 +6793,14 @@
         "timestamp": 1695547973021,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LAo7jI8NvMfuDbek": {
+        "id": "LAo7jI8NvMfuDbek",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Great White Shark (PFS 1-12)",
+        "prompt": "Fantasy art Great White Shark animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1695547973021,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
