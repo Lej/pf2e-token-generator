@@ -9259,5 +9259,14 @@
         "timestamp": 1695572870102,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YjTKd7VZwCFaTWPB": {
+        "id": "YjTKd7VZwCFaTWPB",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Elite Smokesight Stalker Wight",
+        "prompt": "Fantasy art Elite Smokesight Stalker Wight undead wight Variant prowler wight in the style of Greg Rutkowski",
+        "timestamp": 1695572870103,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
