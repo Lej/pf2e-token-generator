@@ -3445,5 +3445,14 @@
         "timestamp": 1695547972840,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QYkuUQNVml878cIy": {
+        "id": "QYkuUQNVml878cIy",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Ledalusca",
+        "prompt": "Fantasy art Ledalusca cold elemental water in the style of Greg Rutkowski",
+        "timestamp": 1695547972840,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
