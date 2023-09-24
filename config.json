@@ -9124,5 +9124,14 @@
         "timestamp": 1695547973108,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7NNuVN0DwPvmZLN9": {
+        "id": "7NNuVN0DwPvmZLN9",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Recon Scout",
+        "prompt": "Fantasy art Recon Scout elf humanoid Variant monster hunter in the style of Greg Rutkowski",
+        "timestamp": 1695547973108,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
