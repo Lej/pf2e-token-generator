@@ -3490,5 +3490,14 @@
         "timestamp": 1695547972841,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EGyCQDseM9FaCl78": {
+        "id": "EGyCQDseM9FaCl78",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Chouchin-Obake",
+        "prompt": "Fantasy art Chouchin-Obake kami in the style of Greg Rutkowski",
+        "timestamp": 1695547972842,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
