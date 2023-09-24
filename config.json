@@ -10753,5 +10753,14 @@
         "timestamp": 1695572870291,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NTXm3ee7WZJ92Sww": {
+        "id": "NTXm3ee7WZJ92Sww",
+        "compendium": "pathfinder-bestiary",
+        "name": "Wemmuth",
+        "prompt": "Fantasy art Wemmuth plant in the style of Greg Rutkowski",
+        "timestamp": 1695572870291,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
