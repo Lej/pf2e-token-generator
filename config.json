@@ -5092,5 +5092,14 @@
         "timestamp": 1695547972910,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0laxaxLySatd0Uii": {
+        "id": "0laxaxLySatd0Uii",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Adult Sovereign Dragon",
+        "prompt": "Fantasy art Adult Sovereign Dragon dragon earth in the style of Greg Rutkowski",
+        "timestamp": 1695547972910,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
