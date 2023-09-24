@@ -11059,5 +11059,14 @@
         "timestamp": 1695572870311,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NgCKGq28Qvt6ZOSr": {
+        "id": "NgCKGq28Qvt6ZOSr",
+        "compendium": "pathfinder-bestiary",
+        "name": "Adult Gold Dragon (Spellcaster)",
+        "prompt": "Fantasy art Adult Gold Dragon Spellcaster dragon fire in the style of Greg Rutkowski",
+        "timestamp": 1695572870312,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
