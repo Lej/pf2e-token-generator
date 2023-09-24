@@ -4813,5 +4813,14 @@
         "timestamp": 1695547972897,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SaNOrmVDvQGX5U1D": {
+        "id": "SaNOrmVDvQGX5U1D",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Harpy Skeleton",
+        "prompt": "Fantasy art Harpy Skeleton mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972898,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
