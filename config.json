@@ -16594,5 +16594,14 @@
         "timestamp": 1695572870560,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ChBr4WYIeCnRUbHL": {
+        "id": "ChBr4WYIeCnRUbHL",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Ibrium",
+        "prompt": "Fantasy art Ibrium human humanoid Male human vitrumancer and Nexian agent in the style of Greg Rutkowski",
+        "timestamp": 1695572870561,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
