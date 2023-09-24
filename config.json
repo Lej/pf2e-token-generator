@@ -11842,5 +11842,14 @@
         "timestamp": 1695572870345,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SUpy8sleRwi2Egsq": {
+        "id": "SUpy8sleRwi2Egsq",
+        "compendium": "pathfinder-bestiary",
+        "name": "Drakauthix",
+        "prompt": "Fantasy art Drakauthix fungus in the style of Greg Rutkowski",
+        "timestamp": 1695572870346,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
