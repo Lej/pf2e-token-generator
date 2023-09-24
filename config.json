@@ -9232,5 +9232,14 @@
         "timestamp": 1695572870102,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mbTq6K9uYYIVbwDL": {
+        "id": "mbTq6K9uYYIVbwDL",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Living Boulder (PFS 4-04)",
+        "prompt": "Fantasy art Living Boulder earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1695572870102,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
