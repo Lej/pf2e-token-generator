@@ -13750,5 +13750,14 @@
         "timestamp": 1695572870422,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kNmRn3WfiWLsuwoe": {
+        "id": "kNmRn3WfiWLsuwoe",
+        "compendium": "pathfinder-bestiary",
+        "name": "Gelugon",
+        "prompt": "Fantasy art Gelugon devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870422,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
