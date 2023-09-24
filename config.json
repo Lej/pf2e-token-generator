@@ -11266,5 +11266,14 @@
         "timestamp": 1695572870321,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RiKjpztTt7tZbOeo": {
+        "id": "RiKjpztTt7tZbOeo",
+        "compendium": "pathfinder-bestiary",
+        "name": "Hydra",
+        "prompt": "Fantasy art Hydra beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870321,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
