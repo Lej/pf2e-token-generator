@@ -13768,5 +13768,14 @@
         "timestamp": 1695572870422,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yxCmLBpw6xqWFU3E": {
+        "id": "yxCmLBpw6xqWFU3E",
+        "compendium": "pathfinder-bestiary",
+        "name": "Vampire Mastermind",
+        "prompt": "Fantasy art Vampire Mastermind undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1695572870423,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
