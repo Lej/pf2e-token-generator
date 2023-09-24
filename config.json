@@ -17944,5 +17944,14 @@
         "timestamp": 1695572870612,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3gtQv6Mkr7CUlG7W": {
+        "id": "3gtQv6Mkr7CUlG7W",
+        "compendium": "kingmaker-bestiary",
+        "name": "Wild Hunt Archer",
+        "prompt": "Fantasy art Wild Hunt Archer fey wild-hunt in the style of Greg Rutkowski",
+        "timestamp": 1695572870613,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
