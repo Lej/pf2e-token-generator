@@ -16171,5 +16171,14 @@
         "timestamp": 1695572870548,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eBM6yUAHDyEp8Ewi": {
+        "id": "eBM6yUAHDyEp8Ewi",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "\"Lucky\" Lanks",
+        "prompt": "Fantasy art \"Lucky\" Lanks halfling humanoid Male halfling porter in the style of Greg Rutkowski",
+        "timestamp": 1695572870549,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
