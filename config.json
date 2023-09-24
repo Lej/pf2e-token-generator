@@ -9295,5 +9295,14 @@
         "timestamp": 1695572870103,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MHqOUkqUQ58Y2uFD": {
+        "id": "MHqOUkqUQ58Y2uFD",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Abyssal Drool",
+        "prompt": "Fantasy art Abyssal Drool mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1695572870103,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
