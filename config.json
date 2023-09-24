@@ -2707,5 +2707,14 @@
         "timestamp": 1695547972804,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LVY9JAhTnBC2SeqZ": {
+        "id": "LVY9JAhTnBC2SeqZ",
+        "compendium": "impossible-lands-bestiary",
+        "name": "Skinskitter",
+        "prompt": "Fantasy art Skinskitter aberration amphibious mindless in the style of Greg Rutkowski",
+        "timestamp": 1695547972804,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
