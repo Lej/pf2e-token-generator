@@ -14434,5 +14434,14 @@
         "timestamp": 1695572870492,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "CmMK9sadwbxfBaYg": {
+        "id": "CmMK9sadwbxfBaYg",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Yeth Warbeast",
+        "prompt": "Fantasy art Yeth Warbeast beast fiend in the style of Greg Rutkowski",
+        "timestamp": 1695572870493,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
