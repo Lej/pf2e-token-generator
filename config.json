@@ -4138,5 +4138,14 @@
         "timestamp": 1695547972870,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "O8iynsWnjObQ8TJl": {
+        "id": "O8iynsWnjObQ8TJl",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Soul Skelm",
+        "prompt": "Fantasy art Soul Skelm fiend humanoid skelm in the style of Greg Rutkowski",
+        "timestamp": 1695547972871,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
