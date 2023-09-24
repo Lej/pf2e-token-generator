@@ -10033,5 +10033,14 @@
         "timestamp": 1695572870135,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rVnJUXPgAPCeW1tS": {
+        "id": "rVnJUXPgAPCeW1tS",
+        "compendium": "mwangi-expanse-bestiary",
+        "name": "Eloko",
+        "prompt": "Fantasy art Eloko fey in the style of Greg Rutkowski",
+        "timestamp": 1695572870135,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
