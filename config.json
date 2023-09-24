@@ -16396,5 +16396,14 @@
         "timestamp": 1695572870555,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "e2YnAE6qJUkGRS6p": {
+        "id": "e2YnAE6qJUkGRS6p",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Clockwork Fabricator",
+        "prompt": "Fantasy art Clockwork Fabricator clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870555,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
