@@ -7036,5 +7036,14 @@
         "timestamp": 1695547973029,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pG7P9AxqzcsCjikh": {
+        "id": "pG7P9AxqzcsCjikh",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Zombie Shambler (PFS 1-03)",
+        "prompt": "Fantasy art Zombie Shambler mindless zombie in the style of Greg Rutkowski",
+        "timestamp": 1695547973029,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
