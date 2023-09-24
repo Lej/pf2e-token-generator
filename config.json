@@ -16486,5 +16486,14 @@
         "timestamp": 1695572870557,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JuN7m62ohqdb4mL5": {
+        "id": "JuN7m62ohqdb4mL5",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Palzu",
+        "prompt": "Fantasy art Palzu gnoll humanoid Male dominated gnoll sharpshooter in the style of Greg Rutkowski",
+        "timestamp": 1695572870558,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
