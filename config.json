@@ -11122,5 +11122,14 @@
         "timestamp": 1695572870314,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "E5RDV3n7GnjAspQ5": {
+        "id": "E5RDV3n7GnjAspQ5",
+        "compendium": "pathfinder-bestiary",
+        "name": "Mummy Guardian",
+        "prompt": "Fantasy art Mummy Guardian mummy undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870314,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
