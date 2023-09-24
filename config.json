@@ -9457,5 +9457,14 @@
         "timestamp": 1695572870109,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "1G589gnuWGIOdrou": {
+        "id": "1G589gnuWGIOdrou",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Pappy Draighean",
+        "prompt": "Fantasy art Pappy Draighean fey Variant leprechaun in the style of Greg Rutkowski",
+        "timestamp": 1695572870109,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
