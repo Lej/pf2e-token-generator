@@ -5209,5 +5209,14 @@
         "timestamp": 1695547972915,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Vt28ucE0FUJYl1fD": {
+        "id": "Vt28ucE0FUJYl1fD",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Coral Capuchin",
+        "prompt": "Fantasy art Coral Capuchin amphibious beast in the style of Greg Rutkowski",
+        "timestamp": 1695547972915,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
