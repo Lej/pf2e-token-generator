@@ -6568,5 +6568,14 @@
         "timestamp": 1695547973014,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "X6xVydw9XznvvFC2": {
+        "id": "X6xVydw9XznvvFC2",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Mirrored Lelzeshin (Tier 3-4)",
+        "prompt": "Fantasy art Mirrored Lelzeshin construct in the style of Greg Rutkowski",
+        "timestamp": 1695547973014,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
