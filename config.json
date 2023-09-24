@@ -15253,5 +15253,14 @@
         "timestamp": 1695572870519,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mREQ0kbYYSYsYb4e": {
+        "id": "mREQ0kbYYSYsYb4e",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Weak Mist Stalker",
+        "prompt": "Fantasy art Weak Mist Stalker amphibious elemental water in the style of Greg Rutkowski",
+        "timestamp": 1695572870519,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
