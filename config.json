@@ -9844,5 +9844,14 @@
         "timestamp": 1695572870122,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4bGcT950NIM36Pmn": {
+        "id": "4bGcT950NIM36Pmn",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Elven Grave Robber",
+        "prompt": "Fantasy art Elven Grave Robber humanoid Variant grave robber in the style of Greg Rutkowski",
+        "timestamp": 1695572870122,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
