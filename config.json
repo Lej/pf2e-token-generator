@@ -6703,5 +6703,14 @@
         "timestamp": 1695547973018,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Nh3mKGv0uy1tovpL": {
+        "id": "Nh3mKGv0uy1tovpL",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Keff The Lion (3-4)",
+        "prompt": "Fantasy art Keff The Lion animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973018,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
