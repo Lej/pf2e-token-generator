@@ -17260,5 +17260,14 @@
         "timestamp": 1695572870589,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7RF95b3WHkvHWLrv": {
+        "id": "7RF95b3WHkvHWLrv",
+        "compendium": "npc-gallery",
+        "name": "Physician",
+        "prompt": "Fantasy art Physician human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870589,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
