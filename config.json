@@ -11428,5 +11428,14 @@
         "timestamp": 1695572870327,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "E0PIGtVfc5PFVT2C": {
+        "id": "E0PIGtVfc5PFVT2C",
+        "compendium": "pathfinder-bestiary",
+        "name": "Cacodaemon",
+        "prompt": "Fantasy art Cacodaemon daemon fiend in the style of Greg Rutkowski",
+        "timestamp": 1695572870328,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
