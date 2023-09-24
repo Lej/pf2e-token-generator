@@ -15802,5 +15802,14 @@
         "timestamp": 1695572870536,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "U6gghw2Ke21cRzs0": {
+        "id": "U6gghw2Ke21cRzs0",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Brittle Skeletal Horse",
+        "prompt": "Fantasy art Brittle Skeletal Horse mindless skeleton undead Variant skeletal horse in the style of Greg Rutkowski",
+        "timestamp": 1695572870536,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
