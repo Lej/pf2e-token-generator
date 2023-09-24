@@ -5578,5 +5578,14 @@
         "timestamp": 1695547972972,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cKy95PZJt6lGCsJk": {
+        "id": "cKy95PZJt6lGCsJk",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Kushtaka",
+        "prompt": "Fantasy art Kushtaka amphibious beast in the style of Greg Rutkowski",
+        "timestamp": 1695547972973,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
