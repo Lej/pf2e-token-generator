@@ -6847,5 +6847,14 @@
         "timestamp": 1695547973023,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ihm2nXJtzcgFUJRN": {
+        "id": "ihm2nXJtzcgFUJRN",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Statue Of Set",
+        "prompt": "Fantasy art Statue Of Set construct earth mindless in the style of Greg Rutkowski",
+        "timestamp": 1695547973023,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
