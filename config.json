@@ -10825,5 +10825,14 @@
         "timestamp": 1695572870296,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qHqhUWeNUZRET9xV": {
+        "id": "qHqhUWeNUZRET9xV",
+        "compendium": "pathfinder-bestiary",
+        "name": "Dire Wolf",
+        "prompt": "Fantasy art Dire Wolf animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870296,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
