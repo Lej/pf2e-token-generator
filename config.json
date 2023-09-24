@@ -14191,5 +14191,14 @@
         "timestamp": 1695572870466,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QkoVg6ETUr2XMueM": {
+        "id": "QkoVg6ETUr2XMueM",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Cilios",
+        "prompt": "Fantasy art Cilios mummy undead Variant male mummy guardian in the style of Greg Rutkowski",
+        "timestamp": 1695572870467,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

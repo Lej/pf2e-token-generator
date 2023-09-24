@@ -6335,6 +6335,10 @@
         "Wem1kZUef1ZlG79G": {
             "actor": "modules/pf2e-ai-token-placeholders/images/crown-of-the-kobold-king-bestiary/Wem1kZUef1ZlG79G/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/crown-of-the-kobold-king-bestiary/Wem1kZUef1ZlG79G/token.webp"
+        },
+        "QkoVg6ETUr2XMueM": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/crown-of-the-kobold-king-bestiary/QkoVg6ETUr2XMueM/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/crown-of-the-kobold-king-bestiary/QkoVg6ETUr2XMueM/token.webp"
         }
     }
 }
