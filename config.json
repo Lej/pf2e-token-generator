@@ -5830,5 +5830,14 @@
         "timestamp": 1695547972984,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "U3rMc5sN05MempVX": {
+        "id": "U3rMc5sN05MempVX",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Maftet Guardian",
+        "prompt": "Fantasy art Maftet Guardian humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972984,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
