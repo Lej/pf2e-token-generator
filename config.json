@@ -12913,5 +12913,14 @@
         "timestamp": 1695572870386,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PXru127aJljwKhSy": {
+        "id": "PXru127aJljwKhSy",
+        "compendium": "pathfinder-bestiary",
+        "name": "Sea Devil Scout",
+        "prompt": "Fantasy art Sea Devil Scout amphibious humanoid sea-devil in the style of Greg Rutkowski",
+        "timestamp": 1695572870386,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
