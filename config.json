@@ -14155,5 +14155,14 @@
         "timestamp": 1695572870465,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "T4ZhpGRLsNT1bKoS": {
+        "id": "T4ZhpGRLsNT1bKoS",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Darkmantle",
+        "prompt": "Fantasy art Darkmantle beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870465,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
