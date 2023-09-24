@@ -16828,5 +16828,14 @@
         "timestamp": 1695572870568,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "51E3fdESgGjQxcMv": {
+        "id": "51E3fdESgGjQxcMv",
+        "compendium": "npc-gallery",
+        "name": "Astronomer",
+        "prompt": "Fantasy art Astronomer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870569,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
