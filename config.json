@@ -16153,5 +16153,14 @@
         "timestamp": 1695572870547,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5B6jpwqblxrqJHog": {
+        "id": "5B6jpwqblxrqJHog",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Shoma Lyzerius",
+        "prompt": "Fantasy art Shoma Lyzerius human humanoid ifrit Male ifrit alchemist in the style of Greg Rutkowski",
+        "timestamp": 1695572870548,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
