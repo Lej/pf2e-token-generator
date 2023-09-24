@@ -16000,5 +16000,14 @@
         "timestamp": 1695572870542,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "A6zDTtZ6fLBLPmCP": {
+        "id": "A6zDTtZ6fLBLPmCP",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Greeleep (3-4)",
+        "prompt": "Fantasy art Greeleep humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695572870542,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
