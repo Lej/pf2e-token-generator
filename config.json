@@ -16918,5 +16918,14 @@
         "timestamp": 1695572870573,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VkG5yl9xcmziwpQD": {
+        "id": "VkG5yl9xcmziwpQD",
+        "compendium": "npc-gallery",
+        "name": "Pathfinder Field Agent",
+        "prompt": "Fantasy art Pathfinder Field Agent elf human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870573,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
