@@ -4255,5 +4255,14 @@
         "timestamp": 1695547972874,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "F4aCBm1lfPlRQzZ1": {
+        "id": "F4aCBm1lfPlRQzZ1",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Ghoran Manipulator",
+        "prompt": "Fantasy art Ghoran Manipulator ghoran humanoid plant in the style of Greg Rutkowski",
+        "timestamp": 1695547972875,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
