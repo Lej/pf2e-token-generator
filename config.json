@@ -7783,5 +7783,14 @@
         "timestamp": 1695547973053,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xu1dm0KnEHx5vySR": {
+        "id": "xu1dm0KnEHx5vySR",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Elite Glass River Midge",
+        "prompt": "Fantasy art Elite Glass River Midge animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973054,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
