@@ -12490,5 +12490,14 @@
         "timestamp": 1695572870373,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "9H11QHnoKz8hHKSM": {
+        "id": "9H11QHnoKz8hHKSM",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ancient Red Dragon",
+        "prompt": "Fantasy art Ancient Red Dragon dragon fire in the style of Greg Rutkowski",
+        "timestamp": 1695572870374,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
