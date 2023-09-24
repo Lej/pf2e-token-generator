@@ -17908,5 +17908,14 @@
         "timestamp": 1695572870610,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wMfnwJoLvxdZZAwr": {
+        "id": "wMfnwJoLvxdZZAwr",
+        "compendium": "kingmaker-bestiary",
+        "name": "Drelev Guards",
+        "prompt": "Fantasy art Drelev Guards human humanoid Human fighter in the style of Greg Rutkowski",
+        "timestamp": 1695572870610,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
