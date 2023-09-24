@@ -2932,5 +2932,14 @@
         "timestamp": 1695547972822,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vwzfmjR0Me6xPdTP": {
+        "id": "vwzfmjR0Me6xPdTP",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Tomb Giant",
+        "prompt": "Fantasy art Tomb Giant giant humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547972822,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
