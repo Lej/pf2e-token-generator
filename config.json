@@ -5956,5 +5956,14 @@
         "timestamp": 1695547972989,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rqNNvJO0XEVHWwbW": {
+        "id": "rqNNvJO0XEVHWwbW",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Wizard Sponge (Underwater)",
+        "prompt": "Fantasy art Wizard Sponge Underwater fungus mindless swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547972989,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
