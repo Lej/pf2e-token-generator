@@ -9763,5 +9763,14 @@
         "timestamp": 1695572870119,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VQ1TNqlUvdlKkuN6": {
+        "id": "VQ1TNqlUvdlKkuN6",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Suhko (1-2)",
+        "prompt": "Fantasy art Suhko changeling human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870120,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
