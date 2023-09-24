@@ -12427,5 +12427,14 @@
         "timestamp": 1695572870371,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8U8K0YEghIErml35": {
+        "id": "8U8K0YEghIErml35",
+        "compendium": "pathfinder-bestiary",
+        "name": "Crimson Worm",
+        "prompt": "Fantasy art Crimson Worm beast fire in the style of Greg Rutkowski",
+        "timestamp": 1695572870371,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
