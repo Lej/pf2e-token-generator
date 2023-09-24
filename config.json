@@ -11005,5 +11005,14 @@
         "timestamp": 1695572870309,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "j1mm6bb3hZ56jSrK": {
+        "id": "j1mm6bb3hZ56jSrK",
+        "compendium": "pathfinder-bestiary",
+        "name": "Grig",
+        "prompt": "Fantasy art Grig fey sprite in the style of Greg Rutkowski",
+        "timestamp": 1695572870309,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
