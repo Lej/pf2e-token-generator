@@ -12409,5 +12409,14 @@
         "timestamp": 1695572870370,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "aAiuQvMGPN9QXwKY": {
+        "id": "aAiuQvMGPN9QXwKY",
+        "compendium": "pathfinder-bestiary",
+        "name": "Adult Gold Dragon",
+        "prompt": "Fantasy art Adult Gold Dragon dragon fire in the style of Greg Rutkowski",
+        "timestamp": 1695572870371,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
