@@ -13057,5 +13057,14 @@
         "timestamp": 1695572870394,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "VC7rtYR4hLxwg7WZ": {
+        "id": "VC7rtYR4hLxwg7WZ",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ghast",
+        "prompt": "Fantasy art Ghast ghoul undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870394,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
