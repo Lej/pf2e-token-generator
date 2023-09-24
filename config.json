@@ -17386,5 +17386,14 @@
         "timestamp": 1695572870593,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "o9dAbSVn4Vi4ejjc": {
+        "id": "o9dAbSVn4Vi4ejjc",
+        "compendium": "npc-gallery",
+        "name": "Smith",
+        "prompt": "Fantasy art Smith human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870593,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

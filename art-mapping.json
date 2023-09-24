@@ -7761,6 +7761,10 @@
         "7eJJIIVEDB3EFFcZ": {
             "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/7eJJIIVEDB3EFFcZ/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/7eJJIIVEDB3EFFcZ/token.webp"
+        },
+        "o9dAbSVn4Vi4ejjc": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/o9dAbSVn4Vi4ejjc/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/o9dAbSVn4Vi4ejjc/token.webp"
         }
     }
 }
