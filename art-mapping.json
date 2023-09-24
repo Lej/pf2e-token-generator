@@ -7721,6 +7721,10 @@
         "X1cSs1jhTtx1zTI4": {
             "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/X1cSs1jhTtx1zTI4/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/X1cSs1jhTtx1zTI4/token.webp"
+        },
+        "TgeUj2IiyoTeZHIO": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/TgeUj2IiyoTeZHIO/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/TgeUj2IiyoTeZHIO/token.webp"
         }
     }
 }
