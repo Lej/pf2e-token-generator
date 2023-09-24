@@ -3913,5 +3913,14 @@
         "timestamp": 1695547972860,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1DzJjE7OnRDY5Pir": {
+        "id": "1DzJjE7OnRDY5Pir",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Giant Opossum",
+        "prompt": "Fantasy art Giant Opossum animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972860,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
