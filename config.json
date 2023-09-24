@@ -7387,5 +7387,14 @@
         "timestamp": 1695547973040,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UyJUEp0asfGDBvYa": {
+        "id": "UyJUEp0asfGDBvYa",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Elite Prefect (Fist) (3-4)",
+        "prompt": "Fantasy art Elite Prefect Fist construct in the style of Greg Rutkowski",
+        "timestamp": 1695547973041,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
