@@ -3886,5 +3886,14 @@
         "timestamp": 1695547972858,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QrD96KPUHGjjkLbL": {
+        "id": "QrD96KPUHGjjkLbL",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Kappa",
+        "prompt": "Fantasy art Kappa amphibious beast in the style of Greg Rutkowski",
+        "timestamp": 1695547972859,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
