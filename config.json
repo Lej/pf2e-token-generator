@@ -10375,5 +10375,14 @@
         "timestamp": 1695572870275,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "sNFBOw4z9KagWUHe": {
+        "id": "sNFBOw4z9KagWUHe",
+        "compendium": "pathfinder-bestiary",
+        "name": "Flesh Golem",
+        "prompt": "Fantasy art Flesh Golem construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870276,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
