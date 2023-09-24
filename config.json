@@ -13228,5 +13228,14 @@
         "timestamp": 1695572870399,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TZcDdN5o7s4alZNE": {
+        "id": "TZcDdN5o7s4alZNE",
+        "compendium": "pathfinder-bestiary",
+        "name": "Gelatinous Cube",
+        "prompt": "Fantasy art Gelatinous Cube mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1695572870400,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
