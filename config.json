@@ -11041,5 +11041,14 @@
         "timestamp": 1695572870310,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "w20FfmKH7ukghczT": {
+        "id": "w20FfmKH7ukghczT",
+        "compendium": "pathfinder-bestiary",
+        "name": "Greedspawn",
+        "prompt": "Fantasy art Greedspawn aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870311,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
