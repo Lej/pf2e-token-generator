@@ -15667,5 +15667,14 @@
         "timestamp": 1695572870532,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zLeePJplf25baqJa": {
+        "id": "zLeePJplf25baqJa",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Charmed Crab",
+        "prompt": "Fantasy art Charmed Crab animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1695572870532,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
