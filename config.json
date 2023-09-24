@@ -15775,5 +15775,14 @@
         "timestamp": 1695572870535,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "M1mbQnk40lu1lxdr": {
+        "id": "M1mbQnk40lu1lxdr",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Young Ahuizotl",
+        "prompt": "Fantasy art Young Ahuizotl amphibious beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870535,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
