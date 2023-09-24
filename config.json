@@ -10348,5 +10348,14 @@
         "timestamp": 1695572870275,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0rfropeocJWXC6pg": {
+        "id": "0rfropeocJWXC6pg",
+        "compendium": "pathfinder-bestiary",
+        "name": "Goblin Dog",
+        "prompt": "Fantasy art Goblin Dog animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870275,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
