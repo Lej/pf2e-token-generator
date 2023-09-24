@@ -15712,5 +15712,14 @@
         "timestamp": 1695572870533,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YpACDyWCHXtaXppg": {
+        "id": "YpACDyWCHXtaXppg",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Scorched Earth Orc (Clipper) (7-8)",
+        "prompt": "Fantasy art Scorched Earth Orc Clipper humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1695572870534,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
