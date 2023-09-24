@@ -17620,5 +17620,14 @@
         "timestamp": 1695572870601,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7GGHuOlSzcaF2AdL": {
+        "id": "7GGHuOlSzcaF2AdL",
+        "compendium": "npc-gallery",
+        "name": "Charlatan",
+        "prompt": "Fantasy art Charlatan human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870602,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
