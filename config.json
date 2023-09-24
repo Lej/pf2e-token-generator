@@ -14650,5 +14650,14 @@
         "timestamp": 1695572870499,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "sOTeRfQ6NB3CtqBX": {
+        "id": "sOTeRfQ6NB3CtqBX",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Quickling (PFS 2-00)",
+        "prompt": "Fantasy art Quickling fey in the style of Greg Rutkowski",
+        "timestamp": 1695572870499,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
