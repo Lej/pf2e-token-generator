@@ -9979,5 +9979,14 @@
         "timestamp": 1695572870131,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Fu4ChrUyc18E0V0v": {
+        "id": "Fu4ChrUyc18E0V0v",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Bugbear Raider",
+        "prompt": "Fantasy art Bugbear Raider goblin humanoid Variant bugbear tormentor in the style of Greg Rutkowski",
+        "timestamp": 1695572870132,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
