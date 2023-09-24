@@ -5953,6 +5953,10 @@
         "GyigGu36XLPV72nW": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/GyigGu36XLPV72nW/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/GyigGu36XLPV72nW/token.webp"
+        },
+        "mblGfyIXWhiaNpFw": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/mblGfyIXWhiaNpFw/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/mblGfyIXWhiaNpFw/token.webp"
         }
     }
 }
