@@ -5146,5 +5146,14 @@
         "timestamp": 1695547972913,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Q02Io3eFQpBad3vD": {
+        "id": "Q02Io3eFQpBad3vD",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Stone Lion",
+        "prompt": "Fantasy art Stone Lion celestial in the style of Greg Rutkowski",
+        "timestamp": 1695547972913,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
