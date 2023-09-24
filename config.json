@@ -6928,5 +6928,14 @@
         "timestamp": 1695547973025,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XiGTud90i1WkJYz2": {
+        "id": "XiGTud90i1WkJYz2",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Offended Gambler",
+        "prompt": "Fantasy art Offended Gambler human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973025,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
