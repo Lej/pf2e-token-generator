@@ -17098,5 +17098,14 @@
         "timestamp": 1695572870582,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "hK8Tpg3baKWzmPEv": {
+        "id": "hK8Tpg3baKWzmPEv",
+        "compendium": "npc-gallery",
+        "name": "Tax Collector",
+        "prompt": "Fantasy art Tax Collector human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870583,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
