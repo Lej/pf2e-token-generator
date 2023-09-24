@@ -12616,5 +12616,14 @@
         "timestamp": 1695572870377,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Fa1S0A8fAx3SkO9h": {
+        "id": "Fa1S0A8fAx3SkO9h",
+        "compendium": "pathfinder-bestiary",
+        "name": "Brain Collector",
+        "prompt": "Fantasy art Brain Collector aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870378,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
