@@ -10645,5 +10645,14 @@
         "timestamp": 1695572870284,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yzyaD2yGDrxmYh7P": {
+        "id": "yzyaD2yGDrxmYh7P",
+        "compendium": "pathfinder-bestiary",
+        "name": "Lizardfolk Stargazer",
+        "prompt": "Fantasy art Lizardfolk Stargazer humanoid lizardfolk in the style of Greg Rutkowski",
+        "timestamp": 1695572870285,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
