@@ -13795,5 +13795,14 @@
         "timestamp": 1695572870424,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aNWiP985fISjClGo": {
+        "id": "aNWiP985fISjClGo",
+        "compendium": "pathfinder-bestiary",
+        "name": "Arboreal Warden",
+        "prompt": "Fantasy art Arboreal Warden plant in the style of Greg Rutkowski",
+        "timestamp": 1695572870424,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
