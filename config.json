@@ -14173,5 +14173,14 @@
         "timestamp": 1695572870466,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "x5UScdVKs3e9rsgb": {
+        "id": "x5UScdVKs3e9rsgb",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Dark Talon Kobold",
+        "prompt": "Fantasy art Dark Talon Kobold humanoid kobold Kobold rogue in the style of Greg Rutkowski",
+        "timestamp": 1695572870466,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
