@@ -17710,5 +17710,14 @@
         "timestamp": 1695572870606,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1Nr9cgWHMn8KtiXe": {
+        "id": "1Nr9cgWHMn8KtiXe",
+        "compendium": "fall-of-plaguestone",
+        "name": "Giant Lightning Serpent",
+        "prompt": "Fantasy art Giant Lightning Serpent animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870606,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
