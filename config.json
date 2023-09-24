@@ -6208,5 +6208,14 @@
         "timestamp": 1695547973004,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2fUyhm29ugKzkIdS": {
+        "id": "2fUyhm29ugKzkIdS",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Kobold Dragon Spellweaver",
+        "prompt": "Fantasy art Kobold Dragon Spellweaver humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695547973004,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
