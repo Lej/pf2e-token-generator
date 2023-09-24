@@ -6334,5 +6334,14 @@
         "timestamp": 1695547973007,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pJck5AXRMWcAequ5": {
+        "id": "pJck5AXRMWcAequ5",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Boggard Warrior (PFS 1-09)",
+        "prompt": "Fantasy art Boggard Warrior amphibious boggard humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973008,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
