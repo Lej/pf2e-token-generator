@@ -7972,5 +7972,14 @@
         "timestamp": 1695547973059,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aWiBgV5B9sIO7UtN": {
+        "id": "aWiBgV5B9sIO7UtN",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Human Bandit (3-4)",
+        "prompt": "Fantasy art Human Bandit human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973060,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
