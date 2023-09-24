@@ -3094,5 +3094,14 @@
         "timestamp": 1695547972827,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CSPuBqtPITQt43Md": {
+        "id": "CSPuBqtPITQt43Md",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Gathlain Wanderer",
+        "prompt": "Fantasy art Gathlain Wanderer fey plant in the style of Greg Rutkowski",
+        "timestamp": 1695547972827,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
