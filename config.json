@@ -14884,5 +14884,14 @@
         "timestamp": 1695572870508,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "61jBzgd1NYLw4NC0": {
+        "id": "61jBzgd1NYLw4NC0",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Vermlek Centaur (3-4)",
+        "prompt": "Fantasy art Vermlek Centaur demon fiend in the style of Greg Rutkowski",
+        "timestamp": 1695572870508,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
