@@ -10600,5 +10600,14 @@
         "timestamp": 1695572870283,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "irrXrWxJ0LYSUCQB": {
+        "id": "irrXrWxJ0LYSUCQB",
+        "compendium": "pathfinder-bestiary",
+        "name": "Adult Black Dragon",
+        "prompt": "Fantasy art Adult Black Dragon acid amphibious dragon in the style of Greg Rutkowski",
+        "timestamp": 1695572870283,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
