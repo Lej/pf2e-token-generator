@@ -11851,5 +11851,14 @@
         "timestamp": 1695572870346,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KxN9aGFGPxl6oLGF": {
+        "id": "KxN9aGFGPxl6oLGF",
+        "compendium": "pathfinder-bestiary",
+        "name": "Plague Zombie",
+        "prompt": "Fantasy art Plague Zombie mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695572870346,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
