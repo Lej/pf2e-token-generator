@@ -6766,5 +6766,14 @@
         "timestamp": 1695547973020,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "iozA5orydjkBmbHx": {
+        "id": "iozA5orydjkBmbHx",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Farmer Drystan's Scarecrow (3-4)",
+        "prompt": "Fantasy art Farmer Drystan's Scarecrow construct in the style of Greg Rutkowski",
+        "timestamp": 1695547973020,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
