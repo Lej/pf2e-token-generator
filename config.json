@@ -17899,5 +17899,14 @@
         "timestamp": 1695572870610,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jFA0q3g3MsFxS3xO": {
+        "id": "jFA0q3g3MsFxS3xO",
+        "compendium": "kingmaker-bestiary",
+        "name": "Goblin Bat-Dog",
+        "prompt": "Fantasy art Goblin Bat-Dog animal mutant Variant goblin dog in the style of Greg Rutkowski",
+        "timestamp": 1695572870610,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

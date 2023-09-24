@@ -7992,5 +7992,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/fall-of-plaguestone/PFBclNHc78MqYjBB/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/fall-of-plaguestone/PFBclNHc78MqYjBB/token.webp"
         }
+    },
+    "kingmaker-bestiary": {
+        "jFA0q3g3MsFxS3xO": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/kingmaker-bestiary/jFA0q3g3MsFxS3xO/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/kingmaker-bestiary/jFA0q3g3MsFxS3xO/token.webp"
+        }
     }
 }
