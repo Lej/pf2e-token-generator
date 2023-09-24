@@ -15469,5 +15469,14 @@
         "timestamp": 1695572870526,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "cx796RgvywxF8P1A": {
+        "id": "cx796RgvywxF8P1A",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Flaming Moss Monster",
+        "prompt": "Fantasy art Flaming Moss Monster fire plant in the style of Greg Rutkowski",
+        "timestamp": 1695572870526,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
