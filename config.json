@@ -12886,5 +12886,14 @@
         "timestamp": 1695572870385,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "zq18QX6CBJNeUIgG": {
+        "id": "zq18QX6CBJNeUIgG",
+        "compendium": "pathfinder-bestiary",
+        "name": "Gug",
+        "prompt": "Fantasy art Gug aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870386,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

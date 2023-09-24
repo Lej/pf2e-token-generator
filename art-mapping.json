@@ -5753,6 +5753,10 @@
         "wifELOkkRO2634bc": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/wifELOkkRO2634bc/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/wifELOkkRO2634bc/token.webp"
+        },
+        "zq18QX6CBJNeUIgG": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/zq18QX6CBJNeUIgG/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/zq18QX6CBJNeUIgG/token.webp"
         }
     }
 }
