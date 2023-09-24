@@ -5884,5 +5884,14 @@
         "timestamp": 1695547972985,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wmKIB7cgWdAZ29mv": {
+        "id": "wmKIB7cgWdAZ29mv",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Adult Underworld Dragon",
+        "prompt": "Fantasy art Adult Underworld Dragon dragon fire in the style of Greg Rutkowski",
+        "timestamp": 1695547972985,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
