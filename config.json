@@ -6235,5 +6235,14 @@
         "timestamp": 1695547973005,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vve98ekdPx8nJbF1": {
+        "id": "vve98ekdPx8nJbF1",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Injured Weak Otyugh",
+        "prompt": "Fantasy art Injured Weak Otyugh aberration in the style of Greg Rutkowski",
+        "timestamp": 1695547973005,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
