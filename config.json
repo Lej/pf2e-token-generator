@@ -3751,5 +3751,14 @@
         "timestamp": 1695547972851,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "D0IY6UW5I0R4GprS": {
+        "id": "D0IY6UW5I0R4GprS",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Ancient Sky Dragon (Spellcaster)",
+        "prompt": "Fantasy art Ancient Sky Dragon Spellcaster dragon electricity rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547972852,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

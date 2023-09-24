@@ -1681,6 +1681,10 @@
         "VF81W91YRFgtBLli": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/VF81W91YRFgtBLli/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/VF81W91YRFgtBLli/token.webp"
+        },
+        "D0IY6UW5I0R4GprS": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/D0IY6UW5I0R4GprS/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/D0IY6UW5I0R4GprS/token.webp"
         }
     }
 }
