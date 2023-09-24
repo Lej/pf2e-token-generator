@@ -13003,5 +13003,14 @@
         "timestamp": 1695572870390,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JKG3m8pFISF48Sfr": {
+        "id": "JKG3m8pFISF48Sfr",
+        "compendium": "pathfinder-bestiary",
+        "name": "Adult Green Dragon (Spellcaster)",
+        "prompt": "Fantasy art Adult Green Dragon Spellcaster amphibious dragon in the style of Greg Rutkowski",
+        "timestamp": 1695572870391,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
