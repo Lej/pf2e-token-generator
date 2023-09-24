@@ -9448,5 +9448,14 @@
         "timestamp": 1695572870108,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7Bon2mCIl8psUpUR": {
+        "id": "7Bon2mCIl8psUpUR",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Serraleth",
+        "prompt": "Fantasy art Serraleth demon fiend Female roru demon rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870109,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
