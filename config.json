@@ -13678,5 +13678,14 @@
         "timestamp": 1695572870420,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "j7NNPfZwD19BwSEZ": {
+        "id": "j7NNPfZwD19BwSEZ",
+        "compendium": "pathfinder-bestiary",
+        "name": "Unseen Servant",
+        "prompt": "Fantasy art Unseen Servant mindless summoned in the style of Greg Rutkowski",
+        "timestamp": 1695572870420,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
