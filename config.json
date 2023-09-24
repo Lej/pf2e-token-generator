@@ -4327,5 +4327,14 @@
         "timestamp": 1695547972878,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ls2qYZDASu3VgXxo": {
+        "id": "Ls2qYZDASu3VgXxo",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Ancient Sky Dragon",
+        "prompt": "Fantasy art Ancient Sky Dragon dragon electricity in the style of Greg Rutkowski",
+        "timestamp": 1695547972878,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
