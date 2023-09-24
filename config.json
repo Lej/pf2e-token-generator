@@ -12292,5 +12292,14 @@
         "timestamp": 1695572870365,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "S35DifoycBwkxaGq": {
+        "id": "S35DifoycBwkxaGq",
+        "compendium": "pathfinder-bestiary",
+        "name": "Demilich",
+        "prompt": "Fantasy art Demilich undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870365,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
