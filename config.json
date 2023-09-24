@@ -17737,5 +17737,14 @@
         "timestamp": 1695572870606,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "C7Wb70xpG2PvTslg": {
+        "id": "C7Wb70xpG2PvTslg",
+        "compendium": "fall-of-plaguestone",
+        "name": "Bloodlash Bush",
+        "prompt": "Fantasy art Bloodlash Bush plant in the style of Greg Rutkowski",
+        "timestamp": 1695572870606,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
