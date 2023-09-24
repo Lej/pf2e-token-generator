@@ -11446,5 +11446,14 @@
         "timestamp": 1695572870328,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KFf6pJmFmzj7HH9i": {
+        "id": "KFf6pJmFmzj7HH9i",
+        "compendium": "pathfinder-bestiary",
+        "name": "Water Mephit",
+        "prompt": "Fantasy art Water Mephit aquatic elemental water in the style of Greg Rutkowski",
+        "timestamp": 1695572870328,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
