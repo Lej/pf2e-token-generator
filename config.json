@@ -14236,5 +14236,14 @@
         "timestamp": 1695572870467,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QbV3wJXAyLz4Drad": {
+        "id": "QbV3wJXAyLz4Drad",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Kapmek",
+        "prompt": "Fantasy art Kapmek humanoid kobold Male kobold slurk-trainer in the style of Greg Rutkowski",
+        "timestamp": 1695572870468,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
