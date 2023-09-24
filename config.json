@@ -13813,5 +13813,14 @@
         "timestamp": 1695572870425,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "I4CpyMUsWfFYdpL5": {
+        "id": "I4CpyMUsWfFYdpL5",
+        "compendium": "pathfinder-bestiary",
+        "name": "Imp",
+        "prompt": "Fantasy art Imp devil fiend in the style of Greg Rutkowski",
+        "timestamp": 1695572870425,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
