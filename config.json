@@ -15163,5 +15163,14 @@
         "timestamp": 1695572870516,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1xVm60zTlUsH8hnR": {
+        "id": "1xVm60zTlUsH8hnR",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Barrow Quasit",
+        "prompt": "Fantasy art Barrow Quasit demon fiend in the style of Greg Rutkowski",
+        "timestamp": 1695572870516,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
