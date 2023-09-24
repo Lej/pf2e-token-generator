@@ -12805,5 +12805,14 @@
         "timestamp": 1695572870383,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WiOY3YbiKEJKIQQz": {
+        "id": "WiOY3YbiKEJKIQQz",
+        "compendium": "pathfinder-bestiary",
+        "name": "Stone Giant",
+        "prompt": "Fantasy art Stone Giant earth giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870383,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
