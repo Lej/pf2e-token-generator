@@ -16279,5 +16279,14 @@
         "timestamp": 1695572870551,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dPVX37fMzAzb3mkv": {
+        "id": "dPVX37fMzAzb3mkv",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Clockwork Puppeteer",
+        "prompt": "Fantasy art Clockwork Puppeteer clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870551,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
