@@ -8035,5 +8035,14 @@
         "timestamp": 1695547973061,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eR68t20AU5lPKALJ": {
+        "id": "eR68t20AU5lPKALJ",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Voidworm Ouroboros",
+        "prompt": "Fantasy art Voidworm Ouroboros monitor protean in the style of Greg Rutkowski",
+        "timestamp": 1695547973062,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
