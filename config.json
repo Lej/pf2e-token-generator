@@ -9016,5 +9016,14 @@
         "timestamp": 1695547973100,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jJwEeklWJu49aXi7": {
+        "id": "jJwEeklWJu49aXi7",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Grim Rictus Bridge Guard",
+        "prompt": "Fantasy art Grim Rictus Bridge Guard human humanoid Variant guard in the style of Greg Rutkowski",
+        "timestamp": 1695547973101,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
