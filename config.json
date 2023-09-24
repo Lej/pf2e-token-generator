@@ -17962,5 +17962,14 @@
         "timestamp": 1695572870614,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EvNCuVyY5sEGM4ZL": {
+        "id": "EvNCuVyY5sEGM4ZL",
+        "compendium": "kingmaker-bestiary",
+        "name": "Hannis Drelev",
+        "prompt": "Fantasy art Hannis Drelev human humanoid Male human baron in the style of Greg Rutkowski",
+        "timestamp": 1695572870614,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
