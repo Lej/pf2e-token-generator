@@ -10726,5 +10726,14 @@
         "timestamp": 1695572870287,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2T2cN4j4EzfDAIEe": {
+        "id": "2T2cN4j4EzfDAIEe",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ancient Red Dragon (Spellcaster)",
+        "prompt": "Fantasy art Ancient Red Dragon Spellcaster dragon fire in the style of Greg Rutkowski",
+        "timestamp": 1695572870289,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
