@@ -3823,5 +3823,14 @@
         "timestamp": 1695547972857,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "e6r8AGxfp8PDXaZk": {
+        "id": "e6r8AGxfp8PDXaZk",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Levaloch",
+        "prompt": "Fantasy art Levaloch construct devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547972857,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
