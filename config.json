@@ -14344,5 +14344,14 @@
         "timestamp": 1695572870489,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nSFA4Kei2Gyf7dc6": {
+        "id": "nSFA4Kei2Gyf7dc6",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Murta Kronniksdottir (5-6)",
+        "prompt": "Fantasy art Murta Kronniksdottir human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870489,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
