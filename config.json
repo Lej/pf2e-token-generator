@@ -4669,5 +4669,14 @@
         "timestamp": 1695547972892,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kU0ZXzbHqHUIND6m": {
+        "id": "kU0ZXzbHqHUIND6m",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Fortune Eater",
+        "prompt": "Fantasy art Fortune Eater incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972892,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
