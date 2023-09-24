@@ -7817,6 +7817,10 @@
         "QAodADCKmbkf53CE": {
             "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/QAodADCKmbkf53CE/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/QAodADCKmbkf53CE/token.webp"
+        },
+        "pMKrTXmrzDOc9avN": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/pMKrTXmrzDOc9avN/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/pMKrTXmrzDOc9avN/token.webp"
         }
     }
 }
