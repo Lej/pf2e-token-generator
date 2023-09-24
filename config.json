@@ -16981,5 +16981,14 @@
         "timestamp": 1695572870577,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "95IcOUvxABvj5lvo": {
+        "id": "95IcOUvxABvj5lvo",
+        "compendium": "npc-gallery",
+        "name": "Changeling Hellknight",
+        "prompt": "Fantasy art Changeling Hellknight changeling human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870577,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
