@@ -9826,5 +9826,14 @@
         "timestamp": 1695572870121,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ay3mb6lMokkgCxQL": {
+        "id": "ay3mb6lMokkgCxQL",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Fey-Touched Great Wolf",
+        "prompt": "Fantasy art Fey-Touched Great Wolf animal fey in the style of Greg Rutkowski",
+        "timestamp": 1695572870121,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
