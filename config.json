@@ -4210,5 +4210,14 @@
         "timestamp": 1695547972873,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "v0nvME08U3mZJWB3": {
+        "id": "v0nvME08U3mZJWB3",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Betobeto-San",
+        "prompt": "Fantasy art Betobeto-San incorporeal shadow spirit in the style of Greg Rutkowski",
+        "timestamp": 1695547972873,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
