@@ -4147,5 +4147,14 @@
         "timestamp": 1695547972871,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nr8EXKLSejspbb3d": {
+        "id": "nr8EXKLSejspbb3d",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Red Fox",
+        "prompt": "Fantasy art Red Fox animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972871,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
