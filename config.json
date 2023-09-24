@@ -9754,5 +9754,14 @@
         "timestamp": 1695572870119,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "t4trkvNuN5cQudRR": {
+        "id": "t4trkvNuN5cQudRR",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Determined Halran (1-2)",
+        "prompt": "Fantasy art Determined Halran human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870119,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
