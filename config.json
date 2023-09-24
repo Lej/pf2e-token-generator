@@ -4039,5 +4039,14 @@
         "timestamp": 1695547972864,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YO3aTYRNGXWiSRal": {
+        "id": "YO3aTYRNGXWiSRal",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Sorcerous Skull Swarm",
+        "prompt": "Fantasy art Sorcerous Skull Swarm swarm undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972864,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
