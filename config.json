@@ -13246,5 +13246,14 @@
         "timestamp": 1695572870400,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "j0gCguJx3ILB1j9o": {
+        "id": "j0gCguJx3ILB1j9o",
+        "compendium": "pathfinder-bestiary",
+        "name": "Soulbound Doll (Chaotic Good)",
+        "prompt": "Fantasy art Soulbound Doll Chaotic Good construct soulbound in the style of Greg Rutkowski",
+        "timestamp": 1695572870400,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
