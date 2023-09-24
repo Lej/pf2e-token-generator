@@ -12832,5 +12832,14 @@
         "timestamp": 1695572870384,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FJo8VkrM7kLkHa5D": {
+        "id": "FJo8VkrM7kLkHa5D",
+        "compendium": "pathfinder-bestiary",
+        "name": "Zombie Hulk",
+        "prompt": "Fantasy art Zombie Hulk mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695572870384,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
