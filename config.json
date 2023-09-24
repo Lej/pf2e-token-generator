@@ -8845,5 +8845,14 @@
         "timestamp": 1695547973093,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cINSKPBcnWgzeTFx": {
+        "id": "cINSKPBcnWgzeTFx",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Overtaxed Vrisk",
+        "prompt": "Fantasy art Overtaxed Vrisk construct golem in the style of Greg Rutkowski",
+        "timestamp": 1695547973093,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
