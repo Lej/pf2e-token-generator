@@ -16648,5 +16648,14 @@
         "timestamp": 1695572870563,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "V3la31QNaidyHUnU": {
+        "id": "V3la31QNaidyHUnU",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Clockwork Shambler",
+        "prompt": "Fantasy art Clockwork Shambler construct mindless zombie Variant zombie shambler in the style of Greg Rutkowski",
+        "timestamp": 1695572870563,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
