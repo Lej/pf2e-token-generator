@@ -12265,5 +12265,14 @@
         "timestamp": 1695572870363,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "bIXfNKFWduf8MH0f": {
+        "id": "bIXfNKFWduf8MH0f",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ogre Boss",
+        "prompt": "Fantasy art Ogre Boss giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870364,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
