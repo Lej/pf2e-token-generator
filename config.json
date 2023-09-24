@@ -17422,5 +17422,14 @@
         "timestamp": 1695572870594,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2SBKFCog4JY3WrOW": {
+        "id": "2SBKFCog4JY3WrOW",
+        "compendium": "npc-gallery",
+        "name": "Rain-Scribe",
+        "prompt": "Fantasy art Rain-Scribe elf human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870595,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
