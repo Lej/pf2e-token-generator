@@ -3130,5 +3130,14 @@
         "timestamp": 1695547972828,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6rtLd2rN1qd6eCqK": {
+        "id": "6rtLd2rN1qd6eCqK",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Hieracosphinx",
+        "prompt": "Fantasy art Hieracosphinx beast in the style of Greg Rutkowski",
+        "timestamp": 1695547972829,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
