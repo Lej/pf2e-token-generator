@@ -7936,5 +7936,14 @@
         "timestamp": 1695547973058,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NUFsxlmHqk4LeYlq": {
+        "id": "NUFsxlmHqk4LeYlq",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Greater Metallic Sod Hound",
+        "prompt": "Fantasy art Greater Metallic Sod Hound earth elemental Variant sod hound in the style of Greg Rutkowski",
+        "timestamp": 1695547973059,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
