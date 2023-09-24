@@ -12994,5 +12994,14 @@
         "timestamp": 1695572870390,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FHfrIJCdKTzy2rrR": {
+        "id": "FHfrIJCdKTzy2rrR",
+        "compendium": "pathfinder-bestiary",
+        "name": "Cauthooj",
+        "prompt": "Fantasy art Cauthooj beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870390,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
