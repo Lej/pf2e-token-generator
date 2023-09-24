@@ -6874,5 +6874,14 @@
         "timestamp": 1695547973023,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "da3XtaZGVIYkfpKE": {
+        "id": "da3XtaZGVIYkfpKE",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Weak Spider Swarm",
+        "prompt": "Fantasy art Weak Spider Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547973024,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
