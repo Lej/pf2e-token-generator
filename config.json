@@ -5812,5 +5812,14 @@
         "timestamp": 1695547972983,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fcFQ2GDUZ9YAhiDC": {
+        "id": "fcFQ2GDUZ9YAhiDC",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Animated Trebuchet",
+        "prompt": "Fantasy art Animated Trebuchet construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695547972983,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
