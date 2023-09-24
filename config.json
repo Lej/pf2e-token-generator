@@ -5029,5 +5029,14 @@
         "timestamp": 1695547972907,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "S6V3z6bE6G9J68tE": {
+        "id": "S6V3z6bE6G9J68tE",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Ringhorn Ram",
+        "prompt": "Fantasy art Ringhorn Ram animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972907,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
