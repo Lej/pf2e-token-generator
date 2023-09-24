@@ -4993,5 +4993,14 @@
         "timestamp": 1695547972906,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xnrXf66rFvAfyhE9": {
+        "id": "xnrXf66rFvAfyhE9",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Palace Skelm",
+        "prompt": "Fantasy art Palace Skelm humanoid skelm rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547972907,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
