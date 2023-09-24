@@ -5893,5 +5893,14 @@
         "timestamp": 1695547972985,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hNW3X8MbQQ9pUMiR": {
+        "id": "hNW3X8MbQQ9pUMiR",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Buso Farmer",
+        "prompt": "Fantasy art Buso Farmer humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972985,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
