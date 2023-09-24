@@ -15073,5 +15073,14 @@
         "timestamp": 1695572870514,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "c4KECFBOIXqAagwm": {
+        "id": "c4KECFBOIXqAagwm",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Mishka The Bear (7-8)",
+        "prompt": "Fantasy art Mishka The Bear animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870514,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
