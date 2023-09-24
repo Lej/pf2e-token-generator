@@ -12544,5 +12544,14 @@
         "timestamp": 1695572870375,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "S8iX8sPaYFFYDoUq": {
+        "id": "S8iX8sPaYFFYDoUq",
+        "compendium": "pathfinder-bestiary",
+        "name": "Bunyip",
+        "prompt": "Fantasy art Bunyip animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1695572870375,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
