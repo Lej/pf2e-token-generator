@@ -6541,5 +6541,14 @@
         "timestamp": 1695547973013,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xFeeszDfh4RISbib": {
+        "id": "xFeeszDfh4RISbib",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Gwibble (1-2)",
+        "prompt": "Fantasy art Gwibble fey gremlin in the style of Greg Rutkowski",
+        "timestamp": 1695547973013,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

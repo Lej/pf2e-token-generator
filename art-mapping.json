@@ -2925,6 +2925,10 @@
         "FG0Cc949yZ8opW8I": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-1-bestiary/FG0Cc949yZ8opW8I/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-1-bestiary/FG0Cc949yZ8opW8I/token.webp"
+        },
+        "xFeeszDfh4RISbib": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-1-bestiary/xFeeszDfh4RISbib/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-1-bestiary/xFeeszDfh4RISbib/token.webp"
         }
     }
 }
