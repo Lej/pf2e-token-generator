@@ -14830,5 +14830,14 @@
         "timestamp": 1695572870506,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "C0UQiPJLDm7vb0ZV": {
+        "id": "C0UQiPJLDm7vb0ZV",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Master Sergeant Morgroar (5-6)",
+        "prompt": "Fantasy art Master Sergeant Morgroar goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870507,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
