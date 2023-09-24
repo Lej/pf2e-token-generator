@@ -4372,5 +4372,14 @@
         "timestamp": 1695547972880,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jdqCEhsHDs4ABh2X": {
+        "id": "jdqCEhsHDs4ABh2X",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Jorogumo",
+        "prompt": "Fantasy art Jorogumo humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972880,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
