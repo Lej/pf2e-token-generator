@@ -15514,5 +15514,14 @@
         "timestamp": 1695572870526,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZpSLUDoO0WmxwLCG": {
+        "id": "ZpSLUDoO0WmxwLCG",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Onyx Alliance Agent (7-8)",
+        "prompt": "Fantasy art Onyx Alliance Agent human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870527,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
