@@ -7126,5 +7126,14 @@
         "timestamp": 1695547973032,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0TEnslG0jaLrbf58": {
+        "id": "0TEnslG0jaLrbf58",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Tough Giant Shrew",
+        "prompt": "Fantasy art Tough Giant Shrew animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973032,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
