@@ -17854,5 +17854,14 @@
         "timestamp": 1695572870609,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "23kCcF391RtapbfJ": {
+        "id": "23kCcF391RtapbfJ",
+        "compendium": "fall-of-plaguestone",
+        "name": "Stone Horse",
+        "prompt": "Fantasy art Stone Horse animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870609,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
