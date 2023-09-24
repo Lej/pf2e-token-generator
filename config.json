@@ -5731,5 +5731,14 @@
         "timestamp": 1695547972979,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "61atKNQVF73vWpqc": {
+        "id": "61atKNQVF73vWpqc",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Divine Warden Of Nethys",
+        "prompt": "Fantasy art Divine Warden Of Nethys construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695547972979,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
