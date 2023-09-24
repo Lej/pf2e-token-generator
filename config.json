@@ -13930,5 +13930,14 @@
         "timestamp": 1695572870430,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oBMIc2S8ekmDgPpi": {
+        "id": "oBMIc2S8ekmDgPpi",
+        "compendium": "pathfinder-bestiary",
+        "name": "Awakened Tree",
+        "prompt": "Fantasy art Awakened Tree plant in the style of Greg Rutkowski",
+        "timestamp": 1695572870430,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
