@@ -14605,5 +14605,14 @@
         "timestamp": 1695572870498,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "R1QGjRlquOmfH2Zx": {
+        "id": "R1QGjRlquOmfH2Zx",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Exploding Skeleton Guard",
+        "prompt": "Fantasy art Exploding Skeleton Guard mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870498,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
