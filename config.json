@@ -4957,5 +4957,14 @@
         "timestamp": 1695547972904,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MD6eXpxoSPO02fZY": {
+        "id": "MD6eXpxoSPO02fZY",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Xiuh Couatl",
+        "prompt": "Fantasy art Xiuh Couatl beast couatl rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547972905,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
