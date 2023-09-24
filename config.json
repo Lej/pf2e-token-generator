@@ -7522,5 +7522,14 @@
         "timestamp": 1695547973044,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "E17afWSsCBGM8Gnq": {
+        "id": "E17afWSsCBGM8Gnq",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Nalla, Rebel Leader (3-4)",
+        "prompt": "Fantasy art Nalla, Rebel Leader human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973045,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
