@@ -3967,5 +3967,14 @@
         "timestamp": 1695547972861,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eGNpuEg60STItyGz": {
+        "id": "eGNpuEg60STItyGz",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Cactus Leshy",
+        "prompt": "Fantasy art Cactus Leshy leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1695547972862,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
