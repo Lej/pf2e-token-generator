@@ -15136,5 +15136,14 @@
         "timestamp": 1695572870515,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ek6C2abooQizETsX": {
+        "id": "Ek6C2abooQizETsX",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Draugr Raider",
+        "prompt": "Fantasy art Draugr Raider undead water in the style of Greg Rutkowski",
+        "timestamp": 1695572870516,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
