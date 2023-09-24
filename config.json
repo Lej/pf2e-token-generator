@@ -12778,5 +12778,14 @@
         "timestamp": 1695572870382,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aq2H1lRALUNMEGRG": {
+        "id": "aq2H1lRALUNMEGRG",
+        "compendium": "pathfinder-bestiary",
+        "name": "Guardian Naga",
+        "prompt": "Fantasy art Guardian Naga aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870383,
+        "seed": 1024,
+        "used_seed": 1027
     }
 }
