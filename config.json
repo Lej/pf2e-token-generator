@@ -11725,5 +11725,14 @@
         "timestamp": 1695572870341,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QQQhNnCit9XLMMoN": {
+        "id": "QQQhNnCit9XLMMoN",
+        "compendium": "pathfinder-bestiary",
+        "name": "Greater Nightmare",
+        "prompt": "Fantasy art Greater Nightmare beast fiend in the style of Greg Rutkowski",
+        "timestamp": 1695572870341,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
