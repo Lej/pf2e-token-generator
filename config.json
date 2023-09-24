@@ -9691,5 +9691,14 @@
         "timestamp": 1695572870117,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "E0KmdZTSCae2rVJi": {
+        "id": "E0KmdZTSCae2rVJi",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Travel Worn Lurker In Light",
+        "prompt": "Fantasy art Travel Worn Lurker In Light fey in the style of Greg Rutkowski",
+        "timestamp": 1695572870117,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
