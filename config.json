@@ -16405,5 +16405,14 @@
         "timestamp": 1695572870555,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5jRhf7NP9thQtYCe": {
+        "id": "5jRhf7NP9thQtYCe",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Ogre Slug",
+        "prompt": "Fantasy art Ogre Slug giant humanoid Variant elite ogre gluttons in the style of Greg Rutkowski",
+        "timestamp": 1695572870555,
+        "seed": 1024,
+        "used_seed": 1028
     }
 }
