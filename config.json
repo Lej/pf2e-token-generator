@@ -8881,5 +8881,14 @@
         "timestamp": 1695547973095,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PKLIiMW0UMWYT6os": {
+        "id": "PKLIiMW0UMWYT6os",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Ulfen Soldier",
+        "prompt": "Fantasy art Ulfen Soldier human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973096,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
