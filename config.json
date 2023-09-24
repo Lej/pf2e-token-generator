@@ -15460,5 +15460,14 @@
         "timestamp": 1695572870525,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "o13KISidrNovd4jp": {
+        "id": "o13KISidrNovd4jp",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Cyclops Bodak",
+        "prompt": "Fantasy art Cyclops Bodak undead Variant Bodak in the style of Greg Rutkowski",
+        "timestamp": 1695572870526,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
