@@ -13183,5 +13183,14 @@
         "timestamp": 1695572870398,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Jy2va0NTTbaUH1zP": {
+        "id": "Jy2va0NTTbaUH1zP",
+        "compendium": "pathfinder-bestiary",
+        "name": "War Horse",
+        "prompt": "Fantasy art War Horse animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870398,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
