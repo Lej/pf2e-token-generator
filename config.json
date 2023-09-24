@@ -14272,5 +14272,14 @@
         "timestamp": 1695572870469,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xDF9jeMsYjrRvuE5": {
+        "id": "xDF9jeMsYjrRvuE5",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "King Merlokrep",
+        "prompt": "Fantasy art King Merlokrep humanoid kobold Male kobold king in the style of Greg Rutkowski",
+        "timestamp": 1695572870470,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
