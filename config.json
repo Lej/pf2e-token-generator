@@ -17350,5 +17350,14 @@
         "timestamp": 1695572870592,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "crTWewxna93vEt6B": {
+        "id": "crTWewxna93vEt6B",
+        "compendium": "npc-gallery",
+        "name": "Acolyte of Nethys",
+        "prompt": "Fantasy art Acolyte of Nethys human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870592,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
