@@ -9556,5 +9556,14 @@
         "timestamp": 1695572870113,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SO8aRCEXdCRJ8TIG": {
+        "id": "SO8aRCEXdCRJ8TIG",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Smokesight Prowler Wight",
+        "prompt": "Fantasy art Smokesight Prowler Wight undead wight in the style of Greg Rutkowski",
+        "timestamp": 1695572870113,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
