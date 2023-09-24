@@ -13075,5 +13075,14 @@
         "timestamp": 1695572870394,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zJZqpx6pPW7dxEUV": {
+        "id": "zJZqpx6pPW7dxEUV",
+        "compendium": "pathfinder-bestiary",
+        "name": "Giant Scorpion",
+        "prompt": "Fantasy art Giant Scorpion animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870394,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
