@@ -7135,5 +7135,14 @@
         "timestamp": 1695547973032,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "20DJMDdNk0zLzaZZ": {
+        "id": "20DJMDdNk0zLzaZZ",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Immature Giant Gecko",
+        "prompt": "Fantasy art Immature Giant Gecko animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973032,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
