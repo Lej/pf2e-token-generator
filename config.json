@@ -6370,5 +6370,14 @@
         "timestamp": 1695547973009,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7467YYEHyLkJzXvU": {
+        "id": "7467YYEHyLkJzXvU",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Technic Zombie (3-4)",
+        "prompt": "Fantasy art Technic Zombie humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973009,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
