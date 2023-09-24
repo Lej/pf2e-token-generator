@@ -17017,5 +17017,14 @@
         "timestamp": 1695572870579,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "u3tXaX3sOtCvuHW3": {
+        "id": "u3tXaX3sOtCvuHW3",
+        "compendium": "npc-gallery",
+        "name": "Farmer",
+        "prompt": "Fantasy art Farmer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870579,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
