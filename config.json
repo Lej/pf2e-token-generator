@@ -16243,5 +16243,14 @@
         "timestamp": 1695572870550,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "R9DlBcLJ5YbrXSuQ": {
+        "id": "R9DlBcLJ5YbrXSuQ",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Roxy",
+        "prompt": "Fantasy art Roxy dragon earth Female prairie drake in the style of Greg Rutkowski",
+        "timestamp": 1695572870550,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
