@@ -3058,5 +3058,14 @@
         "timestamp": 1695547972825,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TeaF0WreNshQxbe8": {
+        "id": "TeaF0WreNshQxbe8",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Wizard Sponge (Toxic Lair)",
+        "prompt": "Fantasy art Wizard Sponge Toxic Lair fungus mindless swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547972826,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
