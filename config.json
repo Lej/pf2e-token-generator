@@ -16774,5 +16774,14 @@
         "timestamp": 1695572870566,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "ceKqkc0c86gh6cI1": {
+        "id": "ceKqkc0c86gh6cI1",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Mutant Desert Drake",
+        "prompt": "Fantasy art Mutant Desert Drake dragon earth mutant Mana Wastes mutated desert drake in the style of Greg Rutkowski",
+        "timestamp": 1695572870566,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
