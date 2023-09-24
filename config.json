@@ -15352,5 +15352,14 @@
         "timestamp": 1695572870522,
         "seed": 1024,
         "used_seed": 1028
+    },
+    "ad58hkodIp5UjPa3": {
+        "id": "ad58hkodIp5UjPa3",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Mutated Trollhound",
+        "prompt": "Fantasy art Mutated Trollhound beast troll in the style of Greg Rutkowski",
+        "timestamp": 1695572870522,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
