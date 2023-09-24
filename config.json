@@ -8485,5 +8485,14 @@
         "timestamp": 1695547973078,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YBrbpODnj7nYtI7W": {
+        "id": "YBrbpODnj7nYtI7W",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Transformed Bremix (7-8)",
+        "prompt": "Fantasy art Transformed Bremix humanoid skelm Variant palace skelm rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547973078,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
