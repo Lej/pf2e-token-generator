@@ -8476,5 +8476,14 @@
         "timestamp": 1695547973077,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "U5pmX9DX9Xk7zrJj": {
+        "id": "U5pmX9DX9Xk7zrJj",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Elven Torchbearer",
+        "prompt": "Fantasy art Elven Torchbearer humanoid Variant torchbearer in the style of Greg Rutkowski",
+        "timestamp": 1695547973078,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
