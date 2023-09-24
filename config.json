@@ -11779,5 +11779,14 @@
         "timestamp": 1695572870343,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WNqPRMjKW0oCHZ8X": {
+        "id": "WNqPRMjKW0oCHZ8X",
+        "compendium": "pathfinder-bestiary",
+        "name": "Krooth",
+        "prompt": "Fantasy art Krooth amphibious animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870343,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
