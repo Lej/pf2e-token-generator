@@ -16693,5 +16693,14 @@
         "timestamp": 1695572870564,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "A1o0TVBwnrdFyKBz": {
+        "id": "A1o0TVBwnrdFyKBz",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Slick",
+        "prompt": "Fantasy art Slick animal Giant chameleon in the style of Greg Rutkowski",
+        "timestamp": 1695572870564,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
