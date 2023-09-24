@@ -10879,5 +10879,14 @@
         "timestamp": 1695572870300,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Cq8sRhVVF0hagBu6": {
+        "id": "Cq8sRhVVF0hagBu6",
+        "compendium": "pathfinder-bestiary",
+        "name": "Vampire Count",
+        "prompt": "Fantasy art Vampire Count undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1695572870300,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
