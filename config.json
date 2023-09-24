@@ -12094,5 +12094,14 @@
         "timestamp": 1695572870357,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "csRH8Fx0r6iMWlFc": {
+        "id": "csRH8Fx0r6iMWlFc",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ether Spider",
+        "prompt": "Fantasy art Ether Spider beast ethereal in the style of Greg Rutkowski",
+        "timestamp": 1695572870358,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
