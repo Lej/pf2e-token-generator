@@ -14164,5 +14164,14 @@
         "timestamp": 1695572870465,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dcuPAoJUTKSSFx93": {
+        "id": "dcuPAoJUTKSSFx93",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Jekkajak",
+        "prompt": "Fantasy art Jekkajak humanoid kobold Female kobold sorcerer in the style of Greg Rutkowski",
+        "timestamp": 1695572870466,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

@@ -6323,6 +6323,10 @@
         "T4ZhpGRLsNT1bKoS": {
             "actor": "modules/pf2e-ai-token-placeholders/images/crown-of-the-kobold-king-bestiary/T4ZhpGRLsNT1bKoS/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/crown-of-the-kobold-king-bestiary/T4ZhpGRLsNT1bKoS/token.webp"
+        },
+        "dcuPAoJUTKSSFx93": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/crown-of-the-kobold-king-bestiary/dcuPAoJUTKSSFx93/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/crown-of-the-kobold-king-bestiary/dcuPAoJUTKSSFx93/token.webp"
         }
     }
 }
