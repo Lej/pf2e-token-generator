@@ -15964,5 +15964,14 @@
         "timestamp": 1695572870540,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "BPchAmEdLQtWhe9r": {
+        "id": "BPchAmEdLQtWhe9r",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Animated Guardian Warrior",
+        "prompt": "Fantasy art Animated Guardian Warrior construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870541,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
