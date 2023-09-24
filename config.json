@@ -16657,5 +16657,14 @@
         "timestamp": 1695572870563,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EjQYuMP3t0J4OI3I": {
+        "id": "EjQYuMP3t0J4OI3I",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Gunmarshal",
+        "prompt": "Fantasy art Gunmarshal humanoid Rookie shieldmarshal in the style of Greg Rutkowski",
+        "timestamp": 1695572870563,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
