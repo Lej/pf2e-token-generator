@@ -5848,5 +5848,14 @@
         "timestamp": 1695547972984,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "JGpz9B0QkkAcHT4e": {
+        "id": "JGpz9B0QkkAcHT4e",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Empress Mage-Eater Worm",
+        "prompt": "Fantasy art Empress Mage-Eater Worm animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972984,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
