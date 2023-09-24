@@ -12301,5 +12301,14 @@
         "timestamp": 1695572870365,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3VsQFEdIN5e1uWle": {
+        "id": "3VsQFEdIN5e1uWle",
+        "compendium": "pathfinder-bestiary",
+        "name": "Giant Moray Eel",
+        "prompt": "Fantasy art Giant Moray Eel animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1695572870366,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
