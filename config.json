@@ -16414,5 +16414,14 @@
         "timestamp": 1695572870555,
         "seed": 1024,
         "used_seed": 1028
+    },
+    "oriWalYkx3CUSPdN": {
+        "id": "oriWalYkx3CUSPdN",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Clockwork Buccaneer",
+        "prompt": "Fantasy art Clockwork Buccaneer clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870556,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
