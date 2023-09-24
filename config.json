@@ -10591,5 +10591,14 @@
         "timestamp": 1695572870282,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RizAUQHtPy0YRUyt": {
+        "id": "RizAUQHtPy0YRUyt",
+        "compendium": "pathfinder-bestiary",
+        "name": "Soulbound Doll (Lawful Evil)",
+        "prompt": "Fantasy art Soulbound Doll Lawful Evil construct soulbound in the style of Greg Rutkowski",
+        "timestamp": 1695572870283,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
