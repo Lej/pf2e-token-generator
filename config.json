@@ -16621,5 +16621,14 @@
         "timestamp": 1695572870561,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aJCzNXYDKsTGyaaN": {
+        "id": "aJCzNXYDKsTGyaaN",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Gilded Gunner Goon",
+        "prompt": "Fantasy art Gilded Gunner Goon human humanoid Various criminals in the style of Greg Rutkowski",
+        "timestamp": 1695572870562,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
