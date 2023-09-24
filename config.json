@@ -7180,5 +7180,14 @@
         "timestamp": 1695547973034,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "8y0d3FLVkqbObMLM": {
+        "id": "8y0d3FLVkqbObMLM",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Veteran Guard Captain",
+        "prompt": "Fantasy art Veteran Guard Captain human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973034,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
