@@ -3643,5 +3643,14 @@
         "timestamp": 1695547972846,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "H7PDLOIbDG9zt4H1": {
+        "id": "H7PDLOIbDG9zt4H1",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Yzobu",
+        "prompt": "Fantasy art Yzobu animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972846,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
