@@ -7216,5 +7216,14 @@
         "timestamp": 1695547973035,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Jfm63bPimFxf3u1T": {
+        "id": "Jfm63bPimFxf3u1T",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Halfling Druid (3-4)",
+        "prompt": "Fantasy art Halfling Druid halfling humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973035,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
