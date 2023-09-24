@@ -14065,5 +14065,14 @@
         "timestamp": 1695572870462,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bwJ79rNvV7Elia5Q": {
+        "id": "bwJ79rNvV7Elia5Q",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Gurtlekep",
+        "prompt": "Fantasy art Gurtlekep humanoid kobold Male kobold lookout in the style of Greg Rutkowski",
+        "timestamp": 1695572870462,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
