@@ -3103,5 +3103,14 @@
         "timestamp": 1695547972827,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BZKNSyp1ATtn3JXj": {
+        "id": "BZKNSyp1ATtn3JXj",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Adachros",
+        "prompt": "Fantasy art Adachros astral in the style of Greg Rutkowski",
+        "timestamp": 1695547972828,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
