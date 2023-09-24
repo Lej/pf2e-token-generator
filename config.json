@@ -3202,5 +3202,14 @@
         "timestamp": 1695547972831,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aqvMwn6885CJEmCO": {
+        "id": "aqvMwn6885CJEmCO",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Garuda",
+        "prompt": "Fantasy art Garuda celestial in the style of Greg Rutkowski",
+        "timestamp": 1695547972832,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
