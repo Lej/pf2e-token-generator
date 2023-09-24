@@ -10177,5 +10177,14 @@
         "timestamp": 1695572870142,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NvyAvzxxfb8XEQr2": {
+        "id": "NvyAvzxxfb8XEQr2",
+        "compendium": "mwangi-expanse-bestiary",
+        "name": "Grootslang",
+        "prompt": "Fantasy art Grootslang beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870142,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
