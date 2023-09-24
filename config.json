@@ -12247,5 +12247,14 @@
         "timestamp": 1695572870363,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "K9Hw43co8fhwmKkM": {
+        "id": "K9Hw43co8fhwmKkM",
+        "compendium": "pathfinder-bestiary",
+        "name": "Grothlut",
+        "prompt": "Fantasy art Grothlut aberration mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870363,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
