@@ -3283,5 +3283,14 @@
         "timestamp": 1695547972835,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OsWFo87OQ4G67zMS": {
+        "id": "OsWFo87OQ4G67zMS",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Kurobozu",
+        "prompt": "Fantasy art Kurobozu undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972835,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
