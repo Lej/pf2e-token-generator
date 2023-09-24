@@ -7225,5 +7225,14 @@
         "timestamp": 1695547973035,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dSA9TMhvF4yw20c7": {
+        "id": "dSA9TMhvF4yw20c7",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Kobold Warrior (PFS 1-11)",
+        "prompt": "Fantasy art Kobold Warrior humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695547973036,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
