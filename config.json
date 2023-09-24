@@ -17404,5 +17404,14 @@
         "timestamp": 1695572870594,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sZ9RwN8zIzpztW3N": {
+        "id": "sZ9RwN8zIzpztW3N",
+        "compendium": "npc-gallery",
+        "name": "Azarketi Tide Tamer",
+        "prompt": "Fantasy art Azarketi Tide Tamer amphibious azarketi humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870594,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
