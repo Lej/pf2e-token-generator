@@ -12076,5 +12076,14 @@
         "timestamp": 1695572870356,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "t4JYGYJqT1CaqKvh": {
+        "id": "t4JYGYJqT1CaqKvh",
+        "compendium": "pathfinder-bestiary",
+        "name": "Shining Child",
+        "prompt": "Fantasy art Shining Child astral in the style of Greg Rutkowski",
+        "timestamp": 1695572870357,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
