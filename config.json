@@ -3769,5 +3769,14 @@
         "timestamp": 1695547972853,
         "seed": 1024,
         "used_seed": 1027
+    },
+    "0sQg5UM8dQY7fBhQ": {
+        "id": "0sQg5UM8dQY7fBhQ",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Ganzi Martial Artist",
+        "prompt": "Fantasy art Ganzi Martial Artist ganzi human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972854,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
