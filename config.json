@@ -9223,5 +9223,14 @@
         "timestamp": 1695572870102,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IpoCKKY4bUW4Jox9": {
+        "id": "IpoCKKY4bUW4Jox9",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Deimostride (9-10)",
+        "prompt": "Fantasy art Deimostride beast fiend Weak Greater Nightmare in the style of Greg Rutkowski",
+        "timestamp": 1695572870102,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
