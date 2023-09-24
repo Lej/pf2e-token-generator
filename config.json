@@ -6478,5 +6478,14 @@
         "timestamp": 1695547973011,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "w8pkSmcvpZfp7Hsw": {
+        "id": "w8pkSmcvpZfp7Hsw",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Larraz Virtanne",
+        "prompt": "Fantasy art Larraz Virtanne human humanoid orc Male half-orc druid in the style of Greg Rutkowski",
+        "timestamp": 1695547973012,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
