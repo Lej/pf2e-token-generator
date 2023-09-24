@@ -7000,5 +7000,14 @@
         "timestamp": 1695547973028,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cuTgbvAxDEkT4XhZ": {
+        "id": "cuTgbvAxDEkT4XhZ",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Fleshforge Dreg (Shield)",
+        "prompt": "Fantasy art Fleshforge Dreg Shield construct in the style of Greg Rutkowski",
+        "timestamp": 1695547973028,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
