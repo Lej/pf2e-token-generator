@@ -10942,5 +10942,14 @@
         "timestamp": 1695572870305,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZsduIlmluQe4ZxFy": {
+        "id": "ZsduIlmluQe4ZxFy",
+        "compendium": "pathfinder-bestiary",
+        "name": "Dero Strangler",
+        "prompt": "Fantasy art Dero Strangler dero humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870306,
+        "seed": 1024,
+        "used_seed": 1027
     }
 }
