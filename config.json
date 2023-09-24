@@ -9646,5 +9646,14 @@
         "timestamp": 1695572870115,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "r77a464nSqsntQnv": {
+        "id": "r77a464nSqsntQnv",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Grim Rictus Robber",
+        "prompt": "Fantasy art Grim Rictus Robber human humanoid Variant commoner in the style of Greg Rutkowski",
+        "timestamp": 1695572870116,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
