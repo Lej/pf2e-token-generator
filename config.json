@@ -16846,5 +16846,14 @@
         "timestamp": 1695572870569,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3lZhmvNLQkiYGAof": {
+        "id": "3lZhmvNLQkiYGAof",
+        "compendium": "npc-gallery",
+        "name": "Sage",
+        "prompt": "Fantasy art Sage human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870569,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
