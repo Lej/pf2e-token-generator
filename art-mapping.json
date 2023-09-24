@@ -3776,5 +3776,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/highhelm-bestiary/cWHQmwUkLYBlFOGX/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/highhelm-bestiary/cWHQmwUkLYBlFOGX/token.webp"
         }
+    },
+    "pfs-season-4-bestiary": {
+        "hbnmM6YafwUqH50s": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-4-bestiary/hbnmM6YafwUqH50s/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-4-bestiary/hbnmM6YafwUqH50s/token.webp"
+        }
     }
 }

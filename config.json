@@ -8449,5 +8449,14 @@
         "timestamp": 1695547973076,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hbnmM6YafwUqH50s": {
+        "id": "hbnmM6YafwUqH50s",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Bolger Trusk (7-8)",
+        "prompt": "Fantasy art Bolger Trusk undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1695547973076,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
