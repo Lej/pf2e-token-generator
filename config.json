@@ -8647,5 +8647,14 @@
         "timestamp": 1695547973084,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "oH2KT9LhUs299AN9": {
+        "id": "oH2KT9LhUs299AN9",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Dero Stalker (PFS 4-05)",
+        "prompt": "Fantasy art Dero Stalker dero humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973085,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
