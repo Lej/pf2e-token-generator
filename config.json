@@ -11050,5 +11050,14 @@
         "timestamp": 1695572870311,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ix1PziAEk9IIMYBz": {
+        "id": "Ix1PziAEk9IIMYBz",
+        "compendium": "pathfinder-bestiary",
+        "name": "Zombie Brute",
+        "prompt": "Fantasy art Zombie Brute mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695572870311,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
