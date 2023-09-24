@@ -3850,5 +3850,14 @@
         "timestamp": 1695547972858,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "NSD8H0xzbSWOgt7x": {
+        "id": "NSD8H0xzbSWOgt7x",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Stone Lion Cub",
+        "prompt": "Fantasy art Stone Lion Cub celestial in the style of Greg Rutkowski",
+        "timestamp": 1695547972858,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
