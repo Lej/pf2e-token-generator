@@ -8215,5 +8215,14 @@
         "timestamp": 1695547973066,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wctTtNkLjyMeCCi2": {
+        "id": "wctTtNkLjyMeCCi2",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Skeletal Mage",
+        "prompt": "Fantasy art Skeletal Mage skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695547973067,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
