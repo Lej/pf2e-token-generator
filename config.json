@@ -5101,5 +5101,14 @@
         "timestamp": 1695547972910,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8S088wbZjUhx6IB7": {
+        "id": "8S088wbZjUhx6IB7",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Khravgodon",
+        "prompt": "Fantasy art Khravgodon animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972911,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
