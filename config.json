@@ -11824,5 +11824,14 @@
         "timestamp": 1695572870344,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PfcS6WzhMGzds5Wf": {
+        "id": "PfcS6WzhMGzds5Wf",
+        "compendium": "pathfinder-bestiary",
+        "name": "Nilith",
+        "prompt": "Fantasy art Nilith aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870345,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
