@@ -11671,5 +11671,14 @@
         "timestamp": 1695572870336,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4zXn6xaaxo1DtIRk": {
+        "id": "4zXn6xaaxo1DtIRk",
+        "compendium": "pathfinder-bestiary",
+        "name": "Xulgath Skulker",
+        "prompt": "Fantasy art Xulgath Skulker humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1695572870336,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
