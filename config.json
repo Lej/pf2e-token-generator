@@ -7801,5 +7801,14 @@
         "timestamp": 1695547973054,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jMjK6j16K1NC2BdC": {
+        "id": "jMjK6j16K1NC2BdC",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Weak Soulbound Homunculus",
+        "prompt": "Fantasy art Weak Soulbound Homunculus construct soulbound in the style of Greg Rutkowski",
+        "timestamp": 1695547973054,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
