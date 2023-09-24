@@ -7873,5 +7873,14 @@
         "timestamp": 1695547973056,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xbpF7O68n876hD3B": {
+        "id": "xbpF7O68n876hD3B",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Storm Acolyte",
+        "prompt": "Fantasy art Storm Acolyte humanoid tengu in the style of Greg Rutkowski",
+        "timestamp": 1695547973056,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
