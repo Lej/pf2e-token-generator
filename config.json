@@ -11500,5 +11500,14 @@
         "timestamp": 1695572870331,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Qa7HaKfKiosEPr94": {
+        "id": "Qa7HaKfKiosEPr94",
+        "compendium": "pathfinder-bestiary",
+        "name": "Sphinx",
+        "prompt": "Fantasy art Sphinx beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870331,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
