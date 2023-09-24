@@ -17566,5 +17566,14 @@
         "timestamp": 1695572870599,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8WFGygPv7UHh7zdJ": {
+        "id": "8WFGygPv7UHh7zdJ",
+        "compendium": "npc-gallery",
+        "name": "Apothecary",
+        "prompt": "Fantasy art Apothecary human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870600,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
