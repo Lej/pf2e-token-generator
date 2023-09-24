@@ -13435,5 +13435,14 @@
         "timestamp": 1695572870408,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9jF564DF6ylEovna": {
+        "id": "9jF564DF6ylEovna",
+        "compendium": "pathfinder-bestiary",
+        "name": "Quasit",
+        "prompt": "Fantasy art Quasit demon fiend in the style of Greg Rutkowski",
+        "timestamp": 1695572870409,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
