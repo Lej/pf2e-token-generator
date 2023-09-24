@@ -17233,5 +17233,14 @@
         "timestamp": 1695572870587,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "t7QwdZ2m7AbuRWqd": {
+        "id": "t7QwdZ2m7AbuRWqd",
+        "compendium": "npc-gallery",
+        "name": "Captain Of The Guard",
+        "prompt": "Fantasy art Captain Of The Guard human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870588,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
