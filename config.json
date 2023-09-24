@@ -17008,5 +17008,14 @@
         "timestamp": 1695572870578,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "o4XTf77fEEoFVTdA": {
+        "id": "o4XTf77fEEoFVTdA",
+        "compendium": "npc-gallery",
+        "name": "Pathfinder Venture-Captain",
+        "prompt": "Fantasy art Pathfinder Venture-Captain human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870579,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
