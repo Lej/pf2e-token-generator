@@ -16630,5 +16630,14 @@
         "timestamp": 1695572870562,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TLF3QsSKubSBsSOG": {
+        "id": "TLF3QsSKubSBsSOG",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Chemical Zombie",
+        "prompt": "Fantasy art Chemical Zombie fire mindless undead zombie Variant sulfur zombies in the style of Greg Rutkowski",
+        "timestamp": 1695572870562,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
