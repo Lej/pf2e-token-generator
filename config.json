@@ -9700,5 +9700,14 @@
         "timestamp": 1695572870117,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NCTFP1qF2F7I5QT8": {
+        "id": "NCTFP1qF2F7I5QT8",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Ambush Runner",
+        "prompt": "Fantasy art Ambush Runner elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870118,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
