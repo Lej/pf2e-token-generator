@@ -4552,5 +4552,14 @@
         "timestamp": 1695547972886,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ytYKPtPotjvsWoSl": {
+        "id": "ytYKPtPotjvsWoSl",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Ancient Sovereign Dragon",
+        "prompt": "Fantasy art Ancient Sovereign Dragon dragon earth in the style of Greg Rutkowski",
+        "timestamp": 1695547972886,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
