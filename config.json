@@ -5740,5 +5740,14 @@
         "timestamp": 1695547972979,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Yg7R4UgB1FjF2Euu": {
+        "id": "Yg7R4UgB1FjF2Euu",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Bauble Beast",
+        "prompt": "Fantasy art Bauble Beast beast earth in the style of Greg Rutkowski",
+        "timestamp": 1695547972979,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
