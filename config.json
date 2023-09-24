@@ -5875,5 +5875,14 @@
         "timestamp": 1695547972985,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SIE8CcEblKI9VwqO": {
+        "id": "SIE8CcEblKI9VwqO",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Living Graffiti (Oil)",
+        "prompt": "Fantasy art Living Graffiti Oil construct in the style of Greg Rutkowski",
+        "timestamp": 1695547972985,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
