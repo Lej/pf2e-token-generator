@@ -16837,5 +16837,14 @@
         "timestamp": 1695572870569,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "Jg9OEmo68KC91PgC": {
+        "id": "Jg9OEmo68KC91PgC",
+        "compendium": "npc-gallery",
+        "name": "Teacher",
+        "prompt": "Fantasy art Teacher human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870569,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
