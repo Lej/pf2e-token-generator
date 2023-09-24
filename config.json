@@ -4966,5 +4966,14 @@
         "timestamp": 1695547972905,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GGuT6YsRH4aXhpl3": {
+        "id": "GGuT6YsRH4aXhpl3",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Zombie Dragon",
+        "prompt": "Fantasy art Zombie Dragon dragon mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695547972905,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
