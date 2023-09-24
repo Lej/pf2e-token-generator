@@ -5128,5 +5128,14 @@
         "timestamp": 1695547972912,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QJRi6WzEm0LbXjAc": {
+        "id": "QJRi6WzEm0LbXjAc",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Doru",
+        "prompt": "Fantasy art Doru div fiend in the style of Greg Rutkowski",
+        "timestamp": 1695547972913,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
