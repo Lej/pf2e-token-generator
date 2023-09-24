@@ -5227,5 +5227,14 @@
         "timestamp": 1695547972916,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KTzSpyphiJ78EnBd": {
+        "id": "KTzSpyphiJ78EnBd",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Winter Hag",
+        "prompt": "Fantasy art Winter Hag cold hag humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547972917,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
