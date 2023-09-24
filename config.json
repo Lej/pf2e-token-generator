@@ -2878,5 +2878,14 @@
         "timestamp": 1695547972820,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rFpExrqWywVDPYdP": {
+        "id": "rFpExrqWywVDPYdP",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Brainchild",
+        "prompt": "Fantasy art Brainchild illusion mental in the style of Greg Rutkowski",
+        "timestamp": 1695547972820,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
