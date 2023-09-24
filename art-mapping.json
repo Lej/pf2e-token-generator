@@ -7785,6 +7785,10 @@
         "cAOWcPIjtZYXYZ3i": {
             "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/cAOWcPIjtZYXYZ3i/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/cAOWcPIjtZYXYZ3i/token.webp"
+        },
+        "KvcFqH6H4TFCuBZA": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/KvcFqH6H4TFCuBZA/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/KvcFqH6H4TFCuBZA/token.webp"
         }
     }
 }

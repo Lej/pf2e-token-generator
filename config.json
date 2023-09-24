@@ -17440,5 +17440,14 @@
         "timestamp": 1695572870595,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KvcFqH6H4TFCuBZA": {
+        "id": "KvcFqH6H4TFCuBZA",
+        "compendium": "npc-gallery",
+        "name": "Azarketi Crab Catcher",
+        "prompt": "Fantasy art Azarketi Crab Catcher amphibious azarketi humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870595,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
