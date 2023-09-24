@@ -14983,5 +14983,14 @@
         "timestamp": 1695572870511,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4DPuCgAisPyphiMN": {
+        "id": "4DPuCgAisPyphiMN",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Teflar",
+        "prompt": "Fantasy art Teflar human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870511,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
