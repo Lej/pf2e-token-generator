@@ -7182,5 +7182,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-2-bestiary/iQprqoS2RXWPMAMQ/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-2-bestiary/iQprqoS2RXWPMAMQ/token.webp"
         }
+    },
+    "outlaws-of-alkenstar-bestiary": {
+        "ktnfNng6W5Welsn3": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/outlaws-of-alkenstar-bestiary/ktnfNng6W5Welsn3/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/outlaws-of-alkenstar-bestiary/ktnfNng6W5Welsn3/token.webp"
+        }
     }
 }
