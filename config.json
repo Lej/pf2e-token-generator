@@ -17278,5 +17278,14 @@
         "timestamp": 1695572870589,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "F8AzuPOCcveWasza": {
+        "id": "F8AzuPOCcveWasza",
+        "compendium": "npc-gallery",
+        "name": "Ethereal Sailor",
+        "prompt": "Fantasy art Ethereal Sailor mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870589,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
