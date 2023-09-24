@@ -9412,5 +9412,14 @@
         "timestamp": 1695572870107,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OQRaBwlV8ZgkZPrY": {
+        "id": "OQRaBwlV8ZgkZPrY",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Festering Vermlek",
+        "prompt": "Fantasy art Festering Vermlek demon fiend Variant vermlek in the style of Greg Rutkowski",
+        "timestamp": 1695572870108,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
