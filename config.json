@@ -14758,5 +14758,14 @@
         "timestamp": 1695572870503,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GPEyzpKkfrZIIF9L": {
+        "id": "GPEyzpKkfrZIIF9L",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Desiccated Giant Crawling Hand",
+        "prompt": "Fantasy art Desiccated Giant Crawling Hand undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870504,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
