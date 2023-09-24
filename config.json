@@ -9781,5 +9781,14 @@
         "timestamp": 1695572870120,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "w54JWkw6lcLXL0Za": {
+        "id": "w54JWkw6lcLXL0Za",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Elite Cave Bear (PFS 4-07)",
+        "prompt": "Fantasy art Elite Cave Bear animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870120,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
