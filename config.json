@@ -9718,5 +9718,14 @@
         "timestamp": 1695572870118,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Y2mjAL3OGIuof4mz": {
+        "id": "Y2mjAL3OGIuof4mz",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Dig-Widget (PFS 4-07)",
+        "prompt": "Fantasy art Dig-Widget construct mindless Variant dig-widget in the style of Greg Rutkowski",
+        "timestamp": 1695572870118,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
