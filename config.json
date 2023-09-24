@@ -5272,5 +5272,14 @@
         "timestamp": 1695547972918,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VVSTEyAnm9OSbfJ5": {
+        "id": "VVSTEyAnm9OSbfJ5",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Werebat",
+        "prompt": "Fantasy art Werebat beast human humanoid werecreature in the style of Greg Rutkowski",
+        "timestamp": 1695547972918,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
