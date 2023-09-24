@@ -3868,5 +3868,14 @@
         "timestamp": 1695547972858,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kCaEwjZyHXy7cJre": {
+        "id": "kCaEwjZyHXy7cJre",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Trilobite Swarm",
+        "prompt": "Fantasy art Trilobite Swarm animal aquatic swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547972858,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
