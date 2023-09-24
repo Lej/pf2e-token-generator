@@ -14713,5 +14713,14 @@
         "timestamp": 1695572870501,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "83k9JooGu3wbCJKa": {
+        "id": "83k9JooGu3wbCJKa",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Razortoothed Shark",
+        "prompt": "Fantasy art Razortoothed Shark animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1695572870501,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
