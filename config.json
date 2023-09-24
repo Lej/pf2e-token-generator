@@ -8764,5 +8764,14 @@
         "timestamp": 1695547973090,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "1ZUAVNlJb4MWtSCw": {
+        "id": "1ZUAVNlJb4MWtSCw",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Witch's Gaze",
+        "prompt": "Fantasy art Witch's Gaze human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973090,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
