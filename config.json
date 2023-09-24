@@ -6406,5 +6406,14 @@
         "timestamp": 1695547973009,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "U6mEWRAurIbSgtnF": {
+        "id": "U6mEWRAurIbSgtnF",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Giant Shrew",
+        "prompt": "Fantasy art Giant Shrew animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973010,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
