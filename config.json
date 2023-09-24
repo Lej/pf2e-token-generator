@@ -7072,5 +7072,14 @@
         "timestamp": 1695547973030,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JSZGXyG3cItFmG9N": {
+        "id": "JSZGXyG3cItFmG9N",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Elite Waterworks Rebel",
+        "prompt": "Fantasy art Elite Waterworks Rebel human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973030,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
