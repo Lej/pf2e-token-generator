@@ -8314,5 +8314,14 @@
         "timestamp": 1695547973071,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4QEU9t2vYef8QfZQ": {
+        "id": "4QEU9t2vYef8QfZQ",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Loyal Giant Fox",
+        "prompt": "Fantasy art Loyal Giant Fox animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973071,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
