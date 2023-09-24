@@ -8386,5 +8386,14 @@
         "timestamp": 1695547973074,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xHbU1j5KpscKk6q8": {
+        "id": "xHbU1j5KpscKk6q8",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Marcon Tinol (3-4)",
+        "prompt": "Fantasy art Marcon Tinol ghoul undead in the style of Greg Rutkowski",
+        "timestamp": 1695547973074,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
