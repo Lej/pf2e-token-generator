@@ -9898,5 +9898,14 @@
         "timestamp": 1695572870125,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aOniinvqGZ6EUbyq": {
+        "id": "aOniinvqGZ6EUbyq",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Growling Shadow Drake",
+        "prompt": "Fantasy art Growling Shadow Drake dragon shadow Variant shadow drake in the style of Greg Rutkowski",
+        "timestamp": 1695572870126,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
