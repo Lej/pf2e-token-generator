@@ -13237,5 +13237,14 @@
         "timestamp": 1695572870400,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9FZMzpAu4XhCI0IB": {
+        "id": "9FZMzpAu4XhCI0IB",
+        "compendium": "pathfinder-bestiary",
+        "name": "Deep Gnome Scout",
+        "prompt": "Fantasy art Deep Gnome Scout gnome humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870400,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
