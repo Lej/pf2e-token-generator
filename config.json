@@ -16927,5 +16927,14 @@
         "timestamp": 1695572870573,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0Ex7rBuiJVu2NwCz": {
+        "id": "0Ex7rBuiJVu2NwCz",
+        "compendium": "npc-gallery",
+        "name": "Demonologist",
+        "prompt": "Fantasy art Demonologist human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870574,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
