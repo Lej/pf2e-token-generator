@@ -17143,5 +17143,14 @@
         "timestamp": 1695572870584,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "KUDsYCHduF0JE3yf": {
+        "id": "KUDsYCHduF0JE3yf",
+        "compendium": "npc-gallery",
+        "name": "Ship Captain",
+        "prompt": "Fantasy art Ship Captain human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870584,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
