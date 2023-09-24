@@ -11959,5 +11959,14 @@
         "timestamp": 1695572870351,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "0SAlss24nUMdX9r8": {
+        "id": "0SAlss24nUMdX9r8",
+        "compendium": "pathfinder-bestiary",
+        "name": "Gancanagh",
+        "prompt": "Fantasy art Gancanagh azata celestial in the style of Greg Rutkowski",
+        "timestamp": 1695572870351,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
