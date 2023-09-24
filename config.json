@@ -3661,5 +3661,14 @@
         "timestamp": 1695547972847,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QUzBzxRy6HLeK7ja": {
+        "id": "QUzBzxRy6HLeK7ja",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Dybbuk",
+        "prompt": "Fantasy art Dybbuk incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972847,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
