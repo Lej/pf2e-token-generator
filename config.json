@@ -17521,5 +17521,14 @@
         "timestamp": 1695572870598,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SwjcZsbkcq6PhiXc": {
+        "id": "SwjcZsbkcq6PhiXc",
+        "compendium": "npc-gallery",
+        "name": "Spy",
+        "prompt": "Fantasy art Spy human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870598,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
