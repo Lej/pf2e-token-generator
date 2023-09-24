@@ -5434,5 +5434,14 @@
         "timestamp": 1695547972967,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DmQM0QTSPJ7YtpMg": {
+        "id": "DmQM0QTSPJ7YtpMg",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Girtablilu Seer",
+        "prompt": "Fantasy art Girtablilu Seer beast in the style of Greg Rutkowski",
+        "timestamp": 1695547972968,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
