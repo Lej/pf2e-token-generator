@@ -3985,5 +3985,14 @@
         "timestamp": 1695547972862,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zMoJh88vXJQwSHsX": {
+        "id": "zMoJh88vXJQwSHsX",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Abandoned Zealot",
+        "prompt": "Fantasy art Abandoned Zealot incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972862,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
