@@ -13732,5 +13732,14 @@
         "timestamp": 1695572870421,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LUtSo30fQWj7mrDn": {
+        "id": "LUtSo30fQWj7mrDn",
+        "compendium": "pathfinder-bestiary",
+        "name": "Storm Lord",
+        "prompt": "Fantasy art Storm Lord air elemental in the style of Greg Rutkowski",
+        "timestamp": 1695572870422,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
