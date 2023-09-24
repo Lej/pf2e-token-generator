@@ -12904,5 +12904,14 @@
         "timestamp": 1695572870386,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "T5CUuPsMPb17d6Qy": {
+        "id": "T5CUuPsMPb17d6Qy",
+        "compendium": "pathfinder-bestiary",
+        "name": "Goliath Spider",
+        "prompt": "Fantasy art Goliath Spider animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870386,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
