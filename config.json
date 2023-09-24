@@ -8926,5 +8926,14 @@
         "timestamp": 1695547973097,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sV98dOFzkqnhzCwr": {
+        "id": "sV98dOFzkqnhzCwr",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Skeletal Pathfinder",
+        "prompt": "Fantasy art Skeletal Pathfinder mindless skeleton undead Variant skeletal soldier in the style of Greg Rutkowski",
+        "timestamp": 1695547973097,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
