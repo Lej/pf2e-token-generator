@@ -3454,5 +3454,14 @@
         "timestamp": 1695547972840,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sNEvW8qBxztZcI8p": {
+        "id": "sNEvW8qBxztZcI8p",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Shrine Skelm",
+        "prompt": "Fantasy art Shrine Skelm humanoid skelm in the style of Greg Rutkowski",
+        "timestamp": 1695547972841,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
