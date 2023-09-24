@@ -7630,5 +7630,14 @@
         "timestamp": 1695547973048,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "I4Vcd1ce8ltK8OqJ": {
+        "id": "I4Vcd1ce8ltK8OqJ",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Ruffian (Q11)",
+        "prompt": "Fantasy art Ruffian human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973048,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
