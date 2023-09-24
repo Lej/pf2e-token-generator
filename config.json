@@ -13525,5 +13525,14 @@
         "timestamp": 1695572870411,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bxAJWWKrEMjgNkUp": {
+        "id": "bxAJWWKrEMjgNkUp",
+        "compendium": "pathfinder-bestiary",
+        "name": "Dero Stalker",
+        "prompt": "Fantasy art Dero Stalker dero humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870413,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
