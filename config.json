@@ -6190,5 +6190,14 @@
         "timestamp": 1695547973003,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XVoGQC0ret7XiGZD": {
+        "id": "XVoGQC0ret7XiGZD",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Dehydrated Krooth",
+        "prompt": "Fantasy art Dehydrated Krooth amphibious animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973003,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
