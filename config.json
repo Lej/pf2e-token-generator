@@ -14047,5 +14047,14 @@
         "timestamp": 1695572870436,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BRo0snV2sH6TFuh6": {
+        "id": "BRo0snV2sH6TFuh6",
+        "compendium": "pathfinder-bestiary",
+        "name": "Glabrezu",
+        "prompt": "Fantasy art Glabrezu demon fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870436,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
