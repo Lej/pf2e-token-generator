@@ -11140,5 +11140,14 @@
         "timestamp": 1695572870314,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IQsTNM8aXcCUmFu0": {
+        "id": "IQsTNM8aXcCUmFu0",
+        "compendium": "pathfinder-bestiary",
+        "name": "Lamia",
+        "prompt": "Fantasy art Lamia beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870315,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
