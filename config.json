@@ -3481,5 +3481,14 @@
         "timestamp": 1695547972841,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ir3N6RHfg6vXYkmN": {
+        "id": "Ir3N6RHfg6vXYkmN",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Rosethorn Ram",
+        "prompt": "Fantasy art Rosethorn Ram animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972841,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
