@@ -3877,5 +3877,14 @@
         "timestamp": 1695547972858,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hh7OuFB5BQIrfeRT": {
+        "id": "hh7OuFB5BQIrfeRT",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Kasa-Obake",
+        "prompt": "Fantasy art Kasa-Obake kami in the style of Greg Rutkowski",
+        "timestamp": 1695547972858,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
