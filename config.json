@@ -16468,5 +16468,14 @@
         "timestamp": 1695572870557,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "X4tOSkr3WLvh0NIN": {
+        "id": "X4tOSkr3WLvh0NIN",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Rust Ooze",
+        "prompt": "Fantasy art Rust Ooze mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1695572870557,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
