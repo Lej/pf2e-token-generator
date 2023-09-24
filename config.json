@@ -13048,5 +13048,14 @@
         "timestamp": 1695572870392,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NymSyXbXqfkGLFWF": {
+        "id": "NymSyXbXqfkGLFWF",
+        "compendium": "pathfinder-bestiary",
+        "name": "Lamia Matriarch",
+        "prompt": "Fantasy art Lamia Matriarch beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870394,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
