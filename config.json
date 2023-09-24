@@ -7666,5 +7666,14 @@
         "timestamp": 1695547973049,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gB7km6bV9dCXUQjZ": {
+        "id": "gB7km6bV9dCXUQjZ",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Synthetic Khismar (7-8)",
+        "prompt": "Fantasy art Synthetic Khismar construct in the style of Greg Rutkowski",
+        "timestamp": 1695547973049,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
