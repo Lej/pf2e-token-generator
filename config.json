@@ -17080,5 +17080,14 @@
         "timestamp": 1695572870581,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mJxgYD8TQg1W2oXC": {
+        "id": "mJxgYD8TQg1W2oXC",
+        "compendium": "npc-gallery",
+        "name": "Hellknight Paravicar",
+        "prompt": "Fantasy art Hellknight Paravicar human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870582,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
