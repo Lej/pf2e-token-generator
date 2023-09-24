@@ -12031,5 +12031,14 @@
         "timestamp": 1695572870354,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "F99r7jcWX5YZB8xw": {
+        "id": "F99r7jcWX5YZB8xw",
+        "compendium": "pathfinder-bestiary",
+        "name": "Adult Brass Dragon (Spellcaster)",
+        "prompt": "Fantasy art Adult Brass Dragon Spellcaster dragon fire in the style of Greg Rutkowski",
+        "timestamp": 1695572870355,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
