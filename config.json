@@ -9115,5 +9115,14 @@
         "timestamp": 1695547973108,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "hKyWYatvNfvM82QG": {
+        "id": "hKyWYatvNfvM82QG",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Menacing Shadow Drake",
+        "prompt": "Fantasy art Menacing Shadow Drake dragon shadow Variant shadow drake in the style of Greg Rutkowski",
+        "timestamp": 1695547973108,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
