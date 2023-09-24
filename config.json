@@ -16081,5 +16081,14 @@
         "timestamp": 1695572870545,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "iQprqoS2RXWPMAMQ": {
+        "id": "iQprqoS2RXWPMAMQ",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Twigjack (PFS 2-08)",
+        "prompt": "Fantasy art Twigjack fey plant in the style of Greg Rutkowski",
+        "timestamp": 1695572870545,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
