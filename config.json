@@ -2824,5 +2824,14 @@
         "timestamp": 1695547972818,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NldgVUIHB3asozHm": {
+        "id": "NldgVUIHB3asozHm",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Wyrmwraith",
+        "prompt": "Fantasy art Wyrmwraith dragon undead wraith incorporeal rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547972818,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
