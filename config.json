@@ -11302,5 +11302,14 @@
         "timestamp": 1695572870322,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ASc5sT2hU84tp1fx": {
+        "id": "ASc5sT2hU84tp1fx",
+        "compendium": "pathfinder-bestiary",
+        "name": "Simurgh",
+        "prompt": "Fantasy art Simurgh beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870323,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
