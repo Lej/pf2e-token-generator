@@ -12688,5 +12688,14 @@
         "timestamp": 1695572870380,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RMSx2C27yty0MTva": {
+        "id": "RMSx2C27yty0MTva",
+        "compendium": "pathfinder-bestiary",
+        "name": "Skeletal Champion",
+        "prompt": "Fantasy art Skeletal Champion skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870380,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
