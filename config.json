@@ -10906,5 +10906,14 @@
         "timestamp": 1695572870303,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0HjVFx8qIKDCfblg": {
+        "id": "0HjVFx8qIKDCfblg",
+        "compendium": "pathfinder-bestiary",
+        "name": "Lantern Archon",
+        "prompt": "Fantasy art Lantern Archon archon celestial in the style of Greg Rutkowski",
+        "timestamp": 1695572870303,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
