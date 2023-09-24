@@ -14119,5 +14119,14 @@
         "timestamp": 1695572870464,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "C5t3ypLIiJGSUMg6": {
+        "id": "C5t3ypLIiJGSUMg6",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Id Ooze",
+        "prompt": "Fantasy art Id Ooze amphibious ooze in the style of Greg Rutkowski",
+        "timestamp": 1695572870464,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
