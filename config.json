@@ -14200,5 +14200,14 @@
         "timestamp": 1695572870467,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "btIGNqj5SqOAKPbS": {
+        "id": "btIGNqj5SqOAKPbS",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Foolish Hunter",
+        "prompt": "Fantasy art Foolish Hunter human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870467,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
