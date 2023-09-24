@@ -8287,5 +8287,14 @@
         "timestamp": 1695547973070,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9dnyyDG4MCkL3zkn": {
+        "id": "9dnyyDG4MCkL3zkn",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Zombie Riding Horse",
+        "prompt": "Fantasy art Zombie Riding Horse mindless zombie in the style of Greg Rutkowski",
+        "timestamp": 1695547973070,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
