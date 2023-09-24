@@ -8935,5 +8935,14 @@
         "timestamp": 1695547973097,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "IkS9AxSHCAPTYSoB": {
+        "id": "IkS9AxSHCAPTYSoB",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Tsimaan",
+        "prompt": "Fantasy art Tsimaan elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973098,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
