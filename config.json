@@ -4156,5 +4156,14 @@
         "timestamp": 1695547972871,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nIXWanjtyklfwH7u": {
+        "id": "nIXWanjtyklfwH7u",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Tiddalik",
+        "prompt": "Fantasy art Tiddalik amphibious beast in the style of Greg Rutkowski",
+        "timestamp": 1695547972871,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
