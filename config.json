@@ -17845,5 +17845,14 @@
         "timestamp": 1695572870609,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "h9b23NJBKSACAkWa": {
+        "id": "h9b23NJBKSACAkWa",
+        "compendium": "fall-of-plaguestone",
+        "name": "The Sculptor",
+        "prompt": "Fantasy art The Sculptor humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1695572870609,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
