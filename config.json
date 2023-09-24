@@ -4606,5 +4606,14 @@
         "timestamp": 1695547972887,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "74Sw9n7c4sMaK9Rx": {
+        "id": "74Sw9n7c4sMaK9Rx",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Stheno Harpist",
+        "prompt": "Fantasy art Stheno Harpist humanoid stheno in the style of Greg Rutkowski",
+        "timestamp": 1695547972888,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
