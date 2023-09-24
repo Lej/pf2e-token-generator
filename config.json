@@ -6523,5 +6523,14 @@
         "timestamp": 1695547973012,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "MOX8VzhEBVMkOpzr": {
+        "id": "MOX8VzhEBVMkOpzr",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Crowd Agitator",
+        "prompt": "Fantasy art Crowd Agitator humanoid human in the style of Greg Rutkowski",
+        "timestamp": 1695547973013,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
