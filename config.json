@@ -2959,5 +2959,14 @@
         "timestamp": 1695547972822,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wVMMl1jfxWyqU4yq": {
+        "id": "wVMMl1jfxWyqU4yq",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Storm Hag",
+        "prompt": "Fantasy art Storm Hag air electricity hag humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547972823,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
