@@ -16729,5 +16729,14 @@
         "timestamp": 1695572870565,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "RqV8n5CxdDQ6ZahH": {
+        "id": "RqV8n5CxdDQ6ZahH",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Clockwork Disposer",
+        "prompt": "Fantasy art Clockwork Disposer clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870565,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
