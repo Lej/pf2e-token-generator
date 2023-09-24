@@ -3364,5 +3364,14 @@
         "timestamp": 1695547972837,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2DrerJYEJon5U6Fx": {
+        "id": "2DrerJYEJon5U6Fx",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Slithering Pit",
+        "prompt": "Fantasy art Slithering Pit mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1695547972838,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
