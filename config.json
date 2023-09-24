@@ -15361,5 +15361,14 @@
         "timestamp": 1695572870522,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "W9XSFbMIXk1A7aT9": {
+        "id": "W9XSFbMIXk1A7aT9",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Scorched Earth Mephit",
+        "prompt": "Fantasy art Scorched Earth Mephit earth elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1695572870522,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
