@@ -4174,5 +4174,14 @@
         "timestamp": 1695547972872,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EP8xhzy46zPWvhQL": {
+        "id": "EP8xhzy46zPWvhQL",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Squirming Swill",
+        "prompt": "Fantasy art Squirming Swill undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972872,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
