@@ -10240,5 +10240,14 @@
         "timestamp": 1695572870270,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QT2gA8WMaT2cuXr7": {
+        "id": "QT2gA8WMaT2cuXr7",
+        "compendium": "pathfinder-bestiary",
+        "name": "Pit Fiend",
+        "prompt": "Fantasy art Pit Fiend devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870270,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
