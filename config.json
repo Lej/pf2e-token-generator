@@ -17134,5 +17134,14 @@
         "timestamp": 1695572870583,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "G2ftdkyJ5WDonL0C": {
+        "id": "G2ftdkyJ5WDonL0C",
+        "compendium": "npc-gallery",
+        "name": "Urchin",
+        "prompt": "Fantasy art Urchin human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870584,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
