@@ -15424,5 +15424,14 @@
         "timestamp": 1695572870524,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bzV9QF6CfIGX8aNR": {
+        "id": "bzV9QF6CfIGX8aNR",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Aspis Veteran Guard",
+        "prompt": "Fantasy art Aspis Veteran Guard human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870525,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
