@@ -3976,5 +3976,14 @@
         "timestamp": 1695547972862,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FjZ737XIvSOSaYcA": {
+        "id": "FjZ737XIvSOSaYcA",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Tyrannosaurus Skeleton",
+        "prompt": "Fantasy art Tyrannosaurus Skeleton mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972862,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
