@@ -8332,5 +8332,14 @@
         "timestamp": 1695547973072,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "ZpowNcW774gt8XjS": {
+        "id": "ZpowNcW774gt8XjS",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Nashaxian The Angered",
+        "prompt": "Fantasy art Nashaxian The Angered devil fiend Variant barbazu rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547973072,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
