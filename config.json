@@ -6451,5 +6451,14 @@
         "timestamp": 1695547973010,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xKanh4M6QEF39bvd": {
+        "id": "xKanh4M6QEF39bvd",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Zombie Brute (PFS 1-18)",
+        "prompt": "Fantasy art Zombie Brute mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695547973011,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
