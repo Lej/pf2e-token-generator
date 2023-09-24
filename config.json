@@ -2905,5 +2905,14 @@
         "timestamp": 1695547972821,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mupW1Mgec250lQiZ": {
+        "id": "mupW1Mgec250lQiZ",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Umasi",
+        "prompt": "Fantasy art Umasi aberration humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972821,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
