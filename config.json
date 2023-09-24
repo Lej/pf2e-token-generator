@@ -10042,5 +10042,14 @@
         "timestamp": 1695572870135,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BxChohV8FBiyAnEc": {
+        "id": "BxChohV8FBiyAnEc",
+        "compendium": "mwangi-expanse-bestiary",
+        "name": "Charau-ka Acolyte of Angazhan",
+        "prompt": "Fantasy art Charau-ka Acolyte of Angazhan charau-ka humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870136,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
