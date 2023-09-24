@@ -5461,5 +5461,14 @@
         "timestamp": 1695547972968,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8lQf8PNcJvxwmqLd": {
+        "id": "8lQf8PNcJvxwmqLd",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Kirin",
+        "prompt": "Fantasy art Kirin air beast fire in the style of Greg Rutkowski",
+        "timestamp": 1695547972969,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
