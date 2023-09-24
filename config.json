@@ -17044,5 +17044,14 @@
         "timestamp": 1695572870580,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aJR3f8YcAkmfx7im": {
+        "id": "aJR3f8YcAkmfx7im",
+        "compendium": "npc-gallery",
+        "name": "Apprentice",
+        "prompt": "Fantasy art Apprentice human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870580,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
