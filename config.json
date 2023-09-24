@@ -4201,5 +4201,14 @@
         "timestamp": 1695547972872,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "cWlntwaa4HPFEf3u": {
+        "id": "cWlntwaa4HPFEf3u",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Sturzstromer",
+        "prompt": "Fantasy art Sturzstromer aberration earth swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547972873,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
