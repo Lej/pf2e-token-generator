@@ -17890,5 +17890,14 @@
         "timestamp": 1695572870610,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PFBclNHc78MqYjBB": {
+        "id": "PFBclNHc78MqYjBB",
+        "compendium": "fall-of-plaguestone",
+        "name": "Caustic Wolf",
+        "prompt": "Fantasy art Caustic Wolf animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870610,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
