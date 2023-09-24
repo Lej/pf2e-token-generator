@@ -5308,5 +5308,14 @@
         "timestamp": 1695547972920,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XrSz2IIKbeYFGILW": {
+        "id": "XrSz2IIKbeYFGILW",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Strix Kinmate",
+        "prompt": "Fantasy art Strix Kinmate humanoid strix in the style of Greg Rutkowski",
+        "timestamp": 1695547972920,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
