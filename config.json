@@ -15829,5 +15829,14 @@
         "timestamp": 1695572870536,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "iuHyixlsXUA4KJ9Q": {
+        "id": "iuHyixlsXUA4KJ9Q",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Tough Skeletal Reveler",
+        "prompt": "Fantasy art Tough Skeletal Reveler mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870536,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
