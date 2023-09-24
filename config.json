@@ -8719,5 +8719,14 @@
         "timestamp": 1695547973088,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "C9gWLpxJr4QKxP64": {
+        "id": "C9gWLpxJr4QKxP64",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Undead Nathatel",
+        "prompt": "Fantasy art Undead Nathatel skeleton undead Variant skeletal mage in the style of Greg Rutkowski",
+        "timestamp": 1695547973089,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
