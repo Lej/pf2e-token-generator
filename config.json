@@ -5470,5 +5470,14 @@
         "timestamp": 1695547972969,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GPP2YJd2CkXSlLok": {
+        "id": "GPP2YJd2CkXSlLok",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Duende",
+        "prompt": "Fantasy art Duende earth fey in the style of Greg Rutkowski",
+        "timestamp": 1695547972969,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
