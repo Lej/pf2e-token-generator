@@ -16288,5 +16288,14 @@
         "timestamp": 1695572870551,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RgGijwS8Z9fNFFO3": {
+        "id": "RgGijwS8Z9fNFFO3",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Glass Sentry",
+        "prompt": "Fantasy art Glass Sentry earth elemental Variant elite sand sentry in the style of Greg Rutkowski",
+        "timestamp": 1695572870551,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
