@@ -6388,5 +6388,14 @@
         "timestamp": 1695547973009,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "glxrhALybtp9WYh9": {
+        "id": "glxrhALybtp9WYh9",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Rabid Squirrel Swarm",
+        "prompt": "Fantasy art Rabid Squirrel Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547973009,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
