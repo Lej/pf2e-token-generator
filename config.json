@@ -5380,5 +5380,14 @@
         "timestamp": 1695547972965,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "FOG8qK1bWVxp7vmE": {
+        "id": "FOG8qK1bWVxp7vmE",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Empress Bore Worm",
+        "prompt": "Fantasy art Empress Bore Worm animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972966,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
