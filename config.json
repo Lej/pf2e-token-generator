@@ -9817,5 +9817,14 @@
         "timestamp": 1695572870121,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "56GciWoZDuiqjINk": {
+        "id": "56GciWoZDuiqjINk",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Weak Clacking Skull Swarm",
+        "prompt": "Fantasy art Weak Clacking Skull Swarm mindless swarm undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870121,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
