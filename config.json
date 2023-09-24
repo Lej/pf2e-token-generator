@@ -3922,5 +3922,14 @@
         "timestamp": 1695547972860,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mgQSYE94vb2ICVjL": {
+        "id": "mgQSYE94vb2ICVjL",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Locathah Hunter",
+        "prompt": "Fantasy art Locathah Hunter amphibious humanoid locathah in the style of Greg Rutkowski",
+        "timestamp": 1695547972860,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
