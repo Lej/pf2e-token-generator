@@ -17035,5 +17035,14 @@
         "timestamp": 1695572870580,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "X7LmMMEOFUUicQ2O": {
+        "id": "X7LmMMEOFUUicQ2O",
+        "compendium": "npc-gallery",
+        "name": "Guide",
+        "prompt": "Fantasy art Guide human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870580,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
