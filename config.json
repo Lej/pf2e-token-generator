@@ -9889,5 +9889,14 @@
         "timestamp": 1695572870125,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mSPLEMPyiA0NkKN0": {
+        "id": "mSPLEMPyiA0NkKN0",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Bugbear Bully",
+        "prompt": "Fantasy art Bugbear Bully goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870125,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
