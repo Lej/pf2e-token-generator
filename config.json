@@ -16450,5 +16450,14 @@
         "timestamp": 1695572870556,
         "seed": 1024,
         "used_seed": 1027
+    },
+    "2IjwfgmGutHhpg7B": {
+        "id": "2IjwfgmGutHhpg7B",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Gilded Gunner Assassin",
+        "prompt": "Fantasy art Gilded Gunner Assassin humanoid Veteran Gilded Gunner in the style of Greg Rutkowski",
+        "timestamp": 1695572870557,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
