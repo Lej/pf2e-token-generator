@@ -13831,5 +13831,14 @@
         "timestamp": 1695572870425,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Q3EaaLLx5kDXb5vQ": {
+        "id": "Q3EaaLLx5kDXb5vQ",
+        "compendium": "pathfinder-bestiary",
+        "name": "Shoggoth",
+        "prompt": "Fantasy art Shoggoth aberration amphibious in the style of Greg Rutkowski",
+        "timestamp": 1695572870426,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
