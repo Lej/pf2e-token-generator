@@ -14137,5 +14137,14 @@
         "timestamp": 1695572870465,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IZ34VEavH7xRaaeI": {
+        "id": "IZ34VEavH7xRaaeI",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Ygrik",
+        "prompt": "Fantasy art Ygrik humanoid kobold Male kobold jailer in the style of Greg Rutkowski",
+        "timestamp": 1695572870465,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
