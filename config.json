@@ -17980,5 +17980,14 @@
         "timestamp": 1695572870615,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qS7JwIPqsjNKKALK": {
+        "id": "qS7JwIPqsjNKKALK",
+        "compendium": "kingmaker-bestiary",
+        "name": "The First Faithful",
+        "prompt": "Fantasy art The First Faithful fiend human humanoid Male fiend-warped human cleric of Yhidothrus rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870616,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
