@@ -8800,5 +8800,14 @@
         "timestamp": 1695547973091,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ntw6udZsknaAx6Ra": {
+        "id": "ntw6udZsknaAx6Ra",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Bandit Skullcracker",
+        "prompt": "Fantasy art Bandit Skullcracker human humanoid Variant Bandit in the style of Greg Rutkowski",
+        "timestamp": 1695547973091,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
