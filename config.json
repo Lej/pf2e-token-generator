@@ -3616,5 +3616,14 @@
         "timestamp": 1695547972845,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JKF2cMQEWkA5avCO": {
+        "id": "JKF2cMQEWkA5avCO",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Shikigami",
+        "prompt": "Fantasy art Shikigami kami spirit in the style of Greg Rutkowski",
+        "timestamp": 1695547972845,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
