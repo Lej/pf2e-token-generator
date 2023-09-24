@@ -7828,5 +7828,14 @@
         "timestamp": 1695547973054,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "fXIJWv2uooumqZo8": {
+        "id": "fXIJWv2uooumqZo8",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "'Zombie' Flesh Golem (5-6)",
+        "prompt": "Fantasy art 'Zombie' Flesh Golem construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1695547973055,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
