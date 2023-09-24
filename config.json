@@ -9061,5 +9061,14 @@
         "timestamp": 1695547973105,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8xeZ6N46DLqnOw32": {
+        "id": "8xeZ6N46DLqnOw32",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Charlatan (PFS 4-05)",
+        "prompt": "Fantasy art Charlatan human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973105,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
