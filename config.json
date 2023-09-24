@@ -10735,5 +10735,14 @@
         "timestamp": 1695572870289,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tm3Tixb7IDoLdJ5k": {
+        "id": "tm3Tixb7IDoLdJ5k",
+        "compendium": "pathfinder-bestiary",
+        "name": "Tiefling Adept",
+        "prompt": "Fantasy art Tiefling Adept human humanoid tiefling in the style of Greg Rutkowski",
+        "timestamp": 1695572870290,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
