@@ -13849,5 +13849,14 @@
         "timestamp": 1695572870426,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "C9s5tBxVValC2HTE": {
+        "id": "C9s5tBxVValC2HTE",
+        "compendium": "pathfinder-bestiary",
+        "name": "Giant Bat",
+        "prompt": "Fantasy art Giant Bat animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870426,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
