@@ -14254,5 +14254,14 @@
         "timestamp": 1695572870468,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LYSdv8QlMgV0U5Zq": {
+        "id": "LYSdv8QlMgV0U5Zq",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Narlynark",
+        "prompt": "Fantasy art Narlynark humanoid kobold Male kobold druid in the style of Greg Rutkowski",
+        "timestamp": 1695572870469,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
