@@ -11167,5 +11167,14 @@
         "timestamp": 1695572870316,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "bLMoqt9xqTZKnjxr": {
+        "id": "bLMoqt9xqTZKnjxr",
+        "compendium": "pathfinder-bestiary",
+        "name": "Werewolf",
+        "prompt": "Fantasy art Werewolf beast human humanoid werecreature in the style of Greg Rutkowski",
+        "timestamp": 1695572870316,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
