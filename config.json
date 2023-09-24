@@ -7045,5 +7045,14 @@
         "timestamp": 1695547973029,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vgn39Yta3lgeRP1s": {
+        "id": "vgn39Yta3lgeRP1s",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Muraxi (3-4)",
+        "prompt": "Fantasy art Muraxi aquatic elemental water in the style of Greg Rutkowski",
+        "timestamp": 1695547973029,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
