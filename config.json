@@ -3778,5 +3778,14 @@
         "timestamp": 1695547972854,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ilGMPBvjT9ovIiXB": {
+        "id": "ilGMPBvjT9ovIiXB",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Gurgist Mauler",
+        "prompt": "Fantasy art Gurgist Mauler human humanoid mortic in the style of Greg Rutkowski",
+        "timestamp": 1695547972854,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
