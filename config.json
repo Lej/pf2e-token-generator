@@ -12967,5 +12967,14 @@
         "timestamp": 1695572870388,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ScNPruIwcIJNuSHb": {
+        "id": "ScNPruIwcIJNuSHb",
+        "compendium": "pathfinder-bestiary",
+        "name": "Chimera (Red Dragon)",
+        "prompt": "Fantasy art Chimera Red Dragon beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870389,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
