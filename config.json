@@ -8791,5 +8791,14 @@
         "timestamp": 1695547973091,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tP99gLygKXOZdbvr": {
+        "id": "tP99gLygKXOZdbvr",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Cunning Vampire Spawn",
+        "prompt": "Fantasy art Cunning Vampire Spawn undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1695547973091,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
