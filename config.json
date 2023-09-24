@@ -17197,5 +17197,14 @@
         "timestamp": 1695572870586,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1NZ1ZAgcUlWKmQSs": {
+        "id": "1NZ1ZAgcUlWKmQSs",
+        "compendium": "npc-gallery",
+        "name": "Bosun",
+        "prompt": "Fantasy art Bosun human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870586,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
