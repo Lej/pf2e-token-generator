@@ -5083,5 +5083,14 @@
         "timestamp": 1695547972909,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CjAaXJDY4xpKqQEz": {
+        "id": "CjAaXJDY4xpKqQEz",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Megalictis",
+        "prompt": "Fantasy art Megalictis animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972910,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
