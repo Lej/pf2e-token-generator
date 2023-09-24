@@ -13129,5 +13129,14 @@
         "timestamp": 1695572870396,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "q3LrTrfnCvoUXuRz": {
+        "id": "q3LrTrfnCvoUXuRz",
+        "compendium": "pathfinder-bestiary",
+        "name": "Slothspawn",
+        "prompt": "Fantasy art Slothspawn aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870396,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
