@@ -10771,5 +10771,14 @@
         "timestamp": 1695572870292,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VBXjZ1jYxdKf64B7": {
+        "id": "VBXjZ1jYxdKf64B7",
+        "compendium": "pathfinder-bestiary",
+        "name": "Drow Rogue",
+        "prompt": "Fantasy art Drow Rogue drow elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870293,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
