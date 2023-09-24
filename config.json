@@ -14101,5 +14101,14 @@
         "timestamp": 1695572870463,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cRD9K6jsJCF4ZfDh": {
+        "id": "cRD9K6jsJCF4ZfDh",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Albino Giant Bat",
+        "prompt": "Fantasy art Albino Giant Bat animal Variant giant bat in the style of Greg Rutkowski",
+        "timestamp": 1695572870463,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
