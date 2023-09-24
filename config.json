@@ -12742,5 +12742,14 @@
         "timestamp": 1695572870381,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XoXf5ExS95Vv6lNf": {
+        "id": "XoXf5ExS95Vv6lNf",
+        "compendium": "pathfinder-bestiary",
+        "name": "Elemental Avalanche",
+        "prompt": "Fantasy art Elemental Avalanche earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1695572870381,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
