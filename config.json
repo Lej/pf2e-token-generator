@@ -15586,5 +15586,14 @@
         "timestamp": 1695572870529,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "E0ShG9xKRN88vUdP": {
+        "id": "E0ShG9xKRN88vUdP",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Wounded Dragon Turtle (5-6)",
+        "prompt": "Fantasy art Wounded Dragon Turtle amphibious dragon in the style of Greg Rutkowski",
+        "timestamp": 1695572870530,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
