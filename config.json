@@ -11932,5 +11932,14 @@
         "timestamp": 1695572870350,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Dp6dq9Jd0TanufdU": {
+        "id": "Dp6dq9Jd0TanufdU",
+        "compendium": "pathfinder-bestiary",
+        "name": "Adult Blue Dragon (Spellcaster)",
+        "prompt": "Fantasy art Adult Blue Dragon Spellcaster dragon electricity in the style of Greg Rutkowski",
+        "timestamp": 1695572870350,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
