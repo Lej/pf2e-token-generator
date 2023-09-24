@@ -4291,5 +4291,14 @@
         "timestamp": 1695547972877,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "H796hayJm3J7MYJg": {
+        "id": "H796hayJm3J7MYJg",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Amphisbaena",
+        "prompt": "Fantasy art Amphisbaena animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972877,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
