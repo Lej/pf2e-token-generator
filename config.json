@@ -10078,5 +10078,14 @@
         "timestamp": 1695572870137,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ld3hMGWfeUT7enNf": {
+        "id": "ld3hMGWfeUT7enNf",
+        "compendium": "mwangi-expanse-bestiary",
+        "name": "Si\u00e9 Goluo",
+        "prompt": "Fantasy art Si\u00e9 Goluo beast incorporeal spirit in the style of Greg Rutkowski",
+        "timestamp": 1695572870138,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
