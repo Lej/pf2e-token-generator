@@ -6613,5 +6613,14 @@
         "timestamp": 1695547973015,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9KauvSo8zxsaBWRc": {
+        "id": "9KauvSo8zxsaBWRc",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Animal Companion (Wolf) (3-4)",
+        "prompt": "Fantasy art Animal Companion Wolf animal minion in the style of Greg Rutkowski",
+        "timestamp": 1695547973015,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
