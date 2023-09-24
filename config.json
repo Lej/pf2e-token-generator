@@ -9907,5 +9907,14 @@
         "timestamp": 1695572870126,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MGcRvpxJjShaEIoD": {
+        "id": "MGcRvpxJjShaEIoD",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Determined Rhenei (3-4)",
+        "prompt": "Fantasy art Determined Rhenei humanoid ratfolk in the style of Greg Rutkowski",
+        "timestamp": 1695572870127,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
