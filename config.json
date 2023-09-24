@@ -8395,5 +8395,14 @@
         "timestamp": 1695547973074,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fQvTnIpC2Wq1U32z": {
+        "id": "fQvTnIpC2Wq1U32z",
+        "compendium": "highhelm-bestiary",
+        "name": "Pagulin",
+        "prompt": "Fantasy art Pagulin animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973074,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
