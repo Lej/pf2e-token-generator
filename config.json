@@ -9430,5 +9430,14 @@
         "timestamp": 1695572870108,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vA5VwmGb7xZ0WQdM": {
+        "id": "vA5VwmGb7xZ0WQdM",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Combustive Zombie",
+        "prompt": "Fantasy art Combustive Zombie fire mindless undead zombie Variant sulfur zombie in the style of Greg Rutkowski",
+        "timestamp": 1695572870108,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
