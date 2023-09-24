@@ -13363,5 +13363,14 @@
         "timestamp": 1695572870406,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wKVZdVVcXtvLxgsY": {
+        "id": "wKVZdVVcXtvLxgsY",
+        "compendium": "pathfinder-bestiary",
+        "name": "Giant Animated Statue",
+        "prompt": "Fantasy art Giant Animated Statue construct earth mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870406,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
