@@ -16504,5 +16504,14 @@
         "timestamp": 1695572870558,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TDLiOXhnBxC0n3jr": {
+        "id": "TDLiOXhnBxC0n3jr",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Gilded Gunner Safecracker",
+        "prompt": "Fantasy art Gilded Gunner Safecracker humanoid Locks expert in the style of Greg Rutkowski",
+        "timestamp": 1695572870558,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
