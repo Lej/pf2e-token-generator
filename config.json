@@ -5254,5 +5254,14 @@
         "timestamp": 1695547972918,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cbduxhlI7JbONLXF": {
+        "id": "cbduxhlI7JbONLXF",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Shambler Troop",
+        "prompt": "Fantasy art Shambler Troop mindless troop undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695547972918,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
