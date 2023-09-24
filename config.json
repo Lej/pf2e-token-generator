@@ -16909,5 +16909,14 @@
         "timestamp": 1695572870572,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "M2Vi2mkwMZv1ZRka": {
+        "id": "M2Vi2mkwMZv1ZRka",
+        "compendium": "npc-gallery",
+        "name": "Tempest-Sun Mage",
+        "prompt": "Fantasy art Tempest-Sun Mage human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870573,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
