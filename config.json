@@ -13192,5 +13192,14 @@
         "timestamp": 1695572870398,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ETNlci6VnSthx5V6": {
+        "id": "ETNlci6VnSthx5V6",
+        "compendium": "pathfinder-bestiary",
+        "name": "Erinys",
+        "prompt": "Fantasy art Erinys devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870398,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
