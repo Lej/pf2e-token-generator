@@ -5326,5 +5326,14 @@
         "timestamp": 1695547972920,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "rVtBZrHnWM3lvSs7": {
+        "id": "rVtBZrHnWM3lvSs7",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Brimorak",
+        "prompt": "Fantasy art Brimorak demon fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547972921,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
