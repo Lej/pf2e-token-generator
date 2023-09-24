@@ -9313,5 +9313,14 @@
         "timestamp": 1695572870104,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8i1a132Z2xJtqyQI": {
+        "id": "8i1a132Z2xJtqyQI",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Witch of the Owl",
+        "prompt": "Fantasy art Witch of the Owl human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870104,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
