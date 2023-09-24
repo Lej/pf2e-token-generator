@@ -6136,5 +6136,14 @@
         "timestamp": 1695547973000,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zM01pTDcCS3F6z2V": {
+        "id": "zM01pTDcCS3F6z2V",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Iloise (5-6)",
+        "prompt": "Fantasy art Iloise dwarf humanoid mortic in the style of Greg Rutkowski",
+        "timestamp": 1695547973001,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
