@@ -13633,5 +13633,14 @@
         "timestamp": 1695572870418,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pL4sS2HZtGAryKnN": {
+        "id": "pL4sS2HZtGAryKnN",
+        "compendium": "pathfinder-bestiary",
+        "name": "Naunet",
+        "prompt": "Fantasy art Naunet monitor protean in the style of Greg Rutkowski",
+        "timestamp": 1695572870419,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
