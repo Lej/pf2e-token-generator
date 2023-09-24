@@ -10807,5 +10807,14 @@
         "timestamp": 1695572870295,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pMoAlNjMJ7DArLPh": {
+        "id": "pMoAlNjMJ7DArLPh",
+        "compendium": "pathfinder-bestiary",
+        "name": "Wrathspawn",
+        "prompt": "Fantasy art Wrathspawn aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870296,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
