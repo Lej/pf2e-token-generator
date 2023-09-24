@@ -13327,5 +13327,14 @@
         "timestamp": 1695572870404,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GyigGu36XLPV72nW": {
+        "id": "GyigGu36XLPV72nW",
+        "compendium": "pathfinder-bestiary",
+        "name": "Djinni",
+        "prompt": "Fantasy art Djinni air elemental genie in the style of Greg Rutkowski",
+        "timestamp": 1695572870404,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
