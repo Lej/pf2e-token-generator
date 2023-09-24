@@ -15613,5 +15613,14 @@
         "timestamp": 1695572870530,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "QpNynyK54qEwmswI": {
+        "id": "QpNynyK54qEwmswI",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Frost Troll Hunter",
+        "prompt": "Fantasy art Frost Troll Hunter cold giant troll in the style of Greg Rutkowski",
+        "timestamp": 1695572870531,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
