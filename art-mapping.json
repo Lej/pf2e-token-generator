@@ -5309,6 +5309,10 @@
         "M6RknN77XTo23v45": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/M6RknN77XTo23v45/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/M6RknN77XTo23v45/token.webp"
+        },
+        "gztjujplfVCBVXv0": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/gztjujplfVCBVXv0/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/gztjujplfVCBVXv0/token.webp"
         }
     }
 }

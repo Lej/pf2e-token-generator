@@ -11887,5 +11887,14 @@
         "timestamp": 1695572870346,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gztjujplfVCBVXv0": {
+        "id": "gztjujplfVCBVXv0",
+        "compendium": "pathfinder-bestiary",
+        "name": "Lantern Archon (Gestalt)",
+        "prompt": "Fantasy art Lantern Archon Gestalt archon celestial in the style of Greg Rutkowski",
+        "timestamp": 1695572870347,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
