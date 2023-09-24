@@ -6028,5 +6028,14 @@
         "timestamp": 1695547972992,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0PInbNLNpw7qKTAu": {
+        "id": "0PInbNLNpw7qKTAu",
+        "compendium": "pfs-introductions-bestiary",
+        "name": "Ghoul (PFS Intro 2)",
+        "prompt": "Fantasy art Ghoul ghoul undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972992,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
