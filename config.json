@@ -3832,5 +3832,14 @@
         "timestamp": 1695547972857,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cMBXcfS0DuZ7O2vm": {
+        "id": "cMBXcfS0DuZ7O2vm",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Pukwudgie",
+        "prompt": "Fantasy art Pukwudgie fey in the style of Greg Rutkowski",
+        "timestamp": 1695547972857,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
