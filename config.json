@@ -4426,5 +4426,14 @@
         "timestamp": 1695547972882,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PVstJNeHeWLU2XoK": {
+        "id": "PVstJNeHeWLU2XoK",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Cecaelia Trapper",
+        "prompt": "Fantasy art Cecaelia Trapper amphibious humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972882,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
