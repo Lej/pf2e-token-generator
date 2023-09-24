@@ -10312,5 +10312,14 @@
         "timestamp": 1695572870273,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gDMPUL0UiOHrUUd3": {
+        "id": "gDMPUL0UiOHrUUd3",
+        "compendium": "pathfinder-bestiary",
+        "name": "Aasimar Redeemer",
+        "prompt": "Fantasy art Aasimar Redeemer aasimar human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870273,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
