@@ -10789,5 +10789,14 @@
         "timestamp": 1695572870294,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "v9eQFqibX6EYsmuX": {
+        "id": "v9eQFqibX6EYsmuX",
+        "compendium": "pathfinder-bestiary",
+        "name": "Adult Silver Dragon",
+        "prompt": "Fantasy art Adult Silver Dragon cold dragon in the style of Greg Rutkowski",
+        "timestamp": 1695572870294,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
