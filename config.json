@@ -9943,5 +9943,14 @@
         "timestamp": 1695572870130,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MiVmx6v1nMTX09Aa": {
+        "id": "MiVmx6v1nMTX09Aa",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Vicious Abyssal Bunny Swarm",
+        "prompt": "Fantasy art Vicious Abyssal Bunny Swarm animal demon fiend swarm in the style of Greg Rutkowski",
+        "timestamp": 1695572870130,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
