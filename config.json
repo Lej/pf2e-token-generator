@@ -8611,5 +8611,14 @@
         "timestamp": 1695547973083,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RpDO2ClbBiAUfQCL": {
+        "id": "RpDO2ClbBiAUfQCL",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Ambush Raider",
+        "prompt": "Fantasy art Ambush Raider elf humanoid Variant tomb raider in the style of Greg Rutkowski",
+        "timestamp": 1695547973083,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
