@@ -10330,5 +10330,14 @@
         "timestamp": 1695572870274,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KDRlxdIUADWHI6Vr": {
+        "id": "KDRlxdIUADWHI6Vr",
+        "compendium": "pathfinder-bestiary",
+        "name": "Air Mephit",
+        "prompt": "Fantasy art Air Mephit air elemental in the style of Greg Rutkowski",
+        "timestamp": 1695572870275,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
