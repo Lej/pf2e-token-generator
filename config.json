@@ -12454,5 +12454,14 @@
         "timestamp": 1695572870372,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9vNYtJZiseCEf4wt": {
+        "id": "9vNYtJZiseCEf4wt",
+        "compendium": "pathfinder-bestiary",
+        "name": "Balor",
+        "prompt": "Fantasy art Balor demon fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870373,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
