@@ -7709,6 +7709,10 @@
         "7RF95b3WHkvHWLrv": {
             "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/7RF95b3WHkvHWLrv/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/7RF95b3WHkvHWLrv/token.webp"
+        },
+        "DFurZlcpcNrUmmER": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/DFurZlcpcNrUmmER/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/DFurZlcpcNrUmmER/token.webp"
         }
     }
 }
