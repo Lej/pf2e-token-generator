@@ -17719,5 +17719,14 @@
         "timestamp": 1695572870606,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yFfT9yPbUzldlhxN": {
+        "id": "yFfT9yPbUzldlhxN",
+        "compendium": "fall-of-plaguestone",
+        "name": "Alchemical Drudge",
+        "prompt": "Fantasy art Alchemical Drudge construct in the style of Greg Rutkowski",
+        "timestamp": 1695572870606,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
