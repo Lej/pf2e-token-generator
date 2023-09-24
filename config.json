@@ -8197,5 +8197,14 @@
         "timestamp": 1695547973066,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1lfSUWK706fFrvhT": {
+        "id": "1lfSUWK706fFrvhT",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Bandit Lieutenant",
+        "prompt": "Fantasy art Bandit Lieutenant human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973066,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
