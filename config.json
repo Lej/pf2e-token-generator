@@ -6100,5 +6100,14 @@
         "timestamp": 1695547972999,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8ndVAfhYn9kROK3R": {
+        "id": "8ndVAfhYn9kROK3R",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Witchwyrd (PFS 1-21)",
+        "prompt": "Fantasy art Witchwyrd humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973000,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
