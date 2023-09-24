@@ -5407,5 +5407,14 @@
         "timestamp": 1695547972966,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KSKettq5j3A7UsIh": {
+        "id": "KSKettq5j3A7UsIh",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Phantom Beast",
+        "prompt": "Fantasy art Phantom Beast ethereal incorporeal phantom spirit in the style of Greg Rutkowski",
+        "timestamp": 1695547972967,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
