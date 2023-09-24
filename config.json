@@ -17629,5 +17629,14 @@
         "timestamp": 1695572870602,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hxyImo4ts3O0BrAY": {
+        "id": "hxyImo4ts3O0BrAY",
+        "compendium": "npc-gallery",
+        "name": "Veteran Reclaimer",
+        "prompt": "Fantasy art Veteran Reclaimer human humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1695572870602,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
