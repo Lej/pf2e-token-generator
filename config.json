@@ -5974,5 +5974,14 @@
         "timestamp": 1695547972989,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lrSuRCrRjP3xBfRy": {
+        "id": "lrSuRCrRjP3xBfRy",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Megatherium",
+        "prompt": "Fantasy art Megatherium animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972989,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
