@@ -5749,6 +5749,10 @@
         "QGTSPki2eoLuavif": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/QGTSPki2eoLuavif/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/QGTSPki2eoLuavif/token.webp"
+        },
+        "wifELOkkRO2634bc": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/wifELOkkRO2634bc/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/wifELOkkRO2634bc/token.webp"
         }
     }
 }

@@ -12877,5 +12877,14 @@
         "timestamp": 1695572870385,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wifELOkkRO2634bc": {
+        "id": "wifELOkkRO2634bc",
+        "compendium": "pathfinder-bestiary",
+        "name": "Boggard Scout",
+        "prompt": "Fantasy art Boggard Scout amphibious boggard humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870385,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
