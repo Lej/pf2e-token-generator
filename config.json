@@ -4912,5 +4912,14 @@
         "timestamp": 1695547972902,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Rgy8OyRY5szgE6d0": {
+        "id": "Rgy8OyRY5szgE6d0",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Empress Ice Worm",
+        "prompt": "Fantasy art Empress Ice Worm animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972902,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
