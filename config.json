@@ -14416,5 +14416,14 @@
         "timestamp": 1695572870491,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "576v0bDKtGE5dwnQ": {
+        "id": "576v0bDKtGE5dwnQ",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Clouded Quartz (5-6)",
+        "prompt": "Fantasy art Clouded Quartz earth giant troll in the style of Greg Rutkowski",
+        "timestamp": 1695572870492,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
