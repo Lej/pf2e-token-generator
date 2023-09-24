@@ -15838,5 +15838,14 @@
         "timestamp": 1695572870536,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "5NCKrDA869F82zPC": {
+        "id": "5NCKrDA869F82zPC",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Leaded Skeleton",
+        "prompt": "Fantasy art Leaded Skeleton mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870536,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
