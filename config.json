@@ -12040,5 +12040,14 @@
         "timestamp": 1695572870355,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "x81PGKEsOtPquFVa": {
+        "id": "x81PGKEsOtPquFVa",
+        "compendium": "pathfinder-bestiary",
+        "name": "Chimera (Blue Dragon)",
+        "prompt": "Fantasy art Chimera Blue Dragon beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870355,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
