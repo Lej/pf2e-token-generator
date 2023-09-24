@@ -7774,5 +7774,14 @@
         "timestamp": 1695547973053,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "hevuaQkMCF9o5KZ2": {
+        "id": "hevuaQkMCF9o5KZ2",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Zatqualmish (3-4)",
+        "prompt": "Fantasy art Zatqualmish gnome humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973053,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
