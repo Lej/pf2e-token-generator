@@ -4012,5 +4012,14 @@
         "timestamp": 1695547972863,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "i3Ui3hHIBZnHl0Le": {
+        "id": "i3Ui3hHIBZnHl0Le",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Globster",
+        "prompt": "Fantasy art Globster aquatic ooze in the style of Greg Rutkowski",
+        "timestamp": 1695547972863,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
