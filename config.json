@@ -2734,5 +2734,14 @@
         "timestamp": 1695547972805,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gZ2qX5vbWg7otMVT": {
+        "id": "gZ2qX5vbWg7otMVT",
+        "compendium": "impossible-lands-bestiary",
+        "name": "Quantium Golem (Acid)",
+        "prompt": "Fantasy art Quantium Golem Acid construct mindless golem in the style of Greg Rutkowski",
+        "timestamp": 1695547972805,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
