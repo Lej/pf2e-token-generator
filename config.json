@@ -8026,5 +8026,14 @@
         "timestamp": 1695547973061,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Gsqdd6TysPcSd64h": {
+        "id": "Gsqdd6TysPcSd64h",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Weak Arboreal Warden",
+        "prompt": "Fantasy art Weak Arboreal Warden plant in the style of Greg Rutkowski",
+        "timestamp": 1695547973061,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
