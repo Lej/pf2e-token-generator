@@ -7585,5 +7585,14 @@
         "timestamp": 1695547973047,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "54m8L1izUMDi02O9": {
+        "id": "54m8L1izUMDi02O9",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Harsus (3-4)",
+        "prompt": "Fantasy art Harsus human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973047,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
