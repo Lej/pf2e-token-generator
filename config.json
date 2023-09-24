@@ -11869,5 +11869,14 @@
         "timestamp": 1695572870346,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SuWpn5yZdsHDHpL2": {
+        "id": "SuWpn5yZdsHDHpL2",
+        "compendium": "pathfinder-bestiary",
+        "name": "Giant Monitor Lizard",
+        "prompt": "Fantasy art Giant Monitor Lizard animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870346,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
