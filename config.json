@@ -15172,5 +15172,14 @@
         "timestamp": 1695572870516,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "VbRX9bK5kLIJWnXH": {
+        "id": "VbRX9bK5kLIJWnXH",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Sezruth (3-4)",
+        "prompt": "Fantasy art Sezruth div fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870517,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
