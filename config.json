@@ -9637,5 +9637,14 @@
         "timestamp": 1695572870115,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8h0PJxZu0WVcNm6H": {
+        "id": "8h0PJxZu0WVcNm6H",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Stabilized Black Pudding",
+        "prompt": "Fantasy art Stabilized Black Pudding mindless ooze Variant black pudding in the style of Greg Rutkowski",
+        "timestamp": 1695572870115,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
