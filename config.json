@@ -10006,5 +10006,14 @@
         "timestamp": 1695572870132,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UDodAGDnGkGwYsMi": {
+        "id": "UDodAGDnGkGwYsMi",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Elite Smokesight Hunter Wight",
+        "prompt": "Fantasy art Elite Smokesight Hunter Wight undead wight Variant hunter wight in the style of Greg Rutkowski",
+        "timestamp": 1695572870133,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
