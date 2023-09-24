@@ -14326,5 +14326,14 @@
         "timestamp": 1695572870489,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8ZukoQpVoMcshX62": {
+        "id": "8ZukoQpVoMcshX62",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Semyon (7-8)",
+        "prompt": "Fantasy art Semyon human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870489,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
