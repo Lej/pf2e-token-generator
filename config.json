@@ -4543,5 +4543,14 @@
         "timestamp": 1695547972885,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oR8cm0Aj5FIDF67w": {
+        "id": "oR8cm0Aj5FIDF67w",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Zetogeki",
+        "prompt": "Fantasy art Zetogeki animal earth in the style of Greg Rutkowski",
+        "timestamp": 1695547972886,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
