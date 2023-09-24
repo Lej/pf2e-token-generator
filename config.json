@@ -10762,5 +10762,14 @@
         "timestamp": 1695572870291,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qfuoFK2GXBJusQ33": {
+        "id": "qfuoFK2GXBJusQ33",
+        "compendium": "pathfinder-bestiary",
+        "name": "Duergar Bombardier",
+        "prompt": "Fantasy art Duergar Bombardier duergar dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870292,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
