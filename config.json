@@ -5776,5 +5776,14 @@
         "timestamp": 1695547972981,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9SW7NWlTisAjNwAu": {
+        "id": "9SW7NWlTisAjNwAu",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Nyktera",
+        "prompt": "Fantasy art Nyktera fey sprite in the style of Greg Rutkowski",
+        "timestamp": 1695547972981,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
