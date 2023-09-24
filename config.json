@@ -7414,5 +7414,14 @@
         "timestamp": 1695547973041,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "l8PzmglYbEtM5Xy6": {
+        "id": "l8PzmglYbEtM5Xy6",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Squirrel Swarm (1-04)",
+        "prompt": "Fantasy art Squirrel Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547973042,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
