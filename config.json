@@ -11950,5 +11950,14 @@
         "timestamp": 1695572870351,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5U13zQ77DIcqpH9U": {
+        "id": "5U13zQ77DIcqpH9U",
+        "compendium": "pathfinder-bestiary",
+        "name": "Werebear",
+        "prompt": "Fantasy art Werebear beast human humanoid werecreature in the style of Greg Rutkowski",
+        "timestamp": 1695572870351,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
