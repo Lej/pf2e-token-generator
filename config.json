@@ -9799,5 +9799,14 @@
         "timestamp": 1695572870120,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2rEw46Ye8jWPkXys": {
+        "id": "2rEw46Ye8jWPkXys",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Ambush Assassin",
+        "prompt": "Fantasy art Ambush Assassin elf humanoid Variant assassin in the style of Greg Rutkowski",
+        "timestamp": 1695572870121,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
