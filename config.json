@@ -5533,5 +5533,14 @@
         "timestamp": 1695547972971,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wnrgiB2PkaBC5gOQ": {
+        "id": "wnrgiB2PkaBC5gOQ",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Animated Silverware Swarm",
+        "prompt": "Fantasy art Animated Silverware Swarm construct mindless swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547972971,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
