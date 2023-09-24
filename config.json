@@ -14002,5 +14002,14 @@
         "timestamp": 1695572870434,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mqz4MfBwFxlBQeHs": {
+        "id": "mqz4MfBwFxlBQeHs",
+        "compendium": "pathfinder-bestiary",
+        "name": "Invisible Stalker",
+        "prompt": "Fantasy art Invisible Stalker air elemental in the style of Greg Rutkowski",
+        "timestamp": 1695572870434,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
