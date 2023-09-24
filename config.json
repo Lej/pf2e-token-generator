@@ -8431,5 +8431,14 @@
         "timestamp": 1695547973075,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "McZDmNR9sldfnsBw": {
+        "id": "McZDmNR9sldfnsBw",
+        "compendium": "highhelm-bestiary",
+        "name": "The Bloodstorm",
+        "prompt": "Fantasy art The Bloodstorm demon swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547973075,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
