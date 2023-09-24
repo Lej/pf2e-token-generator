@@ -8593,5 +8593,14 @@
         "timestamp": 1695547973082,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ky52WrkDauoAFbG6": {
+        "id": "Ky52WrkDauoAFbG6",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Abyssal Bunny Swarm",
+        "prompt": "Fantasy art Abyssal Bunny Swarm animal demon fiend swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547973082,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
