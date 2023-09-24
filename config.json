@@ -5659,5 +5659,14 @@
         "timestamp": 1695547972976,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9rugdliEg2udjROC": {
+        "id": "9rugdliEg2udjROC",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Pufferfish",
+        "prompt": "Fantasy art Pufferfish animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1695547972977,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
