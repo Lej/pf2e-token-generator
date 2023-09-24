@@ -12760,5 +12760,14 @@
         "timestamp": 1695572870382,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Z7xWkQKCHGyd02B1": {
+        "id": "Z7xWkQKCHGyd02B1",
+        "compendium": "pathfinder-bestiary",
+        "name": "Giant Mantis",
+        "prompt": "Fantasy art Giant Mantis animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870382,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
