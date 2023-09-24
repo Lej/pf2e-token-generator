@@ -15559,5 +15559,14 @@
         "timestamp": 1695572870529,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "V5O0ecsMk0QSTpqJ": {
+        "id": "V5O0ecsMk0QSTpqJ",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Crumbling Ravener Husk",
+        "prompt": "Fantasy art Crumbling Ravener Husk dragon undead Variant ravener husk in the style of Greg Rutkowski",
+        "timestamp": 1695572870529,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
