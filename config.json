@@ -2716,5 +2716,14 @@
         "timestamp": 1695547972804,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UgGyHJ39EHztCV5m": {
+        "id": "UgGyHJ39EHztCV5m",
+        "compendium": "impossible-lands-bestiary",
+        "name": "Kasesh (Stone)",
+        "prompt": "Fantasy art Kasesh Stone earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1695547972805,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
