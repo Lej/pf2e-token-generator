@@ -15496,5 +15496,14 @@
         "timestamp": 1695572870526,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6aIh6EXxkqkBciQA": {
+        "id": "6aIh6EXxkqkBciQA",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Blighted Leaf Leshy",
+        "prompt": "Fantasy art Blighted Leaf Leshy leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1695572870526,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
