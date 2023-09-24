@@ -10258,5 +10258,14 @@
         "timestamp": 1695572870271,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aD76W2uEQhFFUrom": {
+        "id": "aD76W2uEQhFFUrom",
+        "compendium": "pathfinder-bestiary",
+        "name": "Chuul",
+        "prompt": "Fantasy art Chuul aberration amphibious in the style of Greg Rutkowski",
+        "timestamp": 1695572870271,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
