@@ -9304,5 +9304,14 @@
         "timestamp": 1695572870103,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZWfXDI2Xy4HJroL8": {
+        "id": "ZWfXDI2Xy4HJroL8",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Elven Fence",
+        "prompt": "Fantasy art Elven Fence elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870104,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
