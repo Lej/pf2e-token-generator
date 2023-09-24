@@ -7360,5 +7360,14 @@
         "timestamp": 1695547973040,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rEPnlpuRVCpnQNYP": {
+        "id": "rEPnlpuRVCpnQNYP",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Zombie Warhorse",
+        "prompt": "Fantasy art Zombie Warhorse mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695547973040,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
