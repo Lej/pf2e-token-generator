@@ -8521,5 +8521,14 @@
         "timestamp": 1695547973080,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Akq5V2jzJYUZXT8d": {
+        "id": "Akq5V2jzJYUZXT8d",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Potted Violet Etheroot",
+        "prompt": "Fantasy art Potted Violet Etheroot ethereal plant in the style of Greg Rutkowski",
+        "timestamp": 1695547973080,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
