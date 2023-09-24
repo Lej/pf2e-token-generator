@@ -9043,5 +9043,14 @@
         "timestamp": 1695547973103,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xKCWrQM7tgIz5vTx": {
+        "id": "xKCWrQM7tgIz5vTx",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Giant Fetid Familiar",
+        "prompt": "Fantasy art Giant Fetid Familiar animal Variant giant skunk in the style of Greg Rutkowski",
+        "timestamp": 1695547973103,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
