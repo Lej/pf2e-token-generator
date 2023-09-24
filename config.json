@@ -14263,5 +14263,14 @@
         "timestamp": 1695572870469,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "BWOdyTjHnV153RDK": {
+        "id": "BWOdyTjHnV153RDK",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Drazmorg The Damned",
+        "prompt": "Fantasy art Drazmorg The Damned undead wight Male variant wight necromancer in the style of Greg Rutkowski",
+        "timestamp": 1695572870469,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
