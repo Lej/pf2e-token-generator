@@ -3301,5 +3301,14 @@
         "timestamp": 1695547972835,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tQBUoh5wLJXiFdX6": {
+        "id": "tQBUoh5wLJXiFdX6",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Seaweed Leshy",
+        "prompt": "Fantasy art Seaweed Leshy amphibious leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1695547972836,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
