@@ -15784,5 +15784,14 @@
         "timestamp": 1695572870535,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vqgcpFLXabsGj7RQ": {
+        "id": "vqgcpFLXabsGj7RQ",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Awakened Giant Chameleon",
+        "prompt": "Fantasy art Awakened Giant Chameleon animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870535,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
