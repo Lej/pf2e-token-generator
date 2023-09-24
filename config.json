@@ -4516,5 +4516,14 @@
         "timestamp": 1695547972885,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nr4E59Xu10nWYsyO": {
+        "id": "nr4E59Xu10nWYsyO",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Giant Skunk",
+        "prompt": "Fantasy art Giant Skunk animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972885,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
