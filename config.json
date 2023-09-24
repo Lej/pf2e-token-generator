@@ -10087,5 +10087,14 @@
         "timestamp": 1695572870138,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rrJqsVeBKizuyqRY": {
+        "id": "rrJqsVeBKizuyqRY",
+        "compendium": "mwangi-expanse-bestiary",
+        "name": "Biloko Veteran",
+        "prompt": "Fantasy art Biloko Veteran fey in the style of Greg Rutkowski",
+        "timestamp": 1695572870138,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
