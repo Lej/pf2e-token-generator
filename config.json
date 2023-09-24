@@ -15604,5 +15604,14 @@
         "timestamp": 1695572870530,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4BaZvzpSYftJEkV8": {
+        "id": "4BaZvzpSYftJEkV8",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Abyssal Fungi",
+        "prompt": "Fantasy art Abyssal Fungi fungus in the style of Greg Rutkowski",
+        "timestamp": 1695572870530,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
