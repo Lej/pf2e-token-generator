@@ -13903,5 +13903,14 @@
         "timestamp": 1695572870428,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "hOXpmWmXU8N3n4Bw": {
+        "id": "hOXpmWmXU8N3n4Bw",
+        "compendium": "pathfinder-bestiary",
+        "name": "Raja Rakshasa",
+        "prompt": "Fantasy art Raja Rakshasa fiend rakshasa in the style of Greg Rutkowski",
+        "timestamp": 1695572870429,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
