@@ -16972,5 +16972,14 @@
         "timestamp": 1695572870576,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ny37LcdsPLY9Osby": {
+        "id": "ny37LcdsPLY9Osby",
+        "compendium": "npc-gallery",
+        "name": "Saboteur",
+        "prompt": "Fantasy art Saboteur human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870577,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
