@@ -8269,5 +8269,14 @@
         "timestamp": 1695547973070,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lhSKgDzZm8FZknvG": {
+        "id": "lhSKgDzZm8FZknvG",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Kobold Scout (1-14)",
+        "prompt": "Fantasy art Kobold Scout humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695547973070,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
