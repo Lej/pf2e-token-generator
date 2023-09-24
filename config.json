@@ -2743,5 +2743,14 @@
         "timestamp": 1695547972805,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "IsE3PvvjFfxzuQtE": {
+        "id": "IsE3PvvjFfxzuQtE",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Sorcerous Sea Skull Swarm",
+        "prompt": "Fantasy art Sorcerous Sea Skull Swarm swarm undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972816,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
