@@ -11392,5 +11392,14 @@
         "timestamp": 1695572870326,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "iD3YlM0QzI2SrjD6": {
+        "id": "iD3YlM0QzI2SrjD6",
+        "compendium": "pathfinder-bestiary",
+        "name": "Azure Worm",
+        "prompt": "Fantasy art Azure Worm amphibious animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870326,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
