@@ -7797,6 +7797,10 @@
         "pZOgcQRwXrX9g0s8": {
             "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/pZOgcQRwXrX9g0s8/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/pZOgcQRwXrX9g0s8/token.webp"
+        },
+        "1sWw5OgmpazLVqRQ": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/1sWw5OgmpazLVqRQ/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/1sWw5OgmpazLVqRQ/token.webp"
         }
     }
 }

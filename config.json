@@ -17467,5 +17467,14 @@
         "timestamp": 1695572870596,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1sWw5OgmpazLVqRQ": {
+        "id": "1sWw5OgmpazLVqRQ",
+        "compendium": "npc-gallery",
+        "name": "Mage For Hire",
+        "prompt": "Fantasy art Mage For Hire human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870596,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
