@@ -15676,5 +15676,14 @@
         "timestamp": 1695572870532,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UkcHfRJUx1OHELZm": {
+        "id": "UkcHfRJUx1OHELZm",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Duergar Raider",
+        "prompt": "Fantasy art Duergar Raider duergar dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870532,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
