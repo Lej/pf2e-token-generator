@@ -15721,5 +15721,14 @@
         "timestamp": 1695572870534,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "E8mFpCpTrhiBfYcp": {
+        "id": "E8mFpCpTrhiBfYcp",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Smoldering Moss Monster",
+        "prompt": "Fantasy art Smoldering Moss Monster fire plant in the style of Greg Rutkowski",
+        "timestamp": 1695572870534,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
