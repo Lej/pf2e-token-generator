@@ -17953,5 +17953,14 @@
         "timestamp": 1695572870613,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VEWrS5u71szMrhs4": {
+        "id": "VEWrS5u71szMrhs4",
+        "compendium": "kingmaker-bestiary",
+        "name": "Quintessa Maray",
+        "prompt": "Fantasy art Quintessa Maray human humanoid Female human bard in the style of Greg Rutkowski",
+        "timestamp": 1695572870614,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
