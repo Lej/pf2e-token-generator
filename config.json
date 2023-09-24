@@ -11491,5 +11491,14 @@
         "timestamp": 1695572870330,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1CzZINpYRcNBKDnO": {
+        "id": "1CzZINpYRcNBKDnO",
+        "compendium": "pathfinder-bestiary",
+        "name": "Lizardfolk Scout",
+        "prompt": "Fantasy art Lizardfolk Scout humanoid lizardfolk in the style of Greg Rutkowski",
+        "timestamp": 1695572870331,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
