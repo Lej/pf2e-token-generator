@@ -4363,5 +4363,14 @@
         "timestamp": 1695547972880,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BEzfxlrA0CNfh4Fr": {
+        "id": "BEzfxlrA0CNfh4Fr",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Nosferatu Malefactor",
+        "prompt": "Fantasy art Nosferatu Malefactor undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1695547972880,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
