@@ -8503,5 +8503,14 @@
         "timestamp": 1695547973079,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "udCpriOCsMBEuhr8": {
+        "id": "udCpriOCsMBEuhr8",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Brinna",
+        "prompt": "Fantasy art Brinna human humanoid Variant Smith in the style of Greg Rutkowski",
+        "timestamp": 1695547973079,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
