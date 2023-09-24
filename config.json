@@ -2887,5 +2887,14 @@
         "timestamp": 1695547972820,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tdSnY3lgYJnsvB8n": {
+        "id": "tdSnY3lgYJnsvB8n",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Wizard Sponge",
+        "prompt": "Fantasy art Wizard Sponge fungus mindless swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547972821,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
