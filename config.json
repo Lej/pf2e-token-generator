@@ -9475,5 +9475,14 @@
         "timestamp": 1695572870110,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zj9L3bvmhtnOilmf": {
+        "id": "zj9L3bvmhtnOilmf",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Depleted Roiling Incant",
+        "prompt": "Fantasy art Depleted Roiling Incant arcane evocation mindless Variant roiling incant in the style of Greg Rutkowski",
+        "timestamp": 1695572870110,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
