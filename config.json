@@ -7756,5 +7756,14 @@
         "timestamp": 1695547973052,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LKdTBOV9LUiFrKOU": {
+        "id": "LKdTBOV9LUiFrKOU",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Sea Devil Invader",
+        "prompt": "Fantasy art Sea Devil Invader amphibious humanoid sea-devil in the style of Greg Rutkowski",
+        "timestamp": 1695547973052,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
