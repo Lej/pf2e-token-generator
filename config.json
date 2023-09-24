@@ -3706,5 +3706,14 @@
         "timestamp": 1695547972848,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kXc11R18rF28AgIf": {
+        "id": "kXc11R18rF28AgIf",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Green Man",
+        "prompt": "Fantasy art Green Man leshy plant rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547972849,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
