@@ -13975,5 +13975,14 @@
         "timestamp": 1695572870433,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eP96NzLFSjua4NS5": {
+        "id": "eP96NzLFSjua4NS5",
+        "compendium": "pathfinder-bestiary",
+        "name": "Stegosaurus",
+        "prompt": "Fantasy art Stegosaurus animal dinosaur in the style of Greg Rutkowski",
+        "timestamp": 1695572870433,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
