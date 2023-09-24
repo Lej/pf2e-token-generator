@@ -9970,5 +9970,14 @@
         "timestamp": 1695572870131,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sQeRXRsly4npOU4r": {
+        "id": "sQeRXRsly4npOU4r",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Infested Clockwork Vessel",
+        "prompt": "Fantasy art Infested Clockwork Vessel clockwork construct mindless Variant clockwork soldier in the style of Greg Rutkowski",
+        "timestamp": 1695572870131,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
