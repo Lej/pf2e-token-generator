@@ -16558,5 +16558,14 @@
         "timestamp": 1695572870559,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kJNnY2a4bu0Q7hnl": {
+        "id": "kJNnY2a4bu0Q7hnl",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Captured Dezullon",
+        "prompt": "Fantasy art Captured Dezullon plant Weak dezullon in the style of Greg Rutkowski",
+        "timestamp": 1695572870559,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
