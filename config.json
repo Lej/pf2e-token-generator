@@ -16882,5 +16882,14 @@
         "timestamp": 1695572870570,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0Kb4z4h8KVqfrIju": {
+        "id": "0Kb4z4h8KVqfrIju",
+        "compendium": "npc-gallery",
+        "name": "Assassin",
+        "prompt": "Fantasy art Assassin human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870571,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
