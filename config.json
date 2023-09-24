@@ -5803,5 +5803,14 @@
         "timestamp": 1695547972982,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZOrG61DZ9aiv8poK": {
+        "id": "ZOrG61DZ9aiv8poK",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Owb Prophet",
+        "prompt": "Fantasy art Owb Prophet shadow in the style of Greg Rutkowski",
+        "timestamp": 1695547972983,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
