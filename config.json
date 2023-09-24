@@ -4003,5 +4003,14 @@
         "timestamp": 1695547972863,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Al5OHM0hbWcqIplK": {
+        "id": "Al5OHM0hbWcqIplK",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Wizard Sponge (Fiendish Temple)",
+        "prompt": "Fantasy art Wizard Sponge Fiendish Temple fungus mindless swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547972863,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
