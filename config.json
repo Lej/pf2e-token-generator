@@ -15757,5 +15757,14 @@
         "timestamp": 1695572870534,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "x4m5ks6Rd8fYzXPm": {
+        "id": "x4m5ks6Rd8fYzXPm",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Daughter Of Cocytus Enforcer",
+        "prompt": "Fantasy art Daughter Of Cocytus Enforcer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870535,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
