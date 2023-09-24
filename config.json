@@ -13390,5 +13390,14 @@
         "timestamp": 1695572870407,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HpY0addhUqtHMgUN": {
+        "id": "HpY0addhUqtHMgUN",
+        "compendium": "pathfinder-bestiary",
+        "name": "Elephant",
+        "prompt": "Fantasy art Elephant animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870408,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
