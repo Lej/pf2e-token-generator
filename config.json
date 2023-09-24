@@ -7540,5 +7540,14 @@
         "timestamp": 1695547973045,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PQaQSSjfkoV9mZzi": {
+        "id": "PQaQSSjfkoV9mZzi",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Giant Short-faced Bear",
+        "prompt": "Fantasy art Giant Short-faced Bear animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973045,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
