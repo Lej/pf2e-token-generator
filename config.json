@@ -15280,5 +15280,14 @@
         "timestamp": 1695572870520,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RmcCPvmrAeSTx3BR": {
+        "id": "RmcCPvmrAeSTx3BR",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Burning Sun Orc (7-8)",
+        "prompt": "Fantasy art Burning Sun Orc humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1695572870520,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
