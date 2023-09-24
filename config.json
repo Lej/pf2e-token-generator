@@ -10123,5 +10123,14 @@
         "timestamp": 1695572870139,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RVVSRRYAhQ3dVK2h": {
+        "id": "RVVSRRYAhQ3dVK2h",
+        "compendium": "mwangi-expanse-bestiary",
+        "name": "Solar Ibis",
+        "prompt": "Fantasy art Solar Ibis beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870139,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
