@@ -9052,5 +9052,14 @@
         "timestamp": 1695547973103,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JTrKsjnCLJy7W1gj": {
+        "id": "JTrKsjnCLJy7W1gj",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Urdefhan Blood Mage (PFS 4-11)",
+        "prompt": "Fantasy art Urdefhan Blood Mage humanoid urdefhan in the style of Greg Rutkowski",
+        "timestamp": 1695547973105,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
