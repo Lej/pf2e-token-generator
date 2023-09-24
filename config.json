@@ -15064,5 +15064,14 @@
         "timestamp": 1695572870514,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XVda3dqZWi21we2j": {
+        "id": "XVda3dqZWi21we2j",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Ragewight (3-4)",
+        "prompt": "Fantasy art Ragewight undead wight in the style of Greg Rutkowski",
+        "timestamp": 1695572870514,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
