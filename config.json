@@ -10069,5 +10069,14 @@
         "timestamp": 1695572870137,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8K5v5q9Y01hcSNug": {
+        "id": "8K5v5q9Y01hcSNug",
+        "compendium": "mwangi-expanse-bestiary",
+        "name": "Rompo",
+        "prompt": "Fantasy art Rompo beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870137,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
