@@ -14506,5 +14506,14 @@
         "timestamp": 1695572870495,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "51GRDiQOAA9CP3h3": {
+        "id": "51GRDiQOAA9CP3h3",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Mephit Swarm (5-6)",
+        "prompt": "Fantasy art Mephit Swarm air earth elemental fire swarm water in the style of Greg Rutkowski",
+        "timestamp": 1695572870495,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
