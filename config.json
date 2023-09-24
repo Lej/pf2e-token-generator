@@ -7396,5 +7396,14 @@
         "timestamp": 1695547973041,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZMGXiRuVZ8r7hQVe": {
+        "id": "ZMGXiRuVZ8r7hQVe",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Bandit Scout",
+        "prompt": "Fantasy art Bandit Scout human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973041,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
