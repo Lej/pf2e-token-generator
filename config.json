@@ -13138,5 +13138,14 @@
         "timestamp": 1695572870396,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "qcZvFCAnslI9XNTR": {
+        "id": "qcZvFCAnslI9XNTR",
+        "compendium": "pathfinder-bestiary",
+        "name": "Wasp Swarm",
+        "prompt": "Fantasy art Wasp Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1695572870396,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
