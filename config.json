@@ -2653,5 +2653,14 @@
         "timestamp": 1695547972802,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wjNbuzeqoVSR0Wwm": {
+        "id": "wjNbuzeqoVSR0Wwm",
+        "compendium": "impossible-lands-bestiary",
+        "name": "Quantium Golem (Electricity)",
+        "prompt": "Fantasy art Quantium Golem Electricity construct mindless golem in the style of Greg Rutkowski",
+        "timestamp": 1695547972803,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
