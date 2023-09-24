@@ -4462,5 +4462,14 @@
         "timestamp": 1695547972883,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yCyZlDAaJ6cDYtB7": {
+        "id": "yCyZlDAaJ6cDYtB7",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Wolliped",
+        "prompt": "Fantasy art Wolliped animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972883,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
