@@ -16738,5 +16738,14 @@
         "timestamp": 1695572870565,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RpGReUxsaT8wCz2u": {
+        "id": "RpGReUxsaT8wCz2u",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Corrupt Shieldmarshal (Jezail)",
+        "prompt": "Fantasy art Corrupt Shieldmarshal Jezail humanoid Various law enforcers in the style of Greg Rutkowski",
+        "timestamp": 1695572870565,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
