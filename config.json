@@ -13921,5 +13921,14 @@
         "timestamp": 1695572870430,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CzxQpB3p0d9hwPeR": {
+        "id": "CzxQpB3p0d9hwPeR",
+        "compendium": "pathfinder-bestiary",
+        "name": "Bulette",
+        "prompt": "Fantasy art Bulette animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870430,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
