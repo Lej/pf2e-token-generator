@@ -11311,5 +11311,14 @@
         "timestamp": 1695572870323,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "skz8n8N9GEQY2c90": {
+        "id": "skz8n8N9GEQY2c90",
+        "compendium": "pathfinder-bestiary",
+        "name": "Clay Golem",
+        "prompt": "Fantasy art Clay Golem construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870323,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
