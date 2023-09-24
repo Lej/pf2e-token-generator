@@ -12796,5 +12796,14 @@
         "timestamp": 1695572870383,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "i6Rd1BE30hhyKxwo": {
+        "id": "i6Rd1BE30hhyKxwo",
+        "compendium": "pathfinder-bestiary",
+        "name": "Flash Beetle",
+        "prompt": "Fantasy art Flash Beetle animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870383,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
