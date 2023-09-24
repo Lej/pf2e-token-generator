@@ -15487,5 +15487,14 @@
         "timestamp": 1695572870526,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SX348ZSY0SyMfOXa": {
+        "id": "SX348ZSY0SyMfOXa",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Flaming Eye (3-4)",
+        "prompt": "Fantasy art Flaming Eye fire mindless undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870526,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
