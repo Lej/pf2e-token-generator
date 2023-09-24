@@ -14560,5 +14560,14 @@
         "timestamp": 1695572870496,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "0RPGHzGalRHqEEHx": {
+        "id": "0RPGHzGalRHqEEHx",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Reinforced Animated Guardian",
+        "prompt": "Fantasy art Reinforced Animated Guardian construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870497,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
