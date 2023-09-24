@@ -7369,5 +7369,14 @@
         "timestamp": 1695547973040,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "D8CPosS1fj2ZRBv0": {
+        "id": "D8CPosS1fj2ZRBv0",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Elite Skeletal Giant (PFS 1-18)",
+        "prompt": "Fantasy art Elite Skeletal Giant mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695547973040,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
