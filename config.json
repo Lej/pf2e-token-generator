@@ -15928,5 +15928,14 @@
         "timestamp": 1695572870539,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "F22a7CKj2leYfxyo": {
+        "id": "F22a7CKj2leYfxyo",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Hobgoblin Skeleton",
+        "prompt": "Fantasy art Hobgoblin Skeleton mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870540,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
