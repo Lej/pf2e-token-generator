@@ -4705,5 +4705,14 @@
         "timestamp": 1695547972893,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "aZBp1m5C9nXRgxHA": {
+        "id": "aZBp1m5C9nXRgxHA",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Trilobite",
+        "prompt": "Fantasy art Trilobite animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1695547972893,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
