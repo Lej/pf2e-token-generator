@@ -9133,5 +9133,14 @@
         "timestamp": 1695547973108,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8OzYnoDXrQcSL0GD": {
+        "id": "8OzYnoDXrQcSL0GD",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Ambush Spy",
+        "prompt": "Fantasy art Ambush Spy elf humanoid Variant spy in the style of Greg Rutkowski",
+        "timestamp": 1695547973109,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
