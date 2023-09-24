@@ -17611,5 +17611,14 @@
         "timestamp": 1695572870601,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "Cnm5zWmuTEYy6mPx": {
+        "id": "Cnm5zWmuTEYy6mPx",
+        "compendium": "npc-gallery",
+        "name": "Mastermind",
+        "prompt": "Fantasy art Mastermind human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870601,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
