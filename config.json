@@ -13030,5 +13030,14 @@
         "timestamp": 1695572870392,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "80TiZrVvIBW7E6L2": {
+        "id": "80TiZrVvIBW7E6L2",
+        "compendium": "pathfinder-bestiary",
+        "name": "Fire Giant",
+        "prompt": "Fantasy art Fire Giant fire giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870392,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
