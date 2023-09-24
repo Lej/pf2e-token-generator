@@ -15622,5 +15622,14 @@
         "timestamp": 1695572870531,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SgRcBE1CNLlGXbwz": {
+        "id": "SgRcBE1CNLlGXbwz",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Silaqui (5-6)",
+        "prompt": "Fantasy art Silaqui aquatic elemental water in the style of Greg Rutkowski",
+        "timestamp": 1695572870531,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
