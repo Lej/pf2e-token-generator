@@ -3004,5 +3004,14 @@
         "timestamp": 1695547972824,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rOBXOcxMcnFR2P9y": {
+        "id": "rOBXOcxMcnFR2P9y",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Skull Peeler",
+        "prompt": "Fantasy art Skull Peeler beast in the style of Greg Rutkowski",
+        "timestamp": 1695547972824,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
