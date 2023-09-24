@@ -6865,5 +6865,14 @@
         "timestamp": 1695547973023,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "D9Ogfbn0ooPAqa9X": {
+        "id": "D9Ogfbn0ooPAqa9X",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Elderly Giant Tarantula",
+        "prompt": "Fantasy art Elderly Giant Tarantula animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973023,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
