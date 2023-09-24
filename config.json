@@ -3796,5 +3796,14 @@
         "timestamp": 1695547972854,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "RicPhk9hLC3dDjp5": {
+        "id": "RicPhk9hLC3dDjp5",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Maharaja",
+        "prompt": "Fantasy art Maharaja fiend rakshasa in the style of Greg Rutkowski",
+        "timestamp": 1695547972856,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
