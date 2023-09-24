@@ -5191,5 +5191,14 @@
         "timestamp": 1695547972914,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "uP6dE5adlWJ9DrFY": {
+        "id": "uP6dE5adlWJ9DrFY",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Corrupted Relic",
+        "prompt": "Fantasy art Corrupted Relic incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972915,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
