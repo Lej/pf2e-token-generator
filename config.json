@@ -10744,5 +10744,14 @@
         "timestamp": 1695572870290,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "v92cB3RBUMhysOpD": {
+        "id": "v92cB3RBUMhysOpD",
+        "compendium": "pathfinder-bestiary",
+        "name": "Winter Wolf",
+        "prompt": "Fantasy art Winter Wolf beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870291,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
