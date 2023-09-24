@@ -17593,5 +17593,14 @@
         "timestamp": 1695572870600,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KPUDfkVpemug2gKj": {
+        "id": "KPUDfkVpemug2gKj",
+        "compendium": "npc-gallery",
+        "name": "Bandit",
+        "prompt": "Fantasy art Bandit human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870600,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
