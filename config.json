@@ -6460,5 +6460,14 @@
         "timestamp": 1695547973011,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zveTUg1NtYmTwlFn": {
+        "id": "zveTUg1NtYmTwlFn",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Dire Warg",
+        "prompt": "Fantasy art Dire Warg beast in the style of Greg Rutkowski",
+        "timestamp": 1695547973011,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
