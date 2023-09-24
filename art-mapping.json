@@ -4781,6 +4781,10 @@
         "cuET2PHGcE7eL7DJ": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/cuET2PHGcE7eL7DJ/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/cuET2PHGcE7eL7DJ/token.webp"
+        },
+        "pG3UPgbAxNCXAyQE": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/pG3UPgbAxNCXAyQE/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/pG3UPgbAxNCXAyQE/token.webp"
         }
     }
 }
