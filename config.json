@@ -16333,5 +16333,14 @@
         "timestamp": 1695572870553,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7qaFFvXAYHp2G0CX": {
+        "id": "7qaFFvXAYHp2G0CX",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Powderkeg Punk Gunner",
+        "prompt": "Fantasy art Powderkeg Punk Gunner humanoid Various gang toughs in the style of Greg Rutkowski",
+        "timestamp": 1695572870553,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
