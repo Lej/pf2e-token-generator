@@ -5524,5 +5524,14 @@
         "timestamp": 1695547972971,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "N6nBHGfmlaeMiBMP": {
+        "id": "N6nBHGfmlaeMiBMP",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Hellwasp Swarm",
+        "prompt": "Fantasy art Hellwasp Swarm fiend swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547972971,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
