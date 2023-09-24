@@ -5713,5 +5713,14 @@
         "timestamp": 1695547972978,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "vJAPvmWCjVGKr06E": {
+        "id": "vJAPvmWCjVGKr06E",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Arboreal Archive",
+        "prompt": "Fantasy art Arboreal Archive plant in the style of Greg Rutkowski",
+        "timestamp": 1695547972979,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
