@@ -10213,5 +10213,14 @@
         "timestamp": 1695572870143,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TfEGDGqUk3LpokZZ": {
+        "id": "TfEGDGqUk3LpokZZ",
+        "compendium": "mwangi-expanse-bestiary",
+        "name": "Charau-ka Warrior",
+        "prompt": "Fantasy art Charau-ka Warrior charau-ka humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870143,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
