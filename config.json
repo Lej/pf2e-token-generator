@@ -6820,5 +6820,14 @@
         "timestamp": 1695547973022,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oQmjMw2MTQDSGRs7": {
+        "id": "oQmjMw2MTQDSGRs7",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Gwibble (3-4)",
+        "prompt": "Fantasy art Gwibble fey gremlin in the style of Greg Rutkowski",
+        "timestamp": 1695547973022,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
