@@ -17395,5 +17395,14 @@
         "timestamp": 1695572870593,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gzirsGA07yG6CaG8": {
+        "id": "gzirsGA07yG6CaG8",
+        "compendium": "npc-gallery",
+        "name": "Jailer",
+        "prompt": "Fantasy art Jailer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870594,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
