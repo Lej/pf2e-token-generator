@@ -8053,5 +8053,14 @@
         "timestamp": 1695547973062,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "uwAyhK6sEoOyoR96": {
+        "id": "uwAyhK6sEoOyoR96",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Vigilant Guard",
+        "prompt": "Fantasy art Vigilant Guard human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973062,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
