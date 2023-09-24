@@ -2644,5 +2644,14 @@
         "timestamp": 1695502440690,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xl2UxOFVSDGqaVS5": {
+        "id": "xl2UxOFVSDGqaVS5",
+        "compendium": "impossible-lands-bestiary",
+        "name": "Ratajin Mastermind",
+        "prompt": "Fantasy art Ratajin Mastermind humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972802,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
