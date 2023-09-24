@@ -13120,5 +13120,14 @@
         "timestamp": 1695572870395,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "e8rmI5xt6IANatfX": {
+        "id": "e8rmI5xt6IANatfX",
+        "compendium": "pathfinder-bestiary",
+        "name": "Shemhazian",
+        "prompt": "Fantasy art Shemhazian demon fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870396,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
