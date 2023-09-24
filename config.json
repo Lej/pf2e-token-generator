@@ -10933,5 +10933,14 @@
         "timestamp": 1695572870304,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Lvdykf6wfqzZBlZd": {
+        "id": "Lvdykf6wfqzZBlZd",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ancient Black Dragon",
+        "prompt": "Fantasy art Ancient Black Dragon acid amphibious dragon in the style of Greg Rutkowski",
+        "timestamp": 1695572870305,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
