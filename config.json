@@ -14407,5 +14407,14 @@
         "timestamp": 1695572870491,
         "seed": 1024,
         "used_seed": 1028
+    },
+    "qZFgHBqfjIaBviTS": {
+        "id": "qZFgHBqfjIaBviTS",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Aspis Guard",
+        "prompt": "Fantasy art Aspis Guard human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870491,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
