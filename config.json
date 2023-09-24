@@ -9745,5 +9745,14 @@
         "timestamp": 1695572870119,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "iacML9PbFyo49TMe": {
+        "id": "iacML9PbFyo49TMe",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Determined Dura (3-4)",
+        "prompt": "Fantasy art Determined Dura human humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1695572870119,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
