@@ -5038,5 +5038,14 @@
         "timestamp": 1695547972907,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zGtfiKku0td5E0VJ": {
+        "id": "zGtfiKku0td5E0VJ",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Fossil Golem",
+        "prompt": "Fantasy art Fossil Golem construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1695547972908,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
