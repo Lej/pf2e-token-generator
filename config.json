@@ -16711,5 +16711,14 @@
         "timestamp": 1695572870564,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LhjQnXhGFWhWVdmg": {
+        "id": "LhjQnXhGFWhWVdmg",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Steaming Kingdom Bartender",
+        "prompt": "Fantasy art Steaming Kingdom Bartender dwarf humanoid Male dwarf elite barkeep in the style of Greg Rutkowski",
+        "timestamp": 1695572870565,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
