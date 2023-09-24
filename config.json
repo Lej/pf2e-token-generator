@@ -14110,5 +14110,14 @@
         "timestamp": 1695572870463,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NGofilVufDzya0uJ": {
+        "id": "NGofilVufDzya0uJ",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Edgrin Galesong",
+        "prompt": "Fantasy art Edgrin Galesong halfling humanoid Male halfling bard in the style of Greg Rutkowski",
+        "timestamp": 1695572870464,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
