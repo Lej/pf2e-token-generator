@@ -3355,5 +3355,14 @@
         "timestamp": 1695547972837,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HhuHFmaq69ekSgEl": {
+        "id": "HhuHFmaq69ekSgEl",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Shantak",
+        "prompt": "Fantasy art Shantak beast in the style of Greg Rutkowski",
+        "timestamp": 1695547972837,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
