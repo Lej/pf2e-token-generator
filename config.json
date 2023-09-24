@@ -6199,5 +6199,14 @@
         "timestamp": 1695547973003,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "y14EZYMrfejrAuPI": {
+        "id": "y14EZYMrfejrAuPI",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Frog Swarm",
+        "prompt": "Fantasy art Frog Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547973004,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
