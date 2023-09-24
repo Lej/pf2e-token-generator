@@ -7805,6 +7805,10 @@
         "1U1URD7IyddoD5zE": {
             "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/1U1URD7IyddoD5zE/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/1U1URD7IyddoD5zE/token.webp"
+        },
+        "5LvpvIMhaYLcyAk6": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/5LvpvIMhaYLcyAk6/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/5LvpvIMhaYLcyAk6/token.webp"
         }
     }
 }
