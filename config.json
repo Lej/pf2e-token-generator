@@ -6181,5 +6181,14 @@
         "timestamp": 1695547973003,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bM27sjs9yA3rX4DA": {
+        "id": "bM27sjs9yA3rX4DA",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "The Ascendant (5-6)",
+        "prompt": "Fantasy art The Ascendant devil fiend in the style of Greg Rutkowski",
+        "timestamp": 1695547973003,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
