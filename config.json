@@ -4615,5 +4615,14 @@
         "timestamp": 1695547972888,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "nnI7oj1BcetLUTYo": {
+        "id": "nnI7oj1BcetLUTYo",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Etioling Blightmage",
+        "prompt": "Fantasy art Etioling Blightmage gnome humanoid mortic in the style of Greg Rutkowski",
+        "timestamp": 1695547972889,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
