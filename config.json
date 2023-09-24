@@ -7459,5 +7459,14 @@
         "timestamp": 1695547973043,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RS04fRQEWzk2aZOx": {
+        "id": "RS04fRQEWzk2aZOx",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Desert Wind",
+        "prompt": "Fantasy art Desert Wind animal Special: Mount in the style of Greg Rutkowski",
+        "timestamp": 1695547973043,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
