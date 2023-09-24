@@ -9421,5 +9421,14 @@
         "timestamp": 1695572870108,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lGz4MraAcv1NwyDS": {
+        "id": "lGz4MraAcv1NwyDS",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Bugbear Terror",
+        "prompt": "Fantasy art Bugbear Terror dream fiend goblin humanoid Variant bugbear thug in the style of Greg Rutkowski",
+        "timestamp": 1695572870108,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
