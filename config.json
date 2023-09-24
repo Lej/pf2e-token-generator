@@ -12562,5 +12562,14 @@
         "timestamp": 1695572870375,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5pk6bfodgnllSIOy": {
+        "id": "5pk6bfodgnllSIOy",
+        "compendium": "pathfinder-bestiary",
+        "name": "Giant Flytrap",
+        "prompt": "Fantasy art Giant Flytrap mindless plant in the style of Greg Rutkowski",
+        "timestamp": 1695572870376,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
