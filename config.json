@@ -2698,5 +2698,14 @@
         "timestamp": 1695547972804,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "K2AOcLMDOVNbgPXp": {
+        "id": "K2AOcLMDOVNbgPXp",
+        "compendium": "impossible-lands-bestiary",
+        "name": "Fleshforged Conformer",
+        "prompt": "Fantasy art Fleshforged Conformer aberration in the style of Greg Rutkowski",
+        "timestamp": 1695547972804,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
