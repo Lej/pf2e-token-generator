@@ -14092,5 +14092,14 @@
         "timestamp": 1695572870463,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2D2sECCnlFT8X8OQ": {
+        "id": "2D2sECCnlFT8X8OQ",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Tallow Guardian",
+        "prompt": "Fantasy art Tallow Guardian construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870463,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
