@@ -10411,5 +10411,14 @@
         "timestamp": 1695572870277,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "wuaSG22lLjQ6yali": {
+        "id": "wuaSG22lLjQ6yali",
+        "compendium": "pathfinder-bestiary",
+        "name": "Wyvern",
+        "prompt": "Fantasy art Wyvern dragon in the style of Greg Rutkowski",
+        "timestamp": 1695572870277,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
