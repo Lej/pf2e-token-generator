@@ -10357,5 +10357,14 @@
         "timestamp": 1695572870275,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zRNHsSxi1g3IFYFu": {
+        "id": "zRNHsSxi1g3IFYFu",
+        "compendium": "pathfinder-bestiary",
+        "name": "Living Wildfire",
+        "prompt": "Fantasy art Living Wildfire elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1695572870275,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
