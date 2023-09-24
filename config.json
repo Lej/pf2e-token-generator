@@ -11383,5 +11383,14 @@
         "timestamp": 1695572870326,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PiZkpRK23u89h82S": {
+        "id": "PiZkpRK23u89h82S",
+        "compendium": "pathfinder-bestiary",
+        "name": "Hobgoblin Soldier",
+        "prompt": "Fantasy art Hobgoblin Soldier goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870326,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
