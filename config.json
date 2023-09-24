@@ -3139,5 +3139,14 @@
         "timestamp": 1695547972829,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ChzqT42N5waJZ9VS": {
+        "id": "ChzqT42N5waJZ9VS",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Spiny Eurypterid",
+        "prompt": "Fantasy art Spiny Eurypterid amphibious animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972829,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
