@@ -8917,5 +8917,14 @@
         "timestamp": 1695547973097,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "473NoC8CXToJcWzk": {
+        "id": "473NoC8CXToJcWzk",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Burrowing Viper Rat",
+        "prompt": "Fantasy art Burrowing Viper Rat animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973097,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
