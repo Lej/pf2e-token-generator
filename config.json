@@ -17602,5 +17602,14 @@
         "timestamp": 1695572870600,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5Rqh2dBxGU8Jwf56": {
+        "id": "5Rqh2dBxGU8Jwf56",
+        "compendium": "npc-gallery",
+        "name": "Azarketi Sailor",
+        "prompt": "Fantasy art Azarketi Sailor amphibious azarketi humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870601,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
