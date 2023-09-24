@@ -10951,5 +10951,14 @@
         "timestamp": 1695572870306,
         "seed": 1024,
         "used_seed": 1027
+    },
+    "EhB5Q98OO25DDOOl": {
+        "id": "EhB5Q98OO25DDOOl",
+        "compendium": "pathfinder-bestiary",
+        "name": "Lizardfolk Defender",
+        "prompt": "Fantasy art Lizardfolk Defender humanoid lizardfolk in the style of Greg Rutkowski",
+        "timestamp": 1695572870306,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
