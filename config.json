@@ -15568,5 +15568,14 @@
         "timestamp": 1695572870529,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fpKKNDabU5XPov30": {
+        "id": "fpKKNDabU5XPov30",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Ash Skeleton (1-2)",
+        "prompt": "Fantasy art Ash Skeleton mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870529,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
