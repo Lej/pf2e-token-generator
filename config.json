@@ -12715,5 +12715,14 @@
         "timestamp": 1695572870381,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6UczvqBDlGNXcIlW": {
+        "id": "6UczvqBDlGNXcIlW",
+        "compendium": "pathfinder-bestiary",
+        "name": "Tidal Master",
+        "prompt": "Fantasy art Tidal Master aquatic elemental water in the style of Greg Rutkowski",
+        "timestamp": 1695572870381,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
