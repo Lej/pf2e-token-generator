@@ -16855,5 +16855,14 @@
         "timestamp": 1695572870569,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Tj03FbN4SSr0o953": {
+        "id": "Tj03FbN4SSr0o953",
+        "compendium": "npc-gallery",
+        "name": "Acrobat",
+        "prompt": "Fantasy art Acrobat human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870570,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
