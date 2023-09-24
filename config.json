@@ -13867,5 +13867,14 @@
         "timestamp": 1695572870427,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kfeL172Ix3x1YRc9": {
+        "id": "kfeL172Ix3x1YRc9",
+        "compendium": "pathfinder-bestiary",
+        "name": "Mummy Pharaoh",
+        "prompt": "Fantasy art Mummy Pharaoh mummy undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870427,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
