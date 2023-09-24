@@ -10852,5 +10852,14 @@
         "timestamp": 1695572870297,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "rJgUpdXBCMBrsJFf": {
+        "id": "rJgUpdXBCMBrsJFf",
+        "compendium": "pathfinder-bestiary",
+        "name": "Soulbound Doll (Lawful Neutral)",
+        "prompt": "Fantasy art Soulbound Doll Lawful Neutral construct soulbound in the style of Greg Rutkowski",
+        "timestamp": 1695572870297,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
