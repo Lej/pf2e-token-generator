@@ -1985,6 +1985,10 @@
         "PVstJNeHeWLU2XoK": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/PVstJNeHeWLU2XoK/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/PVstJNeHeWLU2XoK/token.webp"
+        },
+        "dniiLeUhXaq5CElX": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/dniiLeUhXaq5CElX/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/dniiLeUhXaq5CElX/token.webp"
         }
     }
 }
