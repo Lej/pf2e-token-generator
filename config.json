@@ -6514,5 +6514,14 @@
         "timestamp": 1695547973012,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Si5l2FvDCCmG6DRa": {
+        "id": "Si5l2FvDCCmG6DRa",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Skeleton Corporal",
+        "prompt": "Fantasy art Skeleton Corporal mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695547973012,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
