@@ -17764,5 +17764,14 @@
         "timestamp": 1695572870607,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "X0AJV2Zfj2d6rab5": {
+        "id": "X0AJV2Zfj2d6rab5",
+        "compendium": "fall-of-plaguestone",
+        "name": "Orc Alchemist",
+        "prompt": "Fantasy art Orc Alchemist humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1695572870607,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
