@@ -16297,5 +16297,14 @@
         "timestamp": 1695572870551,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3ibFfE1X8thaWb8A": {
+        "id": "3ibFfE1X8thaWb8A",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "The Claws of Time",
+        "prompt": "Fantasy art The Claws of Time aberration time Hound of Tindalos hunter in the style of Greg Rutkowski",
+        "timestamp": 1695572870552,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
