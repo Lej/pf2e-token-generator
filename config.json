@@ -11401,5 +11401,14 @@
         "timestamp": 1695572870326,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oMcHaTX5unOHC2Pm": {
+        "id": "oMcHaTX5unOHC2Pm",
+        "compendium": "pathfinder-bestiary",
+        "name": "Rune Giant",
+        "prompt": "Fantasy art Rune Giant giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870327,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
