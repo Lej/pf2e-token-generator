@@ -14695,5 +14695,14 @@
         "timestamp": 1695572870501,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gOPvMgZIQXidd1n8": {
+        "id": "gOPvMgZIQXidd1n8",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Demonplague Zombie",
+        "prompt": "Fantasy art Demonplague Zombie mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695572870501,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
