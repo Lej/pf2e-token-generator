@@ -17755,5 +17755,14 @@
         "timestamp": 1695572870607,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kZI5UjgXcJjrOIR8": {
+        "id": "kZI5UjgXcJjrOIR8",
+        "compendium": "fall-of-plaguestone",
+        "name": "Mangy Wolf",
+        "prompt": "Fantasy art Mangy Wolf animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870607,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
