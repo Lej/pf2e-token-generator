@@ -6073,5 +6073,14 @@
         "timestamp": 1695547972998,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EGwZ6MSs8AVHf3q6": {
+        "id": "EGwZ6MSs8AVHf3q6",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Rebel",
+        "prompt": "Fantasy art Rebel human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972998,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
