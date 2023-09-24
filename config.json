@@ -6811,5 +6811,14 @@
         "timestamp": 1695547973021,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IcbDCGnefdowfQE0": {
+        "id": "IcbDCGnefdowfQE0",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Skeleton Captain",
+        "prompt": "Fantasy art Skeleton Captain mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695547973022,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
