@@ -16675,5 +16675,14 @@
         "timestamp": 1695572870563,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jaJxIGaNxmcLZ0jK": {
+        "id": "jaJxIGaNxmcLZ0jK",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Compromised Door Warden",
+        "prompt": "Fantasy art Compromised Door Warden clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870564,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
