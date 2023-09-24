@@ -14929,5 +14929,14 @@
         "timestamp": 1695572870509,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "c4t6aDgo7pdMI7yN": {
+        "id": "c4t6aDgo7pdMI7yN",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Mercenary Wizard (1-2)",
+        "prompt": "Fantasy art Mercenary Wizard human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870510,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
