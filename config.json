@@ -12022,5 +12022,14 @@
         "timestamp": 1695572870353,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MLmwdUIW4o7ZSUEG": {
+        "id": "MLmwdUIW4o7ZSUEG",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ancient Bronze Dragon (Spellcaster)",
+        "prompt": "Fantasy art Ancient Bronze Dragon Spellcaster amphibious dragon water in the style of Greg Rutkowski",
+        "timestamp": 1695572870354,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
