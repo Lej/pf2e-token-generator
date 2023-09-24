@@ -17116,5 +17116,14 @@
         "timestamp": 1695572870583,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ImdKLPgazv4MSI0F": {
+        "id": "ImdKLPgazv4MSI0F",
+        "compendium": "npc-gallery",
+        "name": "Barrister",
+        "prompt": "Fantasy art Barrister human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870583,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
