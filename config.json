@@ -4732,5 +4732,14 @@
         "timestamp": 1695547972894,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VMZOQGY1x1of0XLm": {
+        "id": "VMZOQGY1x1of0XLm",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Cunning Fox",
+        "prompt": "Fantasy art Cunning Fox beast incorporeal spirit in the style of Greg Rutkowski",
+        "timestamp": 1695547972894,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
