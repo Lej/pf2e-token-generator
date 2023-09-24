@@ -13984,5 +13984,14 @@
         "timestamp": 1695572870433,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EibxkD9y30YmPaLH": {
+        "id": "EibxkD9y30YmPaLH",
+        "compendium": "pathfinder-bestiary",
+        "name": "Lich",
+        "prompt": "Fantasy art Lich undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870434,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
