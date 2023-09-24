@@ -3049,5 +3049,14 @@
         "timestamp": 1695547972825,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pCDp2hdim12wonW5": {
+        "id": "pCDp2hdim12wonW5",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Living Rune (Occult)",
+        "prompt": "Fantasy art Living Rune Occult construct in the style of Greg Rutkowski",
+        "timestamp": 1695547972825,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
