@@ -12679,5 +12679,14 @@
         "timestamp": 1695572870380,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "b8NQkby4QV4uOqFT": {
+        "id": "b8NQkby4QV4uOqFT",
+        "compendium": "pathfinder-bestiary",
+        "name": "Cave Bear",
+        "prompt": "Fantasy art Cave Bear animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870380,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
