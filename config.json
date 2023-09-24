@@ -9358,5 +9358,14 @@
         "timestamp": 1695572870106,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "55XJegJx3b5MoB2s": {
+        "id": "55XJegJx3b5MoB2s",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Elven Tracker",
+        "prompt": "Fantasy art Elven Tracker elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870106,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
