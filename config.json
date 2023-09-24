@@ -4840,5 +4840,14 @@
         "timestamp": 1695547972899,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "phOYPM1OVAKPg68l": {
+        "id": "phOYPM1OVAKPg68l",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Omox",
+        "prompt": "Fantasy art Omox demon fiend ooze rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547972899,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
