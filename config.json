@@ -11878,5 +11878,14 @@
         "timestamp": 1695572870346,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "M6RknN77XTo23v45": {
+        "id": "M6RknN77XTo23v45",
+        "compendium": "pathfinder-bestiary",
+        "name": "Banshee",
+        "prompt": "Fantasy art Banshee incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870346,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
