@@ -16603,5 +16603,14 @@
         "timestamp": 1695572870561,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Wr08A69Iu5pXNWXj": {
+        "id": "Wr08A69Iu5pXNWXj",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Ambrost Mugland",
+        "prompt": "Fantasy art Ambrost Mugland halfling humanoid Male halfling criminal mogul in the style of Greg Rutkowski",
+        "timestamp": 1695572870561,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
