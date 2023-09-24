@@ -14803,5 +14803,14 @@
         "timestamp": 1695572870505,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mFfhFprmaQr9rYC1": {
+        "id": "mFfhFprmaQr9rYC1",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Drandle Dreng (7-8)",
+        "prompt": "Fantasy art Drandle Dreng human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870506,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
