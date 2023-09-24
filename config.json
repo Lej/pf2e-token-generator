@@ -10222,5 +10222,14 @@
         "timestamp": 1695572870143,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FPKoiMXENk5FouXp": {
+        "id": "FPKoiMXENk5FouXp",
+        "compendium": "pathfinder-bestiary",
+        "name": "Elemental Hurricane",
+        "prompt": "Fantasy art Elemental Hurricane air elemental in the style of Greg Rutkowski",
+        "timestamp": 1695572870269,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

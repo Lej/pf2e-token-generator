@@ -4568,5 +4568,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/mwangi-expanse-bestiary/TfEGDGqUk3LpokZZ/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/mwangi-expanse-bestiary/TfEGDGqUk3LpokZZ/token.webp"
         }
+    },
+    "pathfinder-bestiary": {
+        "FPKoiMXENk5FouXp": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/FPKoiMXENk5FouXp/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/FPKoiMXENk5FouXp/token.webp"
+        }
     }
 }
