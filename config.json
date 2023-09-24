@@ -12769,5 +12769,14 @@
         "timestamp": 1695572870382,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "E0LCMHVp4sxAbQYa": {
+        "id": "E0LCMHVp4sxAbQYa",
+        "compendium": "pathfinder-bestiary",
+        "name": "Mitflit",
+        "prompt": "Fantasy art Mitflit fey gremlin in the style of Greg Rutkowski",
+        "timestamp": 1695572870382,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
