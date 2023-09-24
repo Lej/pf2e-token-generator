@@ -16531,5 +16531,14 @@
         "timestamp": 1695572870559,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lM7vowMNtvLnz8Q6": {
+        "id": "lM7vowMNtvLnz8Q6",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Clockwork Sphinx",
+        "prompt": "Fantasy art Clockwork Sphinx clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870559,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
