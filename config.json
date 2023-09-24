@@ -3472,5 +3472,14 @@
         "timestamp": 1695547972841,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Su21mCjUxFJnoWGg": {
+        "id": "Su21mCjUxFJnoWGg",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Azer",
+        "prompt": "Fantasy art Azer elemental fire humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972841,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
