@@ -6045,6 +6045,10 @@
         "dEecX0AEfl32KUVN": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/dEecX0AEfl32KUVN/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/dEecX0AEfl32KUVN/token.webp"
+        },
+        "pFmaszqtsA2yt7dv": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/pFmaszqtsA2yt7dv/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/pFmaszqtsA2yt7dv/token.webp"
         }
     }
 }
