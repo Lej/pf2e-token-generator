@@ -16315,5 +16315,14 @@
         "timestamp": 1695572870552,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8zInanrJXHN6zmdq": {
+        "id": "8zInanrJXHN6zmdq",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Sludgespine Killer",
+        "prompt": "Fantasy art Sludgespine Killer gnoll humanoid Mutated gnoll murderers in the style of Greg Rutkowski",
+        "timestamp": 1695572870552,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
