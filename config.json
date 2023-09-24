@@ -11356,5 +11356,14 @@
         "timestamp": 1695572870325,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "x8ZWNcFOfpJYjXOw": {
+        "id": "x8ZWNcFOfpJYjXOw",
+        "compendium": "pathfinder-bestiary",
+        "name": "Lustspawn",
+        "prompt": "Fantasy art Lustspawn aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870325,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
