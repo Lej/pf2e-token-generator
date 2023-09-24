@@ -11149,5 +11149,14 @@
         "timestamp": 1695572870315,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "dTz1SQvJIUsB9S2w": {
+        "id": "dTz1SQvJIUsB9S2w",
+        "compendium": "pathfinder-bestiary",
+        "name": "Drow Fighter",
+        "prompt": "Fantasy art Drow Fighter drow elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870316,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
