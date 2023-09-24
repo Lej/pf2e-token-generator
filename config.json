@@ -14821,5 +14821,14 @@
         "timestamp": 1695572870506,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NAX7nXWzSkrjjsrq": {
+        "id": "NAX7nXWzSkrjjsrq",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Awakened Megalania",
+        "prompt": "Fantasy art Awakened Megalania animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870506,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
