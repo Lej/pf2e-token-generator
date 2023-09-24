@@ -8836,5 +8836,14 @@
         "timestamp": 1695547973092,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KV2LmRMc9ho9mBPy": {
+        "id": "KV2LmRMc9ho9mBPy",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Elite Smokesight Wight Commander",
+        "prompt": "Fantasy art Elite Smokesight Wight Commander undead wight in the style of Greg Rutkowski",
+        "timestamp": 1695547973093,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
