@@ -8188,5 +8188,14 @@
         "timestamp": 1695547973066,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tuuajdgozH7Tueiv": {
+        "id": "tuuajdgozH7Tueiv",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Elite Sewer Ooze (Q9)",
+        "prompt": "Fantasy art Elite Sewer Ooze mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1695547973066,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
