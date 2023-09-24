@@ -8773,5 +8773,14 @@
         "timestamp": 1695547973090,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eWJwFmEasIOSGQgu": {
+        "id": "eWJwFmEasIOSGQgu",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Elite Animate Dream (PFS 4-11)",
+        "prompt": "Fantasy art Elite Animate Dream dream incorporeal in the style of Greg Rutkowski",
+        "timestamp": 1695547973091,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
