@@ -14371,5 +14371,14 @@
         "timestamp": 1695572870490,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dXvAp2TjUxpE16nS": {
+        "id": "dXvAp2TjUxpE16nS",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Zombie Grindylow",
+        "prompt": "Fantasy art Zombie Grindylow amphibious mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695572870490,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
