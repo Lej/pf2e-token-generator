@@ -16369,5 +16369,14 @@
         "timestamp": 1695572870554,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rN4Q66R0601txrHg": {
+        "id": "rN4Q66R0601txrHg",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Hansin",
+        "prompt": "Fantasy art Hansin human humanoid Male human gang leader in the style of Greg Rutkowski",
+        "timestamp": 1695572870554,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
