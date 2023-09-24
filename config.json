@@ -14083,5 +14083,14 @@
         "timestamp": 1695572870463,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QhJH546TLP0aQKiR": {
+        "id": "QhJH546TLP0aQKiR",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Lekmek",
+        "prompt": "Fantasy art Lekmek humanoid kobold Male kobold bully in the style of Greg Rutkowski",
+        "timestamp": 1695572870463,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
