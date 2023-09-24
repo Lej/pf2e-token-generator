@@ -16135,5 +16135,14 @@
         "timestamp": 1695572870547,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BO72SUjG83p8p9UU": {
+        "id": "BO72SUjG83p8p9UU",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Mutant Giant Toad",
+        "prompt": "Fantasy art Mutant Giant Toad animal mutant Mana Wastes mutated giant toad in the style of Greg Rutkowski",
+        "timestamp": 1695572870547,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
