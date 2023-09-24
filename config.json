@@ -10780,5 +10780,14 @@
         "timestamp": 1695572870293,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jP8CO6z7bNIhOuqQ": {
+        "id": "jP8CO6z7bNIhOuqQ",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ofalth",
+        "prompt": "Fantasy art Ofalth aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870294,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
