@@ -14074,5 +14074,14 @@
         "timestamp": 1695572870462,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4kAU6bQdEZYCqEh7": {
+        "id": "4kAU6bQdEZYCqEh7",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Dismemberment Table",
+        "prompt": "Fantasy art Dismemberment Table construct mindless Variant animated object in the style of Greg Rutkowski",
+        "timestamp": 1695572870463,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
