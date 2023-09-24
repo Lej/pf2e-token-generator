@@ -15325,5 +15325,14 @@
         "timestamp": 1695572870521,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0OnpbW2SdOZXdRgw": {
+        "id": "0OnpbW2SdOZXdRgw",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Glorzia",
+        "prompt": "Fantasy art Glorzia goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870521,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
