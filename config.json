@@ -15523,5 +15523,14 @@
         "timestamp": 1695572870527,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GopDDbkjVhXu4cwt": {
+        "id": "GopDDbkjVhXu4cwt",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Plague Zombie (PFS 2-15)",
+        "prompt": "Fantasy art Plague Zombie ghoul mindless undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870527,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
