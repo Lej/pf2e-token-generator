@@ -12895,5 +12895,14 @@
         "timestamp": 1695572870386,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7JvA7kTqCUwcJoNe": {
+        "id": "7JvA7kTqCUwcJoNe",
+        "compendium": "pathfinder-bestiary",
+        "name": "Bugbear Tormentor",
+        "prompt": "Fantasy art Bugbear Tormentor goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870386,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
