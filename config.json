@@ -15910,5 +15910,14 @@
         "timestamp": 1695572870539,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BSbqNkNSs5IMu6RO": {
+        "id": "BSbqNkNSs5IMu6RO",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Usij Acolyte",
+        "prompt": "Fantasy art Usij Acolyte human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870539,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
