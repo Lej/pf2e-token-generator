@@ -6361,5 +6361,14 @@
         "timestamp": 1695547973009,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sLt5RvozduZ2soA5": {
+        "id": "sLt5RvozduZ2soA5",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Little Zura (1-2)",
+        "prompt": "Fantasy art Little Zura animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973009,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
