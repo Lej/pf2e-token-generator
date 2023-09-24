@@ -8359,5 +8359,14 @@
         "timestamp": 1695547973073,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OtYNhDlyXrVWxeiS": {
+        "id": "OtYNhDlyXrVWxeiS",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Damaged Alchemical Golem",
+        "prompt": "Fantasy art Damaged Alchemical Golem alchemical construct golem in the style of Greg Rutkowski",
+        "timestamp": 1695547973073,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
