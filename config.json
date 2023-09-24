@@ -9547,5 +9547,14 @@
         "timestamp": 1695572870112,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WET7yEJxJmqQUMmn": {
+        "id": "WET7yEJxJmqQUMmn",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Bloody Barber Thief",
+        "prompt": "Fantasy art Bloody Barber Thief human humanoid Variant burgler in the style of Greg Rutkowski",
+        "timestamp": 1695572870113,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
