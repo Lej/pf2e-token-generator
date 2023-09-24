@@ -14812,5 +14812,14 @@
         "timestamp": 1695572870506,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SFBumlEX6jDIwAvL": {
+        "id": "SFBumlEX6jDIwAvL",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Saddleback Bunyip",
+        "prompt": "Fantasy art Saddleback Bunyip animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870506,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
