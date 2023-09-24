@@ -5416,5 +5416,14 @@
         "timestamp": 1695547972967,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FHZPjbRmJCqnhdal": {
+        "id": "FHZPjbRmJCqnhdal",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Mage-Eater Worm Swarm",
+        "prompt": "Fantasy art Mage-Eater Worm Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547972967,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
