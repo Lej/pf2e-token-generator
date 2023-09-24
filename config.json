@@ -17809,5 +17809,14 @@
         "timestamp": 1695572870608,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BgBTntoz1qQ3h1X5": {
+        "id": "BgBTntoz1qQ3h1X5",
+        "compendium": "fall-of-plaguestone",
+        "name": "Drunken Farmer",
+        "prompt": "Fantasy art Drunken Farmer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870608,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
