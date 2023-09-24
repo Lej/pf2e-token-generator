@@ -11212,5 +11212,14 @@
         "timestamp": 1695572870318,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HFbZ580RDOG6Rxz2": {
+        "id": "HFbZ580RDOG6Rxz2",
+        "compendium": "pathfinder-bestiary",
+        "name": "Sea Devil Baron",
+        "prompt": "Fantasy art Sea Devil Baron amphibious humanoid mutant sea-devil in the style of Greg Rutkowski",
+        "timestamp": 1695572870318,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
