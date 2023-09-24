@@ -9673,5 +9673,14 @@
         "timestamp": 1695572870116,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "swGHHImKBCUTwpyc": {
+        "id": "swGHHImKBCUTwpyc",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Denufair",
+        "prompt": "Fantasy art Denufair undead Variant predatory rabbit in the style of Greg Rutkowski",
+        "timestamp": 1695572870117,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
