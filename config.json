@@ -8701,5 +8701,14 @@
         "timestamp": 1695547973088,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7yap6E0QQkY0N9HO": {
+        "id": "7yap6E0QQkY0N9HO",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Bloody Barber Ruffian",
+        "prompt": "Fantasy art Bloody Barber Ruffian human humanoid Variant ruffian in the style of Greg Rutkowski",
+        "timestamp": 1695547973088,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
