@@ -14281,5 +14281,14 @@
         "timestamp": 1695572870470,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Erw2pHatcQgUmqop": {
+        "id": "Erw2pHatcQgUmqop",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Vargouille",
+        "prompt": "Fantasy art Vargouille aberration fiend in the style of Greg Rutkowski",
+        "timestamp": 1695572870470,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
