@@ -17746,5 +17746,14 @@
         "timestamp": 1695572870606,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IU4Gx9vHKMT2KYDq": {
+        "id": "IU4Gx9vHKMT2KYDq",
+        "compendium": "fall-of-plaguestone",
+        "name": "The Behemoth",
+        "prompt": "Fantasy art The Behemoth construct in the style of Greg Rutkowski",
+        "timestamp": 1695572870607,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
