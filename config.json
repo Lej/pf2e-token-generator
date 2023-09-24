@@ -4498,5 +4498,14 @@
         "timestamp": 1695547972884,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Wq0Euk0RK6rhRDsN": {
+        "id": "Wq0Euk0RK6rhRDsN",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Severed Head",
+        "prompt": "Fantasy art Severed Head mindless undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972884,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
