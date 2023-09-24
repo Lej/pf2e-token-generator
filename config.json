@@ -5758,5 +5758,14 @@
         "timestamp": 1695547972980,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Wu6vmegKwR4bgLse": {
+        "id": "Wu6vmegKwR4bgLse",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Dramofir",
+        "prompt": "Fantasy art Dramofir aberration dream in the style of Greg Rutkowski",
+        "timestamp": 1695547972980,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
