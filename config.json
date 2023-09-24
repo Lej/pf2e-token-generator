@@ -13318,5 +13318,14 @@
         "timestamp": 1695572870404,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CHIh3vMssFixUlw8": {
+        "id": "CHIh3vMssFixUlw8",
+        "compendium": "pathfinder-bestiary",
+        "name": "Salamander",
+        "prompt": "Fantasy art Salamander elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1695572870404,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
