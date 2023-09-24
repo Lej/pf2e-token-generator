@@ -6802,5 +6802,14 @@
         "timestamp": 1695547973021,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vtSVLCmJvef8980U": {
+        "id": "vtSVLCmJvef8980U",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Leopard (1-14)",
+        "prompt": "Fantasy art Leopard animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973021,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
