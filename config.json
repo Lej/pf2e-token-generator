@@ -7513,5 +7513,14 @@
         "timestamp": 1695547973044,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JEwMnYFfyxr5i6Dy": {
+        "id": "JEwMnYFfyxr5i6Dy",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Fleshforge Dreg (Roots)",
+        "prompt": "Fantasy art Fleshforge Dreg Roots construct in the style of Greg Rutkowski",
+        "timestamp": 1695547973044,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
