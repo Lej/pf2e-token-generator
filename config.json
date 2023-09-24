@@ -5650,5 +5650,14 @@
         "timestamp": 1695547972976,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4WMThCqvHV1aaBwa": {
+        "id": "4WMThCqvHV1aaBwa",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Animated Colossus",
+        "prompt": "Fantasy art Animated Colossus construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695547972976,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
