@@ -6856,5 +6856,14 @@
         "timestamp": 1695547973023,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bfTmy4404MFMykxH": {
+        "id": "bfTmy4404MFMykxH",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Dryad (1-16)",
+        "prompt": "Fantasy art Dryad fey nymph plant in the style of Greg Rutkowski",
+        "timestamp": 1695547973023,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
