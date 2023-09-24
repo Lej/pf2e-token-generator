@@ -4759,5 +4759,14 @@
         "timestamp": 1695547972896,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xIT2yHlwILLc5hgw": {
+        "id": "xIT2yHlwILLc5hgw",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Amalgamite",
+        "prompt": "Fantasy art Amalgamite aberration in the style of Greg Rutkowski",
+        "timestamp": 1695547972896,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
