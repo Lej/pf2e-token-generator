@@ -5749,5 +5749,14 @@
         "timestamp": 1695547972979,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "iNgKGHzMOAHjWQeI": {
+        "id": "iNgKGHzMOAHjWQeI",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Android Infiltrator",
+        "prompt": "Fantasy art Android Infiltrator android humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972980,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
