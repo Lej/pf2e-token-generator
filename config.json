@@ -10708,5 +10708,14 @@
         "timestamp": 1695572870287,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "Sft7n3LMmnTxhhYn": {
+        "id": "Sft7n3LMmnTxhhYn",
+        "compendium": "pathfinder-bestiary",
+        "name": "Warg",
+        "prompt": "Fantasy art Warg beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870287,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
