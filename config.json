@@ -5290,5 +5290,14 @@
         "timestamp": 1695547972919,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WPRjynFmJ2p1MnT3": {
+        "id": "WPRjynFmJ2p1MnT3",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Adult Sovereign Dragon (Spellcaster)",
+        "prompt": "Fantasy art Adult Sovereign Dragon Spellcaster dragon earth in the style of Greg Rutkowski",
+        "timestamp": 1695547972920,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
