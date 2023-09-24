@@ -7351,5 +7351,14 @@
         "timestamp": 1695547973039,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "z8Bp3EtiJhA3nNrY": {
+        "id": "z8Bp3EtiJhA3nNrY",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Flaming Skull Skeletal Champion",
+        "prompt": "Fantasy art Flaming Skull Skeletal Champion mindless skeleton undead Variant skeletal champion in the style of Greg Rutkowski",
+        "timestamp": 1695547973040,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
