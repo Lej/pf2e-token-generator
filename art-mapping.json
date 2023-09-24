@@ -2677,6 +2677,10 @@
         "MolnKBns2ePDFbAB": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/MolnKBns2ePDFbAB/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/MolnKBns2ePDFbAB/token.webp"
+        },
+        "0A2XLkvOzDMOjC6Q": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/0A2XLkvOzDMOjC6Q/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/0A2XLkvOzDMOjC6Q/token.webp"
         }
     }
 }

@@ -5992,5 +5992,14 @@
         "timestamp": 1695547972990,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0A2XLkvOzDMOjC6Q": {
+        "id": "0A2XLkvOzDMOjC6Q",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Clockwork Mage",
+        "prompt": "Fantasy art Clockwork Mage clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695547972990,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
