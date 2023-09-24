@@ -15532,5 +15532,14 @@
         "timestamp": 1695572870527,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jZ5M9JxemkGVpfLy": {
+        "id": "jZ5M9JxemkGVpfLy",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Awakened Giant Frilled Lizard",
+        "prompt": "Fantasy art Awakened Giant Frilled Lizard animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870528,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
