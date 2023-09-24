@@ -7927,5 +7927,14 @@
         "timestamp": 1695547973058,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8q3pSr4OLkcIDMIH": {
+        "id": "8q3pSr4OLkcIDMIH",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Barralbus (3-4)",
+        "prompt": "Fantasy art Barralbus human humanoid Male Arcanist in the style of Greg Rutkowski",
+        "timestamp": 1695547973058,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
