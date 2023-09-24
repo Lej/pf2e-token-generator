@@ -6127,5 +6127,14 @@
         "timestamp": 1695547973000,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6rjkzfJcwGUVq8Uo": {
+        "id": "6rjkzfJcwGUVq8Uo",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Storm Warrior-Priest",
+        "prompt": "Fantasy art Storm Warrior-Priest humanoid tengu in the style of Greg Rutkowski",
+        "timestamp": 1695547973000,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
