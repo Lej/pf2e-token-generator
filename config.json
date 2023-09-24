@@ -13039,5 +13039,14 @@
         "timestamp": 1695572870392,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nkWnoEHWUsBLgNje": {
+        "id": "nkWnoEHWUsBLgNje",
+        "compendium": "pathfinder-bestiary",
+        "name": "Chimera (White Dragon)",
+        "prompt": "Fantasy art Chimera White Dragon beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870392,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
