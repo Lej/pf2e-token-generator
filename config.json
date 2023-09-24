@@ -12238,5 +12238,14 @@
         "timestamp": 1695572870362,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NbGLrlt7RYdFFBQ5": {
+        "id": "NbGLrlt7RYdFFBQ5",
+        "compendium": "pathfinder-bestiary",
+        "name": "Elemental Inferno",
+        "prompt": "Fantasy art Elemental Inferno elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1695572870363,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
