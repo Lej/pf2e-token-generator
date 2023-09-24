@@ -4804,5 +4804,14 @@
         "timestamp": 1695547972897,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rOFpnEic0eJdaxiM": {
+        "id": "rOFpnEic0eJdaxiM",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Kangaroo",
+        "prompt": "Fantasy art Kangaroo animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972897,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
