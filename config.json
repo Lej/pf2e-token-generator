@@ -14290,5 +14290,14 @@
         "timestamp": 1695572870470,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WukFzZnikG2vg57F": {
+        "id": "WukFzZnikG2vg57F",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Ulizmila's Cauldron",
+        "prompt": "Fantasy art Ulizmila's Cauldron construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870471,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
