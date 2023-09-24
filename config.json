@@ -2788,5 +2788,14 @@
         "timestamp": 1695547972817,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "S2DdLrq9V7M5WzM3": {
+        "id": "S2DdLrq9V7M5WzM3",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Dvorovoi",
+        "prompt": "Fantasy art Dvorovoi fey in the style of Greg Rutkowski",
+        "timestamp": 1695547972817,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
