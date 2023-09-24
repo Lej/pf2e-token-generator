@@ -8152,5 +8152,14 @@
         "timestamp": 1695547973065,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mjW1q98gMnEmZJKt": {
+        "id": "mjW1q98gMnEmZJKt",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Shadow Wisp",
+        "prompt": "Fantasy art Shadow Wisp undead in the style of Greg Rutkowski",
+        "timestamp": 1695547973065,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
