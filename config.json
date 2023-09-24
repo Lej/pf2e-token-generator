@@ -5371,5 +5371,14 @@
         "timestamp": 1695547972965,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sCzgD99DO10Koovq": {
+        "id": "sCzgD99DO10Koovq",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Silvanshee",
+        "prompt": "Fantasy art Silvanshee agathion celestial in the style of Greg Rutkowski",
+        "timestamp": 1695547972965,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
