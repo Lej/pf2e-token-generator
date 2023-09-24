@@ -12553,5 +12553,14 @@
         "timestamp": 1695572870375,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "l3Pe8FsFbLvft1Fq": {
+        "id": "l3Pe8FsFbLvft1Fq",
+        "compendium": "pathfinder-bestiary",
+        "name": "Lion",
+        "prompt": "Fantasy art Lion animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870375,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
