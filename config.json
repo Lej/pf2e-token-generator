@@ -8341,5 +8341,14 @@
         "timestamp": 1695547973072,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "F7gjEHGO2c956FEy": {
+        "id": "F7gjEHGO2c956FEy",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Doctor Velshun (5-6)",
+        "prompt": "Fantasy art Doctor Velshun dhampir human humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547973073,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
