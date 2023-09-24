@@ -9961,5 +9961,14 @@
         "timestamp": 1695572870130,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4Kll3POFvVeSNVkH": {
+        "id": "4Kll3POFvVeSNVkH",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Meddlesome Scrit",
+        "prompt": "Fantasy art Meddlesome Scrit fey gremlin Variant Scrit in the style of Greg Rutkowski",
+        "timestamp": 1695572870131,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
