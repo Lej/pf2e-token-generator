@@ -3517,5 +3517,14 @@
         "timestamp": 1695547972842,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Yq9TcUof5D117yns": {
+        "id": "Yq9TcUof5D117yns",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Camel",
+        "prompt": "Fantasy art Camel animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972842,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
