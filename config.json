@@ -9322,5 +9322,14 @@
         "timestamp": 1695572870104,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NvaXW0zwejtYSek4": {
+        "id": "NvaXW0zwejtYSek4",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Elite Palace Skelm (PFS 4-11)",
+        "prompt": "Fantasy art Elite Palace Skelm humanoid skelm rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870105,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
