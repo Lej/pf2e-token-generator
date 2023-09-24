@@ -12652,5 +12652,14 @@
         "timestamp": 1695572870379,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "b6qiHvyx6ymROTBL": {
+        "id": "b6qiHvyx6ymROTBL",
+        "compendium": "pathfinder-bestiary",
+        "name": "Deep Gnome Warrior",
+        "prompt": "Fantasy art Deep Gnome Warrior gnome humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870379,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
