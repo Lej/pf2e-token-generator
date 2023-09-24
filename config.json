@@ -16162,5 +16162,14 @@
         "timestamp": 1695572870548,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8jYqoyei7X2Bikb0": {
+        "id": "8jYqoyei7X2Bikb0",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Brighite Herexen",
+        "prompt": "Fantasy art Brighite Herexen undead Elite herexen in the style of Greg Rutkowski",
+        "timestamp": 1695572870548,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
