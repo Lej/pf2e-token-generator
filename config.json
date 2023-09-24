@@ -15478,5 +15478,14 @@
         "timestamp": 1695572870526,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fHDBl7jIleuzmOM2": {
+        "id": "fHDBl7jIleuzmOM2",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Scorched Earth Orc (Sharpshooter) (5-6)",
+        "prompt": "Fantasy art Scorched Earth Orc Sharpshooter humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1695572870526,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
