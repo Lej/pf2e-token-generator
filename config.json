@@ -14578,5 +14578,14 @@
         "timestamp": 1695572870497,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "X0HPqlpqFHqmB9Ni": {
+        "id": "X0HPqlpqFHqmB9Ni",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Valgomorus (1-2)",
+        "prompt": "Fantasy art Valgomorus undead wight in the style of Greg Rutkowski",
+        "timestamp": 1695572870497,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
