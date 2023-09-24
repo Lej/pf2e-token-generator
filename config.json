@@ -11221,5 +11221,14 @@
         "timestamp": 1695572870318,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "l17XDoK0UIjXUvOv": {
+        "id": "l17XDoK0UIjXUvOv",
+        "compendium": "pathfinder-bestiary",
+        "name": "Cloud Giant",
+        "prompt": "Fantasy art Cloud Giant air giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870318,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
