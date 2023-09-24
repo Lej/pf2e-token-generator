@@ -12472,5 +12472,14 @@
         "timestamp": 1695572870373,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "05E3kkjoLZVjFOeO": {
+        "id": "05E3kkjoLZVjFOeO",
+        "compendium": "pathfinder-bestiary",
+        "name": "Brontosaurus",
+        "prompt": "Fantasy art Brontosaurus animal dinosaur in the style of Greg Rutkowski",
+        "timestamp": 1695572870373,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
