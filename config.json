@@ -5506,5 +5506,14 @@
         "timestamp": 1695547972971,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pFUv7BzSjYTOo5mO": {
+        "id": "pFUv7BzSjYTOo5mO",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Monkey",
+        "prompt": "Fantasy art Monkey animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972971,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
