@@ -15892,5 +15892,14 @@
         "timestamp": 1695572870538,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "nUweXdZmsMFLcEsM": {
+        "id": "nUweXdZmsMFLcEsM",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Weak Sea Devil Scout",
+        "prompt": "Fantasy art Weak Sea Devil Scout amphibious humanoid sea-devil in the style of Greg Rutkowski",
+        "timestamp": 1695572870539,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
