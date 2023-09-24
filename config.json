@@ -15766,5 +15766,14 @@
         "timestamp": 1695572870535,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AMZBCYKz639sHMPZ": {
+        "id": "AMZBCYKz639sHMPZ",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Firestorm Brimorak",
+        "prompt": "Fantasy art Firestorm Brimorak demon fiend Variant brimoraks rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870535,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
