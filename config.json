@@ -15631,5 +15631,14 @@
         "timestamp": 1695572870531,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ib1c9CIOEXxnEfQG": {
+        "id": "ib1c9CIOEXxnEfQG",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Hand Of Urxehl (9-10)",
+        "prompt": "Fantasy art Hand Of Urxehl demon fiend in the style of Greg Rutkowski",
+        "timestamp": 1695572870531,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
