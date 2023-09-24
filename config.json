@@ -11293,5 +11293,14 @@
         "timestamp": 1695572870322,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oSvWsqFnQLS5wlvg": {
+        "id": "oSvWsqFnQLS5wlvg",
+        "compendium": "pathfinder-bestiary",
+        "name": "Frost Giant",
+        "prompt": "Fantasy art Frost Giant cold giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870322,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
