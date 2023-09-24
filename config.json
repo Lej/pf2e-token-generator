@@ -4093,5 +4093,14 @@
         "timestamp": 1695547972867,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "YX0CqhKKtRzoLkuP": {
+        "id": "YX0CqhKKtRzoLkuP",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Water Wisp",
+        "prompt": "Fantasy art Water Wisp elemental water in the style of Greg Rutkowski",
+        "timestamp": 1695547972868,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
