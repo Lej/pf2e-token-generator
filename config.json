@@ -14992,5 +14992,14 @@
         "timestamp": 1695572870511,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LxPHOPYyrNhDNFod": {
+        "id": "LxPHOPYyrNhDNFod",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Chained Drained Troll",
+        "prompt": "Fantasy art Chained Drained Troll giant troll Variant troll in the style of Greg Rutkowski",
+        "timestamp": 1695572870512,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
