@@ -4444,5 +4444,14 @@
         "timestamp": 1695547972882,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZwtcCnW9CEs78WRC": {
+        "id": "ZwtcCnW9CEs78WRC",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Mobogo",
+        "prompt": "Fantasy art Mobogo amphibious beast rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547972883,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
