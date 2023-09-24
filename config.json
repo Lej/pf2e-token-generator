@@ -8962,5 +8962,14 @@
         "timestamp": 1695547973098,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CgoJslSLVrUc86W5": {
+        "id": "CgoJslSLVrUc86W5",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Revna the Brave (5-6)",
+        "prompt": "Fantasy art Revna the Brave human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973099,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
