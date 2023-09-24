@@ -16351,5 +16351,14 @@
         "timestamp": 1695572870554,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ENCh6fX1xGwwrjCf": {
+        "id": "ENCh6fX1xGwwrjCf",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Trapjaw Tangle",
+        "prompt": "Fantasy art Trapjaw Tangle construct swarm in the style of Greg Rutkowski",
+        "timestamp": 1695572870554,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
