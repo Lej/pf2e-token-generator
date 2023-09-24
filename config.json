@@ -6775,5 +6775,14 @@
         "timestamp": 1695547973020,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "toAsLLjdRwu1pT0b": {
+        "id": "toAsLLjdRwu1pT0b",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Fleshforge Prototype (Roots)",
+        "prompt": "Fantasy art Fleshforge Prototype Roots construct in the style of Greg Rutkowski",
+        "timestamp": 1695547973020,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
