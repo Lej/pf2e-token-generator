@@ -4408,5 +4408,14 @@
         "timestamp": 1695547972881,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CXCdPqMRX58sBQ9G": {
+        "id": "CXCdPqMRX58sBQ9G",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Hellknight Cavalry Brigade",
+        "prompt": "Fantasy art Hellknight Cavalry Brigade animal human humanoid troop in the style of Greg Rutkowski",
+        "timestamp": 1695547972882,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
