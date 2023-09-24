@@ -6532,5 +6532,14 @@
         "timestamp": 1695547973013,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FG0Cc949yZ8opW8I": {
+        "id": "FG0Cc949yZ8opW8I",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Hogweed Leshy (1-2)",
+        "prompt": "Fantasy art Hogweed Leshy leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1695547973013,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
