@@ -14443,5 +14443,14 @@
         "timestamp": 1695572870493,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DYEJU8PPBg6yWGJe": {
+        "id": "DYEJU8PPBg6yWGJe",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Mercenary Trapper (3-4)",
+        "prompt": "Fantasy art Mercenary Trapper human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870493,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
