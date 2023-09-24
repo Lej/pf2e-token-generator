@@ -9583,5 +9583,14 @@
         "timestamp": 1695572870113,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VXAsqEVmE2Gi8ZHk": {
+        "id": "VXAsqEVmE2Gi8ZHk",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Bugbear Creeper",
+        "prompt": "Fantasy art Bugbear Creeper dream fiend goblin humanoid Variant bugbear in the style of Greg Rutkowski",
+        "timestamp": 1695572870113,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
