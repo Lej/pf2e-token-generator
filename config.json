@@ -3949,5 +3949,14 @@
         "timestamp": 1695547972861,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rW6vTwkAEAH8AMGw": {
+        "id": "rW6vTwkAEAH8AMGw",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Wayang Whisperblade",
+        "prompt": "Fantasy art Wayang Whisperblade humanoid shadow wayang in the style of Greg Rutkowski",
+        "timestamp": 1695547972861,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
