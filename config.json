@@ -3040,5 +3040,14 @@
         "timestamp": 1695547972825,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fViWNHKjjL7fYbjW": {
+        "id": "fViWNHKjjL7fYbjW",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Common Eurypterid",
+        "prompt": "Fantasy art Common Eurypterid amphibious animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972825,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
