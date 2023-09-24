@@ -16810,5 +16810,14 @@
         "timestamp": 1695572870568,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "WtpeHbOQdK5CiaLf": {
+        "id": "WtpeHbOQdK5CiaLf",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Drela",
+        "prompt": "Fantasy art Drela human humanoid Male human gang leader in the style of Greg Rutkowski",
+        "timestamp": 1695572870568,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
