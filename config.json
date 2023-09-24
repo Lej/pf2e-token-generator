@@ -11104,5 +11104,14 @@
         "timestamp": 1695572870313,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NeYU7wwCv0RUesZ1": {
+        "id": "NeYU7wwCv0RUesZ1",
+        "compendium": "pathfinder-bestiary",
+        "name": "Stone Mauler",
+        "prompt": "Fantasy art Stone Mauler earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1695572870314,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
