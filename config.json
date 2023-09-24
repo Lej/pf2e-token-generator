@@ -6991,5 +6991,14 @@
         "timestamp": 1695547973028,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "zgvD5MpjPBJXIian": {
+        "id": "zgvD5MpjPBJXIian",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Elite Duergar Taskmaster",
+        "prompt": "Fantasy art Elite Duergar Taskmaster duergar dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973028,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
