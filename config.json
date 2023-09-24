@@ -8377,5 +8377,14 @@
         "timestamp": 1695547973074,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oKACWOSiBpxgMqa4": {
+        "id": "oKACWOSiBpxgMqa4",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Prefect (Electrowhip) (5-6)",
+        "prompt": "Fantasy art Prefect Electrowhip construct in the style of Greg Rutkowski",
+        "timestamp": 1695547973074,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
