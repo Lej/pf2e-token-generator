@@ -12571,5 +12571,14 @@
         "timestamp": 1695572870376,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FIoRPHaHdYUPVKdT": {
+        "id": "FIoRPHaHdYUPVKdT",
+        "compendium": "pathfinder-bestiary",
+        "name": "Barbazu",
+        "prompt": "Fantasy art Barbazu devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870376,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
