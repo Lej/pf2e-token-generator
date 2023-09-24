@@ -6298,5 +6298,14 @@
         "timestamp": 1695547973006,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YtR25uDQSkKQMoaW": {
+        "id": "YtR25uDQSkKQMoaW",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Reast Mycer (1-2)",
+        "prompt": "Fantasy art Reast Mycer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973007,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
