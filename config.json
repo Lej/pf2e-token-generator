@@ -3958,5 +3958,14 @@
         "timestamp": 1695547972861,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nX3LIuvHqiKNrth9": {
+        "id": "nX3LIuvHqiKNrth9",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Ancient Underworld Dragon",
+        "prompt": "Fantasy art Ancient Underworld Dragon dragon fire in the style of Greg Rutkowski",
+        "timestamp": 1695547972861,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
