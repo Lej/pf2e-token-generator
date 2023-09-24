@@ -17125,5 +17125,14 @@
         "timestamp": 1695572870583,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GoGNtiHuYycppLPk": {
+        "id": "GoGNtiHuYycppLPk",
+        "compendium": "npc-gallery",
+        "name": "Bounty Hunter",
+        "prompt": "Fantasy art Bounty Hunter human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870583,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
