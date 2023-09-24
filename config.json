@@ -3400,5 +3400,14 @@
         "timestamp": 1695547972838,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9HkUdRKoprwo27VN": {
+        "id": "9HkUdRKoprwo27VN",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Clockwork Soldier",
+        "prompt": "Fantasy art Clockwork Soldier clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695547972839,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
