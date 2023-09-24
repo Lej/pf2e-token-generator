@@ -11626,5 +11626,14 @@
         "timestamp": 1695572870335,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "Q8FAcsuta4p6d8KS": {
+        "id": "Q8FAcsuta4p6d8KS",
+        "compendium": "pathfinder-bestiary",
+        "name": "Firewyrm",
+        "prompt": "Fantasy art Firewyrm elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1695572870335,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
