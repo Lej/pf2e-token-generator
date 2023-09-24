@@ -4390,5 +4390,14 @@
         "timestamp": 1695547972881,
         "seed": 1024,
         "used_seed": 1028
+    },
+    "NikAalo85JWVE6d2": {
+        "id": "NikAalo85JWVE6d2",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Nagaji Soldier",
+        "prompt": "Fantasy art Nagaji Soldier humanoid nagaji in the style of Greg Rutkowski",
+        "timestamp": 1695547972881,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
