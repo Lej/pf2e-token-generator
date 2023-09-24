@@ -4120,5 +4120,14 @@
         "timestamp": 1695547972869,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YLLyd6Jb4Zqmz0lo": {
+        "id": "YLLyd6Jb4Zqmz0lo",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Aphorite Sharpshooter",
+        "prompt": "Fantasy art Aphorite Sharpshooter aphorite human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972870,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
