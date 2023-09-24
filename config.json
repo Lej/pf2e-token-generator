@@ -15919,5 +15919,14 @@
         "timestamp": 1695572870539,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "R58hBfz4R5QQtFnD": {
+        "id": "R58hBfz4R5QQtFnD",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Awakened Ball Python",
+        "prompt": "Fantasy art Awakened Ball Python animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870539,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
