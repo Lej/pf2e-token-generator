@@ -13894,5 +13894,14 @@
         "timestamp": 1695572870428,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RXEnAk6cbSnk3w7O": {
+        "id": "RXEnAk6cbSnk3w7O",
+        "compendium": "pathfinder-bestiary",
+        "name": "Naiad",
+        "prompt": "Fantasy art Naiad amphibious fey nymph water in the style of Greg Rutkowski",
+        "timestamp": 1695572870428,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
