@@ -12958,5 +12958,14 @@
         "timestamp": 1695572870388,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "0MOWKI97bgGDf5Xi": {
+        "id": "0MOWKI97bgGDf5Xi",
+        "compendium": "pathfinder-bestiary",
+        "name": "Dark Naga",
+        "prompt": "Fantasy art Dark Naga aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870388,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
