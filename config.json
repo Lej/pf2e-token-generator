@@ -7018,5 +7018,14 @@
         "timestamp": 1695547973029,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "6T2Ui881qJflski6": {
+        "id": "6T2Ui881qJflski6",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Krooth Hatchlings",
+        "prompt": "Fantasy art Krooth Hatchlings amphibious animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1695547973029,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
