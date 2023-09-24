@@ -16666,5 +16666,14 @@
         "timestamp": 1695572870563,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TfyWBoNpR1iNBcLV": {
+        "id": "TfyWBoNpR1iNBcLV",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Sabora Sharkosa",
+        "prompt": "Fantasy art Sabora Sharkosa elf half-elf human humanoid Female half-elf martial artist gang leader in the style of Greg Rutkowski",
+        "timestamp": 1695572870563,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
