@@ -13471,5 +13471,14 @@
         "timestamp": 1695572870410,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ETwmjdnmSkqGdD5r": {
+        "id": "ETwmjdnmSkqGdD5r",
+        "compendium": "pathfinder-bestiary",
+        "name": "Animated Broom",
+        "prompt": "Fantasy art Animated Broom construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870410,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
