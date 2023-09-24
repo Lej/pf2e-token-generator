@@ -15235,5 +15235,14 @@
         "timestamp": 1695572870518,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "X6ODple6SbEvbmmj": {
+        "id": "X6ODple6SbEvbmmj",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Corvius Vayn (7-8)",
+        "prompt": "Fantasy art Corvius Vayn human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870519,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
