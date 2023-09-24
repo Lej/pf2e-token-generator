@@ -16576,5 +16576,14 @@
         "timestamp": 1695572870560,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jXiIATJxyBLgjkm7": {
+        "id": "jXiIATJxyBLgjkm7",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Spellscar Sky Marauder",
+        "prompt": "Fantasy art Spellscar Sky Marauder humanoid mutant Mana Wastes mutant maftet bandits in the style of Greg Rutkowski",
+        "timestamp": 1695572870560,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
