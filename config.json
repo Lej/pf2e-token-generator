@@ -17728,5 +17728,14 @@
         "timestamp": 1695572870606,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "H4yGpC6VuQpszlUl": {
+        "id": "H4yGpC6VuQpszlUl",
+        "compendium": "fall-of-plaguestone",
+        "name": "Hallod",
+        "prompt": "Fantasy art Hallod human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870606,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
