@@ -14668,5 +14668,14 @@
         "timestamp": 1695572870500,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fSeiGTAcD0mVUz5w": {
+        "id": "fSeiGTAcD0mVUz5w",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Corrupted Wildfire (3-4)",
+        "prompt": "Fantasy art Corrupted Wildfire fire elemental in the style of Greg Rutkowski",
+        "timestamp": 1695572870500,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
