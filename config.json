@@ -7288,5 +7288,14 @@
         "timestamp": 1695547973037,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Kv7ciLOLN8vDgIGy": {
+        "id": "Kv7ciLOLN8vDgIGy",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Kobold Dragon Mage (PFS 1-11)",
+        "prompt": "Fantasy art Kobold Dragon Mage humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695547973038,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
