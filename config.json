@@ -16126,5 +16126,14 @@
         "timestamp": 1695572870547,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "zUHMrJZKcKIv6IpM": {
+        "id": "zUHMrJZKcKIv6IpM",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Daelum",
+        "prompt": "Fantasy art Daelum construct in the style of Greg Rutkowski",
+        "timestamp": 1695572870547,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
