@@ -13309,5 +13309,14 @@
         "timestamp": 1695572870403,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hXpqjD3eBRxlemNs": {
+        "id": "hXpqjD3eBRxlemNs",
+        "compendium": "pathfinder-bestiary",
+        "name": "Gnoll Cultist",
+        "prompt": "Fantasy art Gnoll Cultist gnoll humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870404,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
