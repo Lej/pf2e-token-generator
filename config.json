@@ -11518,5 +11518,14 @@
         "timestamp": 1695572870331,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cDm6PzhO5nXlkGoi": {
+        "id": "cDm6PzhO5nXlkGoi",
+        "compendium": "pathfinder-bestiary",
+        "name": "Orc Brute",
+        "prompt": "Fantasy art Orc Brute humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1695572870332,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
