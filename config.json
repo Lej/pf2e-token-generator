@@ -14614,5 +14614,14 @@
         "timestamp": 1695572870498,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jjx1CL2NpFG78tOZ": {
+        "id": "jjx1CL2NpFG78tOZ",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Small Opossum",
+        "prompt": "Fantasy art Small Opossum animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870498,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
