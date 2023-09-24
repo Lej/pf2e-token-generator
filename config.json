@@ -16261,5 +16261,14 @@
         "timestamp": 1695572870551,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RNvLscZ5sMpYzExB": {
+        "id": "RNvLscZ5sMpYzExB",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Clockwork Hunter",
+        "prompt": "Fantasy art Clockwork Hunter clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870551,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
