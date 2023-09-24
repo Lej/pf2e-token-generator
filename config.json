@@ -3895,5 +3895,14 @@
         "timestamp": 1695547972859,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mbu0D45HPRNAwgEU": {
+        "id": "mbu0D45HPRNAwgEU",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Munagola",
+        "prompt": "Fantasy art Munagola devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547972859,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
