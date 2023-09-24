@@ -14362,5 +14362,14 @@
         "timestamp": 1695572870490,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "Kklhv0OWqkb6RbIF": {
+        "id": "Kklhv0OWqkb6RbIF",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Cobbleswarm (B5)",
+        "prompt": "Fantasy art Cobbleswarm aberration earth swarm in the style of Greg Rutkowski",
+        "timestamp": 1695572870490,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
