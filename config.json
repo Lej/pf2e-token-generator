@@ -4777,5 +4777,14 @@
         "timestamp": 1695547972896,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hiDSC6gqneQTB106": {
+        "id": "hiDSC6gqneQTB106",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Fuath",
+        "prompt": "Fantasy art Fuath aquatic fey gremlin in the style of Greg Rutkowski",
+        "timestamp": 1695547972897,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
