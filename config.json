@@ -7792,5 +7792,14 @@
         "timestamp": 1695547973054,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2HEhlngODb1KfSwE": {
+        "id": "2HEhlngODb1KfSwE",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Cairn Wight (PFS 1-20)",
+        "prompt": "Fantasy art Cairn Wight undead wight in the style of Greg Rutkowski",
+        "timestamp": 1695547973054,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
