@@ -13723,5 +13723,14 @@
         "timestamp": 1695572870421,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VUJrPHKOjYkIQnWn": {
+        "id": "VUJrPHKOjYkIQnWn",
+        "compendium": "pathfinder-bestiary",
+        "name": "Mu Spore",
+        "prompt": "Fantasy art Mu Spore fungus in the style of Greg Rutkowski",
+        "timestamp": 1695572870421,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
