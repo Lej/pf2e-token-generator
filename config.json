@@ -14020,5 +14020,14 @@
         "timestamp": 1695572870435,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JiThbhDfjUoPaTP1": {
+        "id": "JiThbhDfjUoPaTP1",
+        "compendium": "pathfinder-bestiary",
+        "name": "Baomal",
+        "prompt": "Fantasy art Baomal aberration aquatic in the style of Greg Rutkowski",
+        "timestamp": 1695572870435,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
