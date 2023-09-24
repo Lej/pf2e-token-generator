@@ -4399,5 +4399,14 @@
         "timestamp": 1695547972881,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "c7kP2W6zaZA9oxAd": {
+        "id": "c7kP2W6zaZA9oxAd",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Giant Pangolin",
+        "prompt": "Fantasy art Giant Pangolin animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972881,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
