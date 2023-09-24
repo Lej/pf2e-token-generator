@@ -6118,5 +6118,14 @@
         "timestamp": 1695547973000,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sN5jueRXgYI9DDGH": {
+        "id": "sN5jueRXgYI9DDGH",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Fleshforge Prototype (Breath Weapon)",
+        "prompt": "Fantasy art Fleshforge Prototype Breath Weapon construct in the style of Greg Rutkowski",
+        "timestamp": 1695547973000,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
