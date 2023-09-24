@@ -8422,5 +8422,14 @@
         "timestamp": 1695547973075,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AbaAJaz8p6sSsaqy": {
+        "id": "AbaAJaz8p6sSsaqy",
+        "compendium": "highhelm-bestiary",
+        "name": "Draft Lizard",
+        "prompt": "Fantasy art Draft Lizard animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973075,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

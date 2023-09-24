@@ -3763,6 +3763,10 @@
         "IGoJDxjMiADXa1bm": {
             "actor": "modules/pf2e-ai-token-placeholders/images/highhelm-bestiary/IGoJDxjMiADXa1bm/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/highhelm-bestiary/IGoJDxjMiADXa1bm/token.webp"
+        },
+        "AbaAJaz8p6sSsaqy": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/highhelm-bestiary/AbaAJaz8p6sSsaqy/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/highhelm-bestiary/AbaAJaz8p6sSsaqy/token.webp"
         }
     }
 }
