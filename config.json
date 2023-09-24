@@ -7918,5 +7918,14 @@
         "timestamp": 1695547973057,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8axdoIyHw2WK9anh": {
+        "id": "8axdoIyHw2WK9anh",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Ptiro Valner (3-4)",
+        "prompt": "Fantasy art Ptiro Valner human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973058,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
