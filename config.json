@@ -16864,5 +16864,14 @@
         "timestamp": 1695572870570,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "mblLgQ9NMR2mMI99": {
+        "id": "mblLgQ9NMR2mMI99",
+        "compendium": "npc-gallery",
+        "name": "Reckless Scientist",
+        "prompt": "Fantasy art Reckless Scientist human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870570,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
