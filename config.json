@@ -11257,5 +11257,14 @@
         "timestamp": 1695572870320,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bSjF2lCgchtp2ocS": {
+        "id": "bSjF2lCgchtp2ocS",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ancient Brass Dragon",
+        "prompt": "Fantasy art Ancient Brass Dragon dragon fire in the style of Greg Rutkowski",
+        "timestamp": 1695572870321,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
