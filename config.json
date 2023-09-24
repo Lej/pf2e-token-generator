@@ -14722,5 +14722,14 @@
         "timestamp": 1695572870501,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xRwAQ93HjGe59RvO": {
+        "id": "xRwAQ93HjGe59RvO",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Ygracix",
+        "prompt": "Fantasy art Ygracix devil fiend Female imp in the style of Greg Rutkowski",
+        "timestamp": 1695572870502,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
