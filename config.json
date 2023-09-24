@@ -11689,5 +11689,14 @@
         "timestamp": 1695572870337,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "B8QjalVNcWjuqgG7": {
+        "id": "B8QjalVNcWjuqgG7",
+        "compendium": "pathfinder-bestiary",
+        "name": "Phistophilus",
+        "prompt": "Fantasy art Phistophilus devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870338,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
