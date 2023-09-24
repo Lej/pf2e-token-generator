@@ -4219,5 +4219,14 @@
         "timestamp": 1695547972873,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SQKdvPIhWkrHlkbn": {
+        "id": "SQKdvPIhWkrHlkbn",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "City Guard Squadron",
+        "prompt": "Fantasy art City Guard Squadron human humanoid troop in the style of Greg Rutkowski",
+        "timestamp": 1695547972873,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
