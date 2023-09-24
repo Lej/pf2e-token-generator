@@ -8008,5 +8008,14 @@
         "timestamp": 1695547973060,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zJhgmaI99nePKSaY": {
+        "id": "zJhgmaI99nePKSaY",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Boggard Swampseer (PFS 1-24)",
+        "prompt": "Fantasy art Boggard Swampseer amphibious boggard humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973061,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
