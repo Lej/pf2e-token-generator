@@ -4048,5 +4048,14 @@
         "timestamp": 1695547972864,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5WAy9PYWu1PuQKXg": {
+        "id": "5WAy9PYWu1PuQKXg",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Clacking Skull Swarm",
+        "prompt": "Fantasy art Clacking Skull Swarm mindless swarm undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972864,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
