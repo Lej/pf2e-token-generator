@@ -16099,5 +16099,14 @@
         "timestamp": 1695572870546,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "T9vLIrNIbcNkYx1M": {
+        "id": "T9vLIrNIbcNkYx1M",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Masu",
+        "prompt": "Fantasy art Masu animal Female tabby cat in the style of Greg Rutkowski",
+        "timestamp": 1695572870546,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
