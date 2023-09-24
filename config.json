@@ -16612,5 +16612,14 @@
         "timestamp": 1695572870561,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pgYXyo7Qs9b84bQh": {
+        "id": "pgYXyo7Qs9b84bQh",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Disgorged Zombie",
+        "prompt": "Fantasy art Disgorged Zombie electricity mindless undead zombie Variant shock zombie in the style of Greg Rutkowski",
+        "timestamp": 1695572870561,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
