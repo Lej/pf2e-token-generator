@@ -5821,5 +5821,14 @@
         "timestamp": 1695547972983,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NoAyIhPpqJ1WE1pF": {
+        "id": "NoAyIhPpqJ1WE1pF",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Kovintus Geomancer",
+        "prompt": "Fantasy art Kovintus Geomancer humanoid kovintus in the style of Greg Rutkowski",
+        "timestamp": 1695547972984,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
