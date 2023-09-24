@@ -17188,5 +17188,14 @@
         "timestamp": 1695572870585,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zQfufnnLCTzQ165S": {
+        "id": "zQfufnnLCTzQ165S",
+        "compendium": "npc-gallery",
+        "name": "Monster Hunter",
+        "prompt": "Fantasy art Monster Hunter human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870586,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
