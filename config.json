@@ -9178,5 +9178,14 @@
         "timestamp": 1695572870100,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4RC6Uw5awahsRh2K": {
+        "id": "4RC6Uw5awahsRh2K",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Skeletal Pathfinder Veteran",
+        "prompt": "Fantasy art Skeletal Pathfinder Veteran skeleton undead Variant skeletal champion in the style of Greg Rutkowski",
+        "timestamp": 1695572870101,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
