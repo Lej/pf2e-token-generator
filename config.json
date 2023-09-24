@@ -3211,5 +3211,14 @@
         "timestamp": 1695547972832,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6A317pomsGPzW17M": {
+        "id": "6A317pomsGPzW17M",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Munavri Spellblade",
+        "prompt": "Fantasy art Munavri Spellblade humanoid munavri in the style of Greg Rutkowski",
+        "timestamp": 1695547972832,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
