@@ -12364,5 +12364,14 @@
         "timestamp": 1695572870368,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "uCw15c4AnIrOy5AV": {
+        "id": "uCw15c4AnIrOy5AV",
+        "compendium": "pathfinder-bestiary",
+        "name": "Merfolk Wavecaller",
+        "prompt": "Fantasy art Merfolk Wavecaller aquatic humanoid merfolk in the style of Greg Rutkowski",
+        "timestamp": 1695572870368,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
