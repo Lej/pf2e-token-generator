@@ -5245,6 +5245,10 @@
         "NpcS7iocNNsno6lE": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/NpcS7iocNNsno6lE/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/NpcS7iocNNsno6lE/token.webp"
+        },
+        "PCh2kxeSYWRit9TE": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/PCh2kxeSYWRit9TE/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/PCh2kxeSYWRit9TE/token.webp"
         }
     }
 }

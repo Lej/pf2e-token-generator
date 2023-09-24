@@ -11743,5 +11743,14 @@
         "timestamp": 1695572870341,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PCh2kxeSYWRit9TE": {
+        "id": "PCh2kxeSYWRit9TE",
+        "compendium": "pathfinder-bestiary",
+        "name": "Pegasus",
+        "prompt": "Fantasy art Pegasus beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870341,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
