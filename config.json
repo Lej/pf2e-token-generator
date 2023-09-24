@@ -13885,5 +13885,14 @@
         "timestamp": 1695572870428,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fd3Bf10lloqMg2jW": {
+        "id": "fd3Bf10lloqMg2jW",
+        "compendium": "pathfinder-bestiary",
+        "name": "Young Blue Dragon (Spellcaster)",
+        "prompt": "Fantasy art Young Blue Dragon Spellcaster dragon electricity in the style of Greg Rutkowski",
+        "timestamp": 1695572870428,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
