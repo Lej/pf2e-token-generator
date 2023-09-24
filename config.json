@@ -3589,5 +3589,14 @@
         "timestamp": 1695547972844,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FjiovYhLSHDX0ODl": {
+        "id": "FjiovYhLSHDX0ODl",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Tattoo Guardian",
+        "prompt": "Fantasy art Tattoo Guardian construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695547972844,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
