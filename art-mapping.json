@@ -5001,6 +5001,10 @@
         "RTUp97xNDutzYpuY": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/RTUp97xNDutzYpuY/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/RTUp97xNDutzYpuY/token.webp"
+        },
+        "9xdl2PpfMEfJWhSO": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/9xdl2PpfMEfJWhSO/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary/9xdl2PpfMEfJWhSO/token.webp"
         }
     }
 }

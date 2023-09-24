@@ -11194,5 +11194,14 @@
         "timestamp": 1695572870317,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9xdl2PpfMEfJWhSO": {
+        "id": "9xdl2PpfMEfJWhSO",
+        "compendium": "pathfinder-bestiary",
+        "name": "Young Gold Dragon (Spellcaster)",
+        "prompt": "Fantasy art Young Gold Dragon Spellcaster dragon fire in the style of Greg Rutkowski",
+        "timestamp": 1695572870317,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
