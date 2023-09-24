@@ -15397,5 +15397,14 @@
         "timestamp": 1695572870523,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7nqeVP1X5v3UMWxZ": {
+        "id": "7nqeVP1X5v3UMWxZ",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Scorched Earth Orc (Scout) (5-6)",
+        "prompt": "Fantasy art Scorched Earth Orc Scout humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1695572870524,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
