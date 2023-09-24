@@ -12634,5 +12634,14 @@
         "timestamp": 1695572870379,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "Upf2fOZ6QgGG3seI": {
+        "id": "Upf2fOZ6QgGG3seI",
+        "compendium": "pathfinder-bestiary",
+        "name": "Stone Golem",
+        "prompt": "Fantasy art Stone Golem construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870379,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
