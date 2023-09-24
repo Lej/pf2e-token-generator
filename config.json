@@ -6262,5 +6262,14 @@
         "timestamp": 1695547973005,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Eccdm7gQHoppXFU5": {
+        "id": "Eccdm7gQHoppXFU5",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Experienced Mercenary",
+        "prompt": "Fantasy art Experienced Mercenary humanoid human in the style of Greg Rutkowski",
+        "timestamp": 1695547973006,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
