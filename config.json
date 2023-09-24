@@ -16216,5 +16216,14 @@
         "timestamp": 1695572870550,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3dL5oBOLaFaAmDR4": {
+        "id": "3dL5oBOLaFaAmDR4",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Powderkeg Punk Bombardier",
+        "prompt": "Fantasy art Powderkeg Punk Bombardier humanoid Various arsonists in the style of Greg Rutkowski",
+        "timestamp": 1695572870550,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
