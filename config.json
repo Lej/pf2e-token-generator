@@ -15730,5 +15730,14 @@
         "timestamp": 1695572870534,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "j7K9SefeHJ16qHMl": {
+        "id": "j7K9SefeHJ16qHMl",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Anatomical Model (3-4)",
+        "prompt": "Fantasy art Anatomical Model construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870534,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
