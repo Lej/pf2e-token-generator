@@ -10150,5 +10150,14 @@
         "timestamp": 1695572870140,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rayMMWNm61ivtxuU": {
+        "id": "rayMMWNm61ivtxuU",
+        "compendium": "mwangi-expanse-bestiary",
+        "name": "Biloko Warrior",
+        "prompt": "Fantasy art Biloko Warrior fey in the style of Greg Rutkowski",
+        "timestamp": 1695572870140,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
