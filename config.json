@@ -7261,5 +7261,14 @@
         "timestamp": 1695547973036,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tt4tZR8udjJ1zNyp": {
+        "id": "tt4tZR8udjJ1zNyp",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Seaborn Fisher",
+        "prompt": "Fantasy art Seaborn Fisher aquatic elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973037,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
