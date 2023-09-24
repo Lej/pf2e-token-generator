@@ -10663,5 +10663,14 @@
         "timestamp": 1695572870285,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "quXuocHuT2US7cWz": {
+        "id": "quXuocHuT2US7cWz",
+        "compendium": "pathfinder-bestiary",
+        "name": "Daeodon",
+        "prompt": "Fantasy art Daeodon animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870285,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
