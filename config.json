@@ -5560,5 +5560,14 @@
         "timestamp": 1695547972972,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "L5cNazEKC5gASp41": {
+        "id": "L5cNazEKC5gASp41",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Mothman",
+        "prompt": "Fantasy art Mothman aberration in the style of Greg Rutkowski",
+        "timestamp": 1695547972972,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
