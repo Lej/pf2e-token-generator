@@ -6973,5 +6973,14 @@
         "timestamp": 1695547973027,
         "seed": 1024,
         "used_seed": 1027
+    },
+    "N6zflwcAIP2wewRI": {
+        "id": "N6zflwcAIP2wewRI",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Skeleton Soldier",
+        "prompt": "Fantasy art Skeleton Soldier mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695547973027,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
