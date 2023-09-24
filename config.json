@@ -13660,5 +13660,14 @@
         "timestamp": 1695572870419,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aqW5sp9HPgZgpXxs": {
+        "id": "aqW5sp9HPgZgpXxs",
+        "compendium": "pathfinder-bestiary",
+        "name": "Hill Giant",
+        "prompt": "Fantasy art Hill Giant earth giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870419,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
