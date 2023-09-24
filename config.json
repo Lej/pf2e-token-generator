@@ -16108,5 +16108,14 @@
         "timestamp": 1695572870546,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "c1v4Xb3x6nvpFmth": {
+        "id": "c1v4Xb3x6nvpFmth",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Atticus",
+        "prompt": "Fantasy art Atticus human humanoid Male human corrupt shieldmarshal in the style of Greg Rutkowski",
+        "timestamp": 1695572870546,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
