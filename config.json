@@ -13174,5 +13174,14 @@
         "timestamp": 1695572870398,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7ZgQuis8r8YQyUnI": {
+        "id": "7ZgQuis8r8YQyUnI",
+        "compendium": "pathfinder-bestiary",
+        "name": "Yeti",
+        "prompt": "Fantasy art Yeti humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870398,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
