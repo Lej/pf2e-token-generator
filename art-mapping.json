@@ -7773,6 +7773,10 @@
         "sZ9RwN8zIzpztW3N": {
             "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/sZ9RwN8zIzpztW3N/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/sZ9RwN8zIzpztW3N/token.webp"
+        },
+        "K2STan8izudm9eEn": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/K2STan8izudm9eEn/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/K2STan8izudm9eEn/token.webp"
         }
     }
 }
