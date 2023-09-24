@@ -8890,5 +8890,14 @@
         "timestamp": 1695547973096,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nr6qCJkCLNAZh5ED": {
+        "id": "nr6qCJkCLNAZh5ED",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Undead Nathatel (7-8)",
+        "prompt": "Fantasy art Undead Nathatel undead Male variant spellscar fext in the style of Greg Rutkowski",
+        "timestamp": 1695547973096,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
