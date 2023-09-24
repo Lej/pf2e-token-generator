@@ -9025,5 +9025,14 @@
         "timestamp": 1695547973101,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Q0N3WeP9tulx1Zx6": {
+        "id": "Q0N3WeP9tulx1Zx6",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Weak Evasive Vampire Count",
+        "prompt": "Fantasy art Weak Evasive Vampire Count undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1695547973102,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
