@@ -15442,5 +15442,14 @@
         "timestamp": 1695572870525,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3ShJKXoXXENIToA8": {
+        "id": "3ShJKXoXXENIToA8",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Frostbitten Trollhound",
+        "prompt": "Fantasy art Frostbitten Trollhound beast troll in the style of Greg Rutkowski",
+        "timestamp": 1695572870525,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
