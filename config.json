@@ -17224,5 +17224,14 @@
         "timestamp": 1695572870587,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tbiThWX0gAVZAMor": {
+        "id": "tbiThWX0gAVZAMor",
+        "compendium": "npc-gallery",
+        "name": "Judge",
+        "prompt": "Fantasy art Judge human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870587,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
