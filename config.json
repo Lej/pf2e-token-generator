@@ -8251,5 +8251,14 @@
         "timestamp": 1695547973069,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "6RnFVhsi5XImLuuF": {
+        "id": "6RnFVhsi5XImLuuF",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Charlatan",
+        "prompt": "Fantasy art Charlatan human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973069,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
