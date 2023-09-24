@@ -16270,5 +16270,14 @@
         "timestamp": 1695572870551,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "irkdc3CACxbhd2MN": {
+        "id": "irkdc3CACxbhd2MN",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Cranium Preserver",
+        "prompt": "Fantasy art Cranium Preserver construct rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870551,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
