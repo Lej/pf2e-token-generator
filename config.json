@@ -9439,5 +9439,14 @@
         "timestamp": 1695572870108,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "82otwWwog77fPBJ8": {
+        "id": "82otwWwog77fPBJ8",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Witch's Wing",
+        "prompt": "Fantasy art Witch's Wing human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870108,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
