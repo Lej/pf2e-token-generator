@@ -2680,5 +2680,14 @@
         "timestamp": 1695547972803,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fGZeQOarR6Im7Lnk": {
+        "id": "fGZeQOarR6Im7Lnk",
+        "compendium": "impossible-lands-bestiary",
+        "name": "Kashrishi Evaluator",
+        "prompt": "Fantasy art Kashrishi Evaluator in the style of Greg Rutkowski",
+        "timestamp": 1695547972804,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
