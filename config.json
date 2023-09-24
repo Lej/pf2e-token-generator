@@ -7297,5 +7297,14 @@
         "timestamp": 1695547973038,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AbFKkDIHUwx2EnR5": {
+        "id": "AbFKkDIHUwx2EnR5",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Dorobu (3-4)",
+        "prompt": "Fantasy art Dorobu humanoid kitsune in the style of Greg Rutkowski",
+        "timestamp": 1695547973038,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
