@@ -8179,5 +8179,14 @@
         "timestamp": 1695547973065,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pSQYsY76zjDMfjv2": {
+        "id": "pSQYsY76zjDMfjv2",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Blue Streak Burglar",
+        "prompt": "Fantasy art Blue Streak Burglar human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973066,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
