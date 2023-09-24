@@ -13093,5 +13093,14 @@
         "timestamp": 1695572870394,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vxKqnzwcxNAgLp7C": {
+        "id": "vxKqnzwcxNAgLp7C",
+        "compendium": "pathfinder-bestiary",
+        "name": "Giant Octopus",
+        "prompt": "Fantasy art Giant Octopus animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1695572870395,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
