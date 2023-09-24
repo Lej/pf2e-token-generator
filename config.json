@@ -10618,5 +10618,14 @@
         "timestamp": 1695572870283,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "45Eo7MFWG3ShikvD": {
+        "id": "45Eo7MFWG3ShikvD",
+        "compendium": "pathfinder-bestiary",
+        "name": "Kraken",
+        "prompt": "Fantasy art Kraken aquatic beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870284,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
