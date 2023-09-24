@@ -6892,5 +6892,14 @@
         "timestamp": 1695547973024,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jJd7Sa8DB7uBOn93": {
+        "id": "jJd7Sa8DB7uBOn93",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Bandit Disciple (3-4)",
+        "prompt": "Fantasy art Bandit Disciple human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973024,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
