@@ -11374,5 +11374,14 @@
         "timestamp": 1695572870325,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YdlmpfZso6GwPr2D": {
+        "id": "YdlmpfZso6GwPr2D",
+        "compendium": "pathfinder-bestiary",
+        "name": "Chimera (Green Dragon)",
+        "prompt": "Fantasy art Chimera Green Dragon beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870326,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
