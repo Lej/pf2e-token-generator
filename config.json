@@ -6667,5 +6667,14 @@
         "timestamp": 1695547973017,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "81H7cwCK8TBi6dnv": {
+        "id": "81H7cwCK8TBi6dnv",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Weak Zephyr Hawk (PFS 1-24)",
+        "prompt": "Fantasy art Weak Zephyr Hawk air elemental in the style of Greg Rutkowski",
+        "timestamp": 1695547973017,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
