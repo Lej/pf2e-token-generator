@@ -11716,5 +11716,14 @@
         "timestamp": 1695572870340,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "p2ECLKUzZ0GhFg22": {
+        "id": "p2ECLKUzZ0GhFg22",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ancient Green Dragon (Spellcaster)",
+        "prompt": "Fantasy art Ancient Green Dragon Spellcaster amphibious dragon in the style of Greg Rutkowski",
+        "timestamp": 1695572870341,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
