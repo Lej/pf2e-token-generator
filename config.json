@@ -4192,5 +4192,14 @@
         "timestamp": 1695547972872,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sp0CZ8B2IPw3bBVi": {
+        "id": "sp0CZ8B2IPw3bBVi",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Huldra",
+        "prompt": "Fantasy art Huldra fey in the style of Greg Rutkowski",
+        "timestamp": 1695547972872,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
