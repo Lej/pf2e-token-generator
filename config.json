@@ -16360,5 +16360,14 @@
         "timestamp": 1695572870554,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "t60zBqM2apOZtOaC": {
+        "id": "t60zBqM2apOZtOaC",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Glass Elephant",
+        "prompt": "Fantasy art Glass Elephant clockwork construct mindless Bomb-laden clockwork sculpture in the style of Greg Rutkowski",
+        "timestamp": 1695572870554,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
