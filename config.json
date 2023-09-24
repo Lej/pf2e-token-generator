@@ -13615,5 +13615,14 @@
         "timestamp": 1695572870417,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "tl1aGbwuPPUDKHbN": {
+        "id": "tl1aGbwuPPUDKHbN",
+        "compendium": "pathfinder-bestiary",
+        "name": "Adult Silver Dragon (Spellcaster)",
+        "prompt": "Fantasy art Adult Silver Dragon Spellcaster cold dragon in the style of Greg Rutkowski",
+        "timestamp": 1695572870418,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
