@@ -10996,5 +10996,14 @@
         "timestamp": 1695572870308,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "i1HEQ6f15fMEcHQf": {
+        "id": "i1HEQ6f15fMEcHQf",
+        "compendium": "pathfinder-bestiary",
+        "name": "Duergar Sharpshooter",
+        "prompt": "Fantasy art Duergar Sharpshooter duergar dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870309,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
