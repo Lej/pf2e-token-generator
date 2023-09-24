@@ -13534,5 +13534,14 @@
         "timestamp": 1695572870413,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dEecX0AEfl32KUVN": {
+        "id": "dEecX0AEfl32KUVN",
+        "compendium": "pathfinder-bestiary",
+        "name": "Duergar Taskmaster",
+        "prompt": "Fantasy art Duergar Taskmaster duergar dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870413,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
