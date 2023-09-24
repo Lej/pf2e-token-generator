@@ -11581,5 +11581,14 @@
         "timestamp": 1695572870334,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "gfRXFd24U633OC9r": {
+        "id": "gfRXFd24U633OC9r",
+        "compendium": "pathfinder-bestiary",
+        "name": "Jinkin",
+        "prompt": "Fantasy art Jinkin fey gremlin in the style of Greg Rutkowski",
+        "timestamp": 1695572870334,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
