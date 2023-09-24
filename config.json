@@ -10609,5 +10609,14 @@
         "timestamp": 1695572870283,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fxYMucI5b2IUoBpw": {
+        "id": "fxYMucI5b2IUoBpw",
+        "compendium": "pathfinder-bestiary",
+        "name": "Shuln",
+        "prompt": "Fantasy art Shuln beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870283,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
