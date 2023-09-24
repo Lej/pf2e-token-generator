@@ -10987,5 +10987,14 @@
         "timestamp": 1695572870308,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NW1Ax1QGE9W4DmiN": {
+        "id": "NW1Ax1QGE9W4DmiN",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ceustodaemon",
+        "prompt": "Fantasy art Ceustodaemon daemon fiend in the style of Greg Rutkowski",
+        "timestamp": 1695572870308,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
