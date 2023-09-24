@@ -16585,5 +16585,14 @@
         "timestamp": 1695572870560,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CNFAfmVoVebnj7bY": {
+        "id": "CNFAfmVoVebnj7bY",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Corrupt Shieldmarshal (Clan Pistol)",
+        "prompt": "Fantasy art Corrupt Shieldmarshal Clan Pistol humanoid Various law enforcers in the style of Greg Rutkowski",
+        "timestamp": 1695572870560,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
