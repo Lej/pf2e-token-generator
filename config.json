@@ -9142,5 +9142,14 @@
         "timestamp": 1695547973109,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "H9z43UB0KXksVTZ6": {
+        "id": "H9z43UB0KXksVTZ6",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Elite Clacking Skull Swarm",
+        "prompt": "Fantasy art Elite Clacking Skull Swarm mindless swarm undead in the style of Greg Rutkowski",
+        "timestamp": 1695547973109,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
