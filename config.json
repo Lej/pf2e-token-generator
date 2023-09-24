@@ -15703,5 +15703,14 @@
         "timestamp": 1695572870533,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UIAaR0AdABRgGGNc": {
+        "id": "UIAaR0AdABRgGGNc",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Chesjilawa Jadwiga Karina (5-6)",
+        "prompt": "Fantasy art Chesjilawa Jadwiga Karina human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870533,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
