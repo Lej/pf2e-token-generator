@@ -11662,5 +11662,14 @@
         "timestamp": 1695572870336,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XbClt5wkqECrQToJ": {
+        "id": "XbClt5wkqECrQToJ",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ratfolk Grenadier",
+        "prompt": "Fantasy art Ratfolk Grenadier humanoid ratfolk in the style of Greg Rutkowski",
+        "timestamp": 1695572870336,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
