@@ -17305,5 +17305,14 @@
         "timestamp": 1695572870590,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TCzxsJQjUpy02CsJ": {
+        "id": "TCzxsJQjUpy02CsJ",
+        "compendium": "npc-gallery",
+        "name": "Tracker",
+        "prompt": "Fantasy art Tracker human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870590,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
