@@ -17242,5 +17242,14 @@
         "timestamp": 1695572870588,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XpkGaDlyMH2V5wxR": {
+        "id": "XpkGaDlyMH2V5wxR",
+        "compendium": "npc-gallery",
+        "name": "Priest of Pharasma",
+        "prompt": "Fantasy art Priest of Pharasma human humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870588,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
