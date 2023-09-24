@@ -2833,5 +2833,14 @@
         "timestamp": 1695547972818,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XfHvnixZO9zVwZxC": {
+        "id": "XfHvnixZO9zVwZxC",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Living Graffiti (Blood)",
+        "prompt": "Fantasy art Living Graffiti Blood construct in the style of Greg Rutkowski",
+        "timestamp": 1695547972819,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
