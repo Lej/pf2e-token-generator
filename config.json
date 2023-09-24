@@ -8746,5 +8746,14 @@
         "timestamp": 1695547973090,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tihsW2usCLrMwa2Y": {
+        "id": "tihsW2usCLrMwa2Y",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Troublesome Scrit",
+        "prompt": "Fantasy art Troublesome Scrit fey gremlin Variant Scrit in the style of Greg Rutkowski",
+        "timestamp": 1695547973090,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
