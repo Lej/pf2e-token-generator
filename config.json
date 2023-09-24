@@ -11680,5 +11680,14 @@
         "timestamp": 1695572870336,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Fzn4jHusVeyytgfx": {
+        "id": "Fzn4jHusVeyytgfx",
+        "compendium": "pathfinder-bestiary",
+        "name": "Adult Copper Dragon",
+        "prompt": "Fantasy art Adult Copper Dragon dragon earth in the style of Greg Rutkowski",
+        "timestamp": 1695572870337,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
