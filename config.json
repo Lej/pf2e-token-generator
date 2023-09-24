@@ -15685,5 +15685,14 @@
         "timestamp": 1695572870532,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wt2bOysQCOVDRGJu": {
+        "id": "wt2bOysQCOVDRGJu",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Wishbound Mist Stalker (5-6)",
+        "prompt": "Fantasy art Wishbound Mist Stalker amphibious elemental water in the style of Greg Rutkowski",
+        "timestamp": 1695572870532,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
