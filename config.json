@@ -15055,5 +15055,14 @@
         "timestamp": 1695572870513,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IHh8MUVqP315OCZ4": {
+        "id": "IHh8MUVqP315OCZ4",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Blighted Fungus Leshy",
+        "prompt": "Fantasy art Blighted Fungus Leshy fungus leshy in the style of Greg Rutkowski",
+        "timestamp": 1695572870514,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
