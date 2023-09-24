@@ -11014,5 +11014,14 @@
         "timestamp": 1695572870309,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "bIw7czN0E3rENrVd": {
+        "id": "bIw7czN0E3rENrVd",
+        "compendium": "pathfinder-bestiary",
+        "name": "Giant Stag Beetle",
+        "prompt": "Fantasy art Giant Stag Beetle animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870309,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
