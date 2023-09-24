@@ -11644,5 +11644,14 @@
         "timestamp": 1695572870335,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JkBJ8B07ElXrfDaG": {
+        "id": "JkBJ8B07ElXrfDaG",
+        "compendium": "pathfinder-bestiary",
+        "name": "Boggard Warrior",
+        "prompt": "Fantasy art Boggard Warrior amphibious boggard humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870335,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
