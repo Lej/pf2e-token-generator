@@ -7315,5 +7315,14 @@
         "timestamp": 1695547973038,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8G0V3AjaLUkTbq0H": {
+        "id": "8G0V3AjaLUkTbq0H",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Mitflit Sneak",
+        "prompt": "Fantasy art Mitflit Sneak fey gremlin in the style of Greg Rutkowski",
+        "timestamp": 1695547973039,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
