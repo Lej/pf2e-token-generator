@@ -6721,5 +6721,14 @@
         "timestamp": 1695547973019,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mIz8CjpB8uxf6M9f": {
+        "id": "mIz8CjpB8uxf6M9f",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Cinder Wolf (1-2)",
+        "prompt": "Fantasy art Cinder Wolf animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973019,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
