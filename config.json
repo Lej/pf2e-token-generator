@@ -5686,5 +5686,14 @@
         "timestamp": 1695547972977,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cKZtOsBlN3Qu8Kyq": {
+        "id": "cKZtOsBlN3Qu8Kyq",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Clockwork Spy",
+        "prompt": "Fantasy art Clockwork Spy clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1695547972977,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
