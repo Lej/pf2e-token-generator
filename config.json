@@ -5983,5 +5983,14 @@
         "timestamp": 1695547972989,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MolnKBns2ePDFbAB": {
+        "id": "MolnKBns2ePDFbAB",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Hellbound Attorney",
+        "prompt": "Fantasy art Hellbound Attorney devil fiend human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972990,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
