@@ -13966,5 +13966,14 @@
         "timestamp": 1695572870432,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IUzKFRX0uHl1yxkn": {
+        "id": "IUzKFRX0uHl1yxkn",
+        "compendium": "pathfinder-bestiary",
+        "name": "Greater Shadow",
+        "prompt": "Fantasy art Greater Shadow incorporeal undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870433,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
