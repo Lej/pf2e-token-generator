@@ -8404,5 +8404,14 @@
         "timestamp": 1695547973074,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6X4zL4GSS9aUcP9f": {
+        "id": "6X4zL4GSS9aUcP9f",
+        "compendium": "highhelm-bestiary",
+        "name": "Grand Defender",
+        "prompt": "Fantasy art Grand Defender celestial construct herald in the style of Greg Rutkowski",
+        "timestamp": 1695547973075,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
