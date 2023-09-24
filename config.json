@@ -5938,5 +5938,14 @@
         "timestamp": 1695547972988,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "Z5RBfl8x39uFpDUn": {
+        "id": "Z5RBfl8x39uFpDUn",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Myceloid",
+        "prompt": "Fantasy art Myceloid fungus in the style of Greg Rutkowski",
+        "timestamp": 1695547972988,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
