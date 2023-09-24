@@ -5173,5 +5173,14 @@
         "timestamp": 1695547972913,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aAU3gHWd1a9DyQPH": {
+        "id": "aAU3gHWd1a9DyQPH",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Nosferatu Overlord",
+        "prompt": "Fantasy art Nosferatu Overlord undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1695547972914,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
