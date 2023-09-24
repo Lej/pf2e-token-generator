@@ -17881,5 +17881,14 @@
         "timestamp": 1695572870609,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3h9BvfzrIU6fNxch": {
+        "id": "3h9BvfzrIU6fNxch",
+        "compendium": "fall-of-plaguestone",
+        "name": "Lord Nar",
+        "prompt": "Fantasy art Lord Nar humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1695572870610,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
