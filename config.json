@@ -11185,5 +11185,14 @@
         "timestamp": 1695572870316,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RTUp97xNDutzYpuY": {
+        "id": "RTUp97xNDutzYpuY",
+        "compendium": "pathfinder-bestiary",
+        "name": "Chimera (Black Dragon)",
+        "prompt": "Fantasy art Chimera Black Dragon beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870317,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
