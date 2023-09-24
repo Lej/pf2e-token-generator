@@ -8809,5 +8809,14 @@
         "timestamp": 1695547973091,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sMgRhArIc1GsFifq": {
+        "id": "sMgRhArIc1GsFifq",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Seldrick Dralston (3-4)",
+        "prompt": "Fantasy art Seldrick Dralston undead Variant deathless acolyte in the style of Greg Rutkowski",
+        "timestamp": 1695547973092,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
