@@ -11698,5 +11698,14 @@
         "timestamp": 1695572870338,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qGvK4f8Clc6dOwLU": {
+        "id": "qGvK4f8Clc6dOwLU",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ancient Copper Dragon (Spellcaster)",
+        "prompt": "Fantasy art Ancient Copper Dragon Spellcaster dragon earth in the style of Greg Rutkowski",
+        "timestamp": 1695572870339,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
