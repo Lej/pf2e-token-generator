@@ -12976,5 +12976,14 @@
         "timestamp": 1695572870389,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pyFvLyQsyYjOz0xI": {
+        "id": "pyFvLyQsyYjOz0xI",
+        "compendium": "pathfinder-bestiary",
+        "name": "Frost Drake",
+        "prompt": "Fantasy art Frost Drake cold dragon in the style of Greg Rutkowski",
+        "timestamp": 1695572870389,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
