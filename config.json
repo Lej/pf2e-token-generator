@@ -9592,5 +9592,14 @@
         "timestamp": 1695572870113,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GiSG0NC5MMpekWAu": {
+        "id": "GiSG0NC5MMpekWAu",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Transformed Bremix (9-10)",
+        "prompt": "Fantasy art Transformed Bremix humanoid skelm Variant soul skelm rituals in the style of Greg Rutkowski",
+        "timestamp": 1695572870114,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
