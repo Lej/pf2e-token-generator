@@ -13876,5 +13876,14 @@
         "timestamp": 1695572870427,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zJro50sLFmOcDLdO": {
+        "id": "zJro50sLFmOcDLdO",
+        "compendium": "pathfinder-bestiary",
+        "name": "Lemure",
+        "prompt": "Fantasy art Lemure devil fiend mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870428,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
