@@ -3508,5 +3508,14 @@
         "timestamp": 1695547972842,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ss5f2tMeJWO3u8GU": {
+        "id": "ss5f2tMeJWO3u8GU",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Sasquatch",
+        "prompt": "Fantasy art Sasquatch humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972842,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
