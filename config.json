@@ -3535,5 +3535,14 @@
         "timestamp": 1695547972842,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "n1GmLT7b5Q579Tcf": {
+        "id": "n1GmLT7b5Q579Tcf",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Trailgaunt",
+        "prompt": "Fantasy art Trailgaunt undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972842,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
