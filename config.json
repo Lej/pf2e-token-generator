@@ -5632,5 +5632,14 @@
         "timestamp": 1695547972975,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OPRuZ1cEuKkJGPMV": {
+        "id": "OPRuZ1cEuKkJGPMV",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Earth Wisp",
+        "prompt": "Fantasy art Earth Wisp earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1695547972975,
+        "seed": 1024,
+        "used_seed": 1028
     }
 }
