@@ -14353,5 +14353,14 @@
         "timestamp": 1695572870489,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tLCIfeC1WWuGB9zj": {
+        "id": "tLCIfeC1WWuGB9zj",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Baron Utomo (3-4)",
+        "prompt": "Fantasy art Baron Utomo amphibious humanoid mutant sea-devil in the style of Greg Rutkowski",
+        "timestamp": 1695572870490,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
