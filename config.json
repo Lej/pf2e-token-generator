@@ -11284,5 +11284,14 @@
         "timestamp": 1695572870321,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DlRe4c2XlBSpwmms": {
+        "id": "DlRe4c2XlBSpwmms",
+        "compendium": "pathfinder-bestiary",
+        "name": "Greater Barghest",
+        "prompt": "Fantasy art Greater Barghest fiend mutant in the style of Greg Rutkowski",
+        "timestamp": 1695572870322,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
