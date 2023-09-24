@@ -3571,5 +3571,14 @@
         "timestamp": 1695547972843,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "epTO8fPDjyy2WhzD": {
+        "id": "epTO8fPDjyy2WhzD",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Mithral Golem",
+        "prompt": "Fantasy art Mithral Golem construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1695547972844,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
