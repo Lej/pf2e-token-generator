@@ -16702,5 +16702,14 @@
         "timestamp": 1695572870564,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "omcS9Zvq7ZDd35A2": {
+        "id": "omcS9Zvq7ZDd35A2",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Glass Buccaneer",
+        "prompt": "Fantasy art Glass Buccaneer clockwork construct mindless Variant clockwork buccaneer in the style of Greg Rutkowski",
+        "timestamp": 1695572870564,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
