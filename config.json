@@ -3463,5 +3463,14 @@
         "timestamp": 1695547972841,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XmOYhscNHFw7M2G0": {
+        "id": "XmOYhscNHFw7M2G0",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Rhu-Chalik",
+        "prompt": "Fantasy art Rhu-Chalik aberration in the style of Greg Rutkowski",
+        "timestamp": 1695547972841,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
