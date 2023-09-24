@@ -4849,5 +4849,14 @@
         "timestamp": 1695547972899,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "5dZaPSltPYYIupeq": {
+        "id": "5dZaPSltPYYIupeq",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Grioth Scout",
+        "prompt": "Fantasy art Grioth Scout grioth humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972899,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
