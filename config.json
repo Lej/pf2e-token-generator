@@ -16747,5 +16747,14 @@
         "timestamp": 1695572870565,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9Fmj4LRJ40803rEK": {
+        "id": "9Fmj4LRJ40803rEK",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Bristlebane",
+        "prompt": "Fantasy art Bristlebane gnoll humanoid Female gnoll pack leader in the style of Greg Rutkowski",
+        "timestamp": 1695572870566,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
