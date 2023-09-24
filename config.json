@@ -9790,5 +9790,14 @@
         "timestamp": 1695572870120,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mS4CumAcPpkDdjrO": {
+        "id": "mS4CumAcPpkDdjrO",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Greater Barghest (PFS 4-07)",
+        "prompt": "Fantasy art Greater Barghest fiend mutant in the style of Greg Rutkowski",
+        "timestamp": 1695572870120,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
