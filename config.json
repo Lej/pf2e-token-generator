@@ -9376,5 +9376,14 @@
         "timestamp": 1695572870106,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jV3wANLbZbv6S5Mv": {
+        "id": "jV3wANLbZbv6S5Mv",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Animated Leather Armor",
+        "prompt": "Fantasy art Animated Leather Armor construct mindless Variant animated armor in the style of Greg Rutkowski",
+        "timestamp": 1695572870107,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
