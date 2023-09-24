@@ -17170,5 +17170,14 @@
         "timestamp": 1695572870585,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PLOfWPKwB7pE4arv": {
+        "id": "PLOfWPKwB7pE4arv",
+        "compendium": "npc-gallery",
+        "name": "Innkeeper",
+        "prompt": "Fantasy art Innkeeper human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870585,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
