@@ -16045,5 +16045,14 @@
         "timestamp": 1695572870544,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1ZIaQe0SNDmoVUoh": {
+        "id": "1ZIaQe0SNDmoVUoh",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Brittle Ravener Husk",
+        "prompt": "Fantasy art Brittle Ravener Husk dragon undead Variant ravener husk in the style of Greg Rutkowski",
+        "timestamp": 1695572870544,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
