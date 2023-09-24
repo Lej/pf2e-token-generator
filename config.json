@@ -17935,5 +17935,14 @@
         "timestamp": 1695572870612,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WJ0bMCZUHJVwKYG1": {
+        "id": "WJ0bMCZUHJVwKYG1",
+        "compendium": "kingmaker-bestiary",
+        "name": "Freshly Bloomed Basilisk",
+        "prompt": "Fantasy art Freshly Bloomed Basilisk beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870612,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
