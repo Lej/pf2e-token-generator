@@ -9250,5 +9250,14 @@
         "timestamp": 1695572870102,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YBKHuyR2fNxtkYRu": {
+        "id": "YBKHuyR2fNxtkYRu",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Weak Cunning Vampire Spawn",
+        "prompt": "Fantasy art Weak Cunning Vampire Spawn undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1695572870102,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
