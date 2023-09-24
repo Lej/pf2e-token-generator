@@ -16639,5 +16639,14 @@
         "timestamp": 1695572870562,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IX2EDNagTD0YEfS5": {
+        "id": "IX2EDNagTD0YEfS5",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Dewey Daystar",
+        "prompt": "Fantasy art Dewey Daystar leshy plant Male cactus leshy bounty hunter in the style of Greg Rutkowski",
+        "timestamp": 1695572870563,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
