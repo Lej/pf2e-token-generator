@@ -15649,5 +15649,14 @@
         "timestamp": 1695572870531,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NGNU5Rq90TmNhwhN": {
+        "id": "NGNU5Rq90TmNhwhN",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Kayajima Guardian Dogu (3-4)",
+        "prompt": "Fantasy art Kayajima Guardian Dogu construct earth mindless in the style of Greg Rutkowski",
+        "timestamp": 1695572870531,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
