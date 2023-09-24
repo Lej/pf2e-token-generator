@@ -14218,5 +14218,14 @@
         "timestamp": 1695572870467,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LAButypiGYfsrGis": {
+        "id": "LAButypiGYfsrGis",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Grick",
+        "prompt": "Fantasy art Grick aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870467,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
