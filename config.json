@@ -9205,5 +9205,14 @@
         "timestamp": 1695572870101,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7Njvm0rs09uwz7wv": {
+        "id": "7Njvm0rs09uwz7wv",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Harpy Wailer",
+        "prompt": "Fantasy art Harpy Wailer humanoid Variant harpy in the style of Greg Rutkowski",
+        "timestamp": 1695572870101,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
