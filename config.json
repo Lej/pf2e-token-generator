@@ -6055,5 +6055,14 @@
         "timestamp": 1695547972992,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LG0Vg7zBMGFQUkvE": {
+        "id": "LG0Vg7zBMGFQUkvE",
+        "compendium": "pfs-introductions-bestiary",
+        "name": "Sun-Scorched Shadow Drake",
+        "prompt": "Fantasy art Sun-Scorched Shadow Drake dragon shadow in the style of Greg Rutkowski",
+        "timestamp": 1695547972993,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
