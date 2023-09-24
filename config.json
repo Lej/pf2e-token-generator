@@ -4624,5 +4624,14 @@
         "timestamp": 1695547972889,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wLG0f6J8cgyCA0w4": {
+        "id": "wLG0f6J8cgyCA0w4",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Zuishin",
+        "prompt": "Fantasy art Zuishin kami spirit in the style of Greg Rutkowski",
+        "timestamp": 1695547972889,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
