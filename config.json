@@ -10510,5 +10510,14 @@
         "timestamp": 1695572870279,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IXen98RbUlbxDWBD": {
+        "id": "IXen98RbUlbxDWBD",
+        "compendium": "pathfinder-bestiary",
+        "name": "Gogiteth",
+        "prompt": "Fantasy art Gogiteth aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870279,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
