@@ -9628,5 +9628,14 @@
         "timestamp": 1695572870115,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zmOYvFVhxA6zDEBg": {
+        "id": "zmOYvFVhxA6zDEBg",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Infested Clockwork Heap",
+        "prompt": "Fantasy art Infested Clockwork Heap clockwork construct in the style of Greg Rutkowski",
+        "timestamp": 1695572870115,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
