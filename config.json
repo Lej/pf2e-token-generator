@@ -17926,5 +17926,14 @@
         "timestamp": 1695572870611,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PK8yBANFyMqFZ3IY": {
+        "id": "PK8yBANFyMqFZ3IY",
+        "compendium": "kingmaker-bestiary",
+        "name": "Zorek",
+        "prompt": "Fantasy art Zorek human humanoid Ageless male human cleric of Gorum in the style of Greg Rutkowski",
+        "timestamp": 1695572870612,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
