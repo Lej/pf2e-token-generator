@@ -10465,5 +10465,14 @@
         "timestamp": 1695572870278,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cDgOfBCrWcpYwRVS": {
+        "id": "cDgOfBCrWcpYwRVS",
+        "compendium": "pathfinder-bestiary",
+        "name": "Sprite",
+        "prompt": "Fantasy art Sprite fey sprite in the style of Greg Rutkowski",
+        "timestamp": 1695572870278,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
