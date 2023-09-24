@@ -8089,5 +8089,14 @@
         "timestamp": 1695547973063,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "24UI02EJVRSO6KZx": {
+        "id": "24UI02EJVRSO6KZx",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "House Cat",
+        "prompt": "Fantasy art House Cat animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973063,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
