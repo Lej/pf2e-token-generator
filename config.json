@@ -11653,5 +11653,14 @@
         "timestamp": 1695572870335,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fgsDAeZHVbHRhSE8": {
+        "id": "fgsDAeZHVbHRhSE8",
+        "compendium": "pathfinder-bestiary",
+        "name": "Cockatrice",
+        "prompt": "Fantasy art Cockatrice beast in the style of Greg Rutkowski",
+        "timestamp": 1695572870336,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
