@@ -12310,5 +12310,14 @@
         "timestamp": 1695572870366,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "m3x8q5rZ6zh9x82s": {
+        "id": "m3x8q5rZ6zh9x82s",
+        "compendium": "pathfinder-bestiary",
+        "name": "Guthallath",
+        "prompt": "Fantasy art Guthallath construct in the style of Greg Rutkowski",
+        "timestamp": 1695572870366,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
