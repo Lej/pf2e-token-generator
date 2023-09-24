@@ -15901,5 +15901,14 @@
         "timestamp": 1695572870539,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "2LcIG75RQoujanC9": {
+        "id": "2LcIG75RQoujanC9",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Wishbound Belker (5-6)",
+        "prompt": "Fantasy art Wishbound Belker air elemental in the style of Greg Rutkowski",
+        "timestamp": 1695572870539,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
