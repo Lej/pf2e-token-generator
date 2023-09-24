@@ -16459,5 +16459,14 @@
         "timestamp": 1695572870557,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zNlQRFJcijptkQQ4": {
+        "id": "zNlQRFJcijptkQQ4",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Leadsmith",
+        "prompt": "Fantasy art Leadsmith dwarf humanoid Various dwarven investigators for hire in the style of Greg Rutkowski",
+        "timestamp": 1695572870557,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
