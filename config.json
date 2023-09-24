@@ -17107,5 +17107,14 @@
         "timestamp": 1695572870583,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WTCFE1BYdZGWJHh7": {
+        "id": "WTCFE1BYdZGWJHh7",
+        "compendium": "npc-gallery",
+        "name": "Gravedigger",
+        "prompt": "Fantasy art Gravedigger human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870583,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
