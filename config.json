@@ -17575,5 +17575,14 @@
         "timestamp": 1695572870600,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "saUg5rtaO9kI9Vir": {
+        "id": "saUg5rtaO9kI9Vir",
+        "compendium": "npc-gallery",
+        "name": "Harbormaster",
+        "prompt": "Fantasy art Harbormaster human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870600,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
