@@ -13597,5 +13597,14 @@
         "timestamp": 1695572870416,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "iII08V0HlvWGWSmu": {
+        "id": "iII08V0HlvWGWSmu",
+        "compendium": "pathfinder-bestiary",
+        "name": "Horned Archon",
+        "prompt": "Fantasy art Horned Archon archon celestial in the style of Greg Rutkowski",
+        "timestamp": 1695572870416,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
