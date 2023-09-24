@@ -17359,5 +17359,14 @@
         "timestamp": 1695572870592,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IQJT1Bg9FhvHHEap": {
+        "id": "IQJT1Bg9FhvHHEap",
+        "compendium": "npc-gallery",
+        "name": "Torchbearer",
+        "prompt": "Fantasy art Torchbearer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870593,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
