@@ -17827,5 +17827,14 @@
         "timestamp": 1695572870608,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wBCpq9pX4NZFXE0T": {
+        "id": "wBCpq9pX4NZFXE0T",
+        "compendium": "fall-of-plaguestone",
+        "name": "Vine Lasher",
+        "prompt": "Fantasy art Vine Lasher plant in the style of Greg Rutkowski",
+        "timestamp": 1695572870608,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
