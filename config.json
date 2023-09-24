@@ -6505,5 +6505,14 @@
         "timestamp": 1695547973012,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rOYazaPBX73nLCJE": {
+        "id": "rOYazaPBX73nLCJE",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Manifestation of Qxal (5-6)",
+        "prompt": "Fantasy art Manifestation of Qxal fey plant in the style of Greg Rutkowski",
+        "timestamp": 1695547973012,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
