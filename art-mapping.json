@@ -7685,6 +7685,10 @@
         "EzD6YlNXL48rN8nq": {
             "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/EzD6YlNXL48rN8nq/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/EzD6YlNXL48rN8nq/token.webp"
+        },
+        "QZmckb7O3PNgY7D6": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/QZmckb7O3PNgY7D6/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/QZmckb7O3PNgY7D6/token.webp"
         }
     }
 }

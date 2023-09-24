@@ -17215,5 +17215,14 @@
         "timestamp": 1695572870587,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QZmckb7O3PNgY7D6": {
+        "id": "QZmckb7O3PNgY7D6",
+        "compendium": "npc-gallery",
+        "name": "Dockhand",
+        "prompt": "Fantasy art Dockhand human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870587,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
