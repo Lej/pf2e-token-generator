@@ -17656,5 +17656,14 @@
         "timestamp": 1695572870603,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EslFhpdvQf7KN8W3": {
+        "id": "EslFhpdvQf7KN8W3",
+        "compendium": "npc-gallery",
+        "name": "Chronicler",
+        "prompt": "Fantasy art Chronicler human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870604,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
