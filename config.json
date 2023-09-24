@@ -10438,5 +10438,14 @@
         "timestamp": 1695572870277,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6CQEelygt968CB7m": {
+        "id": "6CQEelygt968CB7m",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ankylosaurus",
+        "prompt": "Fantasy art Ankylosaurus animal dinosaur in the style of Greg Rutkowski",
+        "timestamp": 1695572870277,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
