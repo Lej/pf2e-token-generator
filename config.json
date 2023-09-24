@@ -16873,5 +16873,14 @@
         "timestamp": 1695572870570,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "R5SWtNtQt8l7WLYk": {
+        "id": "R5SWtNtQt8l7WLYk",
+        "compendium": "npc-gallery",
+        "name": "Noble",
+        "prompt": "Fantasy art Noble human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870570,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
