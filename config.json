@@ -7657,5 +7657,14 @@
         "timestamp": 1695547973049,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QMT1Yfa2IrNrdZGP": {
+        "id": "QMT1Yfa2IrNrdZGP",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Dire Cinder Wolf",
+        "prompt": "Fantasy art Dire Cinder Wolf animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973049,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
