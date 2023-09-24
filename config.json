@@ -5911,5 +5911,14 @@
         "timestamp": 1695547972986,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Jn35hqHlyzEyv0T7": {
+        "id": "Jn35hqHlyzEyv0T7",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Ancient Forest Dragon (Spellcaster)",
+        "prompt": "Fantasy art Ancient Forest Dragon Spellcaster dragon plant rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547972987,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
