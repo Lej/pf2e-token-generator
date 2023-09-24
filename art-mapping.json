@@ -7955,6 +7955,10 @@
         "BgBTntoz1qQ3h1X5": {
             "actor": "modules/pf2e-ai-token-placeholders/images/fall-of-plaguestone/BgBTntoz1qQ3h1X5/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/fall-of-plaguestone/BgBTntoz1qQ3h1X5/token.webp"
+        },
+        "b2PXIdbqdzlkGkeX": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/fall-of-plaguestone/b2PXIdbqdzlkGkeX/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/fall-of-plaguestone/b2PXIdbqdzlkGkeX/token.webp"
         }
     }
 }
