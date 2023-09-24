@@ -11833,5 +11833,14 @@
         "timestamp": 1695572870345,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qr46S4VDnaUK0GcM": {
+        "id": "qr46S4VDnaUK0GcM",
+        "compendium": "pathfinder-bestiary",
+        "name": "Faceless Stalker",
+        "prompt": "Fantasy art Faceless Stalker aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870345,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
