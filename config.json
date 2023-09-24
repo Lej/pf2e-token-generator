@@ -10582,5 +10582,14 @@
         "timestamp": 1695572870282,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "H2ZxTHZOEigpH4LK": {
+        "id": "H2ZxTHZOEigpH4LK",
+        "compendium": "pathfinder-bestiary",
+        "name": "Vampire Spawn Rogue",
+        "prompt": "Fantasy art Vampire Spawn Rogue undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1695572870282,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
