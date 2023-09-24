@@ -13588,5 +13588,14 @@
         "timestamp": 1695572870415,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9qjXP1Lho1UmAihJ": {
+        "id": "9qjXP1Lho1UmAihJ",
+        "compendium": "pathfinder-bestiary",
+        "name": "Axiomite",
+        "prompt": "Fantasy art Axiomite aeon monitor in the style of Greg Rutkowski",
+        "timestamp": 1695572870416,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
