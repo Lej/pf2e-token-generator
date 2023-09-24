@@ -7387,6 +7387,10 @@
         "2o6t3FioEbPT3M6U": {
             "actor": "modules/pf2e-ai-token-placeholders/images/outlaws-of-alkenstar-bestiary/2o6t3FioEbPT3M6U/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/outlaws-of-alkenstar-bestiary/2o6t3FioEbPT3M6U/token.webp"
+        },
+        "sUleYLWZG3O9LlKC": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/outlaws-of-alkenstar-bestiary/sUleYLWZG3O9LlKC/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/outlaws-of-alkenstar-bestiary/sUleYLWZG3O9LlKC/token.webp"
         }
     }
 }

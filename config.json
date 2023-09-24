@@ -16549,5 +16549,14 @@
         "timestamp": 1695572870559,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sUleYLWZG3O9LlKC": {
+        "id": "sUleYLWZG3O9LlKC",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Yeast Ooze",
+        "prompt": "Fantasy art Yeast Ooze mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1695572870559,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
