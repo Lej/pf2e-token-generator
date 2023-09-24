@@ -7063,5 +7063,14 @@
         "timestamp": 1695547973030,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wCZcZnEHskvccWJE": {
+        "id": "wCZcZnEHskvccWJE",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Young Sea Serpent",
+        "prompt": "Fantasy art Young Sea Serpent animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973030,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
