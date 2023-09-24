@@ -5119,5 +5119,14 @@
         "timestamp": 1695547972911,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yi9g7D49uGvAdGDP": {
+        "id": "yi9g7D49uGvAdGDP",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Mi-Go",
+        "prompt": "Fantasy art Mi-Go fungus in the style of Greg Rutkowski",
+        "timestamp": 1695547972912,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
