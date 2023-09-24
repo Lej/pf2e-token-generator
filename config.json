@@ -7567,5 +7567,14 @@
         "timestamp": 1695547973046,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AKNY8155nYQ1WsmG": {
+        "id": "AKNY8155nYQ1WsmG",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Skeletal Mount",
+        "prompt": "Fantasy art Skeletal Mount mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695547973046,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
