@@ -11473,5 +11473,14 @@
         "timestamp": 1695572870329,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OqCiTKXZu7EWmAI0": {
+        "id": "OqCiTKXZu7EWmAI0",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ancient White Dragon (Spellcaster)",
+        "prompt": "Fantasy art Ancient White Dragon Spellcaster cold dragon in the style of Greg Rutkowski",
+        "timestamp": 1695572870330,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
