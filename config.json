@@ -17179,5 +17179,14 @@
         "timestamp": 1695572870585,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lTcX8tk6JjQBFcq1": {
+        "id": "lTcX8tk6JjQBFcq1",
+        "compendium": "npc-gallery",
+        "name": "Zealot of Asmodeus",
+        "prompt": "Fantasy art Zealot of Asmodeus human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870585,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
