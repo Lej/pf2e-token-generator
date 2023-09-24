@@ -8098,5 +8098,14 @@
         "timestamp": 1695547973063,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kpYq0piOlafgYSdo": {
+        "id": "kpYq0piOlafgYSdo",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Ghost Of Diggen Thrune (1-2)",
+        "prompt": "Fantasy art Ghost Of Diggen Thrune ghost incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695547973064,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
