@@ -15100,5 +15100,14 @@
         "timestamp": 1695572870514,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "iryp7aFx7CUaIksJ": {
+        "id": "iryp7aFx7CUaIksJ",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Daughter of Cocytus Tough",
+        "prompt": "Fantasy art Daughter of Cocytus Tough human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870515,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
