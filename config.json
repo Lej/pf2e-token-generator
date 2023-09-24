@@ -8278,5 +8278,14 @@
         "timestamp": 1695547973070,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ptDF1ghCxNHGhH0h": {
+        "id": "ptDF1ghCxNHGhH0h",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Greater Steel Mephit",
+        "prompt": "Fantasy art Greater Steel Mephit earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1695547973070,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
