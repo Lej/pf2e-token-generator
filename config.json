@@ -8728,5 +8728,14 @@
         "timestamp": 1695547973089,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "YcSoXBR5lacVKYzX": {
+        "id": "YcSoXBR5lacVKYzX",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Bloody Barber Gang Leader",
+        "prompt": "Fantasy art Bloody Barber Gang Leader human humanoid Variant gang leader in the style of Greg Rutkowski",
+        "timestamp": 1695547973089,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
