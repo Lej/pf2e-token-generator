@@ -6604,5 +6604,14 @@
         "timestamp": 1695547973015,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7PXPcv8x3Wnc730i": {
+        "id": "7PXPcv8x3Wnc730i",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Prefect (Fist) (3-4)",
+        "prompt": "Fantasy art Prefect Fist construct in the style of Greg Rutkowski",
+        "timestamp": 1695547973015,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
