@@ -10186,5 +10186,14 @@
         "timestamp": 1695572870142,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EyGpKm5MkHepWuNM": {
+        "id": "EyGpKm5MkHepWuNM",
+        "compendium": "mwangi-expanse-bestiary",
+        "name": "Pygmy Kaava",
+        "prompt": "Fantasy art Pygmy Kaava humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870142,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

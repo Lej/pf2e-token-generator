@@ -4551,6 +4551,10 @@
         "NvyAvzxxfb8XEQr2": {
             "actor": "modules/pf2e-ai-token-placeholders/images/mwangi-expanse-bestiary/NvyAvzxxfb8XEQr2/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/mwangi-expanse-bestiary/NvyAvzxxfb8XEQr2/token.webp"
+        },
+        "EyGpKm5MkHepWuNM": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/mwangi-expanse-bestiary/EyGpKm5MkHepWuNM/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/mwangi-expanse-bestiary/EyGpKm5MkHepWuNM/token.webp"
         }
     }
 }
