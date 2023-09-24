@@ -8557,5 +8557,14 @@
         "timestamp": 1695547973081,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oPA6PVdRSC43FDDB": {
+        "id": "oPA6PVdRSC43FDDB",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Bugbear Slasher",
+        "prompt": "Fantasy art Bugbear Slasher goblin humanoid Variant Bugbear Tormentor in the style of Greg Rutkowski",
+        "timestamp": 1695547973081,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
