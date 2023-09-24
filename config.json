@@ -8998,5 +8998,14 @@
         "timestamp": 1695547973099,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DMbCbc6tGOjJfdIo": {
+        "id": "DMbCbc6tGOjJfdIo",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Abyssal Warhound Pack Leader",
+        "prompt": "Fantasy art Abyssal Warhound Pack Leader animal demon fiend in the style of Greg Rutkowski",
+        "timestamp": 1695547973100,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
