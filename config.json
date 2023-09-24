@@ -16513,5 +16513,14 @@
         "timestamp": 1695572870558,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wHbf1jbqcHFY6rnj": {
+        "id": "wHbf1jbqcHFY6rnj",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Chimeric Manticore",
+        "prompt": "Fantasy art Chimeric Manticore beast Genderless chimera\u2011manticore hybrid in the style of Greg Rutkowski",
+        "timestamp": 1695572870559,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
