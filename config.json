@@ -9862,5 +9862,14 @@
         "timestamp": 1695572870123,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VhmCiYhSVBhxqdEb": {
+        "id": "VhmCiYhSVBhxqdEb",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Deimostride (7-8)",
+        "prompt": "Fantasy art Deimostride beast fiend Elite Nightmare in the style of Greg Rutkowski",
+        "timestamp": 1695572870123,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
