@@ -4822,5 +4822,14 @@
         "timestamp": 1695547972898,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "szEyrpElcYBagqL2": {
+        "id": "szEyrpElcYBagqL2",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Draconal (Green)",
+        "prompt": "Fantasy art Draconal Green agathion celestial in the style of Greg Rutkowski",
+        "timestamp": 1695547972898,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
