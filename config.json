@@ -4246,5 +4246,14 @@
         "timestamp": 1695547972874,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "92nVPdtlJR5uHzIl": {
+        "id": "92nVPdtlJR5uHzIl",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Sabosan",
+        "prompt": "Fantasy art Sabosan humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972874,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
