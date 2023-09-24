@@ -12670,5 +12670,14 @@
         "timestamp": 1695572870380,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GssFAdolUA3ghg2e": {
+        "id": "GssFAdolUA3ghg2e",
+        "compendium": "pathfinder-bestiary",
+        "name": "Megaprimatus",
+        "prompt": "Fantasy art Megaprimatus animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870380,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
