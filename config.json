@@ -11095,5 +11095,14 @@
         "timestamp": 1695572870313,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nWiibOE9wVSlTdkx": {
+        "id": "nWiibOE9wVSlTdkx",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ancient Gold Dragon",
+        "prompt": "Fantasy art Ancient Gold Dragon dragon fire in the style of Greg Rutkowski",
+        "timestamp": 1695572870313,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
