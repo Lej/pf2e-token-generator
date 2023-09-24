@@ -14542,5 +14542,14 @@
         "timestamp": 1695572870496,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Qdx9UbT68Elqneti": {
+        "id": "Qdx9UbT68Elqneti",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Debilitated Bulette",
+        "prompt": "Fantasy art Debilitated Bulette animal Variant bulette in the style of Greg Rutkowski",
+        "timestamp": 1695572870496,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
