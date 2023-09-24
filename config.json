@@ -7945,5 +7945,14 @@
         "timestamp": 1695547973059,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9ZqTtwmViROBjYZf": {
+        "id": "9ZqTtwmViROBjYZf",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Goblin Skeleton",
+        "prompt": "Fantasy art Goblin Skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1695547973059,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
