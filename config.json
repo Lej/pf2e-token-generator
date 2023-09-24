@@ -15955,5 +15955,14 @@
         "timestamp": 1695572870540,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "4ER4ulKtEiqgxWEg": {
+        "id": "4ER4ulKtEiqgxWEg",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Fire-Eye Cyclops Zombie (3-4)",
+        "prompt": "Fantasy art Fire-Eye Cyclops Zombie fire mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695572870540,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
