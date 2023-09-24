@@ -15595,5 +15595,14 @@
         "timestamp": 1695572870530,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pUcBzyZY5kY7ERNN": {
+        "id": "pUcBzyZY5kY7ERNN",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Perizia (7-8)",
+        "prompt": "Fantasy art Perizia elemental genie water in the style of Greg Rutkowski",
+        "timestamp": 1695572870530,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
