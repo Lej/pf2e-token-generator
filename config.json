@@ -9277,5 +9277,14 @@
         "timestamp": 1695572870103,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8DKm9pmBJdgsA4MQ": {
+        "id": "8DKm9pmBJdgsA4MQ",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Transformed Narcela (7-8)",
+        "prompt": "Fantasy art Transformed Narcela hag humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870103,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
