@@ -7508,5 +7508,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/outlaws-of-alkenstar-bestiary/WtpeHbOQdK5CiaLf/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/outlaws-of-alkenstar-bestiary/WtpeHbOQdK5CiaLf/token.webp"
         }
+    },
+    "npc-gallery": {
+        "8coHofIpLa5ZnjAF": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/8coHofIpLa5ZnjAF/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/8coHofIpLa5ZnjAF/token.webp"
+        }
     }
 }

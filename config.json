@@ -16819,5 +16819,14 @@
         "timestamp": 1695572870568,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8coHofIpLa5ZnjAF": {
+        "id": "8coHofIpLa5ZnjAF",
+        "compendium": "npc-gallery",
+        "name": "Navigator",
+        "prompt": "Fantasy art Navigator human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870568,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
