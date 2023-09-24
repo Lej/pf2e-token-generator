@@ -10924,5 +10924,14 @@
         "timestamp": 1695572870304,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Jgh0WGVetNXi5jlM": {
+        "id": "Jgh0WGVetNXi5jlM",
+        "compendium": "pathfinder-bestiary",
+        "name": "Quatoid",
+        "prompt": "Fantasy art Quatoid aquatic elemental water in the style of Greg Rutkowski",
+        "timestamp": 1695572870304,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
