@@ -13957,5 +13957,14 @@
         "timestamp": 1695572870431,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pYNMxg5z2nRFmkMM": {
+        "id": "pYNMxg5z2nRFmkMM",
+        "compendium": "pathfinder-bestiary",
+        "name": "Ancient Black Dragon (Spellcaster)",
+        "prompt": "Fantasy art Ancient Black Dragon Spellcaster acid amphibious dragon in the style of Greg Rutkowski",
+        "timestamp": 1695572870432,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
