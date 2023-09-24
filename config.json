@@ -16495,5 +16495,14 @@
         "timestamp": 1695572870558,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hm6S6xdvn0pL2t3D": {
+        "id": "hm6S6xdvn0pL2t3D",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Headless Rustler",
+        "prompt": "Fantasy art Headless Rustler undead Variant dullahans in the style of Greg Rutkowski",
+        "timestamp": 1695572870558,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
