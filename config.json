@@ -14740,5 +14740,14 @@
         "timestamp": 1695572870502,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EK8DKarizcVrLG5E": {
+        "id": "EK8DKarizcVrLG5E",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Demoniac Spirit (9-10)",
+        "prompt": "Fantasy art Demoniac Spirit incorporeal undead wraith in the style of Greg Rutkowski",
+        "timestamp": 1695572870502,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
