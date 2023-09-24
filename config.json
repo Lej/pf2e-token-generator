@@ -9034,5 +9034,14 @@
         "timestamp": 1695547973102,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IMeWlbCAMJRKc5Ao": {
+        "id": "IMeWlbCAMJRKc5Ao",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Aslynn",
+        "prompt": "Fantasy art Aslynn fiend hag humanoid Variant night hag rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547973103,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
