@@ -7729,5 +7729,14 @@
         "timestamp": 1695547973051,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WdmbEmvLzPciM7au": {
+        "id": "WdmbEmvLzPciM7au",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Adolescent Sea Serpent",
+        "prompt": "Fantasy art Adolescent Sea Serpent animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973051,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
