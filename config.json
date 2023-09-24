@@ -7189,5 +7189,14 @@
         "timestamp": 1695547973034,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "m3YBXS3ool7PmRfX": {
+        "id": "m3YBXS3ool7PmRfX",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Fleshforge Prototype (Shield)",
+        "prompt": "Fantasy art Fleshforge Prototype Shield construct in the style of Greg Rutkowski",
+        "timestamp": 1695547973034,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
