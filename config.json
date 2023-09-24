@@ -11860,5 +11860,14 @@
         "timestamp": 1695572870346,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4BBzo72pHOpecoIp": {
+        "id": "4BBzo72pHOpecoIp",
+        "compendium": "pathfinder-bestiary",
+        "name": "Goblin War Chanter",
+        "prompt": "Fantasy art Goblin War Chanter goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870346,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
