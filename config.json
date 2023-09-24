@@ -16567,5 +16567,14 @@
         "timestamp": 1695572870559,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vnZFO1jNZSJieqpo": {
+        "id": "vnZFO1jNZSJieqpo",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Gold Tank Investor",
+        "prompt": "Fantasy art Gold Tank Investor human humanoid Various white-collar criminals in the style of Greg Rutkowski",
+        "timestamp": 1695572870560,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
