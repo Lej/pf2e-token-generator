@@ -10564,5 +10564,14 @@
         "timestamp": 1695572870282,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "Y3T7XfC2BeiNBmuS": {
+        "id": "Y3T7XfC2BeiNBmuS",
+        "compendium": "pathfinder-bestiary",
+        "name": "Desert Drake",
+        "prompt": "Fantasy art Desert Drake dragon earth in the style of Greg Rutkowski",
+        "timestamp": 1695572870282,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
