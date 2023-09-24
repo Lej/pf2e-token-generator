@@ -7738,5 +7738,14 @@
         "timestamp": 1695547973051,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NhMS6b3W6gXefijq": {
+        "id": "NhMS6b3W6gXefijq",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Offended High Roller",
+        "prompt": "Fantasy art Offended High Roller human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973052,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
