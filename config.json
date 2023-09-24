@@ -3688,5 +3688,14 @@
         "timestamp": 1695547972847,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rrkjmcNlODuIpbz6": {
+        "id": "rrkjmcNlODuIpbz6",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Ouroboros",
+        "prompt": "Fantasy art Ouroboros astral beast in the style of Greg Rutkowski",
+        "timestamp": 1695547972848,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
