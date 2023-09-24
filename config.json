@@ -7441,5 +7441,14 @@
         "timestamp": 1695547973042,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qumj2VUZ6aTnjjIU": {
+        "id": "qumj2VUZ6aTnjjIU",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Plum Leshy (1-2)",
+        "prompt": "Fantasy art Plum Leshy leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1695547973042,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
