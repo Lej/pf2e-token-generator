@@ -13939,5 +13939,14 @@
         "timestamp": 1695572870430,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "B7eLG2k7qUo8HU6O": {
+        "id": "B7eLG2k7qUo8HU6O",
+        "compendium": "pathfinder-bestiary",
+        "name": "Drider",
+        "prompt": "Fantasy art Drider aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870431,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
