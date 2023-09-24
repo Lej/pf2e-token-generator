@@ -13480,5 +13480,14 @@
         "timestamp": 1695572870410,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cZsaAKlEYWZUO1CV": {
+        "id": "cZsaAKlEYWZUO1CV",
+        "compendium": "pathfinder-bestiary",
+        "name": "Terotricus",
+        "prompt": "Fantasy art Terotricus fungus in the style of Greg Rutkowski",
+        "timestamp": 1695572870410,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
