@@ -2869,5 +2869,14 @@
         "timestamp": 1695547972819,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hOgYpdscvGo4MHHo": {
+        "id": "hOgYpdscvGo4MHHo",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Krampus",
+        "prompt": "Fantasy art Krampus humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972820,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
