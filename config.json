@@ -10204,5 +10204,14 @@
         "timestamp": 1695572870143,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rMby02NQRHNrDcTj": {
+        "id": "rMby02NQRHNrDcTj",
+        "compendium": "mwangi-expanse-bestiary",
+        "name": "Kaava Stalker",
+        "prompt": "Fantasy art Kaava Stalker humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870143,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
