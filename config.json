@@ -8827,5 +8827,14 @@
         "timestamp": 1695547973092,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1iEGNvvHIG8EdOf1": {
+        "id": "1iEGNvvHIG8EdOf1",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Harpy Forager",
+        "prompt": "Fantasy art Harpy Forager humanoid Variant harpy in the style of Greg Rutkowski",
+        "timestamp": 1695547973092,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
