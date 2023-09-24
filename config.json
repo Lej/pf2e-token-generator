@@ -13624,5 +13624,14 @@
         "timestamp": 1695572870418,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zXi6UhZ0mXWpKk4A": {
+        "id": "zXi6UhZ0mXWpKk4A",
+        "compendium": "pathfinder-bestiary",
+        "name": "Adult Green Dragon",
+        "prompt": "Fantasy art Adult Green Dragon amphibious dragon in the style of Greg Rutkowski",
+        "timestamp": 1695572870418,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
