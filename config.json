@@ -3256,5 +3256,14 @@
         "timestamp": 1695547972834,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "istUwJdW3Mlln2hb": {
+        "id": "istUwJdW3Mlln2hb",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Giant Hermit Crab",
+        "prompt": "Fantasy art Giant Hermit Crab amphibious animal in the style of Greg Rutkowski",
+        "timestamp": 1695547972834,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
