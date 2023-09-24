@@ -17674,5 +17674,14 @@
         "timestamp": 1695572870604,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bc1jeTvmzKeYGVw9": {
+        "id": "bc1jeTvmzKeYGVw9",
+        "compendium": "npc-gallery",
+        "name": "Virtuous Defender",
+        "prompt": "Fantasy art Virtuous Defender human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870605,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
