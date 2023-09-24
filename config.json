@@ -11968,5 +11968,14 @@
         "timestamp": 1695572870351,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pkNWilK2pHZ5TDsd": {
+        "id": "pkNWilK2pHZ5TDsd",
+        "compendium": "pathfinder-bestiary",
+        "name": "Lesser Death",
+        "prompt": "Fantasy art Lesser Death undead in the style of Greg Rutkowski",
+        "timestamp": 1695572870352,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
