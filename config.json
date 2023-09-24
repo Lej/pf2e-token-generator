@@ -15937,5 +15937,14 @@
         "timestamp": 1695572870540,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "ckvfamrYKeUYX7Cl": {
+        "id": "ckvfamrYKeUYX7Cl",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Starved Sea Drake",
+        "prompt": "Fantasy art Starved Sea Drake amphibious dragon water in the style of Greg Rutkowski",
+        "timestamp": 1695572870540,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
