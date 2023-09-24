@@ -7423,5 +7423,14 @@
         "timestamp": 1695547973042,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gZXQGOZO5XbWr9yD": {
+        "id": "gZXQGOZO5XbWr9yD",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Elite Rebel",
+        "prompt": "Fantasy art Elite Rebel human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973042,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
