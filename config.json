@@ -11203,5 +11203,14 @@
         "timestamp": 1695572870317,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4htFfofrXLkbWMRg": {
+        "id": "4htFfofrXLkbWMRg",
+        "compendium": "pathfinder-bestiary",
+        "name": "Bugbear Thug",
+        "prompt": "Fantasy art Bugbear Thug goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870318,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
