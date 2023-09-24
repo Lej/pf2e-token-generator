@@ -17665,5 +17665,14 @@
         "timestamp": 1695572870604,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "B13dyXTo1xWVyj2R": {
+        "id": "B13dyXTo1xWVyj2R",
+        "compendium": "npc-gallery",
+        "name": "Palace Guard",
+        "prompt": "Fantasy art Palace Guard human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870604,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
