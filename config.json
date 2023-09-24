@@ -11590,5 +11590,14 @@
         "timestamp": 1695572870334,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mEmWRqTRxLUZQYSh": {
+        "id": "mEmWRqTRxLUZQYSh",
+        "compendium": "pathfinder-bestiary",
+        "name": "Rust Monster",
+        "prompt": "Fantasy art Rust Monster aberration in the style of Greg Rutkowski",
+        "timestamp": 1695572870334,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
