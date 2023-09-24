@@ -16054,5 +16054,14 @@
         "timestamp": 1695572870544,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7w0gBYxl6kS9WYgl": {
+        "id": "7w0gBYxl6kS9WYgl",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Strak (5-6)",
+        "prompt": "Fantasy art Strak humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1695572870545,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
