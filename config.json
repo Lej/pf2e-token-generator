@@ -14182,5 +14182,14 @@
         "timestamp": 1695572870466,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Wem1kZUef1ZlG79G": {
+        "id": "Wem1kZUef1ZlG79G",
+        "compendium": "crown-of-the-kobold-king-bestiary",
+        "name": "Ashen Guardian",
+        "prompt": "Fantasy art Ashen Guardian incorporeal undead Variant Shadow in the style of Greg Rutkowski",
+        "timestamp": 1695572870466,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
