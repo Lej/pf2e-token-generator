@@ -3859,5 +3859,14 @@
         "timestamp": 1695547972858,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wv0hiJIGQjTU1pnO": {
+        "id": "wv0hiJIGQjTU1pnO",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Galvo",
+        "prompt": "Fantasy art Galvo aberration amphibious in the style of Greg Rutkowski",
+        "timestamp": 1695547972858,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
