@@ -14299,5 +14299,14 @@
         "timestamp": 1695572870471,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Cl2RNfFj3iuc1xp3": {
+        "id": "Cl2RNfFj3iuc1xp3",
+        "compendium": "pfs-season-2-bestiary",
+        "name": "Chained Troll",
+        "prompt": "Fantasy art Chained Troll giant troll Variant troll in the style of Greg Rutkowski",
+        "timestamp": 1695572870488,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
