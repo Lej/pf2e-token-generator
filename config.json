@@ -13948,5 +13948,14 @@
         "timestamp": 1695572870431,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SP72xojHR0UGAWcs": {
+        "id": "SP72xojHR0UGAWcs",
+        "compendium": "pathfinder-bestiary",
+        "name": "Smilodon",
+        "prompt": "Fantasy art Smilodon animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870431,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
