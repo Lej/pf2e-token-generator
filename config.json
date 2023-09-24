@@ -7450,5 +7450,14 @@
         "timestamp": 1695547973042,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LOTsEiTCiONfJl3s": {
+        "id": "LOTsEiTCiONfJl3s",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Lion",
+        "prompt": "Fantasy art Lion animal in the style of Greg Rutkowski",
+        "timestamp": 1695547973043,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
