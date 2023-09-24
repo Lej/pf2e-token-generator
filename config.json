@@ -12580,5 +12580,14 @@
         "timestamp": 1695572870376,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BeptBpCJ4Ny4biOH": {
+        "id": "BeptBpCJ4Ny4biOH",
+        "compendium": "pathfinder-bestiary",
+        "name": "Leaf Leshy",
+        "prompt": "Fantasy art Leaf Leshy leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1695572870376,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
