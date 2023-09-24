@@ -17458,5 +17458,14 @@
         "timestamp": 1695572870596,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pZOgcQRwXrX9g0s8": {
+        "id": "pZOgcQRwXrX9g0s8",
+        "compendium": "npc-gallery",
+        "name": "Guildmaster",
+        "prompt": "Fantasy art Guildmaster human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870596,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
