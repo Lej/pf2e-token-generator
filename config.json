@@ -17206,5 +17206,14 @@
         "timestamp": 1695572870586,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EzD6YlNXL48rN8nq": {
+        "id": "EzD6YlNXL48rN8nq",
+        "compendium": "npc-gallery",
+        "name": "Despot",
+        "prompt": "Fantasy art Despot human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870587,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

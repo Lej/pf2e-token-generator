@@ -7681,6 +7681,10 @@
         "1NZ1ZAgcUlWKmQSs": {
             "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/1NZ1ZAgcUlWKmQSs/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/1NZ1ZAgcUlWKmQSs/token.webp"
+        },
+        "EzD6YlNXL48rN8nq": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/EzD6YlNXL48rN8nq/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/EzD6YlNXL48rN8nq/token.webp"
         }
     }
 }
