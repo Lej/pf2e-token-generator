@@ -16900,5 +16900,14 @@
         "timestamp": 1695572870571,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kmHYc2fvhd4QsUEV": {
+        "id": "kmHYc2fvhd4QsUEV",
+        "compendium": "npc-gallery",
+        "name": "Necromancer",
+        "prompt": "Fantasy art Necromancer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870572,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
