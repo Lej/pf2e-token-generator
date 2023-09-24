@@ -7144,5 +7144,14 @@
         "timestamp": 1695547973032,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wv8PrDy91ae3njBv": {
+        "id": "wv8PrDy91ae3njBv",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Rebel Brute",
+        "prompt": "Fantasy art Rebel Brute human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973032,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
