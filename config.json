@@ -12013,5 +12013,14 @@
         "timestamp": 1695572870353,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "U1L3MFKHe0sNvLoU": {
+        "id": "U1L3MFKHe0sNvLoU",
+        "compendium": "pathfinder-bestiary",
+        "name": "Dezullon",
+        "prompt": "Fantasy art Dezullon plant in the style of Greg Rutkowski",
+        "timestamp": 1695572870353,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
