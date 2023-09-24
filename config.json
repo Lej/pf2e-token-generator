@@ -17548,5 +17548,14 @@
         "timestamp": 1695572870599,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sKSfQmJMEsj8QN12": {
+        "id": "sKSfQmJMEsj8QN12",
+        "compendium": "npc-gallery",
+        "name": "Adept",
+        "prompt": "Fantasy art Adept human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870599,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
