@@ -9097,5 +9097,14 @@
         "timestamp": 1695547973107,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "40Ow3r8prGGGjXgB": {
+        "id": "40Ow3r8prGGGjXgB",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Nathatel (3-4)",
+        "prompt": "Fantasy art Nathatel elf humanoid Male elf zealot in the style of Greg Rutkowski",
+        "timestamp": 1695547973107,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
