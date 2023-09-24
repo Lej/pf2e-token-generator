@@ -11527,5 +11527,14 @@
         "timestamp": 1695572870332,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XVX9Uhqb8shG5Pwm": {
+        "id": "XVX9Uhqb8shG5Pwm",
+        "compendium": "pathfinder-bestiary",
+        "name": "Gorilla",
+        "prompt": "Fantasy art Gorilla animal in the style of Greg Rutkowski",
+        "timestamp": 1695572870332,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
