@@ -4678,5 +4678,14 @@
         "timestamp": 1695547972892,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rr48cUJxGpII7jWz": {
+        "id": "rr48cUJxGpII7jWz",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Feathered Bear",
+        "prompt": "Fantasy art Feathered Bear beast incorporeal spirit in the style of Greg Rutkowski",
+        "timestamp": 1695547972892,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
