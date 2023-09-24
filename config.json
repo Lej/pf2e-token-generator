@@ -8116,5 +8116,14 @@
         "timestamp": 1695547973064,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MJtndSx73zEx8702": {
+        "id": "MJtndSx73zEx8702",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Guard",
+        "prompt": "Fantasy art Guard human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547973064,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
