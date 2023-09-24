@@ -13552,5 +13552,14 @@
         "timestamp": 1695572870414,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oMsOm06HhX1gG0Jz": {
+        "id": "oMsOm06HhX1gG0Jz",
+        "compendium": "pathfinder-bestiary",
+        "name": "Gnoll Sergeant",
+        "prompt": "Fantasy art Gnoll Sergeant gnoll humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870414,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
