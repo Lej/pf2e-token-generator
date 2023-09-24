@@ -6424,5 +6424,14 @@
         "timestamp": 1695547973010,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cG7wNXEp67uWgwfB": {
+        "id": "cG7wNXEp67uWgwfB",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Injured Sewer Ooze",
+        "prompt": "Fantasy art Injured Sewer Ooze mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1695547973010,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
