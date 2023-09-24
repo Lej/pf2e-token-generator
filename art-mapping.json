@@ -2341,6 +2341,10 @@
         "KTzSpyphiJ78EnBd": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/KTzSpyphiJ78EnBd/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/KTzSpyphiJ78EnBd/token.webp"
+        },
+        "lhNceV0kAJozCUCI": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/lhNceV0kAJozCUCI/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-3/lhNceV0kAJozCUCI/token.webp"
         }
     }
 }
