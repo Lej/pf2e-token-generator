@@ -16387,5 +16387,14 @@
         "timestamp": 1695572870555,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3SvdfSjrr5jXMrjF": {
+        "id": "3SvdfSjrr5jXMrjF",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Gold Tank Broker",
+        "prompt": "Fantasy art Gold Tank Broker clockwork construct mindless Clockwork handler in the style of Greg Rutkowski",
+        "timestamp": 1695572870555,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
