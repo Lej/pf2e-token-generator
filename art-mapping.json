@@ -4478,5 +4478,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-4-bestiary/gApYWrEZpYI0fOnk/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-4-bestiary/gApYWrEZpYI0fOnk/token.webp"
         }
+    },
+    "mwangi-expanse-bestiary": {
+        "N5pG7rsbN1lL1ysb": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/mwangi-expanse-bestiary/N5pG7rsbN1lL1ysb/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/mwangi-expanse-bestiary/N5pG7rsbN1lL1ysb/token.webp"
+        }
     }
 }

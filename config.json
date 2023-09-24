@@ -10024,5 +10024,14 @@
         "timestamp": 1695572870133,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "N5pG7rsbN1lL1ysb": {
+        "id": "N5pG7rsbN1lL1ysb",
+        "compendium": "mwangi-expanse-bestiary",
+        "name": "Aigamuxa",
+        "prompt": "Fantasy art Aigamuxa giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695572870135,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
