@@ -3112,5 +3112,14 @@
         "timestamp": 1695547972828,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "o740a5FFLG834FkV": {
+        "id": "o740a5FFLG834FkV",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Desert Giant",
+        "prompt": "Fantasy art Desert Giant giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695547972828,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
