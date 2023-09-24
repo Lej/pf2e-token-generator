@@ -16441,5 +16441,14 @@
         "timestamp": 1695572870556,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "KCnloN7xxY0UOhML": {
+        "id": "KCnloN7xxY0UOhML",
+        "compendium": "outlaws-of-alkenstar-bestiary",
+        "name": "Alethsia",
+        "prompt": "Fantasy art Alethsia humanoid Variant elite medusa in the style of Greg Rutkowski",
+        "timestamp": 1695572870556,
+        "seed": 1024,
+        "used_seed": 1027
     }
 }
