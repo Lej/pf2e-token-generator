@@ -8665,5 +8665,14 @@
         "timestamp": 1695547973085,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "z8or2fyRrPjNJL10": {
+        "id": "z8or2fyRrPjNJL10",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Urdefhan High Tormentor (PFS 4-11)",
+        "prompt": "Fantasy art Urdefhan High Tormentor humanoid urdefhan rituals in the style of Greg Rutkowski",
+        "timestamp": 1695547973086,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
