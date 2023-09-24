@@ -7717,6 +7717,10 @@
         "F8AzuPOCcveWasza": {
             "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/F8AzuPOCcveWasza/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/F8AzuPOCcveWasza/token.webp"
+        },
+        "X1cSs1jhTtx1zTI4": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/npc-gallery/X1cSs1jhTtx1zTI4/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/npc-gallery/X1cSs1jhTtx1zTI4/token.webp"
         }
     }
 }
