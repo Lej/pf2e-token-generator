@@ -9187,5 +9187,14 @@
         "timestamp": 1695572870101,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "55qjNw6rOCdJYC52": {
+        "id": "55qjNw6rOCdJYC52",
+        "compendium": "pfs-season-4-bestiary",
+        "name": "Mutant Shadow Drake",
+        "prompt": "Fantasy art Mutant Shadow Drake dragon shadow Variant Shadow Drake in the style of Greg Rutkowski",
+        "timestamp": 1695572870101,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
