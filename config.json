@@ -13255,5 +13255,14 @@
         "timestamp": 1695572870400,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "3W2PMV6IbVdouOB1": {
+        "id": "3W2PMV6IbVdouOB1",
+        "compendium": "pathfinder-bestiary",
+        "name": "Young Copper Dragon",
+        "prompt": "Fantasy art Young Copper Dragon dragon earth in the style of Greg Rutkowski",
+        "timestamp": 1695572870400,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
