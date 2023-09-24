@@ -2797,5 +2797,14 @@
         "timestamp": 1695547972817,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "iiXjQ1SchGiotpVp": {
+        "id": "iiXjQ1SchGiotpVp",
+        "compendium": "pathfinder-bestiary-3",
+        "name": "Skeleton Infantry",
+        "prompt": "Fantasy art Skeleton Infantry mindless skeleton troop undead in the style of Greg Rutkowski",
+        "timestamp": 1695547972818,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
