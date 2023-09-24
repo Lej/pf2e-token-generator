@@ -6496,5 +6496,14 @@
         "timestamp": 1695547973012,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jkGd8nN4hnNLGS2D": {
+        "id": "jkGd8nN4hnNLGS2D",
+        "compendium": "pfs-season-1-bestiary",
+        "name": "Mummy Shambler",
+        "prompt": "Fantasy art Mummy Shambler mummy mindless undead in the style of Greg Rutkowski",
+        "timestamp": 1695547973012,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
