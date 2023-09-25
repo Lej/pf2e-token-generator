@@ -20302,5 +20302,14 @@
         "timestamp": 1695663943423,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RfIipAkVucpR0f0x": {
+        "id": "RfIipAkVucpR0f0x",
+        "compendium": "kingmaker-bestiary",
+        "name": "Oleg",
+        "prompt": "Fantasy art Oleg human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943423,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
