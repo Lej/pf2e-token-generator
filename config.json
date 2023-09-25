@@ -20446,5 +20446,14 @@
         "timestamp": 1695663943431,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gdTJOwXUwwhKAzlR": {
+        "id": "gdTJOwXUwwhKAzlR",
+        "compendium": "kingmaker-bestiary",
+        "name": "Nishkiv the Knife",
+        "prompt": "Fantasy art Nishkiv the Knife human humanoid Male Black Tears rogue in the style of Greg Rutkowski",
+        "timestamp": 1695663943431,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
