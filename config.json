@@ -18619,5 +18619,14 @@
         "timestamp": 1695663943320,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cz1RF98nyHhEj3MN": {
+        "id": "cz1RF98nyHhEj3MN",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Anarchic Living Graffiti",
+        "prompt": "Fantasy art Anarchic Living Graffiti construct in the style of Greg Rutkowski",
+        "timestamp": 1695663943320,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
