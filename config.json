@@ -18727,5 +18727,14 @@
         "timestamp": 1695663943325,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5pQzgnjebx0GXDi6": {
+        "id": "5pQzgnjebx0GXDi6",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Ulat-Kini Initiate",
+        "prompt": "Fantasy art Ulat-Kini Initiate amphibious humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943326,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
