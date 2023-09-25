@@ -18610,5 +18610,14 @@
         "timestamp": 1695663943320,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SiBC7HLCaxDeOTt6": {
+        "id": "SiBC7HLCaxDeOTt6",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Sporeborn Myceloid",
+        "prompt": "Fantasy art Sporeborn Myceloid fungus mindless sporeborn in the style of Greg Rutkowski",
+        "timestamp": 1695663943320,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
