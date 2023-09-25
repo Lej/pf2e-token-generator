@@ -20464,5 +20464,14 @@
         "timestamp": 1695663943432,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sedubjznhIbVfCkD": {
+        "id": "sedubjznhIbVfCkD",
+        "compendium": "kingmaker-bestiary",
+        "name": "Sepoko",
+        "prompt": "Fantasy art Sepoko amphibious boggard humanoid Male boggard cleric in the style of Greg Rutkowski",
+        "timestamp": 1695663943433,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
