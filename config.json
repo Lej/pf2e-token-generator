@@ -18520,5 +18520,14 @@
         "timestamp": 1695663943314,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oaVcYBWbsXKoIyjR": {
+        "id": "oaVcYBWbsXKoIyjR",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Hryngar Rager",
+        "prompt": "Fantasy art Hryngar Rager dwarf hryngar humanoid Variant Monster Hunter in the style of Greg Rutkowski",
+        "timestamp": 1695663943314,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
