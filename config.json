@@ -18772,5 +18772,14 @@
         "timestamp": 1695663943327,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Bi6bi9Ko5x9OJfDT": {
+        "id": "Bi6bi9Ko5x9OJfDT",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Desert's Howl",
+        "prompt": "Fantasy art Desert's Howl aberration in the style of Greg Rutkowski",
+        "timestamp": 1695663943327,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
