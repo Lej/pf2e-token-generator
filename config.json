@@ -19042,5 +19042,14 @@
         "timestamp": 1695663943338,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RqdL0YzNF1dG163i": {
+        "id": "RqdL0YzNF1dG163i",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Kothogaz, Dance Of Disharmony",
+        "prompt": "Fantasy art Kothogaz, Dance Of Disharmony beast in the style of Greg Rutkowski",
+        "timestamp": 1695663943339,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
