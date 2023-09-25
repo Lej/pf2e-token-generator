@@ -19816,5 +19816,14 @@
         "timestamp": 1695663943390,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5npzwOJSQLSPhmx2": {
+        "id": "5npzwOJSQLSPhmx2",
+        "compendium": "kingmaker-bestiary",
+        "name": "Pavetta Stroon-Drelev",
+        "prompt": "Fantasy art Pavetta Stroon-Drelev humanoid human Female human baroness in the style of Greg Rutkowski",
+        "timestamp": 1695663943390,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
