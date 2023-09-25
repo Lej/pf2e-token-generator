@@ -20113,5 +20113,14 @@
         "timestamp": 1695663943412,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mMfMs5PlNYkwe55s": {
+        "id": "mMfMs5PlNYkwe55s",
+        "compendium": "kingmaker-bestiary",
+        "name": "Alasen",
+        "prompt": "Fantasy art Alasen beast human humanoid werecreature Female human weretiger in the style of Greg Rutkowski",
+        "timestamp": 1695663943412,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
