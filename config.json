@@ -20257,5 +20257,14 @@
         "timestamp": 1695663943418,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SZVTHAwTVXDwIOqC": {
+        "id": "SZVTHAwTVXDwIOqC",
+        "compendium": "kingmaker-bestiary",
+        "name": "Gaetane",
+        "prompt": "Fantasy art Gaetane beast human humanoid werecreature Male human wererat ranger in the style of Greg Rutkowski",
+        "timestamp": 1695663943419,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
