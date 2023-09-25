@@ -20401,5 +20401,14 @@
         "timestamp": 1695663943429,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xMuLJmx51eBv9FcE": {
+        "id": "xMuLJmx51eBv9FcE",
+        "compendium": "kingmaker-bestiary",
+        "name": "Jewel",
+        "prompt": "Fantasy art Jewel minion animal Ferocious little dog in the style of Greg Rutkowski",
+        "timestamp": 1695663943429,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
