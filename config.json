@@ -20275,5 +20275,14 @@
         "timestamp": 1695663943421,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fQ9FuovHuRt6vtcq": {
+        "id": "fQ9FuovHuRt6vtcq",
+        "compendium": "kingmaker-bestiary",
+        "name": "Wild Hunt Scout",
+        "prompt": "Fantasy art Wild Hunt Scout fey wild-hunt in the style of Greg Rutkowski",
+        "timestamp": 1695663943421,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
