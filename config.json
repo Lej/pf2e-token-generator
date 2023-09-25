@@ -19717,5 +19717,14 @@
         "timestamp": 1695663943381,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Dxn6t9aoWUwPn6CE": {
+        "id": "Dxn6t9aoWUwPn6CE",
+        "compendium": "kingmaker-bestiary",
+        "name": "Virthad",
+        "prompt": "Fantasy art Virthad humanoid Doppelganger priest of Lamashtu in the style of Greg Rutkowski",
+        "timestamp": 1695663943382,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
