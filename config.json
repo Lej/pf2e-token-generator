@@ -18385,5 +18385,14 @@
         "timestamp": 1695663943308,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zWtfGN6uugDaRtcS": {
+        "id": "zWtfGN6uugDaRtcS",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Stonemaker",
+        "prompt": "Fantasy art Stonemaker beast Variant basilisk in the style of Greg Rutkowski",
+        "timestamp": 1695663943308,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
