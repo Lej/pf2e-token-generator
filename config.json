@@ -19168,5 +19168,14 @@
         "timestamp": 1695663943347,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Lm30gxMpkRJ2Y43d": {
+        "id": "Lm30gxMpkRJ2Y43d",
+        "compendium": "kingmaker-bestiary",
+        "name": "Satinder Morne",
+        "prompt": "Fantasy art Satinder Morne human humanoid Female human cleric of Calistria in the style of Greg Rutkowski",
+        "timestamp": 1695663943348,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
