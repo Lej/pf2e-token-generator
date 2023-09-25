@@ -18313,5 +18313,14 @@
         "timestamp": 1695663943305,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RVdRHveFJmeCscI6": {
+        "id": "RVdRHveFJmeCscI6",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Juvenile Cave Worm (Gray)",
+        "prompt": "Fantasy art Juvenile Cave Worm Gray animal in the style of Greg Rutkowski",
+        "timestamp": 1695663943306,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
