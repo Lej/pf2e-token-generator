@@ -20032,5 +20032,14 @@
         "timestamp": 1695663943407,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ndoXVn6MPPxSJvcC": {
+        "id": "ndoXVn6MPPxSJvcC",
+        "compendium": "kingmaker-bestiary",
+        "name": "Black Smilodon",
+        "prompt": "Fantasy art Black Smilodon animal Variant smilodon in the style of Greg Rutkowski",
+        "timestamp": 1695663943407,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
