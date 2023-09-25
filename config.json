@@ -18349,5 +18349,14 @@
         "timestamp": 1695663943307,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KR4E8k1kmBKVRDyV": {
+        "id": "KR4E8k1kmBKVRDyV",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Slime Puppeteer",
+        "prompt": "Fantasy art Slime Puppeteer aberration in the style of Greg Rutkowski",
+        "timestamp": 1695663943307,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
