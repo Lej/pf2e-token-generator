@@ -18664,5 +18664,14 @@
         "timestamp": 1695663943322,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vyzatSrJ5IAUJh7O": {
+        "id": "vyzatSrJ5IAUJh7O",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Caligni Assassin",
+        "prompt": "Fantasy art Caligni Assassin caligni humanoid shadow in the style of Greg Rutkowski",
+        "timestamp": 1695663943322,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
