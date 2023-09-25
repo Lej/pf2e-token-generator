@@ -18718,5 +18718,14 @@
         "timestamp": 1695663943325,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LjBz0fe7txNp37Cv": {
+        "id": "LjBz0fe7txNp37Cv",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Krohan (Possessed)",
+        "prompt": "Fantasy art Krohan Possessed dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943325,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
