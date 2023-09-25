@@ -19672,5 +19672,14 @@
         "timestamp": 1695663943377,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZbgFOoDCOXqhJWhz": {
+        "id": "ZbgFOoDCOXqhJWhz",
+        "compendium": "kingmaker-bestiary",
+        "name": "Ngara",
+        "prompt": "Fantasy art Ngara aberration Female variant spirit naga rituals in the style of Greg Rutkowski",
+        "timestamp": 1695663943378,
+        "seed": 1024,
+        "used_seed": 1027
     }
 }
