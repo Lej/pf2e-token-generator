@@ -19798,5 +19798,14 @@
         "timestamp": 1695663943389,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fbsy6zPV4HjHiis7": {
+        "id": "fbsy6zPV4HjHiis7",
+        "compendium": "kingmaker-bestiary",
+        "name": "Bloomborn Athach",
+        "prompt": "Fantasy art Bloomborn Athach giant humanoid Variant athach in the style of Greg Rutkowski",
+        "timestamp": 1695663943389,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
