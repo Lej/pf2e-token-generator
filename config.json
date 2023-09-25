@@ -19960,5 +19960,14 @@
         "timestamp": 1695663943400,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "K61HTqmdHRPHQz1x": {
+        "id": "K61HTqmdHRPHQz1x",
+        "compendium": "kingmaker-bestiary",
+        "name": "Tulvak",
+        "prompt": "Fantasy art Tulvak hag humanoid Variant female green hag rituals in the style of Greg Rutkowski",
+        "timestamp": 1695663943401,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
