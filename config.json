@@ -19069,5 +19069,14 @@
         "timestamp": 1695663943339,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zE2ykzHZKNS3Rnc3": {
+        "id": "zE2ykzHZKNS3Rnc3",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Kallas Devil",
+        "prompt": "Fantasy art Kallas Devil amphibious hag humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943340,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
