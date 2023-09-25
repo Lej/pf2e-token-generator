@@ -18052,5 +18052,14 @@
         "timestamp": 1695663943294,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "rV042V7gXV9vzlXx": {
+        "id": "rV042V7gXV9vzlXx",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Redcap Cavalry",
+        "prompt": "Fantasy art Redcap Cavalry fey in the style of Greg Rutkowski",
+        "timestamp": 1695663943295,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
