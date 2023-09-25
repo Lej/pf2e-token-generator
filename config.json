@@ -19231,5 +19231,14 @@
         "timestamp": 1695663943350,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8D3xvMiuOLJ3p6FU": {
+        "id": "8D3xvMiuOLJ3p6FU",
+        "compendium": "kingmaker-bestiary",
+        "name": "Hooktongue Hydra",
+        "prompt": "Fantasy art Hooktongue Hydra beast Variant hydra in the style of Greg Rutkowski",
+        "timestamp": 1695663943351,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
