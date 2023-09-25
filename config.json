@@ -18250,5 +18250,14 @@
         "timestamp": 1695663943301,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TpyiGFLgdJkl2aos": {
+        "id": "TpyiGFLgdJkl2aos",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Soulbound Mauler (Neutral)",
+        "prompt": "Fantasy art Soulbound Mauler Neutral construct soulbound in the style of Greg Rutkowski",
+        "timestamp": 1695663943301,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
