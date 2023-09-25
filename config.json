@@ -18025,5 +18025,14 @@
         "timestamp": 1695663943293,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BT7q8vR1yMC7KduO": {
+        "id": "BT7q8vR1yMC7KduO",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Hrungul Ironeye",
+        "prompt": "Fantasy art Hrungul Ironeye dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943293,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
