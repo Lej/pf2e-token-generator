@@ -18592,5 +18592,14 @@
         "timestamp": 1695663943319,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RWXhwi8R7t3l7T1k": {
+        "id": "RWXhwi8R7t3l7T1k",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Hryngar Officer",
+        "prompt": "Fantasy art Hryngar Officer dwarf hryngar humanoid Variant Captain Of The Guard in the style of Greg Rutkowski",
+        "timestamp": 1695663943319,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
