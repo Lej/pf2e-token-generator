@@ -18628,5 +18628,14 @@
         "timestamp": 1695663943320,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gPJhsS9xmNKK0ysU": {
+        "id": "gPJhsS9xmNKK0ysU",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Blacknoon Apprentice",
+        "prompt": "Fantasy art Blacknoon Apprentice dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943320,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
