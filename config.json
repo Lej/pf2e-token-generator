@@ -18898,5 +18898,14 @@
         "timestamp": 1695663943332,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "FhgZOBWNMa5t7pYV": {
+        "id": "FhgZOBWNMa5t7pYV",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Mosquito Witch (The Legion Leech)",
+        "prompt": "Fantasy art Mosquito Witch The Legion Leech fey rituals in the style of Greg Rutkowski",
+        "timestamp": 1695663943333,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
