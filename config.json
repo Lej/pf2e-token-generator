@@ -19942,5 +19942,14 @@
         "timestamp": 1695663943398,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vff5VzjJpRMmg4Hx": {
+        "id": "vff5VzjJpRMmg4Hx",
+        "compendium": "kingmaker-bestiary",
+        "name": "Cephal Lorentus",
+        "prompt": "Fantasy art Cephal Lorentus undead Unique male undead in the style of Greg Rutkowski",
+        "timestamp": 1695663943398,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
