@@ -18691,5 +18691,14 @@
         "timestamp": 1695663943324,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ov0poDlLDxWkyJ9w": {
+        "id": "Ov0poDlLDxWkyJ9w",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Four-Tooth",
+        "prompt": "Fantasy art Four-Tooth dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943324,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
