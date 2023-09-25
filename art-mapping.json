@@ -8521,6 +8521,10 @@
         "zE2ykzHZKNS3Rnc3": {
             "actor": "modules/pf2e-ai-token-placeholders/images/monsters-of-myth-bestiary/zE2ykzHZKNS3Rnc3/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/monsters-of-myth-bestiary/zE2ykzHZKNS3Rnc3/token.webp"
+        },
+        "KdOwmclPVpcTSPjF": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/monsters-of-myth-bestiary/KdOwmclPVpcTSPjF/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/monsters-of-myth-bestiary/KdOwmclPVpcTSPjF/token.webp"
         }
     }
 }

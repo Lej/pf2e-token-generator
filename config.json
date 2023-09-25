@@ -19078,5 +19078,14 @@
         "timestamp": 1695663943340,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "KdOwmclPVpcTSPjF": {
+        "id": "KdOwmclPVpcTSPjF",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Mosquito Witch",
+        "prompt": "Fantasy art Mosquito Witch fey in the style of Greg Rutkowski",
+        "timestamp": 1695663943340,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
