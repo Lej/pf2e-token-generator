@@ -18583,5 +18583,14 @@
         "timestamp": 1695663943318,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "R6l06STZR7MOuYDR": {
+        "id": "R6l06STZR7MOuYDR",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Hhrulkaz",
+        "prompt": "Fantasy art Hhrulkaz humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1695663943319,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
