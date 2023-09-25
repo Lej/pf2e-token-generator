@@ -19789,5 +19789,14 @@
         "timestamp": 1695663943388,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZGVQcWl03kBIStS0": {
+        "id": "ZGVQcWl03kBIStS0",
+        "compendium": "kingmaker-bestiary",
+        "name": "Kundal",
+        "prompt": "Fantasy art Kundal beast human humanoid werecreature Male human werewolf in the style of Greg Rutkowski",
+        "timestamp": 1695663943389,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
