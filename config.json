@@ -18511,5 +18511,14 @@
         "timestamp": 1695663943314,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "eqTcqD5Abi2TtOtk": {
+        "id": "eqTcqD5Abi2TtOtk",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Alkepsur",
+        "prompt": "Fantasy art Alkepsur dwarf ghost incorporeal spirit undead Ancestral Echo in the style of Greg Rutkowski",
+        "timestamp": 1695663943314,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
