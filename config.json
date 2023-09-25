@@ -19807,5 +19807,14 @@
         "timestamp": 1695663943389,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ovjnD3aiPgRi2C7u": {
+        "id": "ovjnD3aiPgRi2C7u",
+        "compendium": "kingmaker-bestiary",
+        "name": "The Gardener",
+        "prompt": "Fantasy art The Gardener ghost incorporeal spirit undead Male halfling ghost in the style of Greg Rutkowski",
+        "timestamp": 1695663943390,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
