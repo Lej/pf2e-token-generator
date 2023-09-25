@@ -18682,5 +18682,14 @@
         "timestamp": 1695663943323,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VAxAbzTdnwo7lS1Y": {
+        "id": "VAxAbzTdnwo7lS1Y",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Tuom Molgrade",
+        "prompt": "Fantasy art Tuom Molgrade dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943324,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
