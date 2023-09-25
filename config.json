@@ -18466,5 +18466,14 @@
         "timestamp": 1695663943310,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "xbaQfH3eVSR1rGNd": {
+        "id": "xbaQfH3eVSR1rGNd",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Flames of Taargick",
+        "prompt": "Fantasy art Flames of Taargick elemental fire Variant weak elemental infernos in the style of Greg Rutkowski",
+        "timestamp": 1695663943310,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
