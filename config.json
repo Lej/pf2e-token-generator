@@ -20050,5 +20050,14 @@
         "timestamp": 1695663943410,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lRxISnNmcfUm7AfG": {
+        "id": "lRxISnNmcfUm7AfG",
+        "compendium": "kingmaker-bestiary",
+        "name": "Grabbles",
+        "prompt": "Fantasy art Grabbles fey gremlin Male mitflit gremlin in the style of Greg Rutkowski",
+        "timestamp": 1695663943410,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
