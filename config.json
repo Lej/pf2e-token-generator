@@ -20437,5 +20437,14 @@
         "timestamp": 1695663943430,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3kyS4KzEmG8Eyl4N": {
+        "id": "3kyS4KzEmG8Eyl4N",
+        "compendium": "kingmaker-bestiary",
+        "name": "Thresholder Hermeticist",
+        "prompt": "Fantasy art Thresholder Hermeticist human humanoid Human occult researcher in the style of Greg Rutkowski",
+        "timestamp": 1695663943431,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
