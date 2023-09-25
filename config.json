@@ -19870,5 +19870,14 @@
         "timestamp": 1695663943394,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "L3q7yQ0jKqH2IWy7": {
+        "id": "L3q7yQ0jKqH2IWy7",
+        "compendium": "kingmaker-bestiary",
+        "name": "Nightmare Rook",
+        "prompt": "Fantasy art Nightmare Rook beast Variant roc in the style of Greg Rutkowski",
+        "timestamp": 1695663943394,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
