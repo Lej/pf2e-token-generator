@@ -20365,5 +20365,14 @@
         "timestamp": 1695663943425,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bwEYizrdHs8lmvxE": {
+        "id": "bwEYizrdHs8lmvxE",
+        "compendium": "kingmaker-bestiary",
+        "name": "Leng Envoy",
+        "prompt": "Fantasy art Leng Envoy aberration dream Variant denizen of Leng in the style of Greg Rutkowski",
+        "timestamp": 1695663943426,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
