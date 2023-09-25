@@ -19438,5 +19438,14 @@
         "timestamp": 1695663943364,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QkGk4GMq3pCtBbLS": {
+        "id": "QkGk4GMq3pCtBbLS",
+        "compendium": "kingmaker-bestiary",
+        "name": "Troll Guard",
+        "prompt": "Fantasy art Troll Guard giant troll Variant troll king in the style of Greg Rutkowski",
+        "timestamp": 1695663943364,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
