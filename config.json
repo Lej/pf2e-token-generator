@@ -19546,5 +19546,14 @@
         "timestamp": 1695663943370,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oOPf7VG4tuMvzrgA": {
+        "id": "oOPf7VG4tuMvzrgA",
+        "compendium": "kingmaker-bestiary",
+        "name": "Dog (Ekundayo's Companion)",
+        "prompt": "Fantasy art Dog Ekundayo's Companion animal minion Riding dog in the style of Greg Rutkowski",
+        "timestamp": 1695663943371,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
