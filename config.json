@@ -19897,5 +19897,14 @@
         "timestamp": 1695663943396,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "8eTfnYg0xmcgmDVQ": {
+        "id": "8eTfnYg0xmcgmDVQ",
+        "compendium": "kingmaker-bestiary",
+        "name": "Irovetti's Fetch",
+        "prompt": "Fantasy art Irovetti's Fetch fey Variant fetch stalker in the style of Greg Rutkowski",
+        "timestamp": 1695663943396,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
