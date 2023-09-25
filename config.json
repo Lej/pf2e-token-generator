@@ -17998,5 +17998,14 @@
         "timestamp": 1695663943292,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pgmACk7oSLLzcKFk": {
+        "id": "pgmACk7oSLLzcKFk",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Soulbound Mauler (Chaotic Good)",
+        "prompt": "Fantasy art Soulbound Mauler Chaotic Good construct soulbound in the style of Greg Rutkowski",
+        "timestamp": 1695663943293,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
