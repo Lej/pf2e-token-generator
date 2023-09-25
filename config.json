@@ -19654,5 +19654,14 @@
         "timestamp": 1695663943374,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6zWcjvPya0wWDZv2": {
+        "id": "6zWcjvPya0wWDZv2",
+        "compendium": "kingmaker-bestiary",
+        "name": "Risen Fetch",
+        "prompt": "Fantasy art Risen Fetch fey plant in the style of Greg Rutkowski",
+        "timestamp": 1695663943374,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
