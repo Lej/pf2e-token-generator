@@ -19618,5 +19618,14 @@
         "timestamp": 1695663943372,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AjpJNvt4nwzDAhqT": {
+        "id": "AjpJNvt4nwzDAhqT",
+        "compendium": "kingmaker-bestiary",
+        "name": "Villamor Koth",
+        "prompt": "Fantasy art Villamor Koth human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943373,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
