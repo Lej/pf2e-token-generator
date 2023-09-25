@@ -19204,5 +19204,14 @@
         "timestamp": 1695663943349,
         "seed": 1024,
         "used_seed": 1030
+    },
+    "Kmr8s4sEMn365d5M": {
+        "id": "Kmr8s4sEMn365d5M",
+        "compendium": "kingmaker-bestiary",
+        "name": "Prank Workshop Mitflit",
+        "prompt": "Fantasy art Prank Workshop Mitflit fey gremlin Variant mitflit in the style of Greg Rutkowski",
+        "timestamp": 1695663943349,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
