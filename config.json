@@ -18268,5 +18268,14 @@
         "timestamp": 1695663943302,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "S8Y8Wj9EPYcFacI2": {
+        "id": "S8Y8Wj9EPYcFacI2",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Soulbound Doll (Sky King's Tomb)",
+        "prompt": "Fantasy art Soulbound Doll Sky King's Tomb construct soulbound in the style of Greg Rutkowski",
+        "timestamp": 1695663943302,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
