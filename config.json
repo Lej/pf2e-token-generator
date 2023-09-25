@@ -19483,5 +19483,14 @@
         "timestamp": 1695663943366,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2mkfF43tP8IGVfBz": {
+        "id": "2mkfF43tP8IGVfBz",
+        "compendium": "kingmaker-bestiary",
+        "name": "Foras",
+        "prompt": "Fantasy art Foras human humanoid Male human sorcerer in the style of Greg Rutkowski",
+        "timestamp": 1695663943368,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
