@@ -18709,5 +18709,14 @@
         "timestamp": 1695663943324,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MkruJ1HB32levPMm": {
+        "id": "MkruJ1HB32levPMm",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Soulbound Mauler (Lawful Evil)",
+        "prompt": "Fantasy art Soulbound Mauler Lawful Evil construct soulbound in the style of Greg Rutkowski",
+        "timestamp": 1695663943325,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
