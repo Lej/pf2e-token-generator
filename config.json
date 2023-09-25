@@ -19096,5 +19096,14 @@
         "timestamp": 1695663943340,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CgNC8uWPrJbGDklJ": {
+        "id": "CgNC8uWPrJbGDklJ",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Spawn Of Kothogaz",
+        "prompt": "Fantasy art Spawn Of Kothogaz beast in the style of Greg Rutkowski",
+        "timestamp": 1695663943341,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
