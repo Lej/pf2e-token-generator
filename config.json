@@ -18736,5 +18736,14 @@
         "timestamp": 1695663943326,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eGNnA8XCvSgEsrkp": {
+        "id": "eGNnA8XCvSgEsrkp",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Juvenile Cave Worm (Glacial)",
+        "prompt": "Fantasy art Juvenile Cave Worm Glacial animal in the style of Greg Rutkowski",
+        "timestamp": 1695663943326,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
