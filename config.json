@@ -19978,5 +19978,14 @@
         "timestamp": 1695663943404,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RTd4FwqGq8gBjdAO": {
+        "id": "RTd4FwqGq8gBjdAO",
+        "compendium": "kingmaker-bestiary",
+        "name": "Melianse",
+        "prompt": "Fantasy art Melianse aquatic fey Female nixie rituals in the style of Greg Rutkowski",
+        "timestamp": 1695663943405,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
