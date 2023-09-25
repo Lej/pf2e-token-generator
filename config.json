@@ -19699,5 +19699,14 @@
         "timestamp": 1695663943380,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "y5W2rrHzQmeSE6LU": {
+        "id": "y5W2rrHzQmeSE6LU",
+        "compendium": "kingmaker-bestiary",
+        "name": "Happs Bydon",
+        "prompt": "Fantasy art Happs Bydon human humanoid Male human bandit in the style of Greg Rutkowski",
+        "timestamp": 1695663943381,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
