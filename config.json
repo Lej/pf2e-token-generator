@@ -18853,5 +18853,14 @@
         "timestamp": 1695663943330,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qcdNzMiO3XxPHLPJ": {
+        "id": "qcdNzMiO3XxPHLPJ",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Howling Spawn",
+        "prompt": "Fantasy art Howling Spawn aberration in the style of Greg Rutkowski",
+        "timestamp": 1695663943331,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
