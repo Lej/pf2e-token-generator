@@ -18529,5 +18529,14 @@
         "timestamp": 1695663943314,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ss0SKInl10zbVV1Q": {
+        "id": "Ss0SKInl10zbVV1Q",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Cultist Troop",
+        "prompt": "Fantasy art Cultist Troop fey troop in the style of Greg Rutkowski",
+        "timestamp": 1695663943315,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
