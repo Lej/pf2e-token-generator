@@ -18781,5 +18781,14 @@
         "timestamp": 1695663943327,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VCC4nw6EXvqwgmCp": {
+        "id": "VCC4nw6EXvqwgmCp",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Ainamuuren",
+        "prompt": "Fantasy art Ainamuuren cold humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943327,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
