@@ -18475,5 +18475,14 @@
         "timestamp": 1695663943310,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "y2avI1GGn9DAKo86": {
+        "id": "y2avI1GGn9DAKo86",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Hryngar Forgepriest",
+        "prompt": "Fantasy art Hryngar Forgepriest agathion dwarf hryngar humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943311,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
