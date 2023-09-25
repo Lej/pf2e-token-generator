@@ -18160,5 +18160,14 @@
         "timestamp": 1695663943298,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yy9hvwzwFsz7gxA2": {
+        "id": "yy9hvwzwFsz7gxA2",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Larval Cave Worm Brood (Crimson)",
+        "prompt": "Fantasy art Larval Cave Worm Brood Crimson animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1695663943298,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
