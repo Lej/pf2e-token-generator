@@ -19330,5 +19330,14 @@
         "timestamp": 1695663943359,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "etIP2Mdv3Xnr0wto": {
+        "id": "etIP2Mdv3Xnr0wto",
+        "compendium": "kingmaker-bestiary",
+        "name": "Ancient Wisp",
+        "prompt": "Fantasy art Ancient Wisp aberration air Variant will-o'-wisps in the style of Greg Rutkowski",
+        "timestamp": 1695663943359,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
