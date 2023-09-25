@@ -19681,5 +19681,14 @@
         "timestamp": 1695663943378,
         "seed": 1024,
         "used_seed": 1027
+    },
+    "sMCEMlNngFINMX8y": {
+        "id": "sMCEMlNngFINMX8y",
+        "compendium": "kingmaker-bestiary",
+        "name": "Elga Verniex",
+        "prompt": "Fantasy art Elga Verniex human humanoid Female fey-touched human sorcerer rituals in the style of Greg Rutkowski",
+        "timestamp": 1695663943379,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
