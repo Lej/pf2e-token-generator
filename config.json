@@ -19303,5 +19303,14 @@
         "timestamp": 1695663943354,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "v2cJC9tdjRHexMwa": {
+        "id": "v2cJC9tdjRHexMwa",
+        "compendium": "kingmaker-bestiary",
+        "name": "Irahkatu",
+        "prompt": "Fantasy art Irahkatu amphibious beast Variant ahuizotl in the style of Greg Rutkowski",
+        "timestamp": 1695663943355,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
