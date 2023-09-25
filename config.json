@@ -18484,5 +18484,14 @@
         "timestamp": 1695663943311,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "igzgRlwFmL8LnO4x": {
+        "id": "igzgRlwFmL8LnO4x",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Ansestor Statue",
+        "prompt": "Fantasy art Ansestor Statue construct earth mindless Elite animated statue in the style of Greg Rutkowski",
+        "timestamp": 1695663943311,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
