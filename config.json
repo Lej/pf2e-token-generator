@@ -19375,5 +19375,14 @@
         "timestamp": 1695663943360,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bjMn6cRNFK9jgfe0": {
+        "id": "bjMn6cRNFK9jgfe0",
+        "compendium": "kingmaker-bestiary",
+        "name": "Bog Mummy Cultist",
+        "prompt": "Fantasy art Bog Mummy Cultist mummy undead Variant bog mummy in the style of Greg Rutkowski",
+        "timestamp": 1695663943361,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
