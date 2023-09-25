@@ -20176,5 +20176,14 @@
         "timestamp": 1695663943413,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UBwmJpIyIV65U7R2": {
+        "id": "UBwmJpIyIV65U7R2",
+        "compendium": "kingmaker-bestiary",
+        "name": "Kressle",
+        "prompt": "Fantasy art Kressle human humanoid Female bandit leader in the style of Greg Rutkowski",
+        "timestamp": 1695663943414,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
