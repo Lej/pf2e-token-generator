@@ -19834,5 +19834,14 @@
         "timestamp": 1695663943392,
         "seed": 1024,
         "used_seed": 1027
+    },
+    "LF67gTrSqSb7h4KZ": {
+        "id": "LF67gTrSqSb7h4KZ",
+        "compendium": "kingmaker-bestiary",
+        "name": "Boggard Cultist",
+        "prompt": "Fantasy art Boggard Cultist amphibious boggard humanoid Variant Boggard in the style of Greg Rutkowski",
+        "timestamp": 1695663943393,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
