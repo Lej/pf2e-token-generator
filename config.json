@@ -19015,5 +19015,14 @@
         "timestamp": 1695663943337,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "j3NhCEMLVm4HSsgr": {
+        "id": "j3NhCEMLVm4HSsgr",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Taljjae (The Nobleman)",
+        "prompt": "Fantasy art Taljjae The Nobleman fey in the style of Greg Rutkowski",
+        "timestamp": 1695663943338,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
