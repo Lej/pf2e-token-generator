@@ -18187,5 +18187,14 @@
         "timestamp": 1695663943299,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fNmv72cAmZxc6HvN": {
+        "id": "fNmv72cAmZxc6HvN",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Larval Cave Worm Brood (Rock)",
+        "prompt": "Fantasy art Larval Cave Worm Brood Rock animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1695663943300,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
