@@ -18637,5 +18637,14 @@
         "timestamp": 1695663943320,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "P3KHHlVZW9O8H5gS": {
+        "id": "P3KHHlVZW9O8H5gS",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Ancestral Echo",
+        "prompt": "Fantasy art Ancestral Echo dwarf ghost incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695663943321,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
