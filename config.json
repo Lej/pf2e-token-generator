@@ -19969,5 +19969,14 @@
         "timestamp": 1695663943401,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mbAhAq5OyZAv6lq5": {
+        "id": "mbAhAq5OyZAv6lq5",
+        "compendium": "kingmaker-bestiary",
+        "name": "Darivan",
+        "prompt": "Fantasy art Darivan half-orc human humanoid orc Male half-orc sorcerer rituals in the style of Greg Rutkowski",
+        "timestamp": 1695663943404,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
