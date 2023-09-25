@@ -19024,5 +19024,14 @@
         "timestamp": 1695663943338,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sXZExyaijbRnKI2S": {
+        "id": "sXZExyaijbRnKI2S",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Taljjae (The Grandmother)",
+        "prompt": "Fantasy art Taljjae The Grandmother fey in the style of Greg Rutkowski",
+        "timestamp": 1695663943338,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
