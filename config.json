@@ -19609,5 +19609,14 @@
         "timestamp": 1695663943372,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "z1Hk6z6RU4sF9aJU": {
+        "id": "z1Hk6z6RU4sF9aJU",
+        "compendium": "kingmaker-bestiary",
+        "name": "Thresholder Disciple",
+        "prompt": "Fantasy art Thresholder Disciple human humanoid Human cultist in the style of Greg Rutkowski",
+        "timestamp": 1695663943372,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
