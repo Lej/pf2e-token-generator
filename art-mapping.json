@@ -8127,6 +8127,10 @@
         "fNmv72cAmZxc6HvN": {
             "actor": "modules/pf2e-ai-token-placeholders/images/sky-kings-tomb-bestiary/fNmv72cAmZxc6HvN/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/sky-kings-tomb-bestiary/fNmv72cAmZxc6HvN/token.webp"
+        },
+        "nZRBTydsYvrh40xu": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/sky-kings-tomb-bestiary/nZRBTydsYvrh40xu/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/sky-kings-tomb-bestiary/nZRBTydsYvrh40xu/token.webp"
         }
     }
 }

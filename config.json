@@ -18196,5 +18196,14 @@
         "timestamp": 1695663943300,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nZRBTydsYvrh40xu": {
+        "id": "nZRBTydsYvrh40xu",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Fazil",
+        "prompt": "Fantasy art Fazil humanoid kobold Variant Kobold Scout in the style of Greg Rutkowski",
+        "timestamp": 1695663943300,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
