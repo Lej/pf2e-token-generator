@@ -19393,5 +19393,14 @@
         "timestamp": 1695663943362,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "k9eR5UwCSrfpPPAv": {
+        "id": "k9eR5UwCSrfpPPAv",
+        "compendium": "kingmaker-bestiary",
+        "name": "Hateful Hermit",
+        "prompt": "Fantasy art Hateful Hermit human humanoid Male human misanthrope in the style of Greg Rutkowski",
+        "timestamp": 1695663943363,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
