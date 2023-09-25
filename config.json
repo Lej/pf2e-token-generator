@@ -20194,5 +20194,14 @@
         "timestamp": 1695663943414,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1upVC05DY7YzxNsr": {
+        "id": "1upVC05DY7YzxNsr",
+        "compendium": "kingmaker-bestiary",
+        "name": "Chew Spider",
+        "prompt": "Fantasy art Chew Spider animal swarm Variant spider swarm in the style of Greg Rutkowski",
+        "timestamp": 1695663943414,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
