@@ -19627,5 +19627,14 @@
         "timestamp": 1695663943373,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eVHkWtrdGJMVMob7": {
+        "id": "eVHkWtrdGJMVMob7",
+        "compendium": "kingmaker-bestiary",
+        "name": "Dovan from Nisroch",
+        "prompt": "Fantasy art Dovan from Nisroch human humanoid Male human bandit lieutenant in the style of Greg Rutkowski",
+        "timestamp": 1695663943373,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
