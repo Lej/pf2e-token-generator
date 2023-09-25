@@ -19357,5 +19357,14 @@
         "timestamp": 1695663943359,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "m8kwG6NskYDlBSCy": {
+        "id": "m8kwG6NskYDlBSCy",
+        "compendium": "kingmaker-bestiary",
+        "name": "Ankou Assassin",
+        "prompt": "Fantasy art Ankou Assassin fey Variant ankou in the style of Greg Rutkowski",
+        "timestamp": 1695663943360,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
