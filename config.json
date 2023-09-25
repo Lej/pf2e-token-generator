@@ -18970,5 +18970,14 @@
         "timestamp": 1695663943335,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ns6fmJ8469hzBOtM": {
+        "id": "ns6fmJ8469hzBOtM",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Mosquito Witch (The Hemoprophet)",
+        "prompt": "Fantasy art Mosquito Witch The Hemoprophet fey in the style of Greg Rutkowski",
+        "timestamp": 1695663943336,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
