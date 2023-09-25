@@ -19744,5 +19744,14 @@
         "timestamp": 1695663943383,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BWI2CbtRo2lUcraX": {
+        "id": "BWI2CbtRo2lUcraX",
+        "compendium": "kingmaker-bestiary",
+        "name": "Bloom Cultist",
+        "prompt": "Fantasy art Bloom Cultist human humanoid Human cleric of Lamashtu rituals in the style of Greg Rutkowski",
+        "timestamp": 1695663943383,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
