@@ -19114,5 +19114,14 @@
         "timestamp": 1695663943345,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "etrlNmJRUWDKbKwG": {
+        "id": "etrlNmJRUWDKbKwG",
+        "compendium": "kingmaker-bestiary",
+        "name": "Terrion Numesti",
+        "prompt": "Fantasy art Terrion Numesti human humanoid Male human soldier in the style of Greg Rutkowski",
+        "timestamp": 1695663943345,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
