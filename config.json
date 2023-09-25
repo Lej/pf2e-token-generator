@@ -20455,5 +20455,14 @@
         "timestamp": 1695663943431,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Y9N8MaTYupFhCUuN": {
+        "id": "Y9N8MaTYupFhCUuN",
+        "compendium": "kingmaker-bestiary",
+        "name": "Jaggedbriar Hag",
+        "prompt": "Fantasy art Jaggedbriar Hag hag humanoid Variant annis hag rituals in the style of Greg Rutkowski",
+        "timestamp": 1695663943432,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
