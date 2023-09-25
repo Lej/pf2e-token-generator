@@ -19708,5 +19708,14 @@
         "timestamp": 1695663943381,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HkdsqQLNb9XwzYIH": {
+        "id": "HkdsqQLNb9XwzYIH",
+        "compendium": "kingmaker-bestiary",
+        "name": "Tiger Lord",
+        "prompt": "Fantasy art Tiger Lord human humanoid Human barbarians in the style of Greg Rutkowski",
+        "timestamp": 1695663943381,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
