@@ -18448,5 +18448,14 @@
         "timestamp": 1695663943309,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "xuKlDtvqQvbpGWt4": {
+        "id": "xuKlDtvqQvbpGWt4",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Heldin Ulgincamp",
+        "prompt": "Fantasy art Heldin Ulgincamp dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943310,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
