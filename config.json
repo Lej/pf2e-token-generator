@@ -18214,5 +18214,14 @@
         "timestamp": 1695663943300,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "G7RxS2VvwZDZs0fa": {
+        "id": "G7RxS2VvwZDZs0fa",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Xulgath Ravening",
+        "prompt": "Fantasy art Xulgath Ravening humanoid troop xulgath in the style of Greg Rutkowski",
+        "timestamp": 1695663943300,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
