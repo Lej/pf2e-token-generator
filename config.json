@@ -18340,5 +18340,14 @@
         "timestamp": 1695663943307,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wakAqAhokUT6qYxR": {
+        "id": "wakAqAhokUT6qYxR",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Zivzeb",
+        "prompt": "Fantasy art Zivzeb aberration Mimic in the style of Greg Rutkowski",
+        "timestamp": 1695663943307,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
