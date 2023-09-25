@@ -19177,5 +19177,14 @@
         "timestamp": 1695663943348,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sw32QdZlsWnmWaVY": {
+        "id": "sw32QdZlsWnmWaVY",
+        "compendium": "kingmaker-bestiary",
+        "name": "Mastiff Of Tindalos",
+        "prompt": "Fantasy art Mastiff Of Tindalos aberration time Variant hound of Tindalos in the style of Greg Rutkowski",
+        "timestamp": 1695663943348,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
