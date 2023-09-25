@@ -20212,5 +20212,14 @@
         "timestamp": 1695663943414,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZPm7WqgQTjysuTiT": {
+        "id": "ZPm7WqgQTjysuTiT",
+        "compendium": "kingmaker-bestiary",
+        "name": "False Priestess",
+        "prompt": "Fantasy art False Priestess human humanoid Female human sorcerer in the style of Greg Rutkowski",
+        "timestamp": 1695663943415,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
