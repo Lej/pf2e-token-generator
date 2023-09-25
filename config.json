@@ -19663,5 +19663,14 @@
         "timestamp": 1695663943374,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "554zNFkbYXBdmgAy": {
+        "id": "554zNFkbYXBdmgAy",
+        "compendium": "kingmaker-bestiary",
+        "name": "Sister of the Bloodshot Eye",
+        "prompt": "Fantasy art Sister of the Bloodshot Eye human humanoid Female human cleric of Gyronna in the style of Greg Rutkowski",
+        "timestamp": 1695663943377,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
