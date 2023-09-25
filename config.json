@@ -18700,5 +18700,14 @@
         "timestamp": 1695663943324,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "C12Xc3oWuku0aBKx": {
+        "id": "C12Xc3oWuku0aBKx",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Juvenile Cave Worm (Crimson)",
+        "prompt": "Fantasy art Juvenile Cave Worm Crimson animal in the style of Greg Rutkowski",
+        "timestamp": 1695663943324,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
