@@ -19276,5 +19276,14 @@
         "timestamp": 1695663943352,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cjQVmbjqONihI9SR": {
+        "id": "cjQVmbjqONihI9SR",
+        "compendium": "kingmaker-bestiary",
+        "name": "Fen Pudding",
+        "prompt": "Fantasy art Fen Pudding mindless ooze amphibious Variant black pudding in the style of Greg Rutkowski",
+        "timestamp": 1695663943354,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
