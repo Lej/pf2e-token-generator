@@ -8217,6 +8217,10 @@
         "Nx6vcagWXhYToIdC": {
             "actor": "modules/pf2e-ai-token-placeholders/images/kingmaker-bestiary/Nx6vcagWXhYToIdC/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/kingmaker-bestiary/Nx6vcagWXhYToIdC/token.webp"
+        },
+        "s0BfmFWAhLQkQEbg": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/kingmaker-bestiary/s0BfmFWAhLQkQEbg/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/kingmaker-bestiary/s0BfmFWAhLQkQEbg/token.webp"
         }
     },
     "sky-kings-tomb-bestiary": {
