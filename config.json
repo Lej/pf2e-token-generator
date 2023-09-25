@@ -18493,5 +18493,14 @@
         "timestamp": 1695663943311,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "Z5xBjISvZVz6tXkq": {
+        "id": "Z5xBjISvZVz6tXkq",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Narseigus Wormcaller",
+        "prompt": "Fantasy art Narseigus Wormcaller dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943313,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
