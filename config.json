@@ -20131,5 +20131,14 @@
         "timestamp": 1695663943412,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6BFUxkEBKPr89SNt": {
+        "id": "6BFUxkEBKPr89SNt",
+        "compendium": "kingmaker-bestiary",
+        "name": "Mandragora Swarm",
+        "prompt": "Fantasy art Mandragora Swarm plant swarm Variant mandragora in the style of Greg Rutkowski",
+        "timestamp": 1695663943412,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
