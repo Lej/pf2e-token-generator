@@ -19339,5 +19339,14 @@
         "timestamp": 1695663943359,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "48o307dry03xazvd": {
+        "id": "48o307dry03xazvd",
+        "compendium": "kingmaker-bestiary",
+        "name": "Corax",
+        "prompt": "Fantasy art Corax human humanoid Male human logger in the style of Greg Rutkowski",
+        "timestamp": 1695663943359,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
