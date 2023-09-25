@@ -18286,5 +18286,14 @@
         "timestamp": 1695663943302,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "snj3rBPBbhKNmRZT": {
+        "id": "snj3rBPBbhKNmRZT",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Hagegraf Royal Guard",
+        "prompt": "Fantasy art Hagegraf Royal Guard dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943303,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
