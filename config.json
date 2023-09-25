@@ -18952,5 +18952,14 @@
         "timestamp": 1695663943334,
         "seed": 1024,
         "used_seed": 1027
+    },
+    "10srqxC7QZy0dq2g": {
+        "id": "10srqxC7QZy0dq2g",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Spectral Devil",
+        "prompt": "Fantasy art Spectral Devil fiend incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1695663943335,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
