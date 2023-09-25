@@ -18997,5 +18997,14 @@
         "timestamp": 1695663943337,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OF0fZDjNapydddM1": {
+        "id": "OF0fZDjNapydddM1",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Kuworsys",
+        "prompt": "Fantasy art Kuworsys aberration in the style of Greg Rutkowski",
+        "timestamp": 1695663943337,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
