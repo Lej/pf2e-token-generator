@@ -19186,5 +19186,14 @@
         "timestamp": 1695663943348,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5Xslhvyh3MSzgIXN": {
+        "id": "5Xslhvyh3MSzgIXN",
+        "compendium": "kingmaker-bestiary",
+        "name": "Volodmyra",
+        "prompt": "Fantasy art Volodmyra human humanoid Female Black Tear commander in the style of Greg Rutkowski",
+        "timestamp": 1695663943348,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
