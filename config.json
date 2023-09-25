@@ -19933,5 +19933,14 @@
         "timestamp": 1695663943398,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BEo6xNEhEKPsUzIn": {
+        "id": "BEo6xNEhEKPsUzIn",
+        "compendium": "kingmaker-bestiary",
+        "name": "Hooktongue",
+        "prompt": "Fantasy art Hooktongue aquatic animal Variant water orm in the style of Greg Rutkowski",
+        "timestamp": 1695663943398,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
