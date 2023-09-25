@@ -19924,5 +19924,14 @@
         "timestamp": 1695663943397,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NSY6VAGs9VrKzyRX": {
+        "id": "NSY6VAGs9VrKzyRX",
+        "compendium": "kingmaker-bestiary",
+        "name": "Armag Twice-Born",
+        "prompt": "Fantasy art Armag Twice-Born human humanoid Male human warlord in the style of Greg Rutkowski",
+        "timestamp": 1695663943398,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
