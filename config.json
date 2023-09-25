@@ -19753,5 +19753,14 @@
         "timestamp": 1695663943383,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hLBHFloWuXLjCQYH": {
+        "id": "hLBHFloWuXLjCQYH",
+        "compendium": "kingmaker-bestiary",
+        "name": "Primal Bandersnatch",
+        "prompt": "Fantasy art Primal Bandersnatch beast tane in the style of Greg Rutkowski",
+        "timestamp": 1695663943386,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
