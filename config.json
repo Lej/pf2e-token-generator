@@ -20518,5 +20518,14 @@
         "timestamp": 1695663943437,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9nGhRYarE5KkwOwc": {
+        "id": "9nGhRYarE5KkwOwc",
+        "compendium": "kingmaker-bestiary",
+        "name": "Nilak",
+        "prompt": "Fantasy art Nilak human humanoid Female human druid rituals in the style of Greg Rutkowski",
+        "timestamp": 1695663943438,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
