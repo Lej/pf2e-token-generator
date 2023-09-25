@@ -20203,5 +20203,14 @@
         "timestamp": 1695663943414,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "h73Up6EQZqtgh6gP": {
+        "id": "h73Up6EQZqtgh6gP",
+        "compendium": "kingmaker-bestiary",
+        "name": "Jamandi Aldori",
+        "prompt": "Fantasy art Jamandi Aldori human humanoid elf half-elf Female half-elf swordlord in the style of Greg Rutkowski",
+        "timestamp": 1695663943414,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
