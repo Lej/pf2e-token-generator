@@ -18574,5 +18574,14 @@
         "timestamp": 1695663943318,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8mPOfXAKoc5FcPVI": {
+        "id": "8mPOfXAKoc5FcPVI",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Giant Leech",
+        "prompt": "Fantasy art Giant Leech amphibious animal Variant Giant Leech in the style of Greg Rutkowski",
+        "timestamp": 1695663943318,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
