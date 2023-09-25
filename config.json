@@ -19411,5 +19411,14 @@
         "timestamp": 1695663943363,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WGHV95WkNnlY70Sn": {
+        "id": "WGHV95WkNnlY70Sn",
+        "compendium": "kingmaker-bestiary",
+        "name": "Lintwerth",
+        "prompt": "Fantasy art Lintwerth air earth elemental Variant dust mephit in the style of Greg Rutkowski",
+        "timestamp": 1695663943363,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
