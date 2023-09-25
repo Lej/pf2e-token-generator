@@ -20140,5 +20140,14 @@
         "timestamp": 1695663943412,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "defXhBIK4TtoZXGK": {
+        "id": "defXhBIK4TtoZXGK",
+        "compendium": "kingmaker-bestiary",
+        "name": "The Stag Lord",
+        "prompt": "Fantasy art The Stag Lord human humanoid Male human bandit lord in the style of Greg Rutkowski",
+        "timestamp": 1695663943413,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
