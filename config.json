@@ -18115,5 +18115,14 @@
         "timestamp": 1695663943297,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8cV7dqtctcMuKAZN": {
+        "id": "8cV7dqtctcMuKAZN",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Unfeeling Empath",
+        "prompt": "Fantasy art Unfeeling Empath undead in the style of Greg Rutkowski",
+        "timestamp": 1695663943297,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
