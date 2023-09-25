@@ -20473,5 +20473,14 @@
         "timestamp": 1695663943433,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZDt1rLh1VUFnHj5S": {
+        "id": "ZDt1rLh1VUFnHj5S",
+        "compendium": "kingmaker-bestiary",
+        "name": "Lickweed",
+        "prompt": "Fantasy art Lickweed goblin humanoid Male goblin druid in the style of Greg Rutkowski",
+        "timestamp": 1695663943434,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
