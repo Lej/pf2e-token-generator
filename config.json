@@ -19006,5 +19006,14 @@
         "timestamp": 1695663943337,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "W0oF6Dl7G4UeTBSC": {
+        "id": "W0oF6Dl7G4UeTBSC",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Taljjae (The General)",
+        "prompt": "Fantasy art Taljjae The General fey in the style of Greg Rutkowski",
+        "timestamp": 1695663943337,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
