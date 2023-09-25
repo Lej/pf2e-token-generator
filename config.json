@@ -19852,5 +19852,14 @@
         "timestamp": 1695663943393,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OhuPV1g5LfejhtAz": {
+        "id": "OhuPV1g5LfejhtAz",
+        "compendium": "kingmaker-bestiary",
+        "name": "The Horned Hunter",
+        "prompt": "Fantasy art The Horned Hunter fey Variant male satyr in the style of Greg Rutkowski",
+        "timestamp": 1695663943393,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
