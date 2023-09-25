@@ -18106,5 +18106,14 @@
         "timestamp": 1695663943297,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NxheQz4Kx8NJMARD": {
+        "id": "NxheQz4Kx8NJMARD",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Soulbound Mauler (Lawful Good)",
+        "prompt": "Fantasy art Soulbound Mauler Lawful Good construct soulbound in the style of Greg Rutkowski",
+        "timestamp": 1695663943297,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
