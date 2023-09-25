@@ -18763,5 +18763,14 @@
         "timestamp": 1695663943326,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MhJrVjr9SjFv9WZy": {
+        "id": "MhJrVjr9SjFv9WZy",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Hryngar Skull Collector",
+        "prompt": "Fantasy art Hryngar Skull Collector dwarf hryngar humanoid Variant Executioner in the style of Greg Rutkowski",
+        "timestamp": 1695663943327,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
