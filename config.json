@@ -19591,5 +19591,14 @@
         "timestamp": 1695663943372,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "dZEl1W8zV3rj5D9O": {
+        "id": "dZEl1W8zV3rj5D9O",
+        "compendium": "kingmaker-bestiary",
+        "name": "Old Crackjaw",
+        "prompt": "Fantasy art Old Crackjaw animal Variant snapping turtle in the style of Greg Rutkowski",
+        "timestamp": 1695663943372,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
