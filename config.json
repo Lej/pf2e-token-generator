@@ -18277,5 +18277,14 @@
         "timestamp": 1695663943302,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jJbVPd1M6RlZP8kA": {
+        "id": "jJbVPd1M6RlZP8kA",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Ashrin",
+        "prompt": "Fantasy art Ashrin humanoid munavri in the style of Greg Rutkowski",
+        "timestamp": 1695663943302,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
