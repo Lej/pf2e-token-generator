@@ -19384,5 +19384,14 @@
         "timestamp": 1695663943361,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YFnWOu9edWhj6vV6": {
+        "id": "YFnWOu9edWhj6vV6",
+        "compendium": "kingmaker-bestiary",
+        "name": "Akiros Ismort",
+        "prompt": "Fantasy art Akiros Ismort human humanoid Male human bandit lieutenant in the style of Greg Rutkowski",
+        "timestamp": 1695663943362,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
