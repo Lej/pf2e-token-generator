@@ -19132,5 +19132,14 @@
         "timestamp": 1695663943346,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yzlu5YX7Oxo7TVvK": {
+        "id": "yzlu5YX7Oxo7TVvK",
+        "compendium": "kingmaker-bestiary",
+        "name": "Prazil",
+        "prompt": "Fantasy art Prazil humanoid kobold Male kobold spy in the style of Greg Rutkowski",
+        "timestamp": 1695663943346,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
