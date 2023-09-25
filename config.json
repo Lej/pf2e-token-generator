@@ -19159,5 +19159,14 @@
         "timestamp": 1695663943346,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ypxj2FdUPQqpWPf3": {
+        "id": "Ypxj2FdUPQqpWPf3",
+        "compendium": "kingmaker-bestiary",
+        "name": "Ntavi",
+        "prompt": "Fantasy art Ntavi human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943347,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
