@@ -20482,5 +20482,14 @@
         "timestamp": 1695663943434,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "O5EEnXdrKPcODuwh": {
+        "id": "O5EEnXdrKPcODuwh",
+        "compendium": "kingmaker-bestiary",
+        "name": "Sir Fredero Sinnet",
+        "prompt": "Fantasy art Sir Fredero Sinnet human humanoid Male human fallen redeemer champion in the style of Greg Rutkowski",
+        "timestamp": 1695663943434,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
