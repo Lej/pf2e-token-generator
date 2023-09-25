@@ -20095,5 +20095,14 @@
         "timestamp": 1695663943412,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vBugpZnpxQcrrWoo": {
+        "id": "vBugpZnpxQcrrWoo",
+        "compendium": "kingmaker-bestiary",
+        "name": "Bloom of Lamashtu",
+        "prompt": "Fantasy art Bloom of Lamashtu fiend plant in the style of Greg Rutkowski",
+        "timestamp": 1695663943412,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
