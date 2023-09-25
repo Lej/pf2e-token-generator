@@ -18241,5 +18241,14 @@
         "timestamp": 1695663943301,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "z6ppbqLxzV2yoVV8": {
+        "id": "z6ppbqLxzV2yoVV8",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Giant Bloodseeker",
+        "prompt": "Fantasy art Giant Bloodseeker animal in the style of Greg Rutkowski",
+        "timestamp": 1695663943301,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
