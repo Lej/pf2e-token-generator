@@ -20374,5 +20374,14 @@
         "timestamp": 1695663943426,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Bq2eST0Ke4MnKXgR": {
+        "id": "Bq2eST0Ke4MnKXgR",
+        "compendium": "kingmaker-bestiary",
+        "name": "Grigori",
+        "prompt": "Fantasy art Grigori human humanoid Male human bard in the style of Greg Rutkowski",
+        "timestamp": 1695663943427,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
