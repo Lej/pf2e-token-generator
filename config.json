@@ -18961,5 +18961,14 @@
         "timestamp": 1695663943335,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WdnuPiAoRFaymR8R": {
+        "id": "WdnuPiAoRFaymR8R",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Fafnheir",
+        "prompt": "Fantasy art Fafnheir dragon in the style of Greg Rutkowski",
+        "timestamp": 1695663943335,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
