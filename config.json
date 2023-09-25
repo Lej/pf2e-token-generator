@@ -18790,5 +18790,14 @@
         "timestamp": 1695663943327,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JX7k6wFmZLqNjK0k": {
+        "id": "JX7k6wFmZLqNjK0k",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Ulgrem-Lurann",
+        "prompt": "Fantasy art Ulgrem-Lurann amphibious beast in the style of Greg Rutkowski",
+        "timestamp": 1695663943328,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
