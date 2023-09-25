@@ -19501,5 +19501,14 @@
         "timestamp": 1695663943368,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bF0FHdZMWl1OuRae": {
+        "id": "bF0FHdZMWl1OuRae",
+        "compendium": "kingmaker-bestiary",
+        "name": "Hill Giant Butcher",
+        "prompt": "Fantasy art Hill Giant Butcher earth giant humanoid Variant hill giant in the style of Greg Rutkowski",
+        "timestamp": 1695663943368,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
