@@ -20221,5 +20221,14 @@
         "timestamp": 1695663943415,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pZosztihhMtCLinT": {
+        "id": "pZosztihhMtCLinT",
+        "compendium": "kingmaker-bestiary",
+        "name": "Wild Hunt Monarch",
+        "prompt": "Fantasy art Wild Hunt Monarch fey wild-hunt rituals in the style of Greg Rutkowski",
+        "timestamp": 1695663943416,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
