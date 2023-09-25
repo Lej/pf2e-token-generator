@@ -18457,5 +18457,14 @@
         "timestamp": 1695663943310,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jcd1gtnFTvQ3jzPS": {
+        "id": "jcd1gtnFTvQ3jzPS",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Skibrellon",
+        "prompt": "Fantasy art Skibrellon fungus leshy Hyphae Tyrant in the style of Greg Rutkowski",
+        "timestamp": 1695663943310,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
