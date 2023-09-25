@@ -19537,5 +19537,14 @@
         "timestamp": 1695663943370,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fiBhPqM2lomswplt": {
+        "id": "fiBhPqM2lomswplt",
+        "compendium": "kingmaker-bestiary",
+        "name": "Kereek",
+        "prompt": "Fantasy art Kereek humanoid kobold Male kobold spy in the style of Greg Rutkowski",
+        "timestamp": 1695663943370,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
