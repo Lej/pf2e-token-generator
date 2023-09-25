@@ -20005,5 +20005,14 @@
         "timestamp": 1695663943406,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "F0uz9YV8ILAM8fIg": {
+        "id": "F0uz9YV8ILAM8fIg",
+        "compendium": "kingmaker-bestiary",
+        "name": "Windchaser",
+        "prompt": "Fantasy art Windchaser beast Variant war horse in the style of Greg Rutkowski",
+        "timestamp": 1695663943406,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
