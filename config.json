@@ -20383,5 +20383,14 @@
         "timestamp": 1695663943427,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Awlsx9BtgkQ39x6N": {
+        "id": "Awlsx9BtgkQ39x6N",
+        "compendium": "kingmaker-bestiary",
+        "name": "Aldori Sister",
+        "prompt": "Fantasy art Aldori Sister human humanoid Female Hunter in the style of Greg Rutkowski",
+        "timestamp": 1695663943428,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
