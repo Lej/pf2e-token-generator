@@ -20347,5 +20347,14 @@
         "timestamp": 1695663943425,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pD5Y7gJtqlr2A4a2": {
+        "id": "pD5Y7gJtqlr2A4a2",
+        "compendium": "kingmaker-bestiary",
+        "name": "Hargulka",
+        "prompt": "Fantasy art Hargulka giant troll Male troll warlord in the style of Greg Rutkowski",
+        "timestamp": 1695663943425,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
