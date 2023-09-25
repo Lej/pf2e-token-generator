@@ -19240,5 +19240,14 @@
         "timestamp": 1695663943351,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wD6nctHffSaMdyag": {
+        "id": "wD6nctHffSaMdyag",
+        "compendium": "kingmaker-bestiary",
+        "name": "Lizardfolk Warrior",
+        "prompt": "Fantasy art Lizardfolk Warrior humanoid lizardfolk Variant lizardfolk scout in the style of Greg Rutkowski",
+        "timestamp": 1695663943351,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
