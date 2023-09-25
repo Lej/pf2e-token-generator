@@ -18871,5 +18871,14 @@
         "timestamp": 1695663943331,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "C87bRxKDTuJXGkPG": {
+        "id": "C87bRxKDTuJXGkPG",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Tehialai-Thief-of-Ships",
+        "prompt": "Fantasy art Tehialai-Thief-of-Ships amphibious aquatic beast in the style of Greg Rutkowski",
+        "timestamp": 1695663943331,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
