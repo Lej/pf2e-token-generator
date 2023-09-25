@@ -18880,5 +18880,14 @@
         "timestamp": 1695663943331,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jInkcz2UYdaCzsBU": {
+        "id": "jInkcz2UYdaCzsBU",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Ulgrem-Axaan",
+        "prompt": "Fantasy art Ulgrem-Axaan amphibious beast undead in the style of Greg Rutkowski",
+        "timestamp": 1695663943331,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
