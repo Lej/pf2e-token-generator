@@ -19321,5 +19321,14 @@
         "timestamp": 1695663943355,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "AGNRcnrftglAtlbN": {
+        "id": "AGNRcnrftglAtlbN",
+        "compendium": "kingmaker-bestiary",
+        "name": "Gromog",
+        "prompt": "Fantasy art Gromog giant humanoid Black Tear ogre in the style of Greg Rutkowski",
+        "timestamp": 1695663943359,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
