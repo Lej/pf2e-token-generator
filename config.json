@@ -19267,5 +19267,14 @@
         "timestamp": 1695663943352,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "y68kqNXmr1BnjZtc": {
+        "id": "y68kqNXmr1BnjZtc",
+        "compendium": "kingmaker-bestiary",
+        "name": "Oversized Chimera",
+        "prompt": "Fantasy art Oversized Chimera beast Variant chimera in the style of Greg Rutkowski",
+        "timestamp": 1695663943352,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
