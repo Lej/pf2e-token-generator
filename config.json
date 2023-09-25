@@ -20104,5 +20104,14 @@
         "timestamp": 1695663943412,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "oM1AvORITfhzwrDk": {
+        "id": "oM1AvORITfhzwrDk",
+        "compendium": "kingmaker-bestiary",
+        "name": "Barbtongued Wyvern",
+        "prompt": "Fantasy art Barbtongued Wyvern dragon Variant wyvern in the style of Greg Rutkowski",
+        "timestamp": 1695663943412,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
