@@ -18565,5 +18565,14 @@
         "timestamp": 1695663943318,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lZQuFJzcKp6xXWm1": {
+        "id": "lZQuFJzcKp6xXWm1",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Gray Worm",
+        "prompt": "Fantasy art Gray Worm beast in the style of Greg Rutkowski",
+        "timestamp": 1695663943318,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
