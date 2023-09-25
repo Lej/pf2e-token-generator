@@ -20185,5 +20185,14 @@
         "timestamp": 1695663943414,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "V7FoP8iIcehuiF20": {
+        "id": "V7FoP8iIcehuiF20",
+        "compendium": "kingmaker-bestiary",
+        "name": "Cursed Guardian",
+        "prompt": "Fantasy art Cursed Guardian beast in the style of Greg Rutkowski",
+        "timestamp": 1695663943414,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
