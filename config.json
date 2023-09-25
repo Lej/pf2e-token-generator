@@ -20293,5 +20293,14 @@
         "timestamp": 1695663943423,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "1ZKOTqqzeorIv7BB": {
+        "id": "1ZKOTqqzeorIv7BB",
+        "compendium": "kingmaker-bestiary",
+        "name": "Trapdoor Ogre Spider",
+        "prompt": "Fantasy art Trapdoor Ogre Spider animal Variant Ogre spider in the style of Greg Rutkowski",
+        "timestamp": 1695663943423,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
