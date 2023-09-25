@@ -19366,5 +19366,14 @@
         "timestamp": 1695663943360,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bHnGsHHymPUC1XGc": {
+        "id": "bHnGsHHymPUC1XGc",
+        "compendium": "kingmaker-bestiary",
+        "name": "Auchs",
+        "prompt": "Fantasy art Auchs human humanoid Male human bandit lieutenant in the style of Greg Rutkowski",
+        "timestamp": 1695663943360,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
