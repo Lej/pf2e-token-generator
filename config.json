@@ -19780,5 +19780,14 @@
         "timestamp": 1695663943387,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "aEz68WBHT9F5YlXz": {
+        "id": "aEz68WBHT9F5YlXz",
+        "compendium": "kingmaker-bestiary",
+        "name": "Castruccio Irovetti",
+        "prompt": "Fantasy art Castruccio Irovetti human humanoid Male human king rituals in the style of Greg Rutkowski",
+        "timestamp": 1695663943388,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
