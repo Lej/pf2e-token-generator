@@ -19087,5 +19087,14 @@
         "timestamp": 1695663943340,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "a1vTm01GBVF4TI8f": {
+        "id": "a1vTm01GBVF4TI8f",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Taljjae (The Beast)",
+        "prompt": "Fantasy art Taljjae The Beast fey in the style of Greg Rutkowski",
+        "timestamp": 1695663943340,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
