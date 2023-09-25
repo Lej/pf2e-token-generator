@@ -19492,5 +19492,14 @@
         "timestamp": 1695663943368,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vrZrha0Gz14Zd4tA": {
+        "id": "vrZrha0Gz14Zd4tA",
+        "compendium": "kingmaker-bestiary",
+        "name": "Korog",
+        "prompt": "Fantasy art Korog undead Variant graveknight in the style of Greg Rutkowski",
+        "timestamp": 1695663943368,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
