@@ -19600,5 +19600,14 @@
         "timestamp": 1695663943372,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8cRXmQ9vd93T0m2N": {
+        "id": "8cRXmQ9vd93T0m2N",
+        "compendium": "kingmaker-bestiary",
+        "name": "Cyclops Zombie",
+        "prompt": "Fantasy art Cyclops Zombie mindless undead zombie Variant zombie hulk in the style of Greg Rutkowski",
+        "timestamp": 1695663943372,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
