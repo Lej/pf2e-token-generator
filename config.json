@@ -19312,5 +19312,14 @@
         "timestamp": 1695663943355,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MUuXMpUGEnqmElgT": {
+        "id": "MUuXMpUGEnqmElgT",
+        "compendium": "kingmaker-bestiary",
+        "name": "Vicious Army Ant Swarm",
+        "prompt": "Fantasy art Vicious Army Ant Swarm animal swarm Variant army ant swarm in the style of Greg Rutkowski",
+        "timestamp": 1695663943355,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
