@@ -20329,5 +20329,14 @@
         "timestamp": 1695663943424,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "UXXEOnvp2MDaS9Sc": {
+        "id": "UXXEOnvp2MDaS9Sc",
+        "compendium": "kingmaker-bestiary",
+        "name": "Vilderavn Herald",
+        "prompt": "Fantasy art Vilderavn Herald fey in the style of Greg Rutkowski",
+        "timestamp": 1695663943424,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
