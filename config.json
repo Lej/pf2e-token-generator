@@ -20158,5 +20158,14 @@
         "timestamp": 1695663943413,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7bWjM5e9sKxaYbOw": {
+        "id": "7bWjM5e9sKxaYbOw",
+        "compendium": "kingmaker-bestiary",
+        "name": "Thorn River Bandit",
+        "prompt": "Fantasy art Thorn River Bandit human humanoid Human bandits in the style of Greg Rutkowski",
+        "timestamp": 1695663943413,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
