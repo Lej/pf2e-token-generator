@@ -18988,5 +18988,14 @@
         "timestamp": 1695663943336,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hfi0qJePy2cf4Fqe": {
+        "id": "hfi0qJePy2cf4Fqe",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Taljjae (The Wanderer)",
+        "prompt": "Fantasy art Taljjae The Wanderer fey in the style of Greg Rutkowski",
+        "timestamp": 1695663943337,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
