@@ -18124,5 +18124,14 @@
         "timestamp": 1695663943297,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "l9HDkLKtWVBwwJ6t": {
+        "id": "l9HDkLKtWVBwwJ6t",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Jinkin",
+        "prompt": "Fantasy art Jinkin fey gremlin in the style of Greg Rutkowski",
+        "timestamp": 1695663943298,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
