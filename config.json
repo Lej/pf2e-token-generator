@@ -18547,5 +18547,14 @@
         "timestamp": 1695663943315,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "l61LDYRBzhgJAKUL": {
+        "id": "l61LDYRBzhgJAKUL",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Plague Zombie",
+        "prompt": "Fantasy art Plague Zombie fungus mindless undead Variant Plague Zombie in the style of Greg Rutkowski",
+        "timestamp": 1695663943316,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
