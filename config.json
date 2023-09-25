@@ -19249,5 +19249,14 @@
         "timestamp": 1695663943351,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UfB3NfSgZIkN5Rjx": {
+        "id": "UfB3NfSgZIkN5Rjx",
+        "compendium": "kingmaker-bestiary",
+        "name": "Cleansed Cultist",
+        "prompt": "Fantasy art Cleansed Cultist human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943351,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
