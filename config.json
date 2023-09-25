@@ -20392,5 +20392,14 @@
         "timestamp": 1695663943428,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vs8QT4LYEcQfA6Us": {
+        "id": "vs8QT4LYEcQfA6Us",
+        "compendium": "kingmaker-bestiary",
+        "name": "Skeletal Tiger Lord",
+        "prompt": "Fantasy art Skeletal Tiger Lord skeleton undead Variant skeleton in the style of Greg Rutkowski",
+        "timestamp": 1695663943429,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
