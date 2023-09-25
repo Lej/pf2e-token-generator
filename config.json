@@ -18808,5 +18808,14 @@
         "timestamp": 1695663943328,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KLxdUFCvZ7HkAP1E": {
+        "id": "KLxdUFCvZ7HkAP1E",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Somnalu",
+        "prompt": "Fantasy art Somnalu aberration dream in the style of Greg Rutkowski",
+        "timestamp": 1695663943328,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
