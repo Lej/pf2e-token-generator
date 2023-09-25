@@ -18430,5 +18430,14 @@
         "timestamp": 1695663943309,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sUSrjcHVQATWVNeV": {
+        "id": "sUSrjcHVQATWVNeV",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Sporeborn Sheep",
+        "prompt": "Fantasy art Sporeborn Sheep elemental plant undead Variant Plague Zombie in the style of Greg Rutkowski",
+        "timestamp": 1695663943309,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
