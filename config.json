@@ -18295,5 +18295,14 @@
         "timestamp": 1695663943303,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BHt2io7RgVXm8Vk7": {
+        "id": "BHt2io7RgVXm8Vk7",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Krohan Veldollow",
+        "prompt": "Fantasy art Krohan Veldollow dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943305,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
