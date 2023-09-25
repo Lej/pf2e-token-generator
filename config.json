@@ -19123,5 +19123,14 @@
         "timestamp": 1695663943345,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KP7uf1E8CQgzTuQy": {
+        "id": "KP7uf1E8CQgzTuQy",
+        "compendium": "kingmaker-bestiary",
+        "name": "Nugrah",
+        "prompt": "Fantasy art Nugrah human humanoid Male human druid of Gozreh in the style of Greg Rutkowski",
+        "timestamp": 1695663943346,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
