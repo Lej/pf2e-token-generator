@@ -19528,5 +19528,14 @@
         "timestamp": 1695663943369,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wJDtBtvRtyxtyqHS": {
+        "id": "wJDtBtvRtyxtyqHS",
+        "compendium": "kingmaker-bestiary",
+        "name": "Kargstaad",
+        "prompt": "Fantasy art Kargstaad cold giant humanoid Variant frost giant in the style of Greg Rutkowski",
+        "timestamp": 1695663943370,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
