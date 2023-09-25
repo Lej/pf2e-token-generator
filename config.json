@@ -18412,5 +18412,14 @@
         "timestamp": 1695663943309,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AngiDlZ45l632ZrI": {
+        "id": "AngiDlZ45l632ZrI",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Corrupted Blade Spirit",
+        "prompt": "Fantasy art Corrupted Blade Spirit incorporeal spirit undead Variant Corrupted Relic in the style of Greg Rutkowski",
+        "timestamp": 1695663943309,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
