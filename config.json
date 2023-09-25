@@ -19951,5 +19951,14 @@
         "timestamp": 1695663943398,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SVUjDSZHYmwbQgnq": {
+        "id": "SVUjDSZHYmwbQgnq",
+        "compendium": "kingmaker-bestiary",
+        "name": "The Knurly Witch",
+        "prompt": "Fantasy art The Knurly Witch hag humanoid Variant female annis hag rituals in the style of Greg Rutkowski",
+        "timestamp": 1695663943400,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
