@@ -20509,5 +20509,14 @@
         "timestamp": 1695663943435,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7os3GIj69tIqXTGl": {
+        "id": "7os3GIj69tIqXTGl",
+        "compendium": "kingmaker-bestiary",
+        "name": "Wild Hunt Horse",
+        "prompt": "Fantasy art Wild Hunt Horse fey wild-hunt in the style of Greg Rutkowski",
+        "timestamp": 1695663943437,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
