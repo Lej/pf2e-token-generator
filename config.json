@@ -19465,5 +19465,14 @@
         "timestamp": 1695663943366,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xqTVUqUs5UsGcSuH": {
+        "id": "xqTVUqUs5UsGcSuH",
+        "compendium": "kingmaker-bestiary",
+        "name": "Winged Owlbear",
+        "prompt": "Fantasy art Winged Owlbear animal Variant owlbear in the style of Greg Rutkowski",
+        "timestamp": 1695663943366,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
