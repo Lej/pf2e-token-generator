@@ -18034,5 +18034,14 @@
         "timestamp": 1695663943293,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0VMod1UuV6GIQozy": {
+        "id": "0VMod1UuV6GIQozy",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Lady Shimmersnip",
+        "prompt": "Fantasy art Lady Shimmersnip animal aquatic Variant Giant Crab in the style of Greg Rutkowski",
+        "timestamp": 1695663943294,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
