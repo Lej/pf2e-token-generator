@@ -19996,5 +19996,14 @@
         "timestamp": 1695663943406,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "obT2KQ8YYlRxvSWr": {
+        "id": "obT2KQ8YYlRxvSWr",
+        "compendium": "kingmaker-bestiary",
+        "name": "Tree that Weeps",
+        "prompt": "Fantasy art Tree that Weeps plant Variant scythe tree in the style of Greg Rutkowski",
+        "timestamp": 1695663943406,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
