@@ -19726,5 +19726,14 @@
         "timestamp": 1695663943382,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1UWbR2WkeP0kl1nQ": {
+        "id": "1UWbR2WkeP0kl1nQ",
+        "compendium": "kingmaker-bestiary",
+        "name": "Giant Trapdoor Spider",
+        "prompt": "Fantasy art Giant Trapdoor Spider animal Variant hunting spider in the style of Greg Rutkowski",
+        "timestamp": 1695663943382,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
