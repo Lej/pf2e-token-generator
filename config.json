@@ -19150,5 +19150,14 @@
         "timestamp": 1695663943346,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jmH2nbWRJSYgzx5z": {
+        "id": "jmH2nbWRJSYgzx5z",
+        "compendium": "kingmaker-bestiary",
+        "name": "Jin Durwhimmer",
+        "prompt": "Fantasy art Jin Durwhimmer ghost incorporeal spirit undead Male gnome ghost rituals in the style of Greg Rutkowski",
+        "timestamp": 1695663943346,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
