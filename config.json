@@ -20419,5 +20419,14 @@
         "timestamp": 1695663943430,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7PkMXEkBrxhTCw4s": {
+        "id": "7PkMXEkBrxhTCw4s",
+        "compendium": "kingmaker-bestiary",
+        "name": "Horagnamon",
+        "prompt": "Fantasy art Horagnamon animal minion Male raven familiar in the style of Greg Rutkowski",
+        "timestamp": 1695663943430,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
