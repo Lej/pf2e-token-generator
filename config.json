@@ -18916,5 +18916,14 @@
         "timestamp": 1695663943333,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LK3SgIKJqqo4Q4NQ": {
+        "id": "LK3SgIKJqqo4Q4NQ",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Cuetzmonquali",
+        "prompt": "Fantasy art Cuetzmonquali beast fire in the style of Greg Rutkowski",
+        "timestamp": 1695663943333,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
