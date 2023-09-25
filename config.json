@@ -20284,5 +20284,14 @@
         "timestamp": 1695663943421,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XzFifthQr0V5nEJe": {
+        "id": "XzFifthQr0V5nEJe",
+        "compendium": "kingmaker-bestiary",
+        "name": "Ilora Nuski",
+        "prompt": "Fantasy art Ilora Nuski human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943423,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
