@@ -19582,5 +19582,14 @@
         "timestamp": 1695663943372,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RL6cxasbeQMtCDvV": {
+        "id": "RL6cxasbeQMtCDvV",
+        "compendium": "kingmaker-bestiary",
+        "name": "Chief Sootscale",
+        "prompt": "Fantasy art Chief Sootscale humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1695663943372,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
