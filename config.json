@@ -19825,5 +19825,14 @@
         "timestamp": 1695663943390,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "j7fPCy71EfQL1KmU": {
+        "id": "j7fPCy71EfQL1KmU",
+        "compendium": "kingmaker-bestiary",
+        "name": "Nyrissa",
+        "prompt": "Fantasy art Nyrissa fey nymph Female variant nymph queen rituals in the style of Greg Rutkowski",
+        "timestamp": 1695663943392,
+        "seed": 1024,
+        "used_seed": 1027
     }
 }
