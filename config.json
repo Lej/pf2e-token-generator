@@ -19285,5 +19285,14 @@
         "timestamp": 1695663943354,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "L6ANJQoCyk5dWcdH": {
+        "id": "L6ANJQoCyk5dWcdH",
+        "compendium": "kingmaker-bestiary",
+        "name": "Elder Elemental Tsunami",
+        "prompt": "Fantasy art Elder Elemental Tsunami aquatic elemental water Variant elemental tsunami in the style of Greg Rutkowski",
+        "timestamp": 1695663943354,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
