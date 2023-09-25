@@ -20266,5 +20266,14 @@
         "timestamp": 1695663943419,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hGLp8mkvx8J8DDL8": {
+        "id": "hGLp8mkvx8J8DDL8",
+        "compendium": "kingmaker-bestiary",
+        "name": "Malgorzata Niska",
+        "prompt": "Fantasy art Malgorzata Niska human humanoid Female human cult leader rituals in the style of Greg Rutkowski",
+        "timestamp": 1695663943421,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
