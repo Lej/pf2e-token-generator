@@ -19564,5 +19564,14 @@
         "timestamp": 1695663943371,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "M7hMPdEbaC1RNwfY": {
+        "id": "M7hMPdEbaC1RNwfY",
+        "compendium": "kingmaker-bestiary",
+        "name": "Kob Moleg",
+        "prompt": "Fantasy art Kob Moleg earth giant humanoid Variant male hill giant in the style of Greg Rutkowski",
+        "timestamp": 1695663943371,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
