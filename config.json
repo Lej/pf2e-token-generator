@@ -18862,5 +18862,14 @@
         "timestamp": 1695663943331,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mE9MQ0hnRmlR9m94": {
+        "id": "mE9MQ0hnRmlR9m94",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Mosquito Witch (The Swarm Seer)",
+        "prompt": "Fantasy art Mosquito Witch The Swarm Seer fey in the style of Greg Rutkowski",
+        "timestamp": 1695663943331,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
