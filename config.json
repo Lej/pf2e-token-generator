@@ -18151,5 +18151,14 @@
         "timestamp": 1695663943298,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4JWlEd08ehGAxLWs": {
+        "id": "4JWlEd08ehGAxLWs",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Shambler Troop",
+        "prompt": "Fantasy art Shambler Troop mindless troop undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1695663943298,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
