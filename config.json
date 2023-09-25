@@ -17989,5 +17989,14 @@
         "timestamp": 1695572870616,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rlIjgTlvztbgQwXw": {
+        "id": "rlIjgTlvztbgQwXw",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Glacial Worm",
+        "prompt": "Fantasy art Glacial Worm amphibious animal in the style of Greg Rutkowski",
+        "timestamp": 1695663943292,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
