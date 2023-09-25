@@ -18889,5 +18889,14 @@
         "timestamp": 1695663943331,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XLDh6o6vBRCDEKsl": {
+        "id": "XLDh6o6vBRCDEKsl",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Taljjae (The Hermit)",
+        "prompt": "Fantasy art Taljjae The Hermit fey in the style of Greg Rutkowski",
+        "timestamp": 1695663943332,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
