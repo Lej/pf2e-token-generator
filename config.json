@@ -18502,5 +18502,14 @@
         "timestamp": 1695663943313,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fK40GM0evzpqR8IX": {
+        "id": "fK40GM0evzpqR8IX",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Mumkuh",
+        "prompt": "Fantasy art Mumkuh undead zombie Female elite zombie lord in the style of Greg Rutkowski",
+        "timestamp": 1695663943314,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
