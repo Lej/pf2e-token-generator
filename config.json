@@ -18556,5 +18556,14 @@
         "timestamp": 1695663943316,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "f9LUTY5IXXZorYZG": {
+        "id": "f9LUTY5IXXZorYZG",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Stoneriver",
+        "prompt": "Fantasy art Stoneriver celestial fire in the style of Greg Rutkowski",
+        "timestamp": 1695663943318,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
