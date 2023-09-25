@@ -20122,5 +20122,14 @@
         "timestamp": 1695663943412,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "ni0RSuVeUgs5WmlY": {
+        "id": "ni0RSuVeUgs5WmlY",
+        "compendium": "kingmaker-bestiary",
+        "name": "Hillstomper",
+        "prompt": "Fantasy art Hillstomper animal Variant mammoth in the style of Greg Rutkowski",
+        "timestamp": 1695663943412,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
