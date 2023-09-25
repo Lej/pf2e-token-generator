@@ -19447,5 +19447,14 @@
         "timestamp": 1695663943364,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Cj2zn7JazTB9ZnIq": {
+        "id": "Cj2zn7JazTB9ZnIq",
+        "compendium": "kingmaker-bestiary",
+        "name": "Tiger Lord Hill Giant (TL2)",
+        "prompt": "Fantasy art Tiger Lord Hill Giant earth giant humanoid Variant hill giant in the style of Greg Rutkowski",
+        "timestamp": 1695663943365,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
