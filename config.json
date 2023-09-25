@@ -18043,5 +18043,14 @@
         "timestamp": 1695663943294,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4xXCpXL4ChSGykq0": {
+        "id": "4xXCpXL4ChSGykq0",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Voxnia",
+        "prompt": "Fantasy art Voxnia aberration Female elite dark naga in the style of Greg Rutkowski",
+        "timestamp": 1695663943294,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
