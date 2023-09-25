@@ -19879,5 +19879,14 @@
         "timestamp": 1695663943394,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SaSXYUpSWIFHIzET": {
+        "id": "SaSXYUpSWIFHIzET",
+        "compendium": "kingmaker-bestiary",
+        "name": "Pitax Warden",
+        "prompt": "Fantasy art Pitax Warden human humanoid Human royal guard in the style of Greg Rutkowski",
+        "timestamp": 1695663943394,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
