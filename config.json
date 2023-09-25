@@ -18925,5 +18925,14 @@
         "timestamp": 1695663943333,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EXyfhhX9GLOnK1uZ": {
+        "id": "EXyfhhX9GLOnK1uZ",
+        "compendium": "monsters-of-myth-bestiary",
+        "name": "Spring-Heeled Jack",
+        "prompt": "Fantasy art Spring-Heeled Jack fey in the style of Greg Rutkowski",
+        "timestamp": 1695663943333,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
