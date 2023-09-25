@@ -18646,5 +18646,14 @@
         "timestamp": 1695663943321,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JPkWLkjB5uZGb1l7": {
+        "id": "JPkWLkjB5uZGb1l7",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Hryngar Battlepriest",
+        "prompt": "Fantasy art Hryngar Battlepriest dwarf hryngar humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943322,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
