@@ -19645,5 +19645,14 @@
         "timestamp": 1695663943373,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NxVi4ot2bzNOk6Zj": {
+        "id": "NxVi4ot2bzNOk6Zj",
+        "compendium": "kingmaker-bestiary",
+        "name": "Aecora Silverfire",
+        "prompt": "Fantasy art Aecora Silverfire beast Female centaur war-priestess in the style of Greg Rutkowski",
+        "timestamp": 1695663943374,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
