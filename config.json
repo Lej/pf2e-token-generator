@@ -20428,5 +20428,14 @@
         "timestamp": 1695663943430,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ugzdSsP9U0gGLZ3v": {
+        "id": "ugzdSsP9U0gGLZ3v",
+        "compendium": "kingmaker-bestiary",
+        "name": "Rigg Gargadilly",
+        "prompt": "Fantasy art Rigg Gargadilly fey Male quickling in the style of Greg Rutkowski",
+        "timestamp": 1695663943430,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
