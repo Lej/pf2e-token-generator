@@ -19987,5 +19987,14 @@
         "timestamp": 1695663943405,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "P1kWLRlEPTcZ3uzD": {
+        "id": "P1kWLRlEPTcZ3uzD",
+        "compendium": "kingmaker-bestiary",
+        "name": "Kellid Graveknight",
+        "prompt": "Fantasy art Kellid Graveknight undead Variant graveknight in the style of Greg Rutkowski",
+        "timestamp": 1695663943406,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
