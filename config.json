@@ -20356,5 +20356,14 @@
         "timestamp": 1695663943425,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MqxA7COGMXc5CNsZ": {
+        "id": "MqxA7COGMXc5CNsZ",
+        "compendium": "kingmaker-bestiary",
+        "name": "Black Tear Cutthroat",
+        "prompt": "Fantasy art Black Tear Cutthroat human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1695663943425,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
