@@ -19573,5 +19573,14 @@
         "timestamp": 1695663943371,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "kSR0D8dLXTlw09NT": {
+        "id": "kSR0D8dLXTlw09NT",
+        "compendium": "kingmaker-bestiary",
+        "name": "Gedovius",
+        "prompt": "Fantasy art Gedovius beast earth Variant male gargoyle in the style of Greg Rutkowski",
+        "timestamp": 1695663943372,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
