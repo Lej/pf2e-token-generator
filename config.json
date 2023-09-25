@@ -19888,5 +19888,14 @@
         "timestamp": 1695663943394,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "S4oIMaVPzQuRaTpK": {
+        "id": "S4oIMaVPzQuRaTpK",
+        "compendium": "kingmaker-bestiary",
+        "name": "Phomandala",
+        "prompt": "Fantasy art Phomandala humanoid dragon Variant female medusa in the style of Greg Rutkowski",
+        "timestamp": 1695663943396,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
