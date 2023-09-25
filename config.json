@@ -20338,5 +20338,14 @@
         "timestamp": 1695663943424,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wHQmyXnG4Yax4KcK": {
+        "id": "wHQmyXnG4Yax4KcK",
+        "compendium": "kingmaker-bestiary",
+        "name": "Enormous Dragonfly",
+        "prompt": "Fantasy art Enormous Dragonfly animal Variant giant dragonfly in the style of Greg Rutkowski",
+        "timestamp": 1695663943425,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
