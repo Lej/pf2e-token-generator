@@ -18322,5 +18322,14 @@
         "timestamp": 1695663943306,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zMoOfK6QSycciTaG": {
+        "id": "zMoOfK6QSycciTaG",
+        "compendium": "sky-kings-tomb-bestiary",
+        "name": "Hyphae Tyrant",
+        "prompt": "Fantasy art Hyphae Tyrant fungus leshy in the style of Greg Rutkowski",
+        "timestamp": 1695663943306,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
