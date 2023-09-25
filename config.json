@@ -19222,5 +19222,14 @@
         "timestamp": 1695663943350,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hywUu3wVDuXePx3e": {
+        "id": "hywUu3wVDuXePx3e",
+        "compendium": "kingmaker-bestiary",
+        "name": "Centaur Scout",
+        "prompt": "Fantasy art Centaur Scout beast Variant centaur in the style of Greg Rutkowski",
+        "timestamp": 1695663943350,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
