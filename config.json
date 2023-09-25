@@ -20320,5 +20320,14 @@
         "timestamp": 1695663943423,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rnFjLc6xYYPtXS6a": {
+        "id": "rnFjLc6xYYPtXS6a",
+        "compendium": "kingmaker-bestiary",
+        "name": "Defaced Naiad Queen",
+        "prompt": "Fantasy art Defaced Naiad Queen amphibious fey nymph water Variant female naiad queen in the style of Greg Rutkowski",
+        "timestamp": 1695663943424,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
