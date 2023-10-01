@@ -26332,5 +26332,14 @@
         "timestamp": 1696160110522,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "C07vwQbz6mKwLRGY": {
+        "id": "C07vwQbz6mKwLRGY",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Gahlepod",
+        "prompt": "Fantasy art Gahlepod amphibious fey in the style of Greg Rutkowski",
+        "timestamp": 1696160110523,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
