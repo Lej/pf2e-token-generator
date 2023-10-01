@@ -27835,5 +27835,14 @@
         "timestamp": 1696160111525,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DInkix6cy2NgjpJd": {
+        "id": "DInkix6cy2NgjpJd",
+        "compendium": "blood-lords-bestiary",
+        "name": "Shabti Slayer",
+        "prompt": "Fantasy art Shabti Slayer humanoid shabti in the style of Greg Rutkowski",
+        "timestamp": 1696160111525,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
