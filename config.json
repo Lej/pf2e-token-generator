@@ -31633,5 +31633,14 @@
         "timestamp": 1696160111735,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4S77ftUx1zp7JscD": {
+        "id": "4S77ftUx1zp7JscD",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Bloody Skeletal Champion",
+        "prompt": "Fantasy art Bloody Skeletal Champion skeleton undead Variant skeletal champion in the style of Greg Rutkowski",
+        "timestamp": 1696160111735,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
