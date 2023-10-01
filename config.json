@@ -31624,5 +31624,14 @@
         "timestamp": 1696160111735,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SyFPYtqvE9jAZ6LR": {
+        "id": "SyFPYtqvE9jAZ6LR",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Aspis Defender",
+        "prompt": "Fantasy art Aspis Defender human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111735,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
