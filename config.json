@@ -27574,5 +27574,14 @@
         "timestamp": 1696160111510,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "btuLRbWKuZK7ozti": {
+        "id": "btuLRbWKuZK7ozti",
+        "compendium": "blood-lords-bestiary",
+        "name": "Arghun the Annihilator",
+        "prompt": "Fantasy art Arghun the Annihilator undead Variant elite crawling hand in the style of Greg Rutkowski",
+        "timestamp": 1696160111510,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
