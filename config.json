@@ -33028,5 +33028,14 @@
         "timestamp": 1696160111801,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "25cRUcUTP3rK5qjU": {
+        "id": "25cRUcUTP3rK5qjU",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Trexima Butoi",
+        "prompt": "Fantasy art Trexima Butoi undead Male human lich wizard in the style of Greg Rutkowski",
+        "timestamp": 1696160111803,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
