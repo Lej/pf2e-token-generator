@@ -32704,5 +32704,14 @@
         "timestamp": 1696160111770,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dj61OwkpKzv9ctsN": {
+        "id": "dj61OwkpKzv9ctsN",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Nuglub (PFS 3-18)",
+        "prompt": "Fantasy art Nuglub fey gremlin in the style of Greg Rutkowski",
+        "timestamp": 1696160111770,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
