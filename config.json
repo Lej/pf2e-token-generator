@@ -29149,5 +29149,14 @@
         "timestamp": 1696160111582,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eY9eS7CIFXKxyq3q": {
+        "id": "eY9eS7CIFXKxyq3q",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Alapolo",
+        "prompt": "Fantasy art Alapolo fey shadow in the style of Greg Rutkowski",
+        "timestamp": 1696160111582,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
