@@ -32254,5 +32254,14 @@
         "timestamp": 1696160111754,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "h2vnwOGmGFcKVGYq": {
+        "id": "h2vnwOGmGFcKVGYq",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Iron Ring Pirate",
+        "prompt": "Fantasy art Iron Ring Pirate goblin humanoid Variant Pirate in the style of Greg Rutkowski",
+        "timestamp": 1696160111754,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
