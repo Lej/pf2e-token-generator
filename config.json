@@ -32029,5 +32029,14 @@
         "timestamp": 1696160111747,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JZtLQye4QlfFjrYT": {
+        "id": "JZtLQye4QlfFjrYT",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Wasp Swarm (Heretical)",
+        "prompt": "Fantasy art Wasp Swarm Heretical animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1696160111747,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
