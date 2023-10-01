@@ -20851,5 +20851,14 @@
         "timestamp": 1696160110145,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4GZsTkvuYADpcdmV": {
+        "id": "4GZsTkvuYADpcdmV",
+        "compendium": "troubles-in-otari-bestiary",
+        "name": "Kurnugian Jackal",
+        "prompt": "Fantasy art Kurnugian Jackal beast in the style of Greg Rutkowski",
+        "timestamp": 1696160110145,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
