@@ -26107,5 +26107,14 @@
         "timestamp": 1696160110513,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "jaUUH2i5UQZYQqab": {
+        "id": "jaUUH2i5UQZYQqab",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Muse Phantom",
+        "prompt": "Fantasy art Muse Phantom incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110513,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
