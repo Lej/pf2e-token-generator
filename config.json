@@ -22903,5 +22903,14 @@
         "timestamp": 1696160110384,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fpBJiCOoHDlefgpO": {
+        "id": "fpBJiCOoHDlefgpO",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Thunderbird",
+        "prompt": "Fantasy art Thunderbird air beast electricity rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110384,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
