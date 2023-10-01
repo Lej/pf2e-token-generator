@@ -27970,5 +27970,14 @@
         "timestamp": 1696160111531,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pqlqDWVOtPxJ2oRn": {
+        "id": "pqlqDWVOtPxJ2oRn",
+        "compendium": "blood-lords-bestiary",
+        "name": "Urbulinex",
+        "prompt": "Fantasy art Urbulinex dragon shadow undead Female adult umbral dragon ravener in the style of Greg Rutkowski",
+        "timestamp": 1696160111532,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
