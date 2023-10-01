@@ -31129,5 +31129,14 @@
         "timestamp": 1696160111717,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "L1gzOT7o2xxJoqUD": {
+        "id": "L1gzOT7o2xxJoqUD",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Timewarped Amalgam",
+        "prompt": "Fantasy art Timewarped Amalgam aberration mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111717,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
