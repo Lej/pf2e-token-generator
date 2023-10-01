@@ -20725,5 +20725,14 @@
         "timestamp": 1696160110139,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CHLE0BV8wQJY4ksk": {
+        "id": "CHLE0BV8wQJY4ksk",
+        "compendium": "blog-bestiary",
+        "name": "Mari Lwyd",
+        "prompt": "Fantasy art Mari Lwyd fey in the style of Greg Rutkowski",
+        "timestamp": 1696160110139,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
