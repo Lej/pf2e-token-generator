@@ -28420,5 +28420,14 @@
         "timestamp": 1696160111550,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YsBSkW3aFwU1bl3w": {
+        "id": "YsBSkW3aFwU1bl3w",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Ajbal Kimon",
+        "prompt": "Fantasy art Ajbal Kimon human humanoid NE male human gang leader in the style of Greg Rutkowski",
+        "timestamp": 1696160111550,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
