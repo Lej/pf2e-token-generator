@@ -25315,5 +25315,14 @@
         "timestamp": 1696160110476,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XyHk8ChyuOkJuhVZ": {
+        "id": "XyHk8ChyuOkJuhVZ",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Guardian of the Faithful",
+        "prompt": "Fantasy art Guardian of the Faithful construct earth mindless Elite giant animated statue in the style of Greg Rutkowski",
+        "timestamp": 1696160110476,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
