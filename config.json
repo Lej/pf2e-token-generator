@@ -28654,5 +28654,14 @@
         "timestamp": 1696160111560,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5tqXmxNn2WgtZgV4": {
+        "id": "5tqXmxNn2WgtZgV4",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Soul Swarm",
+        "prompt": "Fantasy art Soul Swarm ghost incorporeal spirit troop undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111561,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
