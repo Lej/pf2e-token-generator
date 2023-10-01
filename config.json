@@ -28051,5 +28051,14 @@
         "timestamp": 1696160111534,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UT5B2LCirpTgaEEx": {
+        "id": "UT5B2LCirpTgaEEx",
+        "compendium": "blood-lords-bestiary",
+        "name": "Shadowforged Guardian",
+        "prompt": "Fantasy art Shadowforged Guardian construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111534,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
