@@ -26674,5 +26674,14 @@
         "timestamp": 1696160111192,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "M05AoaYPBCgYJKDW": {
+        "id": "M05AoaYPBCgYJKDW",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Hardened Azarketi Ruffian",
+        "prompt": "Fantasy art Hardened Azarketi Ruffian amphibious azarketi humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111193,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
