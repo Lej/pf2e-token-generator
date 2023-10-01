@@ -32137,5 +32137,14 @@
         "timestamp": 1696160111751,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "plYMMhlfO6OVrtEo": {
+        "id": "plYMMhlfO6OVrtEo",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Eloise's Ghost (1-2)",
+        "prompt": "Fantasy art Eloise's Ghost ghost incorporeal spirit undead Variant ghost in the style of Greg Rutkowski",
+        "timestamp": 1696160111751,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
