@@ -21283,5 +21283,14 @@
         "timestamp": 1696160110263,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XNso2IMnhnfHcMCn": {
+        "id": "XNso2IMnhnfHcMCn",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Zuferian",
+        "prompt": "Fantasy art Zuferian human humanoid Female human in the style of Greg Rutkowski",
+        "timestamp": 1696160110264,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
