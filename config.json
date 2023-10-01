@@ -28645,5 +28645,14 @@
         "timestamp": 1696160111560,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lcxS04lmWsTMn0Te": {
+        "id": "lcxS04lmWsTMn0Te",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Wereant Sentinel",
+        "prompt": "Fantasy art Wereant Sentinel beast human humanoid werecreature in the style of Greg Rutkowski",
+        "timestamp": 1696160111560,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
