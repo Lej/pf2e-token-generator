@@ -21832,5 +21832,14 @@
         "timestamp": 1696160110345,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7SVhYtnBn967Hy8O": {
+        "id": "7SVhYtnBn967Hy8O",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Bone Prophet",
+        "prompt": "Fantasy art Bone Prophet humanoid serpentfolk rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110346,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
