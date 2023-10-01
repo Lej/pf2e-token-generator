@@ -32695,5 +32695,14 @@
         "timestamp": 1696160111769,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gtcISL1zMhQ0mv5g": {
+        "id": "gtcISL1zMhQ0mv5g",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Arisept (7-8)",
+        "prompt": "Fantasy art Arisept changeling humanoid tiefling in the style of Greg Rutkowski",
+        "timestamp": 1696160111770,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
