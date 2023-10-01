@@ -23542,5 +23542,14 @@
         "timestamp": 1696160110406,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "yIpB2uLyeBWQjfsn": {
+        "id": "yIpB2uLyeBWQjfsn",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Gylou",
+        "prompt": "Fantasy art Gylou devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110406,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
