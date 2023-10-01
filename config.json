@@ -28186,5 +28186,14 @@
         "timestamp": 1696160111539,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ybYXRItLGKw7oHsO": {
+        "id": "ybYXRItLGKw7oHsO",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Drenchdead",
+        "prompt": "Fantasy art Drenchdead undead water in the style of Greg Rutkowski",
+        "timestamp": 1696160111540,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
