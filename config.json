@@ -29221,5 +29221,14 @@
         "timestamp": 1696160111586,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lPZiWjIyk2YdhbOF": {
+        "id": "lPZiWjIyk2YdhbOF",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Yonsuu",
+        "prompt": "Fantasy art Yonsuu catfolk humanoid Male catfolk head warden in the style of Greg Rutkowski",
+        "timestamp": 1696160111586,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
