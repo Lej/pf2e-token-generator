@@ -22912,5 +22912,14 @@
         "timestamp": 1696160110384,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UgEN8JYAT6tLbryy": {
+        "id": "UgEN8JYAT6tLbryy",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Ahuizotl",
+        "prompt": "Fantasy art Ahuizotl amphibious beast in the style of Greg Rutkowski",
+        "timestamp": 1696160110384,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
