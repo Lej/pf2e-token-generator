@@ -28132,5 +28132,14 @@
         "timestamp": 1696160111536,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vaNwzSxJXcIQqOS2": {
+        "id": "vaNwzSxJXcIQqOS2",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Karumzek Swarm",
+        "prompt": "Fantasy art Karumzek Swarm aberration swarm in the style of Greg Rutkowski",
+        "timestamp": 1696160111537,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
