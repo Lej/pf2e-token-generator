@@ -30526,5 +30526,14 @@
         "timestamp": 1696160111690,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CBCMrAi44SYguevM": {
+        "id": "CBCMrAi44SYguevM",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Desa-Desa",
+        "prompt": "Fantasy art Desa-Desa animal in the style of Greg Rutkowski",
+        "timestamp": 1696160111690,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
