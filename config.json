@@ -27322,5 +27322,14 @@
         "timestamp": 1696160111495,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "49cAFgzk6Zok82Y2": {
+        "id": "49cAFgzk6Zok82Y2",
+        "compendium": "blood-lords-bestiary",
+        "name": "Drowned Mummy",
+        "prompt": "Fantasy art Drowned Mummy amphibious mummy undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111496,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
