@@ -20608,5 +20608,14 @@
         "timestamp": 1696160110135,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "F8UHnGYafHS3Pnyt": {
+        "id": "F8UHnGYafHS3Pnyt",
+        "compendium": "blog-bestiary",
+        "name": "Ailuran",
+        "prompt": "Fantasy art Ailuran fey in the style of Greg Rutkowski",
+        "timestamp": 1696160110136,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
