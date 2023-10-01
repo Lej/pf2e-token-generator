@@ -23632,5 +23632,14 @@
         "timestamp": 1696160110410,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wE9kb53ZHifUfdD8": {
+        "id": "wE9kb53ZHifUfdD8",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Petitioner (Abyss)",
+        "prompt": "Fantasy art Petitioner Abyss fiend petitioner in the style of Greg Rutkowski",
+        "timestamp": 1696160110410,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
