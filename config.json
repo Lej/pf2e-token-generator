@@ -20833,5 +20833,14 @@
         "timestamp": 1696160110144,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TIX9yDasefwJ4PxI": {
+        "id": "TIX9yDasefwJ4PxI",
+        "compendium": "troubles-in-otari-bestiary",
+        "name": "Stinkweed Shambler",
+        "prompt": "Fantasy art Stinkweed Shambler plant in the style of Greg Rutkowski",
+        "timestamp": 1696160110144,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
