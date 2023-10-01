@@ -32866,5 +32866,14 @@
         "timestamp": 1696160111789,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XJocGEuiyg9TJiti": {
+        "id": "XJocGEuiyg9TJiti",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Raven Nicoletta",
+        "prompt": "Fantasy art Raven Nicoletta human humanoid Female human sorcerer in the style of Greg Rutkowski",
+        "timestamp": 1696160111790,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
