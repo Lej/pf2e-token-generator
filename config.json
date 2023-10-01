@@ -29383,5 +29383,14 @@
         "timestamp": 1696160111598,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "l6EuZR6zCdqyCywW": {
+        "id": "l6EuZR6zCdqyCywW",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Kolbo",
+        "prompt": "Fantasy art Kolbo dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111599,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
