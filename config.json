@@ -28636,5 +28636,14 @@
         "timestamp": 1696160111560,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QMCaqMDvOrmLftM6": {
+        "id": "QMCaqMDvOrmLftM6",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Bog Mummy Amalgamation",
+        "prompt": "Fantasy art Bog Mummy Amalgamation mummy undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111560,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
