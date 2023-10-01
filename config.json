@@ -27988,5 +27988,14 @@
         "timestamp": 1696160111532,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KQkouk6tku8akpmU": {
+        "id": "KQkouk6tku8akpmU",
+        "compendium": "blood-lords-bestiary",
+        "name": "Necromunculus",
+        "prompt": "Fantasy art Necromunculus undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111532,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
