@@ -27457,5 +27457,14 @@
         "timestamp": 1696160111502,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3Yi3PBesesksFZi6": {
+        "id": "3Yi3PBesesksFZi6",
+        "compendium": "blood-lords-bestiary",
+        "name": "Intellect Assemblage",
+        "prompt": "Fantasy art Intellect Assemblage construct in the style of Greg Rutkowski",
+        "timestamp": 1696160111503,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
