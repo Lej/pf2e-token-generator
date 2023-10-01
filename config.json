@@ -29248,5 +29248,14 @@
         "timestamp": 1696160111587,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vVjsaFfYREz7bflO": {
+        "id": "vVjsaFfYREz7bflO",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Serpentfolk Granitescale",
+        "prompt": "Fantasy art Serpentfolk Granitescale humanoid mutant serpentfolk in the style of Greg Rutkowski",
+        "timestamp": 1696160111588,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
