@@ -30472,5 +30472,14 @@
         "timestamp": 1696160111686,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PAQHiQqCcfFo8koZ": {
+        "id": "PAQHiQqCcfFo8koZ",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Ilakni",
+        "prompt": "Fantasy art Ilakni aberration humanoid Male fleshwarp in the style of Greg Rutkowski",
+        "timestamp": 1696160111688,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
