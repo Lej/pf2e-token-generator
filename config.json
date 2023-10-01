@@ -27358,5 +27358,14 @@
         "timestamp": 1696160111497,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "N387myolfXJxWYvF": {
+        "id": "N387myolfXJxWYvF",
+        "compendium": "blood-lords-bestiary",
+        "name": "Bone Shard Tough",
+        "prompt": "Fantasy art Bone Shard Tough human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111497,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
