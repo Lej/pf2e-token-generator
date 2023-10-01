@@ -26890,5 +26890,14 @@
         "timestamp": 1696160111475,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nmv3qAignhfl1in2": {
+        "id": "nmv3qAignhfl1in2",
+        "compendium": "blood-lords-bestiary",
+        "name": "Mosghuta, Boss Cow",
+        "prompt": "Fantasy art Mosghuta, Boss Cow mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1696160111475,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
