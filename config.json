@@ -26485,5 +26485,14 @@
         "timestamp": 1696160110623,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8IYynuqZxDpXZwBE": {
+        "id": "8IYynuqZxDpXZwBE",
+        "compendium": "kingmaker-bestiary",
+        "name": "Tartuccio",
+        "prompt": "Fantasy art Tartuccio gnome humanoid Male gnome spy in the style of Greg Rutkowski",
+        "timestamp": 1696160110639,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
