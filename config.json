@@ -31318,5 +31318,14 @@
         "timestamp": 1696160111724,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AffE7EuKLFijoJzG": {
+        "id": "AffE7EuKLFijoJzG",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Ninth Army Operative",
+        "prompt": "Fantasy art Ninth Army Operative human humanoid Variant watch officer in the style of Greg Rutkowski",
+        "timestamp": 1696160111724,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
