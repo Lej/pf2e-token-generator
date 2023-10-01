@@ -24235,5 +24235,14 @@
         "timestamp": 1696160110429,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hIWzgjW2E2K6ImPA": {
+        "id": "hIWzgjW2E2K6ImPA",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Bog Mummy",
+        "prompt": "Fantasy art Bog Mummy mummy undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110430,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
