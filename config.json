@@ -31246,5 +31246,14 @@
         "timestamp": 1696160111721,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4paPYhdN4HHT3Orz": {
+        "id": "4paPYhdN4HHT3Orz",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Flaming Animated Armor (Holy Hand) (1-2)",
+        "prompt": "Fantasy art Flaming Animated Armor Holy Hand construct mindless Variant animated armor in the style of Greg Rutkowski",
+        "timestamp": 1696160111721,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
