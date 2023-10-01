@@ -31858,5 +31858,14 @@
         "timestamp": 1696160111742,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GKF2zLJ0VLy1IBML": {
+        "id": "GKF2zLJ0VLy1IBML",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Aspis Oppressor",
+        "prompt": "Fantasy art Aspis Oppressor human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111742,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
