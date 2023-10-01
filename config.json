@@ -21319,5 +21319,14 @@
         "timestamp": 1696160110265,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5jFR05QRixpOChRy": {
+        "id": "5jFR05QRixpOChRy",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Deculi",
+        "prompt": "Fantasy art Deculi beast in the style of Greg Rutkowski",
+        "timestamp": 1696160110265,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
