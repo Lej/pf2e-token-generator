@@ -24595,5 +24595,14 @@
         "timestamp": 1696160110443,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oKogG9AwUZ9iBsm3": {
+        "id": "oKogG9AwUZ9iBsm3",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Derghodaemon",
+        "prompt": "Fantasy art Derghodaemon daemon fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160110443,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
