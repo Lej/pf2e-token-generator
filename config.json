@@ -30301,5 +30301,14 @@
         "timestamp": 1696160111680,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Y01s9SxbSRWD1ZKl": {
+        "id": "Y01s9SxbSRWD1ZKl",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Vault Builder",
+        "prompt": "Fantasy art Vault Builder earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160111681,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
