@@ -31021,5 +31021,14 @@
         "timestamp": 1696160111713,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Xpf9HQDxoafOwfoB": {
+        "id": "Xpf9HQDxoafOwfoB",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Thomil Bolyrius (3-4)",
+        "prompt": "Fantasy art Thomil Bolyrius human humanoid Variant troubadour in the style of Greg Rutkowski",
+        "timestamp": 1696160111714,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
