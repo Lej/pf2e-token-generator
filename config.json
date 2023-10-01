@@ -31237,5 +31237,14 @@
         "timestamp": 1696160111721,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DTBa5iNcHztFu7oo": {
+        "id": "DTBa5iNcHztFu7oo",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Deep Shadow Guardian",
+        "prompt": "Fantasy art Deep Shadow Guardian construct mindless shadow in the style of Greg Rutkowski",
+        "timestamp": 1696160111721,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
