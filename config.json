@@ -30049,5 +30049,14 @@
         "timestamp": 1696160111671,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7qRWMhYwrTHv58VG": {
+        "id": "7qRWMhYwrTHv58VG",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Comozant Wyrd",
+        "prompt": "Fantasy art Comozant Wyrd air elemental incorporeal in the style of Greg Rutkowski",
+        "timestamp": 1696160111671,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
