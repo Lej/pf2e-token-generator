@@ -21625,5 +21625,14 @@
         "timestamp": 1696160110283,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MWQmOXxGcbaMsXDD": {
+        "id": "MWQmOXxGcbaMsXDD",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Hezle",
+        "prompt": "Fantasy art Hezle humanoid kobold Female kobold researcher in the style of Greg Rutkowski",
+        "timestamp": 1696160110284,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
