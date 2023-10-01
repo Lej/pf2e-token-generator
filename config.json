@@ -27763,5 +27763,14 @@
         "timestamp": 1696160111521,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DIDEV6UK5S5jQunK": {
+        "id": "DIDEV6UK5S5jQunK",
+        "compendium": "blood-lords-bestiary",
+        "name": "Animated Fireplace",
+        "prompt": "Fantasy art Animated Fireplace construct mindless Variant animated furnace in the style of Greg Rutkowski",
+        "timestamp": 1696160111521,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
