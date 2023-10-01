@@ -30841,5 +30841,14 @@
         "timestamp": 1696160111702,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "m1M7f4Rd5zuBRVDe": {
+        "id": "m1M7f4Rd5zuBRVDe",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Ogmunzorius",
+        "prompt": "Fantasy art Ogmunzorius dream incorporeal Male variant animate dream in the style of Greg Rutkowski",
+        "timestamp": 1696160111703,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
