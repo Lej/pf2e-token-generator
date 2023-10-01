@@ -21589,5 +21589,14 @@
         "timestamp": 1696160110282,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jO2fGZayk4R1AzYK": {
+        "id": "jO2fGZayk4R1AzYK",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Bida",
+        "prompt": "Fantasy art Bida dragon in the style of Greg Rutkowski",
+        "timestamp": 1696160110282,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
