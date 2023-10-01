@@ -32353,5 +32353,14 @@
         "timestamp": 1696160111758,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "06XCiuS7ZDEM5Xpf": {
+        "id": "06XCiuS7ZDEM5Xpf",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Filth Fire (PFS 3-01)",
+        "prompt": "Fantasy art Filth Fire elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1696160111758,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
