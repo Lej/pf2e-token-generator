@@ -20536,5 +20536,14 @@
         "timestamp": 1696160110133,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "z3u0OykjFKz9KJjk": {
+        "id": "z3u0OykjFKz9KJjk",
+        "compendium": "blog-bestiary",
+        "name": "Cacaodaemon",
+        "prompt": "Fantasy art Cacaodaemon daemon fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160110133,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
