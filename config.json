@@ -29869,5 +29869,14 @@
         "timestamp": 1696160111666,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "m2WdV4XJ3r70mnJX": {
+        "id": "m2WdV4XJ3r70mnJX",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Rakkatak",
+        "prompt": "Fantasy art Rakkatak elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1696160111666,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
