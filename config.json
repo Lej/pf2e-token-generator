@@ -25387,5 +25387,14 @@
         "timestamp": 1696160110480,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yqH59ltUd0f3kLLL": {
+        "id": "yqH59ltUd0f3kLLL",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Drow Bodyguard Golem",
+        "prompt": "Fantasy art Drow Bodyguard Golem construct golem mindless Variant elite iron golem in the style of Greg Rutkowski",
+        "timestamp": 1696160110480,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
