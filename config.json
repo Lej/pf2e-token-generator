@@ -30787,5 +30787,14 @@
         "timestamp": 1696160111700,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6HB8S40uMTxM9prV": {
+        "id": "6HB8S40uMTxM9prV",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Crownbound Constellation",
+        "prompt": "Fantasy art Crownbound Constellation astral in the style of Greg Rutkowski",
+        "timestamp": 1696160111700,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
