@@ -29752,5 +29752,14 @@
         "timestamp": 1696160111661,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "E7OZ0cdycOi5Cuu1": {
+        "id": "E7OZ0cdycOi5Cuu1",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Faydhaan Shuyookh",
+        "prompt": "Fantasy art Faydhaan Shuyookh elemental genie water in the style of Greg Rutkowski",
+        "timestamp": 1696160111662,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
