@@ -26962,5 +26962,14 @@
         "timestamp": 1696160111478,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vUv8SR7Pa5fONiuN": {
+        "id": "vUv8SR7Pa5fONiuN",
+        "compendium": "blood-lords-bestiary",
+        "name": "Charghar",
+        "prompt": "Fantasy art Charghar incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111478,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
