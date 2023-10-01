@@ -25693,5 +25693,14 @@
         "timestamp": 1696160110496,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jCcA2ca8VnnDtVU9": {
+        "id": "jCcA2ca8VnnDtVU9",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Bugaboo",
+        "prompt": "Fantasy art Bugaboo fey in the style of Greg Rutkowski",
+        "timestamp": 1696160110497,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
