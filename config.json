@@ -28150,5 +28150,14 @@
         "timestamp": 1696160111537,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rSCb5qmvljAHZ65d": {
+        "id": "rSCb5qmvljAHZ65d",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Silverfish Swarm",
+        "prompt": "Fantasy art Silverfish Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1696160111537,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
