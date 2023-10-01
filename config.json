@@ -21004,5 +21004,14 @@
         "timestamp": 1696160110248,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dlW3UaXVpnzjd6xe": {
+        "id": "dlW3UaXVpnzjd6xe",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Heuberk Thropp",
+        "prompt": "Fantasy art Heuberk Thropp human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110249,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
