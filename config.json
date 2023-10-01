@@ -24658,5 +24658,14 @@
         "timestamp": 1696160110446,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HzeOxVy3VXxaJmC5": {
+        "id": "HzeOxVy3VXxaJmC5",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Adult Umbral Dragon",
+        "prompt": "Fantasy art Adult Umbral Dragon dragon shadow in the style of Greg Rutkowski",
+        "timestamp": 1696160110447,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
