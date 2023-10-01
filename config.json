@@ -22048,5 +22048,14 @@
         "timestamp": 1696160110353,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jCF9HjF42SPXTptP": {
+        "id": "jCF9HjF42SPXTptP",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Marrmora",
+        "prompt": "Fantasy art Marrmora fey fire in the style of Greg Rutkowski",
+        "timestamp": 1696160110353,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
