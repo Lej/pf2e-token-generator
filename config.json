@@ -23038,5 +23038,14 @@
         "timestamp": 1696160110388,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "drtCZDDoESPSUqH7": {
+        "id": "drtCZDDoESPSUqH7",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Peluda",
+        "prompt": "Fantasy art Peluda dragon fire in the style of Greg Rutkowski",
+        "timestamp": 1696160110389,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
