@@ -31678,5 +31678,14 @@
         "timestamp": 1696160111736,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9FgyBdbHxwMYdGAt": {
+        "id": "9FgyBdbHxwMYdGAt",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Pup of Tindalos",
+        "prompt": "Fantasy art Pup of Tindalos aberration time Variant hound of Tindalos in the style of Greg Rutkowski",
+        "timestamp": 1696160111737,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
