@@ -33136,5 +33136,14 @@
         "timestamp": 1696160111810,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6aK7JsTs5zVTjyZN": {
+        "id": "6aK7JsTs5zVTjyZN",
+        "compendium": "stolen-fate-bestiary",
+        "name": "The Twin",
+        "prompt": "Fantasy art The Twin construct Variant fabled harrowkin in the style of Greg Rutkowski",
+        "timestamp": 1696160111811,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
