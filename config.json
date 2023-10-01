@@ -25711,5 +25711,14 @@
         "timestamp": 1696160110497,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aUDIi3Z0N7IhzaT0": {
+        "id": "aUDIi3Z0N7IhzaT0",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Giant Aukashungi",
+        "prompt": "Fantasy art Giant Aukashungi aberration amphibious in the style of Greg Rutkowski",
+        "timestamp": 1696160110497,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
