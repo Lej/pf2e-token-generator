@@ -33145,5 +33145,14 @@
         "timestamp": 1696160111811,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LhyMBLVsJMaUKGME": {
+        "id": "LhyMBLVsJMaUKGME",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Bolti Sorrinson",
+        "prompt": "Fantasy art Bolti Sorrinson undead water Variant male draugr in the style of Greg Rutkowski",
+        "timestamp": 1696160111811,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
