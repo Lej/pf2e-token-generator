@@ -22039,5 +22039,14 @@
         "timestamp": 1696160110352,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "V6OBYa51VcehPj22": {
+        "id": "V6OBYa51VcehPj22",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Gray Ooze",
+        "prompt": "Fantasy art Gray Ooze mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1696160110353,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
