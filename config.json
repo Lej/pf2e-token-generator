@@ -21274,5 +21274,14 @@
         "timestamp": 1696160110262,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ejxngh2tHFseZQHW": {
+        "id": "Ejxngh2tHFseZQHW",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Vaklish",
+        "prompt": "Fantasy art Vaklish fiend rakshasa Male raja rakshasa rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110263,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
