@@ -25792,5 +25792,14 @@
         "timestamp": 1696160110501,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HEeRO5IF4lAGfDqE": {
+        "id": "HEeRO5IF4lAGfDqE",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Barking Stag",
+        "prompt": "Fantasy art Barking Stag animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110501,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
