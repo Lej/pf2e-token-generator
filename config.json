@@ -24415,5 +24415,14 @@
         "timestamp": 1696160110436,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WjZCNuHNKfeeHCQS": {
+        "id": "WjZCNuHNKfeeHCQS",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Worm That Walks Cultist",
+        "prompt": "Fantasy art Worm That Walks Cultist aberration swarm in the style of Greg Rutkowski",
+        "timestamp": 1696160110437,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
