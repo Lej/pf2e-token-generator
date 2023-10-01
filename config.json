@@ -30175,5 +30175,14 @@
         "timestamp": 1696160111675,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7zKCt0OyooqW9UkL": {
+        "id": "7zKCt0OyooqW9UkL",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Ardande Gardener",
+        "prompt": "Fantasy art Ardande Gardener ardande human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111675,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
