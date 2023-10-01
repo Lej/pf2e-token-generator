@@ -27682,5 +27682,14 @@
         "timestamp": 1696160111515,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ngWoxzjuoZAiQHSj": {
+        "id": "ngWoxzjuoZAiQHSj",
+        "compendium": "blood-lords-bestiary",
+        "name": "Necromancer Troop",
+        "prompt": "Fantasy art Necromancer Troop humanoid troop in the style of Greg Rutkowski",
+        "timestamp": 1696160111515,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
