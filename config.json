@@ -28501,5 +28501,14 @@
         "timestamp": 1696160111553,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GDEJworKvYKhniBU": {
+        "id": "GDEJworKvYKhniBU",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Sparkeater",
+        "prompt": "Fantasy art Sparkeater dragon undead Variant ravener husk in the style of Greg Rutkowski",
+        "timestamp": 1696160111554,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
