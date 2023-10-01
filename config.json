@@ -31282,5 +31282,14 @@
         "timestamp": 1696160111723,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FmZ8bz1ItIzxuu1D": {
+        "id": "FmZ8bz1ItIzxuu1D",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Iron Ring Bosun",
+        "prompt": "Fantasy art Iron Ring Bosun goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111723,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
