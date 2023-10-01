@@ -28447,5 +28447,14 @@
         "timestamp": 1696160111551,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NfDN83AupuDwk33L": {
+        "id": "NfDN83AupuDwk33L",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Wereant Disciple",
+        "prompt": "Fantasy art Wereant Disciple beast human humanoid werecreature in the style of Greg Rutkowski",
+        "timestamp": 1696160111552,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
