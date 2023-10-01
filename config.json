@@ -25261,5 +25261,14 @@
         "timestamp": 1696160110472,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CYXoXHr9BoPInIbe": {
+        "id": "CYXoXHr9BoPInIbe",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Thessekka",
+        "prompt": "Fantasy art Thessekka humanoid xulgath Female xulgath commander in the style of Greg Rutkowski",
+        "timestamp": 1696160110472,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
