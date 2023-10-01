@@ -31660,5 +31660,14 @@
         "timestamp": 1696160111736,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8Sea3unOcDH6dWJI": {
+        "id": "8Sea3unOcDH6dWJI",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Bergworm Tyrant",
+        "prompt": "Fantasy art Bergworm Tyrant animal in the style of Greg Rutkowski",
+        "timestamp": 1696160111736,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

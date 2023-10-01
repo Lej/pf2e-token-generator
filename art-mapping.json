@@ -14145,6 +14145,10 @@
         "RCCGR5wlfGNPkkBy": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-3-bestiary/RCCGR5wlfGNPkkBy/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-3-bestiary/RCCGR5wlfGNPkkBy/token.webp"
+        },
+        "8Sea3unOcDH6dWJI": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-3-bestiary/8Sea3unOcDH6dWJI/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-3-bestiary/8Sea3unOcDH6dWJI/token.webp"
         }
     }
 }
