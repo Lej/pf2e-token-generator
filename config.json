@@ -28690,5 +28690,14 @@
         "timestamp": 1696160111561,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7GcDjU3EhVn54AKX": {
+        "id": "7GcDjU3EhVn54AKX",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Graveknight Champion",
+        "prompt": "Fantasy art Graveknight Champion undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111562,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
