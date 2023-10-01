@@ -21787,5 +21787,14 @@
         "timestamp": 1696160110331,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "91BSCAJA1Oto2ctf": {
+        "id": "91BSCAJA1Oto2ctf",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Blood Boar",
+        "prompt": "Fantasy art Blood Boar animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110331,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
