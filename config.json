@@ -21292,5 +21292,14 @@
         "timestamp": 1696160110264,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OJH8y8LqmgbkN8ce": {
+        "id": "OJH8y8LqmgbkN8ce",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Ghastly Bear",
+        "prompt": "Fantasy art Ghastly Bear ghoul undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110264,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
