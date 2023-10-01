@@ -30922,5 +30922,14 @@
         "timestamp": 1696160111706,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EfoaqozIWUdm8unh": {
+        "id": "EfoaqozIWUdm8unh",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Captain Salah",
+        "prompt": "Fantasy art Captain Salah beast Female centaur in the style of Greg Rutkowski",
+        "timestamp": 1696160111706,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
