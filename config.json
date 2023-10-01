@@ -25594,5 +25594,14 @@
         "timestamp": 1696160110491,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "D0laesU2eB1VOZTX": {
+        "id": "D0laesU2eB1VOZTX",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Shoony Tiller",
+        "prompt": "Fantasy art Shoony Tiller humanoid shoony in the style of Greg Rutkowski",
+        "timestamp": 1696160110491,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
