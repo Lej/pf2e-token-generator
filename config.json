@@ -31777,5 +31777,14 @@
         "timestamp": 1696160111739,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jaMihaRbFNvKHVUc": {
+        "id": "jaMihaRbFNvKHVUc",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Grimstalker (PFS 3-13)",
+        "prompt": "Fantasy art Grimstalker fey in the style of Greg Rutkowski",
+        "timestamp": 1696160111740,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
