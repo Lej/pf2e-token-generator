@@ -29014,5 +29014,14 @@
         "timestamp": 1696160111576,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "caSI33WvJJlF6qpb": {
+        "id": "caSI33WvJJlF6qpb",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Thasteron Khefak",
+        "prompt": "Fantasy art Thasteron Khefak beast in the style of Greg Rutkowski",
+        "timestamp": 1696160111576,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
