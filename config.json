@@ -31201,5 +31201,14 @@
         "timestamp": 1696160111719,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "iev4EOtchd0hp9sh": {
+        "id": "iev4EOtchd0hp9sh",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Reckless Akitonian Scientist",
+        "prompt": "Fantasy art Reckless Akitonian Scientist human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111720,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
