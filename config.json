@@ -26953,5 +26953,14 @@
         "timestamp": 1696160111478,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zYY1lFk4tole9Lx5": {
+        "id": "zYY1lFk4tole9Lx5",
+        "compendium": "blood-lords-bestiary",
+        "name": "Ghoul Crocodile",
+        "prompt": "Fantasy art Ghoul Crocodile amphibious ghoul undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111478,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
