@@ -22885,5 +22885,14 @@
         "timestamp": 1696160110383,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "e0PXAtnDnJo4ggFX": {
+        "id": "e0PXAtnDnJo4ggFX",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Vrykolakas Ancient",
+        "prompt": "Fantasy art Vrykolakas Ancient undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1696160110383,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
