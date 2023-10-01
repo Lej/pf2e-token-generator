@@ -21706,5 +21706,14 @@
         "timestamp": 1696160110328,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xrxjjjRMKzwsYbGm": {
+        "id": "xrxjjjRMKzwsYbGm",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Accursed Forge-Spurned",
+        "prompt": "Fantasy art Accursed Forge-Spurned fire undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110328,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
