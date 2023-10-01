@@ -28906,5 +28906,14 @@
         "timestamp": 1696160111573,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NufNRseaGG62SrjR": {
+        "id": "NufNRseaGG62SrjR",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Sicklehand Construct",
+        "prompt": "Fantasy art Sicklehand Construct construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111573,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
