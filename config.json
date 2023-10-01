@@ -32236,5 +32236,14 @@
         "timestamp": 1696160111754,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "P0Y86CC9ULe0D4x7": {
+        "id": "P0Y86CC9ULe0D4x7",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Debased Relic",
+        "prompt": "Fantasy art Debased Relic incorporeal spirit undead Variant corrupted relic in the style of Greg Rutkowski",
+        "timestamp": 1696160111754,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
