@@ -32686,5 +32686,14 @@
         "timestamp": 1696160111769,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "JXWHVfaSm3eHIb5v": {
+        "id": "JXWHVfaSm3eHIb5v",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Onyx Alliance Commander",
+        "prompt": "Fantasy art Onyx Alliance Commander fetchling humanoid shadow in the style of Greg Rutkowski",
+        "timestamp": 1696160111769,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
