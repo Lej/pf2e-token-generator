@@ -25954,5 +25954,14 @@
         "timestamp": 1696160110508,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xWsfcDcgbubVpjow": {
+        "id": "xWsfcDcgbubVpjow",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Xulgath Bilebearer",
+        "prompt": "Fantasy art Xulgath Bilebearer humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1696160110508,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
