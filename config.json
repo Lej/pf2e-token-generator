@@ -22642,5 +22642,14 @@
         "timestamp": 1696160110373,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "uBG93M52pa84qIt5": {
+        "id": "uBG93M52pa84qIt5",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Giant Mosquito",
+        "prompt": "Fantasy art Giant Mosquito animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110373,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
