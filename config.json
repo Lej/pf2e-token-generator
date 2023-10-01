@@ -32875,5 +32875,14 @@
         "timestamp": 1696160111790,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "58rzKemMr1sFBTfv": {
+        "id": "58rzKemMr1sFBTfv",
+        "compendium": "stolen-fate-bestiary",
+        "name": "The Peacock",
+        "prompt": "Fantasy art The Peacock construct Variant fabled harrowkin in the style of Greg Rutkowski",
+        "timestamp": 1696160111791,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
