@@ -25288,5 +25288,14 @@
         "timestamp": 1696160110473,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "B9fl34W1jENDoYqc": {
+        "id": "B9fl34W1jENDoYqc",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Ammut",
+        "prompt": "Fantasy art Ammut fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160110473,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
