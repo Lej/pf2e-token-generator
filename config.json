@@ -23236,5 +23236,14 @@
         "timestamp": 1696160110396,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PKAs8bMBMpnegmwq": {
+        "id": "PKAs8bMBMpnegmwq",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Badger",
+        "prompt": "Fantasy art Badger animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110397,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
