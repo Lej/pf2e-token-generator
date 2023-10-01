@@ -30382,5 +30382,14 @@
         "timestamp": 1696160111683,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hGPjJjjqBc42VrFs": {
+        "id": "hGPjJjjqBc42VrFs",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Anemos",
+        "prompt": "Fantasy art Anemos air elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160111684,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
