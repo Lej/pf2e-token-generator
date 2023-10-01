@@ -21535,5 +21535,14 @@
         "timestamp": 1696160110278,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oPXRJxxWrY2kz2qf": {
+        "id": "oPXRJxxWrY2kz2qf",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Belmazog",
+        "prompt": "Fantasy art Belmazog acid amphibious boggard dragon humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110279,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
