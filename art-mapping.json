@@ -9740,5 +9740,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/age-of-ashes-bestiary/X6TTBlHIfJZ43OqR/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/age-of-ashes-bestiary/X6TTBlHIfJZ43OqR/token.webp"
         }
+    },
+    "pathfinder-bestiary-2": {
+        "UqFObUjgFAlWrriA": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/UqFObUjgFAlWrriA/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/UqFObUjgFAlWrriA/token.webp"
+        }
     }
 }

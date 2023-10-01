@@ -21805,5 +21805,14 @@
         "timestamp": 1696160110331,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UqFObUjgFAlWrriA": {
+        "id": "UqFObUjgFAlWrriA",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Polar Bear",
+        "prompt": "Fantasy art Polar Bear animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110344,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
