@@ -29851,5 +29851,14 @@
         "timestamp": 1696160111665,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "g36FR0xlbMSvWqdS": {
+        "id": "g36FR0xlbMSvWqdS",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Talos Gadgeteer",
+        "prompt": "Fantasy art Talos Gadgeteer human humanoid talos in the style of Greg Rutkowski",
+        "timestamp": 1696160111665,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
