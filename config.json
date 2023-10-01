@@ -25036,5 +25036,14 @@
         "timestamp": 1696160110460,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JCoILqEvwovT7tkj": {
+        "id": "JCoILqEvwovT7tkj",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Chupacabra",
+        "prompt": "Fantasy art Chupacabra beast in the style of Greg Rutkowski",
+        "timestamp": 1696160110461,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
