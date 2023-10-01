@@ -21427,5 +21427,14 @@
         "timestamp": 1696160110271,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YV3wA2Kgjp74l7YJ": {
+        "id": "YV3wA2Kgjp74l7YJ",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Alak Stagram",
+        "prompt": "Fantasy art Alak Stagram human humanoid Male human fighter 2 in the style of Greg Rutkowski",
+        "timestamp": 1696160110271,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
