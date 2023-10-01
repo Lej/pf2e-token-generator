@@ -21202,5 +21202,14 @@
         "timestamp": 1696160110259,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AtiN3EsRpHn5qbuv": {
+        "id": "AtiN3EsRpHn5qbuv",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Immortal Ichor",
+        "prompt": "Fantasy art Immortal Ichor ooze in the style of Greg Rutkowski",
+        "timestamp": 1696160110259,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
