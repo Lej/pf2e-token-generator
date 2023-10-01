@@ -27934,5 +27934,14 @@
         "timestamp": 1696160111529,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "A3joovUPMBOVDpVz": {
+        "id": "A3joovUPMBOVDpVz",
+        "compendium": "blood-lords-bestiary",
+        "name": "Facetbound Nullifier",
+        "prompt": "Fantasy art Facetbound Nullifier undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111530,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
