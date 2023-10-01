@@ -29329,5 +29329,14 @@
         "timestamp": 1696160111594,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WMeRC4WHogtHXnGG": {
+        "id": "WMeRC4WHogtHXnGG",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Serpentfolk Venom Caller",
+        "prompt": "Fantasy art Serpentfolk Venom Caller humanoid serpentfolk in the style of Greg Rutkowski",
+        "timestamp": 1696160111595,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
