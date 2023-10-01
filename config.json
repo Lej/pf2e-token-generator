@@ -28438,5 +28438,14 @@
         "timestamp": 1696160111550,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BBY1kxjWhzLDtF8c": {
+        "id": "BBY1kxjWhzLDtF8c",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Shianshi Waymaker",
+        "prompt": "Fantasy art Shianshi Waymaker humanoid void Female variant sumbreiva rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111551,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
