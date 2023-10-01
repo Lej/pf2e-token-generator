@@ -25702,5 +25702,14 @@
         "timestamp": 1696160110497,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "lM9j6lc5MkBlGfzD": {
+        "id": "lM9j6lc5MkBlGfzD",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Violet",
+        "prompt": "Fantasy art Violet animal Male goat pet in the style of Greg Rutkowski",
+        "timestamp": 1696160110497,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
