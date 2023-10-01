@@ -28384,5 +28384,14 @@
         "timestamp": 1696160111549,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9FsNuksdQSYN7Cpu": {
+        "id": "9FsNuksdQSYN7Cpu",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Aspect of Immortality",
+        "prompt": "Fantasy art Aspect of Immortality undead Variant grim reaper in the style of Greg Rutkowski",
+        "timestamp": 1696160111549,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
