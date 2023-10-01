@@ -32929,5 +32929,14 @@
         "timestamp": 1696160111794,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KgwkUtJ8czIC0KFj": {
+        "id": "KgwkUtJ8czIC0KFj",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Gegnir",
+        "prompt": "Fantasy art Gegnir giant mutant troll Variant jotund troll in the style of Greg Rutkowski",
+        "timestamp": 1696160111795,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
