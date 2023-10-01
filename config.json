@@ -27295,5 +27295,14 @@
         "timestamp": 1696160111494,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SUTCBq10R5kEdvon": {
+        "id": "SUTCBq10R5kEdvon",
+        "compendium": "blood-lords-bestiary",
+        "name": "Zombie Chuul",
+        "prompt": "Fantasy art Zombie Chuul amphibious mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1696160111494,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
