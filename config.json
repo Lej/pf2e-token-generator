@@ -25504,5 +25504,14 @@
         "timestamp": 1696160110485,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EBDDeBHGGZ8xvIM6": {
+        "id": "EBDDeBHGGZ8xvIM6",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Corrosive Lizard",
+        "prompt": "Fantasy art Corrosive Lizard animal fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160110486,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
