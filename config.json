@@ -24613,5 +24613,14 @@
         "timestamp": 1696160110444,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "e5yE4RkwLQojRYHm": {
+        "id": "e5yE4RkwLQojRYHm",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Urdefhan Warrior",
+        "prompt": "Fantasy art Urdefhan Warrior humanoid urdefhan in the style of Greg Rutkowski",
+        "timestamp": 1696160110444,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
