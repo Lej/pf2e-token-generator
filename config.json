@@ -26278,5 +26278,14 @@
         "timestamp": 1696160110520,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "N8ekzW9snBA2YAKv": {
+        "id": "N8ekzW9snBA2YAKv",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Cu Sith",
+        "prompt": "Fantasy art Cu Sith fey in the style of Greg Rutkowski",
+        "timestamp": 1696160110520,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
