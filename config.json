@@ -22606,5 +22606,14 @@
         "timestamp": 1696160110372,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "URYQ5goPCmrQvJf5": {
+        "id": "URYQ5goPCmrQvJf5",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Giant Ant",
+        "prompt": "Fantasy art Giant Ant animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110372,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
