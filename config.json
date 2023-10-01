@@ -29284,5 +29284,14 @@
         "timestamp": 1696160111589,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Cj0ra2zasTZCBRjJ": {
+        "id": "Cj0ra2zasTZCBRjJ",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Dimari-Diji",
+        "prompt": "Fantasy art Dimari-Diji plant Male arboreal nature-speaker in the style of Greg Rutkowski",
+        "timestamp": 1696160111590,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
