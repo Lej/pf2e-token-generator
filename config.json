@@ -28123,5 +28123,14 @@
         "timestamp": 1696160111536,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "u9QNYbml4fF3htyZ": {
+        "id": "u9QNYbml4fF3htyZ",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Gnagrif",
+        "prompt": "Fantasy art Gnagrif fey gremlin in the style of Greg Rutkowski",
+        "timestamp": 1696160111536,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
