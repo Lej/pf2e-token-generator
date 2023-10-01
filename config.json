@@ -21454,5 +21454,14 @@
         "timestamp": 1696160110274,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "r02b4f1XNq7OihhD": {
+        "id": "r02b4f1XNq7OihhD",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Renali",
+        "prompt": "Fantasy art Renali anadi humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110274,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
