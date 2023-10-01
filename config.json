@@ -27268,5 +27268,14 @@
         "timestamp": 1696160111492,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SSFzb5JBZDG6sr9B": {
+        "id": "SSFzb5JBZDG6sr9B",
+        "compendium": "blood-lords-bestiary",
+        "name": "Opkherab",
+        "prompt": "Fantasy art Opkherab undead Variant bodak bank guard in the style of Greg Rutkowski",
+        "timestamp": 1696160111492,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
