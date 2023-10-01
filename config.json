@@ -21364,5 +21364,14 @@
         "timestamp": 1696160110266,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "jZc4PrsX3HCJnkXx": {
+        "id": "jZc4PrsX3HCJnkXx",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Emaliza Zandivar",
+        "prompt": "Fantasy art Emaliza Zandivar human humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110267,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
