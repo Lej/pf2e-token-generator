@@ -27511,5 +27511,14 @@
         "timestamp": 1696160111506,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KJm77VlSLPNpukcI": {
+        "id": "KJm77VlSLPNpukcI",
+        "compendium": "blood-lords-bestiary",
+        "name": "Vice-Chancellor Vikroti Stroh",
+        "prompt": "Fantasy art Vice-Chancellor Vikroti Stroh undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111507,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
