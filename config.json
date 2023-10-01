@@ -26980,5 +26980,14 @@
         "timestamp": 1696160111478,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pg4YAN1whVZsnLKf": {
+        "id": "pg4YAN1whVZsnLKf",
+        "compendium": "blood-lords-bestiary",
+        "name": "Grace \"The Rhino\" Owano",
+        "prompt": "Fantasy art Grace \"The Rhino\" Owano human humanoid Female human field commander in the style of Greg Rutkowski",
+        "timestamp": 1696160111479,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
