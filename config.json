@@ -29590,5 +29590,14 @@
         "timestamp": 1696160111650,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TFrOAM5u8Jk8hB69": {
+        "id": "TFrOAM5u8Jk8hB69",
+        "compendium": "the-slithering-bestiary",
+        "name": "Angazhani Cultist",
+        "prompt": "Fantasy art Angazhani Cultist human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111651,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
