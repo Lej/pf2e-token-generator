@@ -21112,5 +21112,14 @@
         "timestamp": 1696160110254,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yLhO5vUrPQF42Lh8": {
+        "id": "yLhO5vUrPQF42Lh8",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Charau-ka",
+        "prompt": "Fantasy art Charau-ka charau-ka humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110255,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
