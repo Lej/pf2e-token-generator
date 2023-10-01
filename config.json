@@ -21013,5 +21013,14 @@
         "timestamp": 1696160110249,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tr3qlFJVHqloE9zI": {
+        "id": "tr3qlFJVHqloE9zI",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Forge-Spurned",
+        "prompt": "Fantasy art Forge-Spurned fire undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110250,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
