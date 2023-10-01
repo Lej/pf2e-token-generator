@@ -30139,5 +30139,14 @@
         "timestamp": 1696160111673,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Gqz1qtpdgAl13pCE": {
+        "id": "Gqz1qtpdgAl13pCE",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Gennayn",
+        "prompt": "Fantasy art Gennayn elemental genie in the style of Greg Rutkowski",
+        "timestamp": 1696160111674,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
