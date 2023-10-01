@@ -27862,5 +27862,14 @@
         "timestamp": 1696160111526,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6I4ZtQJPT0ToITvq": {
+        "id": "6I4ZtQJPT0ToITvq",
+        "compendium": "blood-lords-bestiary",
+        "name": "Floating Femur",
+        "prompt": "Fantasy art Floating Femur construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111526,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
