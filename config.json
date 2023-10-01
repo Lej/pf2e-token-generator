@@ -28375,5 +28375,14 @@
         "timestamp": 1696160111548,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "i3xyq1muByR02dqa": {
+        "id": "i3xyq1muByR02dqa",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Formian Queen",
+        "prompt": "Fantasy art Formian Queen formian in the style of Greg Rutkowski",
+        "timestamp": 1696160111549,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
