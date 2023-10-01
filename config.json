@@ -32083,5 +32083,14 @@
         "timestamp": 1696160111749,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AaCmgrEQ4sPakXca": {
+        "id": "AaCmgrEQ4sPakXca",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Caliclotherax (11-12)",
+        "prompt": "Fantasy art Caliclotherax dragon earth elemental variant Adult Crystal Dragon in the style of Greg Rutkowski",
+        "timestamp": 1696160111749,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
