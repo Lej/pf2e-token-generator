@@ -26080,5 +26080,14 @@
         "timestamp": 1696160110512,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "j31HXlZiUqQrAHSB": {
+        "id": "j31HXlZiUqQrAHSB",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Tashlock Banyan",
+        "prompt": "Fantasy art Tashlock Banyan human humanoid Male human town protector in the style of Greg Rutkowski",
+        "timestamp": 1696160110512,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
