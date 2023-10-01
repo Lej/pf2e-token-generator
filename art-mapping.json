@@ -13238,5 +13238,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/the-slithering-bestiary/nz6ldwPZm0WWCCYV/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/the-slithering-bestiary/nz6ldwPZm0WWCCYV/token.webp"
         }
+    },
+    "the-enmity-cycle-bestiary": {
+        "qsgUxFmUK9rohj0M": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/the-enmity-cycle-bestiary/qsgUxFmUK9rohj0M/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/the-enmity-cycle-bestiary/qsgUxFmUK9rohj0M/token.webp"
+        }
     }
 }

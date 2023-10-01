@@ -29635,5 +29635,14 @@
         "timestamp": 1696160111653,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qsgUxFmUK9rohj0M": {
+        "id": "qsgUxFmUK9rohj0M",
+        "compendium": "the-enmity-cycle-bestiary",
+        "name": "Vulpinal Twin",
+        "prompt": "Fantasy art Vulpinal Twin agathion celestial Variant vulpinal in the style of Greg Rutkowski",
+        "timestamp": 1696160111656,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
