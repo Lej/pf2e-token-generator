@@ -33127,5 +33127,14 @@
         "timestamp": 1696160111810,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jXjo59pIAMteUtUD": {
+        "id": "jXjo59pIAMteUtUD",
+        "compendium": "stolen-fate-bestiary",
+        "name": "The Shadow Prince",
+        "prompt": "Fantasy art The Shadow Prince illusion mental Variant brainchild in the style of Greg Rutkowski",
+        "timestamp": 1696160111810,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
