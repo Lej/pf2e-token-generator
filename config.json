@@ -29068,5 +29068,14 @@
         "timestamp": 1696160111578,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wTjcudppfZi0lsJa": {
+        "id": "wTjcudppfZi0lsJa",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Norgorberite Spy",
+        "prompt": "Fantasy art Norgorberite Spy human humanoid Human infiltrator in the style of Greg Rutkowski",
+        "timestamp": 1696160111578,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
