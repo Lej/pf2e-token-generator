@@ -22723,5 +22723,14 @@
         "timestamp": 1696160110375,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "a8Ih1RIr4UUV4QCL": {
+        "id": "a8Ih1RIr4UUV4QCL",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Fire Yai",
+        "prompt": "Fantasy art Fire Yai fiend fire giant humanoid oni in the style of Greg Rutkowski",
+        "timestamp": 1696160110376,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
