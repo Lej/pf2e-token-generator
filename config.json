@@ -21265,5 +21265,14 @@
         "timestamp": 1696160110262,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ig1joUmSHSNL6QVU": {
+        "id": "Ig1joUmSHSNL6QVU",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Ingnovim's Assistant",
+        "prompt": "Fantasy art Ingnovim's Assistant human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110262,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
