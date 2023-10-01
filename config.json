@@ -24748,5 +24748,14 @@
         "timestamp": 1696160110449,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "H8KNSMb9uo2mJF3P": {
+        "id": "H8KNSMb9uo2mJF3P",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Twigjack",
+        "prompt": "Fantasy art Twigjack fey plant in the style of Greg Rutkowski",
+        "timestamp": 1696160110449,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
