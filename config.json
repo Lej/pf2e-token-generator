@@ -28708,5 +28708,14 @@
         "timestamp": 1696160111563,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tNDYjNXMWk4VoxGm": {
+        "id": "tNDYjNXMWk4VoxGm",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Avatar Of Walkena",
+        "prompt": "Fantasy art Avatar Of Walkena divine humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111564,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
