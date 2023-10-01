@@ -25324,5 +25324,14 @@
         "timestamp": 1696160110476,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BBamjhcpvwXGhlbM": {
+        "id": "BBamjhcpvwXGhlbM",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Cavnakash",
+        "prompt": "Fantasy art Cavnakash humanoid xulgath Male xulgath fanatic in the style of Greg Rutkowski",
+        "timestamp": 1696160110477,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
