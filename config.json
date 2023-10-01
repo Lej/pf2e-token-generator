@@ -25657,5 +25657,14 @@
         "timestamp": 1696160110495,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PYvtflsrA9ITevEq": {
+        "id": "PYvtflsrA9ITevEq",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Urdefhan Hunter",
+        "prompt": "Fantasy art Urdefhan Hunter humanoid urdefhan in the style of Greg Rutkowski",
+        "timestamp": 1696160110495,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
