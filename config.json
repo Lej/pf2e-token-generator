@@ -29455,5 +29455,14 @@
         "timestamp": 1696160111644,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "HK51NfMiYq9H1Pbm": {
+        "id": "HK51NfMiYq9H1Pbm",
+        "compendium": "night-of-the-gray-death-bestiary",
+        "name": "Pageant Troupe",
+        "prompt": "Fantasy art Pageant Troupe construct troop in the style of Greg Rutkowski",
+        "timestamp": 1696160111645,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
