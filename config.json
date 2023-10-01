@@ -23605,5 +23605,14 @@
         "timestamp": 1696160110409,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6YOyTHRGqkYl2Prb": {
+        "id": "6YOyTHRGqkYl2Prb",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Wolverine",
+        "prompt": "Fantasy art Wolverine animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110409,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
