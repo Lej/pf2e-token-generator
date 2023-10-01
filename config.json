@@ -23767,5 +23767,14 @@
         "timestamp": 1696160110414,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "BTQ2ARKulg5Egueg": {
+        "id": "BTQ2ARKulg5Egueg",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Augur",
+        "prompt": "Fantasy art Augur fiend velstrac in the style of Greg Rutkowski",
+        "timestamp": 1696160110415,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
