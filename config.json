@@ -27376,5 +27376,14 @@
         "timestamp": 1696160111499,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "epfj3ZAwLHMlYlF3": {
+        "id": "epfj3ZAwLHMlYlF3",
+        "compendium": "blood-lords-bestiary",
+        "name": "Virulak Necromancer",
+        "prompt": "Fantasy art Virulak Necromancer undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111499,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
