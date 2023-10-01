@@ -32047,5 +32047,14 @@
         "timestamp": 1696160111747,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "B57HMAtx8pj3kt8u": {
+        "id": "B57HMAtx8pj3kt8u",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Fipp the Prophet",
+        "prompt": "Fantasy art Fipp the Prophet humanoid ratfolk in the style of Greg Rutkowski",
+        "timestamp": 1696160111748,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
