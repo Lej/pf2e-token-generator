@@ -29968,5 +29968,14 @@
         "timestamp": 1696160111669,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Vtx0UBhy5aUu3UMO": {
+        "id": "Vtx0UBhy5aUu3UMO",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Metal Wisp",
+        "prompt": "Fantasy art Metal Wisp elemental metal in the style of Greg Rutkowski",
+        "timestamp": 1696160111669,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
