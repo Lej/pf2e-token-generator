@@ -28861,5 +28861,14 @@
         "timestamp": 1696160111572,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QkT3Yr6mdnhVNJE8": {
+        "id": "QkT3Yr6mdnhVNJE8",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Umbo",
+        "prompt": "Fantasy art Umbo fungus in the style of Greg Rutkowski",
+        "timestamp": 1696160111572,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
