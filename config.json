@@ -28474,5 +28474,14 @@
         "timestamp": 1696160111553,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EYAcaqkQajIbvtLB": {
+        "id": "EYAcaqkQajIbvtLB",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Hivebound Arboreal",
+        "prompt": "Fantasy art Hivebound Arboreal plant Variant arboreal regent in the style of Greg Rutkowski",
+        "timestamp": 1696160111553,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
