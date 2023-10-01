@@ -24784,5 +24784,14 @@
         "timestamp": 1696160110451,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sGI1gh7EPVSRadhY": {
+        "id": "sGI1gh7EPVSRadhY",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Granite Glyptodont",
+        "prompt": "Fantasy art Granite Glyptodont earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160110451,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
