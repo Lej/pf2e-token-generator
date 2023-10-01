@@ -33199,5 +33199,14 @@
         "timestamp": 1696160111814,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "J7QJMfQZlOd7DOq5": {
+        "id": "J7QJMfQZlOd7DOq5",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Markish Aghayarea",
+        "prompt": "Fantasy art Markish Aghayarea undead Male marid devourer rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111815,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
