@@ -26053,5 +26053,14 @@
         "timestamp": 1696160110511,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CNO54boXvXg7xSP6": {
+        "id": "CNO54boXvXg7xSP6",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Tanessa Fleer",
+        "prompt": "Fantasy art Tanessa Fleer human humanoid Female human bandit in the style of Greg Rutkowski",
+        "timestamp": 1696160110512,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
