@@ -21598,5 +21598,14 @@
         "timestamp": 1696160110282,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SVh7cPwyGgmZORVz": {
+        "id": "SVh7cPwyGgmZORVz",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Scarlet Triad Boss",
+        "prompt": "Fantasy art Scarlet Triad Boss human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110283,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
