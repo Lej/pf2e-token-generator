@@ -25297,5 +25297,14 @@
         "timestamp": 1696160110473,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NgmbMRekIHiA44lg": {
+        "id": "NgmbMRekIHiA44lg",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Dyzallin Shraen",
+        "prompt": "Fantasy art Dyzallin Shraen mummy undead Male drow mummy mage rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110475,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
