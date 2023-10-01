@@ -21643,5 +21643,14 @@
         "timestamp": 1696160110285,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "w1Pqv0YmG4MevpQc": {
+        "id": "w1Pqv0YmG4MevpQc",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Corrupt Guard",
+        "prompt": "Fantasy art Corrupt Guard dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110285,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
