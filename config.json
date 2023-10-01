@@ -22867,5 +22867,14 @@
         "timestamp": 1696160110382,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "WfzhHOqGb3bR1e7e": {
+        "id": "WfzhHOqGb3bR1e7e",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Ancient Umbral Dragon (Spellcaster)",
+        "prompt": "Fantasy art Ancient Umbral Dragon Spellcaster dragon shadow rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110383,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
