@@ -23218,5 +23218,14 @@
         "timestamp": 1696160110396,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jpjhbGvaduK4iqwq": {
+        "id": "jpjhbGvaduK4iqwq",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Spark Bat",
+        "prompt": "Fantasy art Spark Bat air elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160110396,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
