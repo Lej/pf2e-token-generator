@@ -27592,5 +27592,14 @@
         "timestamp": 1696160111510,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1igzK6SDdQkv8NXb": {
+        "id": "1igzK6SDdQkv8NXb",
+        "compendium": "blood-lords-bestiary",
+        "name": "Matron Uldrula",
+        "prompt": "Fantasy art Matron Uldrula monitor psychopomp Female shoki psychopomp rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111511,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
