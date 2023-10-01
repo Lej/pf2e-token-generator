@@ -31714,5 +31714,14 @@
         "timestamp": 1696160111737,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KSKDACF4qh3HJTDo": {
+        "id": "KSKDACF4qh3HJTDo",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Vaggas the Fanatic",
+        "prompt": "Fantasy art Vaggas the Fanatic goblin humanoid Variant Cultist in the style of Greg Rutkowski",
+        "timestamp": 1696160111737,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
