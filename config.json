@@ -21634,5 +21634,14 @@
         "timestamp": 1696160110284,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "Ev930dfPpwCR8Zju": {
+        "id": "Ev930dfPpwCR8Zju",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Ilgreth",
+        "prompt": "Fantasy art Ilgreth human humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110285,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
