@@ -26656,5 +26656,14 @@
         "timestamp": 1696160111192,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Q2hwsj2uhZwm2kUM": {
+        "id": "Q2hwsj2uhZwm2kUM",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Hardwood Scamp",
+        "prompt": "Fantasy art Hardwood Scamp elemental plant Variant wood scamp in the style of Greg Rutkowski",
+        "timestamp": 1696160111192,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
