@@ -28105,5 +28105,14 @@
         "timestamp": 1696160111536,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mcoOsewoxkLKY5vD": {
+        "id": "mcoOsewoxkLKY5vD",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Sun Warrior Brigade",
+        "prompt": "Fantasy art Sun Warrior Brigade humanoid troop in the style of Greg Rutkowski",
+        "timestamp": 1696160111536,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
