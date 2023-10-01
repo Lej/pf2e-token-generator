@@ -22930,5 +22930,14 @@
         "timestamp": 1696160110384,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NQ6qRvpD9DIwVxt3": {
+        "id": "NQ6qRvpD9DIwVxt3",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Vampiric Mist",
+        "prompt": "Fantasy art Vampiric Mist aberration in the style of Greg Rutkowski",
+        "timestamp": 1696160110384,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
