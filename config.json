@@ -21391,5 +21391,14 @@
         "timestamp": 1696160110269,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kciXaXw31gHA3gZl": {
+        "id": "kciXaXw31gHA3gZl",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Jahsi",
+        "prompt": "Fantasy art Jahsi elf humanoid Male elf hero in the style of Greg Rutkowski",
+        "timestamp": 1696160110270,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
