@@ -28519,5 +28519,14 @@
         "timestamp": 1696160111555,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "0QsSJ1LbSRrmRgHL": {
+        "id": "0QsSJ1LbSRrmRgHL",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Reborn Sun Warrior",
+        "prompt": "Fantasy art Reborn Sun Warrior fire undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111555,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
