@@ -27106,5 +27106,14 @@
         "timestamp": 1696160111485,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OgaEYZJaxGXPnhcz": {
+        "id": "OgaEYZJaxGXPnhcz",
+        "compendium": "blood-lords-bestiary",
+        "name": "Afziaka Stalker",
+        "prompt": "Fantasy art Afziaka Stalker animal mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111485,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
