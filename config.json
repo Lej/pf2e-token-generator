@@ -32425,5 +32425,14 @@
         "timestamp": 1696160111760,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yw5hz4q8vn7S7aUF": {
+        "id": "yw5hz4q8vn7S7aUF",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Umbral Drake",
+        "prompt": "Fantasy art Umbral Drake dragon shadow Variant shadow drake in the style of Greg Rutkowski",
+        "timestamp": 1696160111761,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
