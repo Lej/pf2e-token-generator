@@ -32038,5 +32038,14 @@
         "timestamp": 1696160111747,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CIjBUkWnth0CE30k": {
+        "id": "CIjBUkWnth0CE30k",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Cog the Ruffian",
+        "prompt": "Fantasy art Cog the Ruffian humanoid ratfolk in the style of Greg Rutkowski",
+        "timestamp": 1696160111747,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
