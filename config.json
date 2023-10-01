@@ -21715,5 +21715,14 @@
         "timestamp": 1696160110328,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "YIXAcvSyI1C94r9l": {
+        "id": "YIXAcvSyI1C94r9l",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Zephyr Guard",
+        "prompt": "Fantasy art Zephyr Guard human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110328,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
