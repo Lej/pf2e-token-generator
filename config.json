@@ -32650,5 +32650,14 @@
         "timestamp": 1696160111768,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XxbdbTlnY0P3RU3h": {
+        "id": "XxbdbTlnY0P3RU3h",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Aspis Usurper",
+        "prompt": "Fantasy art Aspis Usurper human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111768,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
