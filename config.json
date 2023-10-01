@@ -32857,5 +32857,14 @@
         "timestamp": 1696160111789,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "d68XkPVTpU42q8Gj": {
+        "id": "d68XkPVTpU42q8Gj",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Mivanian Soldier",
+        "prompt": "Fantasy art Mivanian Soldier humanoid tengu Tengu soldier in the style of Greg Rutkowski",
+        "timestamp": 1696160111789,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
