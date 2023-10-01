@@ -27628,5 +27628,14 @@
         "timestamp": 1696160111512,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "IXPZR1DTdT7Tu7UG": {
+        "id": "IXPZR1DTdT7Tu7UG",
+        "compendium": "blood-lords-bestiary",
+        "name": "Bloodshroud",
+        "prompt": "Fantasy art Bloodshroud undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111513,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
