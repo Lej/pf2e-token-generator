@@ -26701,5 +26701,14 @@
         "timestamp": 1696160111193,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mfyZrC0GcyUcGZJK": {
+        "id": "mfyZrC0GcyUcGZJK",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Goldmonger",
+        "prompt": "Fantasy art Goldmonger humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111193,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
