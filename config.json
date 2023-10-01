@@ -29923,5 +29923,14 @@
         "timestamp": 1696160111667,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "ikcWmhEdL5G0s9T4": {
+        "id": "ikcWmhEdL5G0s9T4",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Painted Stag",
+        "prompt": "Fantasy art Painted Stag elemental plant wood in the style of Greg Rutkowski",
+        "timestamp": 1696160111667,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
