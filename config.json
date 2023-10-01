@@ -29770,5 +29770,14 @@
         "timestamp": 1696160111662,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "uEabVqGzN4TprwHw": {
+        "id": "uEabVqGzN4TprwHw",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Sootsoldiers",
+        "prompt": "Fantasy art Sootsoldiers elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1696160111662,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
