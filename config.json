@@ -27448,5 +27448,14 @@
         "timestamp": 1696160111502,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9yd6jVPcLusk4BX1": {
+        "id": "9yd6jVPcLusk4BX1",
+        "compendium": "blood-lords-bestiary",
+        "name": "Ancient Skaveling",
+        "prompt": "Fantasy art Ancient Skaveling undead Variant skaveling in the style of Greg Rutkowski",
+        "timestamp": 1696160111502,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
