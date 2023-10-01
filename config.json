@@ -32974,5 +32974,14 @@
         "timestamp": 1696160111798,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nBhR5WE7M1cp1fEm": {
+        "id": "nBhR5WE7M1cp1fEm",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Drustan",
+        "prompt": "Fantasy art Drustan human humanoid Male human tyrant in the style of Greg Rutkowski",
+        "timestamp": 1696160111798,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
