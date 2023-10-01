@@ -26755,5 +26755,14 @@
         "timestamp": 1696160111195,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fekKhpo6eACOsktu": {
+        "id": "fekKhpo6eACOsktu",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Bejeweled Rat Swarm",
+        "prompt": "Fantasy art Bejeweled Rat Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1696160111195,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
