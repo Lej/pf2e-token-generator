@@ -25828,5 +25828,14 @@
         "timestamp": 1696160110502,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Q3Z0rIINoWYxVSrS": {
+        "id": "Q3Z0rIINoWYxVSrS",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Corrupted Retainer",
+        "prompt": "Fantasy art Corrupted Retainer human humanoid Human hirelings in the style of Greg Rutkowski",
+        "timestamp": 1696160110502,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
