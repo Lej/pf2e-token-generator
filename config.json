@@ -28852,5 +28852,14 @@
         "timestamp": 1696160111571,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oy6o6rJbmpduNyvA": {
+        "id": "oy6o6rJbmpduNyvA",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Ravager Of Tindalos",
+        "prompt": "Fantasy art Ravager Of Tindalos aberration time Variant hound of Tindalos in the style of Greg Rutkowski",
+        "timestamp": 1696160111572,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
