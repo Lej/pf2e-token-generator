@@ -28276,5 +28276,14 @@
         "timestamp": 1696160111542,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4AQPyk3UaGjqmmXx": {
+        "id": "4AQPyk3UaGjqmmXx",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Tatterthread",
+        "prompt": "Fantasy art Tatterthread fey Variant norn rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111543,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
