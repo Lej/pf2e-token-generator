@@ -33154,5 +33154,14 @@
         "timestamp": 1696160111811,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "laVap7VG0MRaoQnO": {
+        "id": "laVap7VG0MRaoQnO",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Phasmadaemon",
+        "prompt": "Fantasy art Phasmadaemon daemon fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160111812,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
