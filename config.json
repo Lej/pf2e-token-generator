@@ -30085,5 +30085,14 @@
         "timestamp": 1696160111671,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EjgbrWiEp37eIifZ": {
+        "id": "EjgbrWiEp37eIifZ",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Wood Scamp",
+        "prompt": "Fantasy art Wood Scamp elemental plant wood in the style of Greg Rutkowski",
+        "timestamp": 1696160111671,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
