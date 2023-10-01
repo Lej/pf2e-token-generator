@@ -30625,5 +30625,14 @@
         "timestamp": 1696160111694,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2mq2bKfkW7gtxKla": {
+        "id": "2mq2bKfkW7gtxKla",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Blackfrost Zombie",
+        "prompt": "Fantasy art Blackfrost Zombie cold mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1696160111694,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
