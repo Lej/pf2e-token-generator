@@ -27826,5 +27826,14 @@
         "timestamp": 1696160111525,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fOklsDO2EB5CHuLF": {
+        "id": "fOklsDO2EB5CHuLF",
+        "compendium": "blood-lords-bestiary",
+        "name": "Bulette",
+        "prompt": "Fantasy art Bulette animal Variant Bulette in the style of Greg Rutkowski",
+        "timestamp": 1696160111525,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
