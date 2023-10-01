@@ -30832,5 +30832,14 @@
         "timestamp": 1696160111702,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9pu5FhW9oW1mZaaC": {
+        "id": "9pu5FhW9oW1mZaaC",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Capstan Swabbie",
+        "prompt": "Fantasy art Capstan Swabbie construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111702,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
