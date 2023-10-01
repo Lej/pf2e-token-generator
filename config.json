@@ -29797,5 +29797,14 @@
         "timestamp": 1696160111663,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EXiLRXbweiiMbTNk": {
+        "id": "EXiLRXbweiiMbTNk",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Coldmire Pond",
+        "prompt": "Fantasy art Coldmire Pond aquatic elemental water in the style of Greg Rutkowski",
+        "timestamp": 1696160111663,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
