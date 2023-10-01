@@ -25990,5 +25990,14 @@
         "timestamp": 1696160110509,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oJJspO9P2vDdtMYd": {
+        "id": "oJJspO9P2vDdtMYd",
+        "compendium": "extinction-curse-bestiary",
+        "name": "The Vanish Man",
+        "prompt": "Fantasy art The Vanish Man humanoid Variant faceless butcher in the style of Greg Rutkowski",
+        "timestamp": 1696160110510,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
