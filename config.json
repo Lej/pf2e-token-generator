@@ -28546,5 +28546,14 @@
         "timestamp": 1696160111556,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Z6BxAmAcOywNrwPE": {
+        "id": "Z6BxAmAcOywNrwPE",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Onyiji",
+        "prompt": "Fantasy art Onyiji human humanoid orc Female half-orc staff warrior in the style of Greg Rutkowski",
+        "timestamp": 1696160111556,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
