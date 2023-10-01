@@ -26647,5 +26647,14 @@
         "timestamp": 1696160111192,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CZ6Z15ofj8zlHcol": {
+        "id": "CZ6Z15ofj8zlHcol",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Hoarding Bat",
+        "prompt": "Fantasy art Hoarding Bat animal in the style of Greg Rutkowski",
+        "timestamp": 1696160111192,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
