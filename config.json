@@ -21886,5 +21886,14 @@
         "timestamp": 1696160110347,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "32HHvah2Ji6FjJnM": {
+        "id": "32HHvah2Ji6FjJnM",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Giant Squid",
+        "prompt": "Fantasy art Giant Squid animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1696160110347,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
