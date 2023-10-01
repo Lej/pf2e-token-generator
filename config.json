@@ -25801,5 +25801,14 @@
         "timestamp": 1696160110501,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "29NHB8DNNAbEk5Va": {
+        "id": "29NHB8DNNAbEk5Va",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Counteflora",
+        "prompt": "Fantasy art Counteflora plant in the style of Greg Rutkowski",
+        "timestamp": 1696160110501,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
