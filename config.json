@@ -27034,5 +27034,14 @@
         "timestamp": 1696160111481,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4yAbOWwebJGWRmt2": {
+        "id": "4yAbOWwebJGWRmt2",
+        "compendium": "blood-lords-bestiary",
+        "name": "Ghostly Mob",
+        "prompt": "Fantasy art Ghostly Mob ghost incorporeal troop undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111481,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
