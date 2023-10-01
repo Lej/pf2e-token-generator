@@ -29914,5 +29914,14 @@
         "timestamp": 1696160111667,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "D1WlR977uIedFwAr": {
+        "id": "D1WlR977uIedFwAr",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Lava Otter",
+        "prompt": "Fantasy art Lava Otter elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1696160111667,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
