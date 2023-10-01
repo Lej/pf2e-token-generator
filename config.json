@@ -29410,5 +29410,14 @@
         "timestamp": 1696160111599,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dwOxqAJibYABcbW0": {
+        "id": "dwOxqAJibYABcbW0",
+        "compendium": "night-of-the-gray-death-bestiary",
+        "name": "Guillotine Golem",
+        "prompt": "Fantasy art Guillotine Golem construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111641,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
