@@ -32344,5 +32344,14 @@
         "timestamp": 1696160111758,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gR4cLkgcor3Lp35F": {
+        "id": "gR4cLkgcor3Lp35F",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Bugbear Tormentor (PFS 3-13)",
+        "prompt": "Fantasy art Bugbear Tormentor goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111758,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
