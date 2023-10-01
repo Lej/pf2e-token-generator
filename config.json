@@ -28465,5 +28465,14 @@
         "timestamp": 1696160111552,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0WFxanYfGdS7DSEK": {
+        "id": "0WFxanYfGdS7DSEK",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Contemplative Mentor",
+        "prompt": "Fantasy art Contemplative Mentor aberration rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111553,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
