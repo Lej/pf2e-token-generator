@@ -9707,6 +9707,10 @@
         "F9BHPV16N4eEL0TP": {
             "actor": "modules/pf2e-ai-token-placeholders/images/age-of-ashes-bestiary/F9BHPV16N4eEL0TP/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/age-of-ashes-bestiary/F9BHPV16N4eEL0TP/token.webp"
+        },
+        "L4K4V09tQVXj7ZiI": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/age-of-ashes-bestiary/L4K4V09tQVXj7ZiI/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/age-of-ashes-bestiary/L4K4V09tQVXj7ZiI/token.webp"
         }
     }
 }

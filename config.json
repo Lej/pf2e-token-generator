@@ -21733,5 +21733,14 @@
         "timestamp": 1696160110329,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "L4K4V09tQVXj7ZiI": {
+        "id": "L4K4V09tQVXj7ZiI",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Dmiri Yoltosha",
+        "prompt": "Fantasy art Dmiri Yoltosha goblin humanoid Female hobgoblin ranger 4 in the style of Greg Rutkowski",
+        "timestamp": 1696160110329,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
