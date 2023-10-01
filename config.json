@@ -33118,5 +33118,14 @@
         "timestamp": 1696160111809,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cm2OW6wghO7xIC0R": {
+        "id": "cm2OW6wghO7xIC0R",
+        "compendium": "stolen-fate-bestiary",
+        "name": "The Wanderer",
+        "prompt": "Fantasy art The Wanderer construct Variant fabled harrowkin in the style of Greg Rutkowski",
+        "timestamp": 1696160111810,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
