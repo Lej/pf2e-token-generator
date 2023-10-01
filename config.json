@@ -23956,5 +23956,14 @@
         "timestamp": 1696160110420,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RknMXlwJcbvGhk3n": {
+        "id": "RknMXlwJcbvGhk3n",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Reef Octopus",
+        "prompt": "Fantasy art Reef Octopus animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1696160110420,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
