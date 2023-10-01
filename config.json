@@ -22480,5 +22480,14 @@
         "timestamp": 1696160110367,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OaNtHZAraCrVLuSo": {
+        "id": "OaNtHZAraCrVLuSo",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Mohrg",
+        "prompt": "Fantasy art Mohrg undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110367,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
