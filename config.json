@@ -20923,5 +20923,14 @@
         "timestamp": 1696160110245,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UQDxkvqXKg03ESTQ": {
+        "id": "UQDxkvqXKg03ESTQ",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Gerhard Pendergrast",
+        "prompt": "Fantasy art Gerhard Pendergrast human humanoid Male human explorer in the style of Greg Rutkowski",
+        "timestamp": 1696160110245,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
