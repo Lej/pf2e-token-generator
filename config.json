@@ -24982,5 +24982,14 @@
         "timestamp": 1696160110458,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "c4uQKZaRWv9n9IHo": {
+        "id": "c4uQKZaRWv9n9IHo",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Solar",
+        "prompt": "Fantasy art Solar angel celestial rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110459,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
