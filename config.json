@@ -32956,5 +32956,14 @@
         "timestamp": 1696160111796,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZBMuaCCbIdv8euNx": {
+        "id": "ZBMuaCCbIdv8euNx",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Fate\u2019s Prophet",
+        "prompt": "Fantasy art Fate\u2019s Prophet demon fiend Female succubus rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111797,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
