@@ -27439,5 +27439,14 @@
         "timestamp": 1696160111502,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6DRyViLYSsw2sYBy": {
+        "id": "6DRyViLYSsw2sYBy",
+        "compendium": "blood-lords-bestiary",
+        "name": "Seldeg's Steed",
+        "prompt": "Fantasy art Seldeg's Steed in the style of Greg Rutkowski",
+        "timestamp": 1696160111502,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
