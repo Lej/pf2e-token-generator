@@ -28672,5 +28672,14 @@
         "timestamp": 1696160111561,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "rJQx7C5BGqslgr4x": {
+        "id": "rJQx7C5BGqslgr4x",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Grave Karina",
+        "prompt": "Fantasy art Grave Karina beast fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160111561,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
