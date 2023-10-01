@@ -25747,5 +25747,14 @@
         "timestamp": 1696160110498,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "BsnU2Hf4a3MuXVPn": {
+        "id": "BsnU2Hf4a3MuXVPn",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Dyzallin's Golem",
+        "prompt": "Fantasy art Dyzallin's Golem construct golem mindless Variant adamantine golem in the style of Greg Rutkowski",
+        "timestamp": 1696160110498,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
