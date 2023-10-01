@@ -31192,5 +31192,14 @@
         "timestamp": 1696160111719,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nS4auasfEXEU0rtx": {
+        "id": "nS4auasfEXEU0rtx",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Onyx Alliance Scout",
+        "prompt": "Fantasy art Onyx Alliance Scout fetchling humanoid shadow in the style of Greg Rutkowski",
+        "timestamp": 1696160111719,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
