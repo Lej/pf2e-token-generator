@@ -31120,5 +31120,14 @@
         "timestamp": 1696160111717,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ffzfTw9KfaJopkCx": {
+        "id": "ffzfTw9KfaJopkCx",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Peryton (Heretical)",
+        "prompt": "Fantasy art Peryton Heretical beast in the style of Greg Rutkowski",
+        "timestamp": 1696160111717,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
