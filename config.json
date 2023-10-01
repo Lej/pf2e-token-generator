@@ -22633,5 +22633,14 @@
         "timestamp": 1696160110372,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8HJNH3aDTJyJi3pU": {
+        "id": "8HJNH3aDTJyJi3pU",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Cockroach Swarm",
+        "prompt": "Fantasy art Cockroach Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1696160110373,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
