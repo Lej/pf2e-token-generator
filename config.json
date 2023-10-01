@@ -26017,5 +26017,14 @@
         "timestamp": 1696160110511,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "i3kQzeKcSoxkNYJb": {
+        "id": "i3kQzeKcSoxkNYJb",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Evora Yarket",
+        "prompt": "Fantasy art Evora Yarket human humanoid orc Female half-orc mammoth trainer in the style of Greg Rutkowski",
+        "timestamp": 1696160110511,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
