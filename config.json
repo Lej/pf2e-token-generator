@@ -29788,5 +29788,14 @@
         "timestamp": 1696160111662,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "8cJlApaLdgZCxfWq": {
+        "id": "8cJlApaLdgZCxfWq",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Boreal, The North Wind",
+        "prompt": "Fantasy art Boreal, The North Wind air elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160111663,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
