@@ -23326,5 +23326,14 @@
         "timestamp": 1696160110399,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hmnNDCNV425MisdA": {
+        "id": "hmnNDCNV425MisdA",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Eremite",
+        "prompt": "Fantasy art Eremite fiend velstrac rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110399,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
