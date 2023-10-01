@@ -31921,5 +31921,14 @@
         "timestamp": 1696160111744,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qFzhrDwmnBhk4FyL": {
+        "id": "qFzhrDwmnBhk4FyL",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Skeleton Warrior",
+        "prompt": "Fantasy art Skeleton Warrior mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111744,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
