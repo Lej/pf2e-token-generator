@@ -30247,5 +30247,14 @@
         "timestamp": 1696160111678,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EHowgLz8ohFGTGvG": {
+        "id": "EHowgLz8ohFGTGvG",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Boiling Spring",
+        "prompt": "Fantasy art Boiling Spring aquatic elemental fire water in the style of Greg Rutkowski",
+        "timestamp": 1696160111678,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
