@@ -26773,5 +26773,14 @@
         "timestamp": 1696160111195,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "H5lFXWXFl7vKrugU": {
+        "id": "H5lFXWXFl7vKrugU",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Krosovahn Mendesil",
+        "prompt": "Fantasy art Krosovahn Mendesil human humanoid Variant Gang Leader in the style of Greg Rutkowski",
+        "timestamp": 1696160111196,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
