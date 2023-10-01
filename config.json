@@ -32191,5 +32191,14 @@
         "timestamp": 1696160111752,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QHDVWljImF5sRhX2": {
+        "id": "QHDVWljImF5sRhX2",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Drakauthix (PFS 3-15)",
+        "prompt": "Fantasy art Drakauthix fungus in the style of Greg Rutkowski",
+        "timestamp": 1696160111752,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
