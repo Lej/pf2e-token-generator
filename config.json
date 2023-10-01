@@ -25576,5 +25576,14 @@
         "timestamp": 1696160110490,
         "seed": 1024,
         "used_seed": 1030
+    },
+    "Sxip3Rmi0PFpzHNw": {
+        "id": "Sxip3Rmi0PFpzHNw",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Convergent Giant Eagle",
+        "prompt": "Fantasy art Convergent Giant Eagle beast Variant giant eagle in the style of Greg Rutkowski",
+        "timestamp": 1696160110490,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
