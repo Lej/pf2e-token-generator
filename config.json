@@ -31264,5 +31264,14 @@
         "timestamp": 1696160111722,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FfhpuXIxjhWGVnv2": {
+        "id": "FfhpuXIxjhWGVnv2",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Ninth Army Soldier",
+        "prompt": "Fantasy art Ninth Army Soldier human humanoid Variant bounty hunter in the style of Greg Rutkowski",
+        "timestamp": 1696160111722,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
