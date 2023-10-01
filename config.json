@@ -28411,5 +28411,14 @@
         "timestamp": 1696160111550,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gIixylfr1NtCRdcK": {
+        "id": "gIixylfr1NtCRdcK",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Screaming Sulfur",
+        "prompt": "Fantasy art Screaming Sulfur incorporeal spirit in the style of Greg Rutkowski",
+        "timestamp": 1696160111550,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
