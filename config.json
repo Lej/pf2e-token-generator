@@ -25756,5 +25756,14 @@
         "timestamp": 1696160110498,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "1vOre5O8t3pQPUp6": {
+        "id": "1vOre5O8t3pQPUp6",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Herecite of Zevgavizeb",
+        "prompt": "Fantasy art Herecite of Zevgavizeb undead rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110499,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
