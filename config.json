@@ -21976,5 +21976,14 @@
         "timestamp": 1696160110349,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "h4SZ3U9at7aT0ASv": {
+        "id": "h4SZ3U9at7aT0ASv",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Spirit Naga",
+        "prompt": "Fantasy art Spirit Naga aberration rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110350,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
