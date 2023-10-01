@@ -20788,5 +20788,14 @@
         "timestamp": 1696160110141,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fhItdltCmcAZkvcI": {
+        "id": "fhItdltCmcAZkvcI",
+        "compendium": "troubles-in-otari-bestiary",
+        "name": "Kobold Trapmaster",
+        "prompt": "Fantasy art Kobold Trapmaster humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1696160110142,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
