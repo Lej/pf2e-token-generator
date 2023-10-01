@@ -32245,5 +32245,14 @@
         "timestamp": 1696160111754,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "byhh6wysf9MdM7LM": {
+        "id": "byhh6wysf9MdM7LM",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Ninth Army Guard",
+        "prompt": "Fantasy art Ninth Army Guard human humanoid Variant Guard in the style of Greg Rutkowski",
+        "timestamp": 1696160111754,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
