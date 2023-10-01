@@ -32461,5 +32461,14 @@
         "timestamp": 1696160111761,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "p0RvcmcEe8zfoMkT": {
+        "id": "p0RvcmcEe8zfoMkT",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Hellbound Rogue",
+        "prompt": "Fantasy art Hellbound Rogue devil fiend human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111761,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
