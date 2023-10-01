@@ -32200,5 +32200,14 @@
         "timestamp": 1696160111752,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ce5z95Z1twvMCsw9": {
+        "id": "Ce5z95Z1twvMCsw9",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Arabuk Yearling",
+        "prompt": "Fantasy art Arabuk Yearling animal in the style of Greg Rutkowski",
+        "timestamp": 1696160111752,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
