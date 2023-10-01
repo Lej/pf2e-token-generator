@@ -23371,5 +23371,14 @@
         "timestamp": 1696160110400,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "W1OXnXGF22uybovO": {
+        "id": "W1OXnXGF22uybovO",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Taiga Giant",
+        "prompt": "Fantasy art Taiga Giant giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110401,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
