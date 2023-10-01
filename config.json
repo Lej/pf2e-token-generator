@@ -24343,5 +24343,14 @@
         "timestamp": 1696160110434,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "prNJZOU8tdRIZITT": {
+        "id": "prNJZOU8tdRIZITT",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Doprillu",
+        "prompt": "Fantasy art Doprillu aberration in the style of Greg Rutkowski",
+        "timestamp": 1696160110434,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
