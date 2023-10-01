@@ -20797,5 +20797,14 @@
         "timestamp": 1696160110142,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "m4jitI3J1QkjJq3H": {
+        "id": "m4jitI3J1QkjJq3H",
+        "compendium": "troubles-in-otari-bestiary",
+        "name": "Omblin Leadbuster",
+        "prompt": "Fantasy art Omblin Leadbuster dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110142,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
