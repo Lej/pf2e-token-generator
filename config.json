@@ -25513,5 +25513,14 @@
         "timestamp": 1696160110486,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qKHkamxIPbqxEiwp": {
+        "id": "qKHkamxIPbqxEiwp",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Delamar Gianvin",
+        "prompt": "Fantasy art Delamar Gianvin human humanoid Male human agitator in the style of Greg Rutkowski",
+        "timestamp": 1696160110486,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
