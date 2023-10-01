@@ -29041,5 +29041,14 @@
         "timestamp": 1696160111577,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "rtEPMrf6yPf8lsHp": {
+        "id": "rtEPMrf6yPf8lsHp",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Kreekoss",
+        "prompt": "Fantasy art Kreekoss beast fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160111577,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
