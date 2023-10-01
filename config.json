@@ -27898,5 +27898,14 @@
         "timestamp": 1696160111528,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TV3BSvxoG8p1fe0k": {
+        "id": "TV3BSvxoG8p1fe0k",
+        "compendium": "blood-lords-bestiary",
+        "name": "Urglid",
+        "prompt": "Fantasy art Urglid demon fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111529,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
