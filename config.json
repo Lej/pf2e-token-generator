@@ -24001,5 +24001,14 @@
         "timestamp": 1696160110421,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "T9vzmpvpRL5xjrhd": {
+        "id": "T9vzmpvpRL5xjrhd",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Giant Badger",
+        "prompt": "Fantasy art Giant Badger animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110421,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
