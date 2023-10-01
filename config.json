@@ -30436,5 +30436,14 @@
         "timestamp": 1696160111685,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lQcfACi4RQrjIl5S": {
+        "id": "lQcfACi4RQrjIl5S",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Elemental Thicket",
+        "prompt": "Fantasy art Elemental Thicket elemental plant wood in the style of Greg Rutkowski",
+        "timestamp": 1696160111685,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
