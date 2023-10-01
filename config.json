@@ -21571,5 +21571,14 @@
         "timestamp": 1696160110281,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "z4rlpEsE2KgzpOCc": {
+        "id": "z4rlpEsE2KgzpOCc",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Remnant of Barzillai",
+        "prompt": "Fantasy art Remnant of Barzillai incorporeal undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110281,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
