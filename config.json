@@ -26179,5 +26179,14 @@
         "timestamp": 1696160110516,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RIZDryL3Wnk6ucks": {
+        "id": "RIZDryL3Wnk6ucks",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Luminous Ooze",
+        "prompt": "Fantasy art Luminous Ooze mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1696160110517,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
