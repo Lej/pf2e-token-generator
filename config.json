@@ -27124,5 +27124,14 @@
         "timestamp": 1696160111485,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "k8NnItW7Hp79bg26": {
+        "id": "k8NnItW7Hp79bg26",
+        "compendium": "blood-lords-bestiary",
+        "name": "Cobblebone Swarm",
+        "prompt": "Fantasy art Cobblebone Swarm earth swarm undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111486,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
