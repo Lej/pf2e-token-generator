@@ -29491,5 +29491,14 @@
         "timestamp": 1696160111646,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "H2yR0dc1ztkwvOQl": {
+        "id": "H2yR0dc1ztkwvOQl",
+        "compendium": "night-of-the-gray-death-bestiary",
+        "name": "Gray Death",
+        "prompt": "Fantasy art Gray Death incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111646,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
