@@ -21499,5 +21499,14 @@
         "timestamp": 1696160110277,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NrMgYvnIHFxeFEhX": {
+        "id": "NrMgYvnIHFxeFEhX",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Dalos",
+        "prompt": "Fantasy art Dalos earth fey fire in the style of Greg Rutkowski",
+        "timestamp": 1696160110277,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
