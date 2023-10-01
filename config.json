@@ -27925,5 +27925,14 @@
         "timestamp": 1696160111529,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "I9Nn9RsYdovSFiD6": {
+        "id": "I9Nn9RsYdovSFiD6",
+        "compendium": "blood-lords-bestiary",
+        "name": "Skull Fairy",
+        "prompt": "Fantasy art Skull Fairy shadow in the style of Greg Rutkowski",
+        "timestamp": 1696160111529,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
