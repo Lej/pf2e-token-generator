@@ -21850,5 +21850,14 @@
         "timestamp": 1696160110346,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OERK0GGnaEOthcdV": {
+        "id": "OERK0GGnaEOthcdV",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Cave Fisher",
+        "prompt": "Fantasy art Cave Fisher animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110346,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
