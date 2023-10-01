@@ -20860,5 +20860,14 @@
         "timestamp": 1696160110145,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MTI298bhLGYktyZX": {
+        "id": "MTI298bhLGYktyZX",
+        "compendium": "troubles-in-otari-bestiary",
+        "name": "Orc Scrapper",
+        "prompt": "Fantasy art Orc Scrapper humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1696160110146,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
