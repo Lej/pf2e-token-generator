@@ -31345,5 +31345,14 @@
         "timestamp": 1696160111725,
         "seed": 1024,
         "used_seed": 1027
+    },
+    "qd6yO0nBdmoz8Fl2": {
+        "id": "qd6yO0nBdmoz8Fl2",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Cole Farsen, Advisor",
+        "prompt": "Fantasy art Cole Farsen, Advisor human humanoid Variant advisor in the style of Greg Rutkowski",
+        "timestamp": 1696160111726,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
