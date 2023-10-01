@@ -22615,5 +22615,14 @@
         "timestamp": 1696160110372,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6jqnHzjmJ190G8Zj": {
+        "id": "6jqnHzjmJ190G8Zj",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Yeth Hound",
+        "prompt": "Fantasy art Yeth Hound beast fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160110372,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
