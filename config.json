@@ -30778,5 +30778,14 @@
         "timestamp": 1696160111700,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NeNIMJO0P1KA8KCM": {
+        "id": "NeNIMJO0P1KA8KCM",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Demontangle",
+        "prompt": "Fantasy art Demontangle aberration CE variant gibbering mouther in the style of Greg Rutkowski",
+        "timestamp": 1696160111700,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
