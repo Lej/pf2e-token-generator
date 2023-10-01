@@ -20896,5 +20896,14 @@
         "timestamp": 1696160110244,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "L7IJO5z82nEN9IjM": {
+        "id": "L7IJO5z82nEN9IjM",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Lazurite-Infused Stone Golem",
+        "prompt": "Fantasy art Lazurite-Infused Stone Golem construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160110244,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
