@@ -27952,5 +27952,14 @@
         "timestamp": 1696160111530,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "p6wud30R7C5OAFGz": {
+        "id": "p6wud30R7C5OAFGz",
+        "compendium": "blood-lords-bestiary",
+        "name": "Ghast Outlaw",
+        "prompt": "Fantasy art Ghast Outlaw ghoul undead Ghast criminal in the style of Greg Rutkowski",
+        "timestamp": 1696160111531,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
