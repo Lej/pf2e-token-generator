@@ -21508,5 +21508,14 @@
         "timestamp": 1696160110277,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YdLf7y2ZHudpjWx9": {
+        "id": "YdLf7y2ZHudpjWx9",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Living Sap",
+        "prompt": "Fantasy art Living Sap mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1696160110277,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
