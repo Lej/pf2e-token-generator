@@ -32290,5 +32290,14 @@
         "timestamp": 1696160111755,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HtrdSWlJzDf7dMOO": {
+        "id": "HtrdSWlJzDf7dMOO",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Hellbound Robber",
+        "prompt": "Fantasy art Hellbound Robber devil fiend human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111755,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
