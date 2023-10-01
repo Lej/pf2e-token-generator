@@ -30931,5 +30931,14 @@
         "timestamp": 1696160111706,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eRRWMgdYHwNIm6zp": {
+        "id": "eRRWMgdYHwNIm6zp",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Aspect of Ruun",
+        "prompt": "Fantasy art Aspect of Ruun beast incorporeal spirit Variant stone-breasted owl in the style of Greg Rutkowski",
+        "timestamp": 1696160111706,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
