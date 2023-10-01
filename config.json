@@ -30265,5 +30265,14 @@
         "timestamp": 1696160111678,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kzczIOOaDfPlFc03": {
+        "id": "kzczIOOaDfPlFc03",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Lithic Locus",
+        "prompt": "Fantasy art Lithic Locus construct earth elemental spirit in the style of Greg Rutkowski",
+        "timestamp": 1696160111678,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
