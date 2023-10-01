@@ -27223,5 +27223,14 @@
         "timestamp": 1696160111491,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Kq2dxvP4wqJJVzBr": {
+        "id": "Kq2dxvP4wqJJVzBr",
+        "compendium": "blood-lords-bestiary",
+        "name": "Meat Guardian",
+        "prompt": "Fantasy art Meat Guardian construct divine golem mindless Divine warden carrion golem in the style of Greg Rutkowski",
+        "timestamp": 1696160111491,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
