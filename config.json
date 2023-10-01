@@ -30850,5 +30850,14 @@
         "timestamp": 1696160111703,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kneoApQfhlRhhp1R": {
+        "id": "kneoApQfhlRhhp1R",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Oaksteward Enforcer",
+        "prompt": "Fantasy art Oaksteward Enforcer human humanoid Human druid in the style of Greg Rutkowski",
+        "timestamp": 1696160111703,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
