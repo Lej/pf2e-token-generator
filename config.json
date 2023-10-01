@@ -26476,5 +26476,14 @@
         "timestamp": 1696160110609,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "n82GZhM6joceE91v": {
+        "id": "n82GZhM6joceE91v",
+        "compendium": "kingmaker-bestiary",
+        "name": "Ilthuliak",
+        "prompt": "Fantasy art Ilthuliak acid amphibious dragon Variant female black dragon in the style of Greg Rutkowski",
+        "timestamp": 1696160110623,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
