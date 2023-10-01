@@ -32227,5 +32227,14 @@
         "timestamp": 1696160111753,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kTsUEbM3JkhT5VZM": {
+        "id": "kTsUEbM3JkhT5VZM",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Sandswept Statue",
+        "prompt": "Fantasy art Sandswept Statue construct earth mindless Variant animated statue in the style of Greg Rutkowski",
+        "timestamp": 1696160111754,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
