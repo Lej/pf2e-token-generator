@@ -22876,5 +22876,14 @@
         "timestamp": 1696160110383,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MCZgXBC0I4Oovcjd": {
+        "id": "MCZgXBC0I4Oovcjd",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Giant Wolverine",
+        "prompt": "Fantasy art Giant Wolverine animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110383,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
