@@ -20716,5 +20716,14 @@
         "timestamp": 1696160110139,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "L9Gg91HVIzYANuXK": {
+        "id": "L9Gg91HVIzYANuXK",
+        "compendium": "blog-bestiary",
+        "name": "Lisavet",
+        "prompt": "Fantasy art Lisavet human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110139,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
