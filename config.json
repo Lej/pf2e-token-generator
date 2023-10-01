@@ -32668,5 +32668,14 @@
         "timestamp": 1696160111768,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zUbfyAyNN4aYLQKA": {
+        "id": "zUbfyAyNN4aYLQKA",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Khisisi (5-6)",
+        "prompt": "Fantasy art Khisisi mummy undead Elite mummy guardian in the style of Greg Rutkowski",
+        "timestamp": 1696160111769,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
