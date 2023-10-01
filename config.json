@@ -31012,5 +31012,14 @@
         "timestamp": 1696160111713,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "S9v8OCktGEL0k6sC": {
+        "id": "S9v8OCktGEL0k6sC",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Cinder Rat (Ashgrip)",
+        "prompt": "Fantasy art Cinder Rat Ashgrip elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1696160111713,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
