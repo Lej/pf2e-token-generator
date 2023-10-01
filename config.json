@@ -26233,5 +26233,14 @@
         "timestamp": 1696160110518,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WOeSP1KLzo0qTpZu": {
+        "id": "WOeSP1KLzo0qTpZu",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Chimpanzee Visitant",
+        "prompt": "Fantasy art Chimpanzee Visitant animal undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110518,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
