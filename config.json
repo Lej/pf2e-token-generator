@@ -22075,5 +22075,14 @@
         "timestamp": 1696160110354,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FMU6L5vbiUxa1ZF7": {
+        "id": "FMU6L5vbiUxa1ZF7",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Kelpie",
+        "prompt": "Fantasy art Kelpie amphibious fey in the style of Greg Rutkowski",
+        "timestamp": 1696160110354,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
