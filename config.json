@@ -25144,5 +25144,14 @@
         "timestamp": 1696160110464,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bAaVfrdNLfFh7iHv": {
+        "id": "bAaVfrdNLfFh7iHv",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Basidirond",
+        "prompt": "Fantasy art Basidirond fungus mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160110465,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
