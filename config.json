@@ -28960,5 +28960,14 @@
         "timestamp": 1696160111575,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lJUypzAZrt4OQUjv": {
+        "id": "lJUypzAZrt4OQUjv",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Terwa Chosen",
+        "prompt": "Fantasy art Terwa Chosen humanoid lizardfolk in the style of Greg Rutkowski",
+        "timestamp": 1696160111575,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
