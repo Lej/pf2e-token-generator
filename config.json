@@ -32362,5 +32362,14 @@
         "timestamp": 1696160111758,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "h65eZJq6Iie69zLD": {
+        "id": "h65eZJq6Iie69zLD",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Bloody Barber Ambusher",
+        "prompt": "Fantasy art Bloody Barber Ambusher human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111759,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
