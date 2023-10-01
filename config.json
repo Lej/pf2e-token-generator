@@ -25963,5 +25963,14 @@
         "timestamp": 1696160110508,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2PxSX2cqEbSFjj3D": {
+        "id": "2PxSX2cqEbSFjj3D",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Aukashungi Swarm",
+        "prompt": "Fantasy art Aukashungi Swarm aberration amphibious swarm in the style of Greg Rutkowski",
+        "timestamp": 1696160110508,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
