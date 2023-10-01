@@ -28258,5 +28258,14 @@
         "timestamp": 1696160111542,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tvDUeXGTZWKUHr3V": {
+        "id": "tvDUeXGTZWKUHr3V",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Kilia Mwibo",
+        "prompt": "Fantasy art Kilia Mwibo plant in the style of Greg Rutkowski",
+        "timestamp": 1696160111542,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
