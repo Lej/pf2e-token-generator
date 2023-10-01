@@ -29167,5 +29167,14 @@
         "timestamp": 1696160111583,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aGRGTryl2gymNRHS": {
+        "id": "aGRGTryl2gymNRHS",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Dajermube",
+        "prompt": "Fantasy art Dajermube incorporeal spirit undead Female elite nemhaith in the style of Greg Rutkowski",
+        "timestamp": 1696160111583,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
