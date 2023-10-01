@@ -11982,5 +11982,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-5-bestiary/fY2KwMmfdKUtkCvx/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-5-bestiary/fY2KwMmfdKUtkCvx/token.webp"
         }
+    },
+    "blood-lords-bestiary": {
+        "0a2d830uaGnBN2OS": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/blood-lords-bestiary/0a2d830uaGnBN2OS/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/blood-lords-bestiary/0a2d830uaGnBN2OS/token.webp"
+        }
     }
 }

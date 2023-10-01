@@ -26827,5 +26827,14 @@
         "timestamp": 1696160111197,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0a2d830uaGnBN2OS": {
+        "id": "0a2d830uaGnBN2OS",
+        "compendium": "blood-lords-bestiary",
+        "name": "Ghoul Razorclaw",
+        "prompt": "Fantasy art Ghoul Razorclaw ghoul undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111470,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
