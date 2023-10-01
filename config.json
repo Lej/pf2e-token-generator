@@ -31543,5 +31543,14 @@
         "timestamp": 1696160111732,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "mZ2bmxg4JcVh1p2k": {
+        "id": "mZ2bmxg4JcVh1p2k",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Rampaging Roast (Well Done)",
+        "prompt": "Fantasy art Rampaging Roast Well Done construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111732,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
