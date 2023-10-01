@@ -32146,5 +32146,14 @@
         "timestamp": 1696160111751,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "m1bVKRXsSXnBNka5": {
+        "id": "m1bVKRXsSXnBNka5",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Elite Hieracosphinx (PFS 3-14)",
+        "prompt": "Fantasy art Elite Hieracosphinx beast in the style of Greg Rutkowski",
+        "timestamp": 1696160111751,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
