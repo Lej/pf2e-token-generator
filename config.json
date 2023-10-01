@@ -23587,5 +23587,14 @@
         "timestamp": 1696160110408,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "g1htYgARxNKxc7MV": {
+        "id": "g1htYgARxNKxc7MV",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Giant Slug",
+        "prompt": "Fantasy art Giant Slug animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110408,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
