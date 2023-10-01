@@ -30022,5 +30022,14 @@
         "timestamp": 1696160111670,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vM6zlGT02raJqPTu": {
+        "id": "vM6zlGT02raJqPTu",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Despairing Pall",
+        "prompt": "Fantasy art Despairing Pall air elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160111670,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
