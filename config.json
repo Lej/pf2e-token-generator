@@ -30724,5 +30724,14 @@
         "timestamp": 1696160111698,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Yy2DDehhj47BMWgP": {
+        "id": "Yy2DDehhj47BMWgP",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Blackfrost Guecubu",
+        "prompt": "Fantasy art Blackfrost Guecubu cold earth undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111698,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
