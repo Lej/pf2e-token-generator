@@ -29446,5 +29446,14 @@
         "timestamp": 1696160111643,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vgWT4zQJkohRkuSI": {
+        "id": "vgWT4zQJkohRkuSI",
+        "compendium": "night-of-the-gray-death-bestiary",
+        "name": "Conqueror Worm",
+        "prompt": "Fantasy art Conqueror Worm aberration in the style of Greg Rutkowski",
+        "timestamp": 1696160111644,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
