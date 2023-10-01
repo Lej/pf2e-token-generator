@@ -29950,5 +29950,14 @@
         "timestamp": 1696160111668,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XL7B63sTgdDJPbVQ": {
+        "id": "XL7B63sTgdDJPbVQ",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Ifrit Shuyookh",
+        "prompt": "Fantasy art Ifrit Shuyookh elemental fire genie in the style of Greg Rutkowski",
+        "timestamp": 1696160111668,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
