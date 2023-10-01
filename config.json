@@ -29536,5 +29536,14 @@
         "timestamp": 1696160111648,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "OVpZhrhP87gQiLGO": {
+        "id": "OVpZhrhP87gQiLGO",
+        "compendium": "night-of-the-gray-death-bestiary",
+        "name": "Chakanaj",
+        "prompt": "Fantasy art Chakanaj fiend sahkil in the style of Greg Rutkowski",
+        "timestamp": 1696160111648,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
