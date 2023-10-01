@@ -24793,5 +24793,14 @@
         "timestamp": 1696160110451,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Y1lwEf06O1ijOnwt": {
+        "id": "Y1lwEf06O1ijOnwt",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Augnagar",
+        "prompt": "Fantasy art Augnagar fiend qlippoth in the style of Greg Rutkowski",
+        "timestamp": 1696160110452,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
