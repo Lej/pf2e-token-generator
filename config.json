@@ -32749,5 +32749,14 @@
         "timestamp": 1696160111772,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HOQG0wl3ZtqS2j4v": {
+        "id": "HOQG0wl3ZtqS2j4v",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Weak Hell Hound (PFS 3-07)",
+        "prompt": "Fantasy art Weak Hell Hound beast fiend fire Variant Weak hell hound in the style of Greg Rutkowski",
+        "timestamp": 1696160111772,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
