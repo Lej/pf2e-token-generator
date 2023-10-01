@@ -28402,5 +28402,14 @@
         "timestamp": 1696160111549,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LZTr8YH6JGRGc8Fz": {
+        "id": "LZTr8YH6JGRGc8Fz",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Bramblehand Champion Construct",
+        "prompt": "Fantasy art Bramblehand Champion Construct construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111550,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
