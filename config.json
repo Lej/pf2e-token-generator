@@ -29815,5 +29815,14 @@
         "timestamp": 1696160111663,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ki7r3AMO0lROqzcK": {
+        "id": "ki7r3AMO0lROqzcK",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Gluttonous Geode",
+        "prompt": "Fantasy art Gluttonous Geode earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160111664,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
