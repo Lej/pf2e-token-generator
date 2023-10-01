@@ -26377,5 +26377,14 @@
         "timestamp": 1696160110524,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jwcMb71QRhMw94Id": {
+        "id": "jwcMb71QRhMw94Id",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Convergent Kendley Nathrael",
+        "prompt": "Fantasy art Convergent Kendley Nathrael elf human humanoid Female half-elf afflicted guard captain in the style of Greg Rutkowski",
+        "timestamp": 1696160110525,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
