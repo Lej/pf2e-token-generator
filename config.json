@@ -28627,5 +28627,14 @@
         "timestamp": 1696160111560,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "1EvapUGyK4aG29Co": {
+        "id": "1EvapUGyK4aG29Co",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Mashkudu The Bully",
+        "prompt": "Fantasy art Mashkudu The Bully human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111560,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
