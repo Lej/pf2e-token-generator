@@ -30490,5 +30490,14 @@
         "timestamp": 1696160111689,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DWT0VLHV9MCbbjbx": {
+        "id": "DWT0VLHV9MCbbjbx",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Stone-Breasted Owl",
+        "prompt": "Fantasy art Stone-Breasted Owl beast incorporeal spirit in the style of Greg Rutkowski",
+        "timestamp": 1696160111689,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
