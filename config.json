@@ -26350,5 +26350,14 @@
         "timestamp": 1696160110523,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4lJiW36oO2iG7jCB": {
+        "id": "4lJiW36oO2iG7jCB",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Xulgath Deepmouth",
+        "prompt": "Fantasy art Xulgath Deepmouth humanoid xulgath rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110524,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
