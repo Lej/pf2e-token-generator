@@ -21949,5 +21949,14 @@
         "timestamp": 1696160110348,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wBGUIPJMm9Van9GQ": {
+        "id": "wBGUIPJMm9Van9GQ",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Ice Yai",
+        "prompt": "Fantasy art Ice Yai cold fiend giant humanoid oni in the style of Greg Rutkowski",
+        "timestamp": 1696160110349,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
