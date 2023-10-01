@@ -10421,6 +10421,10 @@
         "hmnNDCNV425MisdA": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/hmnNDCNV425MisdA/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/hmnNDCNV425MisdA/token.webp"
+        },
+        "N3XfcwDn1Nu7milG": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/N3XfcwDn1Nu7milG/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/N3XfcwDn1Nu7milG/token.webp"
         }
     }
 }

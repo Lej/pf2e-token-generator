@@ -23335,5 +23335,14 @@
         "timestamp": 1696160110399,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "N3XfcwDn1Nu7milG": {
+        "id": "N3XfcwDn1Nu7milG",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Icewyrm",
+        "prompt": "Fantasy art Icewyrm amphibious cold elemental water in the style of Greg Rutkowski",
+        "timestamp": 1696160110399,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
