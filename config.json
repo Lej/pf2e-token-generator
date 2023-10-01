@@ -31255,5 +31255,14 @@
         "timestamp": 1696160111721,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xiBVzPUwh1QI2lIs": {
+        "id": "xiBVzPUwh1QI2lIs",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Eltha Embercall (9-10)",
+        "prompt": "Fantasy art Eltha Embercall dwarf in the style of Greg Rutkowski",
+        "timestamp": 1696160111722,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
