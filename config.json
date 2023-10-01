@@ -28807,5 +28807,14 @@
         "timestamp": 1696160111569,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9J0htPG44kLwWFcj": {
+        "id": "9J0htPG44kLwWFcj",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Kiru",
+        "prompt": "Fantasy art Kiru elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111570,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
