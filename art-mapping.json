@@ -11679,6 +11679,10 @@
         "rxGByemLAAeM4h29": {
             "actor": "modules/pf2e-ai-token-placeholders/images/extinction-curse-bestiary/rxGByemLAAeM4h29/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/extinction-curse-bestiary/rxGByemLAAeM4h29/token.webp"
+        },
+        "BORxkpaFBSCyB1f1": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/extinction-curse-bestiary/BORxkpaFBSCyB1f1/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/extinction-curse-bestiary/BORxkpaFBSCyB1f1/token.webp"
         }
     }
 }

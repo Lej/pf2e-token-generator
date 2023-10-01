@@ -26161,5 +26161,14 @@
         "timestamp": 1696160110516,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BORxkpaFBSCyB1f1": {
+        "id": "BORxkpaFBSCyB1f1",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Tallow Ooze",
+        "prompt": "Fantasy art Tallow Ooze mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1696160110516,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
