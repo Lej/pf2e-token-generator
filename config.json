@@ -22138,5 +22138,14 @@
         "timestamp": 1696160110357,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DC9b8mG1KdyXZkLp": {
+        "id": "DC9b8mG1KdyXZkLp",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Calathgar",
+        "prompt": "Fantasy art Calathgar cold plant in the style of Greg Rutkowski",
+        "timestamp": 1696160110357,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
