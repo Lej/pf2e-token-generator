@@ -20626,5 +20626,14 @@
         "timestamp": 1696160110136,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "8Cbj8BtyRDerg4Lf": {
+        "id": "8Cbj8BtyRDerg4Lf",
+        "compendium": "blog-bestiary",
+        "name": "Blarghest",
+        "prompt": "Fantasy art Blarghest fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160110136,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
