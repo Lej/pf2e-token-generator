@@ -32074,5 +32074,14 @@
         "timestamp": 1696160111748,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MQMfOX5h2OgJrhm6": {
+        "id": "MQMfOX5h2OgJrhm6",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Uncle Jeb (3-4)",
+        "prompt": "Fantasy art Uncle Jeb human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111749,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
