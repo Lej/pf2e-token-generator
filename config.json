@@ -33055,5 +33055,14 @@
         "timestamp": 1696160111804,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "31xsWAhXQnk2jfIx": {
+        "id": "31xsWAhXQnk2jfIx",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Xiuli Cachu",
+        "prompt": "Fantasy art Xiuli Cachu humanoid Female morlock priest of Lamashtu in the style of Greg Rutkowski",
+        "timestamp": 1696160111805,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
