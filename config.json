@@ -20752,5 +20752,14 @@
         "timestamp": 1696160110140,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "uPeDOylL6zsZKSIs": {
+        "id": "uPeDOylL6zsZKSIs",
+        "compendium": "blog-bestiary",
+        "name": "Goblin Zombie",
+        "prompt": "Fantasy art Goblin Zombie mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1696160110140,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
