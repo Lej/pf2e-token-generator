@@ -31732,5 +31732,14 @@
         "timestamp": 1696160111738,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9RI0biNpRaZBU1de": {
+        "id": "9RI0biNpRaZBU1de",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Flaming Animated Armor (Ashgrip) (1-2)",
+        "prompt": "Fantasy art Flaming Animated Armor Ashgrip construct mindless Variant animated armor in the style of Greg Rutkowski",
+        "timestamp": 1696160111738,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
