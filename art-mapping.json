@@ -12809,6 +12809,10 @@
         "rJQx7C5BGqslgr4x": {
             "actor": "modules/pf2e-ai-token-placeholders/images/strength-of-thousands-bestiary/rJQx7C5BGqslgr4x/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/strength-of-thousands-bestiary/rJQx7C5BGqslgr4x/token.webp"
+        },
+        "pJiD1DAiCFdVvnys": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/strength-of-thousands-bestiary/pJiD1DAiCFdVvnys/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/strength-of-thousands-bestiary/pJiD1DAiCFdVvnys/token.webp"
         }
     }
 }
