@@ -28591,5 +28591,14 @@
         "timestamp": 1696160111558,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bhmO8fRIHvD7b1lk": {
+        "id": "bhmO8fRIHvD7b1lk",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Fire-pot Ubanu",
+        "prompt": "Fantasy art Fire-pot Ubanu human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111559,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
