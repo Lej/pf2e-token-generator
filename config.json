@@ -21256,5 +21256,14 @@
         "timestamp": 1696160110262,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "X4oeJnv1KcpHFO6i": {
+        "id": "X4oeJnv1KcpHFO6i",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Xotani, The Firebleeder",
+        "prompt": "Fantasy art Xotani, The Firebleeder beast fire in the style of Greg Rutkowski",
+        "timestamp": 1696160110262,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
