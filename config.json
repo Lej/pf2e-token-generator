@@ -27520,5 +27520,14 @@
         "timestamp": 1696160111507,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1YdRAByWMiyUIXwt": {
+        "id": "1YdRAByWMiyUIXwt",
+        "compendium": "blood-lords-bestiary",
+        "name": "Princess Kerinza",
+        "prompt": "Fantasy art Princess Kerinza construct soulbound Variant soulbound doll in the style of Greg Rutkowski",
+        "timestamp": 1696160111507,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
