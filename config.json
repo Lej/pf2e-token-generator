@@ -25225,5 +25225,14 @@
         "timestamp": 1696160110470,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "beb9LqlOBFseROnY": {
+        "id": "beb9LqlOBFseROnY",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Adrivallo",
+        "prompt": "Fantasy art Adrivallo fey Male satyr sideshow barker in the style of Greg Rutkowski",
+        "timestamp": 1696160110470,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
