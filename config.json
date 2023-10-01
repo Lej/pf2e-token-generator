@@ -25819,5 +25819,14 @@
         "timestamp": 1696160110501,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Plig7vUF9cEY1VBJ": {
+        "id": "Plig7vUF9cEY1VBJ",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Lakkai One-Fang",
+        "prompt": "Fantasy art Lakkai One-Fang humanoid xulgath Female xulgath leader in the style of Greg Rutkowski",
+        "timestamp": 1696160110502,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
