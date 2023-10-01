@@ -25405,5 +25405,14 @@
         "timestamp": 1696160110480,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "igd75rbnUbYBNyYw": {
+        "id": "igd75rbnUbYBNyYw",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Doblagub",
+        "prompt": "Fantasy art Doblagub amphibious fey in the style of Greg Rutkowski",
+        "timestamp": 1696160110481,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
