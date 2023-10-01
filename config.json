@@ -28429,5 +28429,14 @@
         "timestamp": 1696160111550,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6RJ0yESu2Bp2KDbw": {
+        "id": "6RJ0yESu2Bp2KDbw",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Great Grodair",
+        "prompt": "Fantasy art Great Grodair amphibious beast fey water in the style of Greg Rutkowski",
+        "timestamp": 1696160111550,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
