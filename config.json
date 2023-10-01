@@ -25099,5 +25099,14 @@
         "timestamp": 1696160110462,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TzdLLC68qlgrn91m": {
+        "id": "TzdLLC68qlgrn91m",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Nyogoth",
+        "prompt": "Fantasy art Nyogoth fiend qlippoth in the style of Greg Rutkowski",
+        "timestamp": 1696160110462,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
