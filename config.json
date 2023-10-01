@@ -28762,5 +28762,14 @@
         "timestamp": 1696160111567,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "zfo1oFWRg3A2BxTQ": {
+        "id": "zfo1oFWRg3A2BxTQ",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Worknesh",
+        "prompt": "Fantasy art Worknesh human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111568,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
