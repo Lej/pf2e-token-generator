@@ -25198,5 +25198,14 @@
         "timestamp": 1696160110469,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IRon2oG76IG28Z4m": {
+        "id": "IRon2oG76IG28Z4m",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Urdefhan High Tormentor",
+        "prompt": "Fantasy art Urdefhan High Tormentor humanoid urdefhan rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110469,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
