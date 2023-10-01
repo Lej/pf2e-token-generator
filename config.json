@@ -21445,5 +21445,14 @@
         "timestamp": 1696160110273,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NK49bh04355Lgz5r": {
+        "id": "NK49bh04355Lgz5r",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Nketiah",
+        "prompt": "Fantasy art Nketiah elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110274,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
