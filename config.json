@@ -30292,5 +30292,14 @@
         "timestamp": 1696160111679,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "eMbeqzGyypNU1wTS": {
+        "id": "eMbeqzGyypNU1wTS",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Kizidhar Shuyookh",
+        "prompt": "Fantasy art Kizidhar Shuyookh elemental genie plant wood in the style of Greg Rutkowski",
+        "timestamp": 1696160111680,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
