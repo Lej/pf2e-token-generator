@@ -26089,5 +26089,14 @@
         "timestamp": 1696160110512,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0VzVpqN3Yp0IY3C1": {
+        "id": "0VzVpqN3Yp0IY3C1",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Nihiris",
+        "prompt": "Fantasy art Nihiris incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110513,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
