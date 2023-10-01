@@ -27214,5 +27214,14 @@
         "timestamp": 1696160111490,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FiY8hCD5XoZjp9yX": {
+        "id": "FiY8hCD5XoZjp9yX",
+        "compendium": "blood-lords-bestiary",
+        "name": "Aquatic Ooze",
+        "prompt": "Fantasy art Aquatic Ooze aquatic mindless ooze Variant gray ooze in the style of Greg Rutkowski",
+        "timestamp": 1696160111491,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
