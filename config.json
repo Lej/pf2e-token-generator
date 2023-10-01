@@ -22435,5 +22435,14 @@
         "timestamp": 1696160110366,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vXXEdDy8ciGJxt3i": {
+        "id": "vXXEdDy8ciGJxt3i",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Mist Stalker",
+        "prompt": "Fantasy art Mist Stalker amphibious elemental water in the style of Greg Rutkowski",
+        "timestamp": 1696160110366,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
