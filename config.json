@@ -30373,5 +30373,14 @@
         "timestamp": 1696160111683,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NhmmvWicMmhXuKJo": {
+        "id": "NhmmvWicMmhXuKJo",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Snapdrake",
+        "prompt": "Fantasy art Snapdrake elemental plant wood in the style of Greg Rutkowski",
+        "timestamp": 1696160111683,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
