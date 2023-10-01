@@ -23506,5 +23506,14 @@
         "timestamp": 1696160110405,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7lL7APeHQgkVxU1B": {
+        "id": "7lL7APeHQgkVxU1B",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Fire Jellyfish Swarm",
+        "prompt": "Fantasy art Fire Jellyfish Swarm animal aquatic mindless swarm in the style of Greg Rutkowski",
+        "timestamp": 1696160110405,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
