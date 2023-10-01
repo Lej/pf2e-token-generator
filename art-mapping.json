@@ -13840,5 +13840,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/gatewalkers-bestiary/rrMtTABR1587fJGU/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/gatewalkers-bestiary/rrMtTABR1587fJGU/token.webp"
         }
+    },
+    "pfs-season-3-bestiary": {
+        "sHl25TefznyV8xC8": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-3-bestiary/sHl25TefznyV8xC8/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-3-bestiary/sHl25TefznyV8xC8/token.webp"
+        }
     }
 }

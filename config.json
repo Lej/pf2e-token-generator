@@ -30976,5 +30976,14 @@
         "timestamp": 1696160111708,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sHl25TefznyV8xC8": {
+        "id": "sHl25TefznyV8xC8",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Unstable Skeleton Guard",
+        "prompt": "Fantasy art Unstable Skeleton Guard mindless skeleton undead Variant skeleton guard in the style of Greg Rutkowski",
+        "timestamp": 1696160111712,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
