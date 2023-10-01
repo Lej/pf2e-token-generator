@@ -27817,5 +27817,14 @@
         "timestamp": 1696160111524,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ppFL3vBBYT4EXQom": {
+        "id": "ppFL3vBBYT4EXQom",
+        "compendium": "blood-lords-bestiary",
+        "name": "Shadow Leydroth",
+        "prompt": "Fantasy art Shadow Leydroth beast undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111525,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
