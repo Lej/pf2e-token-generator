@@ -26899,5 +26899,14 @@
         "timestamp": 1696160111475,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "pQJbY3PTeHNYbkho": {
+        "id": "pQJbY3PTeHNYbkho",
+        "compendium": "blood-lords-bestiary",
+        "name": "Zuntishan Guard",
+        "prompt": "Fantasy art Zuntishan Guard human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111475,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
