@@ -29932,5 +29932,14 @@
         "timestamp": 1696160111667,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TlM6ePIW2yHNOMJv": {
+        "id": "TlM6ePIW2yHNOMJv",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Twins of Rowan",
+        "prompt": "Fantasy art Twins of Rowan elemental plant wood in the style of Greg Rutkowski",
+        "timestamp": 1696160111667,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
