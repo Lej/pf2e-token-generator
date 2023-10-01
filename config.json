@@ -27403,5 +27403,14 @@
         "timestamp": 1696160111500,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JFB7wDTyG8nbihJD": {
+        "id": "JFB7wDTyG8nbihJD",
+        "compendium": "blood-lords-bestiary",
+        "name": "Necrohulk Smasher",
+        "prompt": "Fantasy art Necrohulk Smasher mutant undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111500,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
