@@ -30274,5 +30274,14 @@
         "timestamp": 1696160111678,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5nf90vfzOVFbGEZZ": {
+        "id": "5nf90vfzOVFbGEZZ",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Crystal Strider",
+        "prompt": "Fantasy art Crystal Strider earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160111678,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
