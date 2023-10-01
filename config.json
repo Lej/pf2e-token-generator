@@ -23902,5 +23902,14 @@
         "timestamp": 1696160110419,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "3YcsuATyahEMygNy": {
+        "id": "3YcsuATyahEMygNy",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Revenant",
+        "prompt": "Fantasy art Revenant undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110419,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
