@@ -24946,5 +24946,14 @@
         "timestamp": 1696160110456,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yvmX4J21XE1wqDar": {
+        "id": "yvmX4J21XE1wqDar",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Esobok",
+        "prompt": "Fantasy art Esobok monitor psychopomp in the style of Greg Rutkowski",
+        "timestamp": 1696160110457,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
