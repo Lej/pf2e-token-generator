@@ -31597,5 +31597,14 @@
         "timestamp": 1696160111734,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xShj7KlFATzm397y": {
+        "id": "xShj7KlFATzm397y",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Wasp Swarm (Arctic)",
+        "prompt": "Fantasy art Wasp Swarm Arctic animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1696160111734,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
