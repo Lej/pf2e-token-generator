@@ -28798,5 +28798,14 @@
         "timestamp": 1696160111569,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hVBzcyoDCdTCM4E6": {
+        "id": "hVBzcyoDCdTCM4E6",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Shobhad Enforcer",
+        "prompt": "Fantasy art Shobhad Enforcer humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111569,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
