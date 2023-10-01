@@ -32884,5 +32884,14 @@
         "timestamp": 1696160111791,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Q2LlaVrQAl5BxG0E": {
+        "id": "Q2LlaVrQAl5BxG0E",
+        "compendium": "stolen-fate-bestiary",
+        "name": "The Courtesan",
+        "prompt": "Fantasy art The Courtesan construct Variant fabled harrowkin in the style of Greg Rutkowski",
+        "timestamp": 1696160111792,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
