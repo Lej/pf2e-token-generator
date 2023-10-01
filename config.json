@@ -29311,5 +29311,14 @@
         "timestamp": 1696160111592,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wz2788pDzWe52BBE": {
+        "id": "wz2788pDzWe52BBE",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Aspect of Hunger",
+        "prompt": "Fantasy art Aspect of Hunger beast Variant crimson worm in the style of Greg Rutkowski",
+        "timestamp": 1696160111593,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
