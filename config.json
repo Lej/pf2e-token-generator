@@ -21724,5 +21724,14 @@
         "timestamp": 1696160110328,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "F9BHPV16N4eEL0TP": {
+        "id": "F9BHPV16N4eEL0TP",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Dragonstorm Fire Giant",
+        "prompt": "Fantasy art Dragonstorm Fire Giant giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110329,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
