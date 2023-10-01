@@ -29671,5 +29671,14 @@
         "timestamp": 1696160111658,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5d0K1rXEMZkILjxu": {
+        "id": "5d0K1rXEMZkILjxu",
+        "compendium": "the-enmity-cycle-bestiary",
+        "name": "Mechanical Assistant",
+        "prompt": "Fantasy art Mechanical Assistant construct minion in the style of Greg Rutkowski",
+        "timestamp": 1696160111658,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
