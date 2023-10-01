@@ -31831,5 +31831,14 @@
         "timestamp": 1696160111741,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2wV0Yv8uQpmRs2E5": {
+        "id": "2wV0Yv8uQpmRs2E5",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Smoldering Nightmare",
+        "prompt": "Fantasy art Smoldering Nightmare beast fiend Variant nightmare in the style of Greg Rutkowski",
+        "timestamp": 1696160111741,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
