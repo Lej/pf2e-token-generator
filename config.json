@@ -30463,5 +30463,14 @@
         "timestamp": 1696160111685,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ytvGscCgKbOCn0dB": {
+        "id": "ytvGscCgKbOCn0dB",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Rust Scarab",
+        "prompt": "Fantasy art Rust Scarab elemental metal in the style of Greg Rutkowski",
+        "timestamp": 1696160111686,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
