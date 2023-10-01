@@ -28933,5 +28933,14 @@
         "timestamp": 1696160111574,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EyRDvDy5hWX7fUFR": {
+        "id": "EyRDvDy5hWX7fUFR",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Sunburst Corpse",
+        "prompt": "Fantasy art Sunburst Corpse undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111574,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
