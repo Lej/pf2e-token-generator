@@ -24928,5 +24928,14 @@
         "timestamp": 1696160110456,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HNEUSYnInffvGPHK": {
+        "id": "HNEUSYnInffvGPHK",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Specter",
+        "prompt": "Fantasy art Specter incorporeal undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110456,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

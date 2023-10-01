@@ -11129,6 +11129,10 @@
         "Et2784TVZOXIbtM1": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/Et2784TVZOXIbtM1/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/Et2784TVZOXIbtM1/token.webp"
+        },
+        "HNEUSYnInffvGPHK": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/HNEUSYnInffvGPHK/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/HNEUSYnInffvGPHK/token.webp"
         }
     }
 }
