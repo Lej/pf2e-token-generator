@@ -27673,5 +27673,14 @@
         "timestamp": 1696160111514,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "iVzVgK6igRZ8hkCu": {
+        "id": "iVzVgK6igRZ8hkCu",
+        "compendium": "blood-lords-bestiary",
+        "name": "Animated Tea Cart",
+        "prompt": "Fantasy art Animated Tea Cart construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111515,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
