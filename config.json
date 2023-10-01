@@ -21418,5 +21418,14 @@
         "timestamp": 1696160110271,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "egTpOr4Wc0L5e0iY": {
+        "id": "egTpOr4Wc0L5e0iY",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Scarlet Triad Enforcer",
+        "prompt": "Fantasy art Scarlet Triad Enforcer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110271,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
