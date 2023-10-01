@@ -28924,5 +28924,14 @@
         "timestamp": 1696160111574,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MAy066x8JPjIRWyW": {
+        "id": "MAy066x8JPjIRWyW",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Red Queen",
+        "prompt": "Fantasy art Red Queen beast in the style of Greg Rutkowski",
+        "timestamp": 1696160111574,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
