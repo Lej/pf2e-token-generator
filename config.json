@@ -31084,5 +31084,14 @@
         "timestamp": 1696160111716,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jItk6GNZ7lmT5zVY": {
+        "id": "jItk6GNZ7lmT5zVY",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Hellbound Jailer (3-4)",
+        "prompt": "Fantasy art Hellbound Jailer devil fiend human humanoid Variant hellbound jailer in the style of Greg Rutkowski",
+        "timestamp": 1696160111716,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
