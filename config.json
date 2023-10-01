@@ -20707,5 +20707,14 @@
         "timestamp": 1696160110138,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9mD3SQoKORr1dP1v": {
+        "id": "9mD3SQoKORr1dP1v",
+        "compendium": "blog-bestiary",
+        "name": "Squirrelwind",
+        "prompt": "Fantasy art Squirrelwind air animal elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160110139,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
