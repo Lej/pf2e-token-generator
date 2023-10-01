@@ -23200,5 +23200,14 @@
         "timestamp": 1696160110395,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Xb0uY2tg1Cd3kZd0": {
+        "id": "Xb0uY2tg1Cd3kZd0",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Jyoti",
+        "prompt": "Fantasy art Jyoti fire humanoid vitality in the style of Greg Rutkowski",
+        "timestamp": 1696160110396,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
