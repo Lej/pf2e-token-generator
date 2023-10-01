@@ -31642,5 +31642,14 @@
         "timestamp": 1696160111735,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "fiwIeiExpZ1CQKAj": {
+        "id": "fiwIeiExpZ1CQKAj",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Glurorchaes (7-8)",
+        "prompt": "Fantasy art Glurorchaes fiend velstrac Variant ostiarius rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111736,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
