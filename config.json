@@ -26854,5 +26854,14 @@
         "timestamp": 1696160111471,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "b8IAeHndW8YVEzDM": {
+        "id": "b8IAeHndW8YVEzDM",
+        "compendium": "blood-lords-bestiary",
+        "name": "Aeolaeka",
+        "prompt": "Fantasy art Aeolaeka azata celestial in the style of Greg Rutkowski",
+        "timestamp": 1696160111471,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
