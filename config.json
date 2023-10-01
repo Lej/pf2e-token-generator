@@ -22498,5 +22498,14 @@
         "timestamp": 1696160110367,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MDdbC8XDUPFg4FCv": {
+        "id": "MDdbC8XDUPFg4FCv",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Spriggan Warlord",
+        "prompt": "Fantasy art Spriggan Warlord gnome humanoid spriggan in the style of Greg Rutkowski",
+        "timestamp": 1696160110368,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
