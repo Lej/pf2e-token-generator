@@ -29419,5 +29419,14 @@
         "timestamp": 1696160111641,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "w7Y6zn3wRabuOdNv": {
+        "id": "w7Y6zn3wRabuOdNv",
+        "compendium": "night-of-the-gray-death-bestiary",
+        "name": "Miss Whisper",
+        "prompt": "Fantasy art Miss Whisper fiend sahkil in the style of Greg Rutkowski",
+        "timestamp": 1696160111641,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
