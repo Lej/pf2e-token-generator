@@ -23137,5 +23137,14 @@
         "timestamp": 1696160110392,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "uiTUtcXixZ6TdKYE": {
+        "id": "uiTUtcXixZ6TdKYE",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Vanth",
+        "prompt": "Fantasy art Vanth monitor psychopomp in the style of Greg Rutkowski",
+        "timestamp": 1696160110392,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
