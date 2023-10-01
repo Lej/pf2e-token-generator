@@ -31534,5 +31534,14 @@
         "timestamp": 1696160111732,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AIO9Hug8KBesUfxI": {
+        "id": "AIO9Hug8KBesUfxI",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Bloody Beetle Exoskeleton",
+        "prompt": "Fantasy art Bloody Beetle Exoskeleton mindless skeleton undead Variant skeletal giant in the style of Greg Rutkowski",
+        "timestamp": 1696160111732,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
