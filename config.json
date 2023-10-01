@@ -33037,5 +33037,14 @@
         "timestamp": 1696160111803,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "a3NvKzSDBQzPwCc4": {
+        "id": "a3NvKzSDBQzPwCc4",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Storied Harrowkin",
+        "prompt": "Fantasy art Storied Harrowkin construct in the style of Greg Rutkowski",
+        "timestamp": 1696160111803,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
