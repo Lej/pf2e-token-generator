@@ -26422,5 +26422,14 @@
         "timestamp": 1696160110527,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MQBH5svYUyhd3RsK": {
+        "id": "MQBH5svYUyhd3RsK",
+        "compendium": "travel-guide-bestiary",
+        "name": "Whalesteed",
+        "prompt": "Fantasy art Whalesteed animal Variant bottlenose dolphin in the style of Greg Rutkowski",
+        "timestamp": 1696160110527,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

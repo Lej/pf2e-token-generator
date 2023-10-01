@@ -11796,5 +11796,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/extinction-curse-bestiary/lh3pcyJlUUtNpWcI/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/extinction-curse-bestiary/lh3pcyJlUUtNpWcI/token.webp"
         }
+    },
+    "travel-guide-bestiary": {
+        "MQBH5svYUyhd3RsK": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/travel-guide-bestiary/MQBH5svYUyhd3RsK/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/travel-guide-bestiary/MQBH5svYUyhd3RsK/token.webp"
+        }
     }
 }
