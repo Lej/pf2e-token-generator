@@ -31039,5 +31039,14 @@
         "timestamp": 1696160111714,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gzMCaAr2Bd2gbhrF": {
+        "id": "gzMCaAr2Bd2gbhrF",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Thundering Wihsaak (Arctic)",
+        "prompt": "Fantasy art Thundering Wihsaak Arctic fiend sahkil in the style of Greg Rutkowski",
+        "timestamp": 1696160111714,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
