@@ -30445,5 +30445,14 @@
         "timestamp": 1696160111685,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YTTKgBLXSIna2KNO": {
+        "id": "YTTKgBLXSIna2KNO",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Abysium Horror",
+        "prompt": "Fantasy art Abysium Horror elemental metal in the style of Greg Rutkowski",
+        "timestamp": 1696160111685,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
