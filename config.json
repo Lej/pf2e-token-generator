@@ -29644,5 +29644,14 @@
         "timestamp": 1696160111656,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "xfc7t2z45drvafdK": {
+        "id": "xfc7t2z45drvafdK",
+        "compendium": "the-enmity-cycle-bestiary",
+        "name": "Jimbilin",
+        "prompt": "Fantasy art Jimbilin halfling humanoid Male halfling priest of Ahriman in the style of Greg Rutkowski",
+        "timestamp": 1696160111657,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
