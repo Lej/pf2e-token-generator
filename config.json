@@ -30661,5 +30661,14 @@
         "timestamp": 1696160111695,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DAfDg86y1mWHHQEy": {
+        "id": "DAfDg86y1mWHHQEy",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Temagyr",
+        "prompt": "Fantasy art Temagyr fey in the style of Greg Rutkowski",
+        "timestamp": 1696160111695,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
