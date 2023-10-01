@@ -21580,5 +21580,14 @@
         "timestamp": 1696160110281,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CmbcgWZgOSDmo2Pm": {
+        "id": "CmbcgWZgOSDmo2Pm",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Precentor",
+        "prompt": "Fantasy art Precentor fiend velstrac in the style of Greg Rutkowski",
+        "timestamp": 1696160110282,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
