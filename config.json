@@ -30454,5 +30454,14 @@
         "timestamp": 1696160111685,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XvFyRUv2BxgjKm77": {
+        "id": "XvFyRUv2BxgjKm77",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Lomori Sprout",
+        "prompt": "Fantasy art Lomori Sprout aeon plant wood in the style of Greg Rutkowski",
+        "timestamp": 1696160111685,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
