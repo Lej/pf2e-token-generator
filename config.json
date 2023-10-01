@@ -31138,5 +31138,14 @@
         "timestamp": 1696160111717,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Y5ZcwtbKxA1BImQq": {
+        "id": "Y5ZcwtbKxA1BImQq",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Umbral Cu Sith",
+        "prompt": "Fantasy art Umbral Cu Sith fey Variant cu sith in the style of Greg Rutkowski",
+        "timestamp": 1696160111717,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
