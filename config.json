@@ -21049,5 +21049,14 @@
         "timestamp": 1696160110252,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Oqj8XIWBb29NZ8QX": {
+        "id": "Oqj8XIWBb29NZ8QX",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Tixitog",
+        "prompt": "Fantasy art Tixitog aberration in the style of Greg Rutkowski",
+        "timestamp": 1696160110252,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
