@@ -29680,5 +29680,14 @@
         "timestamp": 1696160111658,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "257nqvaDItlttlG2": {
+        "id": "257nqvaDItlttlG2",
+        "compendium": "the-enmity-cycle-bestiary",
+        "name": "Scorching Sun Cultist",
+        "prompt": "Fantasy art Scorching Sun Cultist human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111658,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
