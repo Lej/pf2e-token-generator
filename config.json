@@ -31516,5 +31516,14 @@
         "timestamp": 1696160111732,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DEfeDmBh7lR7c9W8": {
+        "id": "DEfeDmBh7lR7c9W8",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Animated Full Plate (PFS 3-99)",
+        "prompt": "Fantasy art Animated Full Plate construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111732,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
