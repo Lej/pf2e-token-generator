@@ -22678,5 +22678,14 @@
         "timestamp": 1696160110374,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "H37tfTiLiUhpYxaS": {
+        "id": "H37tfTiLiUhpYxaS",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Bastion Archon",
+        "prompt": "Fantasy art Bastion Archon archon celestial in the style of Greg Rutkowski",
+        "timestamp": 1696160110374,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
