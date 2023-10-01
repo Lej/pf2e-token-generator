@@ -26035,5 +26035,14 @@
         "timestamp": 1696160110511,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SBz0ylPxEaUhG2aZ": {
+        "id": "SBz0ylPxEaUhG2aZ",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Xulgath Roughrider",
+        "prompt": "Fantasy art Xulgath Roughrider humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1696160110511,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
