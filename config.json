@@ -28015,5 +28015,14 @@
         "timestamp": 1696160111533,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pJ9Pfo3DCsV97GYO": {
+        "id": "pJ9Pfo3DCsV97GYO",
+        "compendium": "blood-lords-bestiary",
+        "name": "Crooked Coffin Brewer",
+        "prompt": "Fantasy art Crooked Coffin Brewer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111533,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
