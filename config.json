@@ -27547,5 +27547,14 @@
         "timestamp": 1696160111509,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PFAxHAnorkDmvi26": {
+        "id": "PFAxHAnorkDmvi26",
+        "compendium": "blood-lords-bestiary",
+        "name": "Clockwork Rifler",
+        "prompt": "Fantasy art Clockwork Rifler clockwork construct mindless Variant clockwork soldier in the style of Greg Rutkowski",
+        "timestamp": 1696160111509,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
