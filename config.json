@@ -24064,5 +24064,14 @@
         "timestamp": 1696160110424,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "t8XwrLnvMnz3Z1al": {
+        "id": "t8XwrLnvMnz3Z1al",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Catrina",
+        "prompt": "Fantasy art Catrina monitor psychopomp in the style of Greg Rutkowski",
+        "timestamp": 1696160110424,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
