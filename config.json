@@ -30103,5 +30103,14 @@
         "timestamp": 1696160111672,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IBfXxdi8ja4095km": {
+        "id": "IBfXxdi8ja4095km",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Nightwood Guardian",
+        "prompt": "Fantasy art Nightwood Guardian giant troll wood in the style of Greg Rutkowski",
+        "timestamp": 1696160111672,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
