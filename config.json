@@ -21814,5 +21814,14 @@
         "timestamp": 1696160110344,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "e0YvEWJ5zpU946G4": {
+        "id": "e0YvEWJ5zpU946G4",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Cave Scorpion",
+        "prompt": "Fantasy art Cave Scorpion animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110344,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
