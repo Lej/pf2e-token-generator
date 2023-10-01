@@ -32641,5 +32641,14 @@
         "timestamp": 1696160111768,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "d0kPtsi2DH3V9WJu": {
+        "id": "d0kPtsi2DH3V9WJu",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Shadow (PFS 3-17)",
+        "prompt": "Fantasy art Shadow incorporeal undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111768,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
