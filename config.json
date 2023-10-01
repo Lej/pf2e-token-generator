@@ -20977,5 +20977,14 @@
         "timestamp": 1696160110247,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1lkay2gwgEquq0NF": {
+        "id": "1lkay2gwgEquq0NF",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Scarlet Triad Sneak",
+        "prompt": "Fantasy art Scarlet Triad Sneak human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110247,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

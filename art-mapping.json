@@ -9371,6 +9371,10 @@
         "rd8Scu1YBSyKFwnk": {
             "actor": "modules/pf2e-ai-token-placeholders/images/age-of-ashes-bestiary/rd8Scu1YBSyKFwnk/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/age-of-ashes-bestiary/rd8Scu1YBSyKFwnk/token.webp"
+        },
+        "1lkay2gwgEquq0NF": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/age-of-ashes-bestiary/1lkay2gwgEquq0NF/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/age-of-ashes-bestiary/1lkay2gwgEquq0NF/token.webp"
         }
     }
 }
