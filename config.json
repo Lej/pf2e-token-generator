@@ -20617,5 +20617,14 @@
         "timestamp": 1696160110136,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MO2QmDcf117b8FQk": {
+        "id": "MO2QmDcf117b8FQk",
+        "compendium": "blog-bestiary",
+        "name": "Nosferotter",
+        "prompt": "Fantasy art Nosferotter humanoid undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110136,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
