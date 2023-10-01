@@ -32920,5 +32920,14 @@
         "timestamp": 1696160111794,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Zglw4NiZRVgmuI5x": {
+        "id": "Zglw4NiZRVgmuI5x",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Ndede",
+        "prompt": "Fantasy art Ndede humanoid Male popobawa in the style of Greg Rutkowski",
+        "timestamp": 1696160111794,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
