@@ -24289,5 +24289,14 @@
         "timestamp": 1696160110431,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DWEk6i42qAhckgqF": {
+        "id": "DWEk6i42qAhckgqF",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Ancient Crystal Dragon (Spellcaster)",
+        "prompt": "Fantasy art Ancient Crystal Dragon Spellcaster dragon earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160110432,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
