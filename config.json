@@ -20995,5 +20995,14 @@
         "timestamp": 1696160110248,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "lcYcBIFmfKFt8Hcs": {
+        "id": "lcYcBIFmfKFt8Hcs",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Ingnovim Tluss",
+        "prompt": "Fantasy art Ingnovim Tluss human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110248,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
