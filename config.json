@@ -24055,5 +24055,14 @@
         "timestamp": 1696160110423,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kKH3uMHbVZQmEtxj": {
+        "id": "kKH3uMHbVZQmEtxj",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Jotund Troll",
+        "prompt": "Fantasy art Jotund Troll giant mutant troll in the style of Greg Rutkowski",
+        "timestamp": 1696160110424,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
