@@ -30805,5 +30805,14 @@
         "timestamp": 1696160111701,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MnOXwpGD3vJIFydk": {
+        "id": "MnOXwpGD3vJIFydk",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Etward Ritalson",
+        "prompt": "Fantasy art Etward Ritalson human humanoid Male human alchemist in the style of Greg Rutkowski",
+        "timestamp": 1696160111702,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
