@@ -21184,5 +21184,14 @@
         "timestamp": 1696160110258,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "7WNFNE3SVMRGbBDf": {
+        "id": "7WNFNE3SVMRGbBDf",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Scarlet Triad Sniper",
+        "prompt": "Fantasy art Scarlet Triad Sniper elf human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110259,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
