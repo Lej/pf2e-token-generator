@@ -26224,5 +26224,14 @@
         "timestamp": 1696160110517,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "k6mTbQPIlez0QhYg": {
+        "id": "k6mTbQPIlez0QhYg",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Xulgath Demon-Caller",
+        "prompt": "Fantasy art Xulgath Demon-Caller humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1696160110518,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
