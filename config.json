@@ -25999,5 +25999,14 @@
         "timestamp": 1696160110510,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "wiNeCuB0DXt2ReAx": {
+        "id": "wiNeCuB0DXt2ReAx",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Xulgath Mage",
+        "prompt": "Fantasy art Xulgath Mage humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1696160110510,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
