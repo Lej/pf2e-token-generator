@@ -25396,5 +25396,14 @@
         "timestamp": 1696160110480,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "S5pcyiSXhMKrMjcC": {
+        "id": "S5pcyiSXhMKrMjcC",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Shraen Graveknight",
+        "prompt": "Fantasy art Shraen Graveknight undead Drow graveknight in the style of Greg Rutkowski",
+        "timestamp": 1696160110480,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
