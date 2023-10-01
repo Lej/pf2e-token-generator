@@ -31840,5 +31840,14 @@
         "timestamp": 1696160111741,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "iL7qWBOdmhRwjcVG": {
+        "id": "iL7qWBOdmhRwjcVG",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Panicked Bat Swarm",
+        "prompt": "Fantasy art Panicked Bat Swarm animal swarm Variant vampire bat swarm in the style of Greg Rutkowski",
+        "timestamp": 1696160111741,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
