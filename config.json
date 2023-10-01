@@ -27781,5 +27781,14 @@
         "timestamp": 1696160111521,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "syFR3SChA5KCx8OA": {
+        "id": "syFR3SChA5KCx8OA",
+        "compendium": "blood-lords-bestiary",
+        "name": "Vampire Guardian",
+        "prompt": "Fantasy art Vampire Guardian vampire undead Human vampire guard in the style of Greg Rutkowski",
+        "timestamp": 1696160111522,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
