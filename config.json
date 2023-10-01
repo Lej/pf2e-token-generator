@@ -32173,5 +32173,14 @@
         "timestamp": 1696160111752,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1PE6CVTY6BBH9k7t": {
+        "id": "1PE6CVTY6BBH9k7t",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Elite Hadrosaurid (PFS 3-99)",
+        "prompt": "Fantasy art Elite Hadrosaurid animal dinosaur Variant Hadrosaurid in the style of Greg Rutkowski",
+        "timestamp": 1696160111752,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
