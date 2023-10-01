@@ -30508,5 +30508,14 @@
         "timestamp": 1696160111689,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "16Ru7zfHAHD544xO": {
+        "id": "16Ru7zfHAHD544xO",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Glimmervine",
+        "prompt": "Fantasy art Glimmervine mindless plant in the style of Greg Rutkowski",
+        "timestamp": 1696160111690,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
