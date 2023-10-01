@@ -22363,5 +22363,14 @@
         "timestamp": 1696160110364,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "27R4ntwgch7eIQM6": {
+        "id": "27R4ntwgch7eIQM6",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Akizendri",
+        "prompt": "Fantasy art Akizendri monitor protean in the style of Greg Rutkowski",
+        "timestamp": 1696160110364,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
