@@ -32542,5 +32542,14 @@
         "timestamp": 1696160111764,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ChuQ39tv0plbsfVJ": {
+        "id": "ChuQ39tv0plbsfVJ",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Smilglen Daet",
+        "prompt": "Fantasy art Smilglen Daet aberration amphibious Female grindylow witch in the style of Greg Rutkowski",
+        "timestamp": 1696160111764,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
