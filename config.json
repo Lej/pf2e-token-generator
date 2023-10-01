@@ -23839,5 +23839,14 @@
         "timestamp": 1696160110417,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MYE3jqYh3CrdWolX": {
+        "id": "MYE3jqYh3CrdWolX",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Petitioner (Heaven)",
+        "prompt": "Fantasy art Petitioner Heaven celestial petitioner in the style of Greg Rutkowski",
+        "timestamp": 1696160110417,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
