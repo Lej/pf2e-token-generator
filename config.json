@@ -28951,5 +28951,14 @@
         "timestamp": 1696160111574,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "T4e7jLh98B40c55m": {
+        "id": "T4e7jLh98B40c55m",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Ta'apundo",
+        "prompt": "Fantasy art Ta'apundo fey plant in the style of Greg Rutkowski",
+        "timestamp": 1696160111575,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
