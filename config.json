@@ -22696,5 +22696,14 @@
         "timestamp": 1696160110374,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ACIqdW6VsFA1TCpN": {
+        "id": "ACIqdW6VsFA1TCpN",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Manta Ray",
+        "prompt": "Fantasy art Manta Ray animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1696160110374,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
