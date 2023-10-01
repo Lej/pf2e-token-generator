@@ -30886,5 +30886,14 @@
         "timestamp": 1696160111704,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bnKUnG9XzsKzIUxK": {
+        "id": "bnKUnG9XzsKzIUxK",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Ancient Tupilaq",
+        "prompt": "Fantasy art Ancient Tupilaq construct Variant tupilaq in the style of Greg Rutkowski",
+        "timestamp": 1696160111704,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

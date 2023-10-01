@@ -13799,6 +13799,10 @@
         "7VoxPNp1BMlhGrss": {
             "actor": "modules/pf2e-ai-token-placeholders/images/gatewalkers-bestiary/7VoxPNp1BMlhGrss/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/gatewalkers-bestiary/7VoxPNp1BMlhGrss/token.webp"
+        },
+        "bnKUnG9XzsKzIUxK": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/gatewalkers-bestiary/bnKUnG9XzsKzIUxK/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/gatewalkers-bestiary/bnKUnG9XzsKzIUxK/token.webp"
         }
     }
 }
