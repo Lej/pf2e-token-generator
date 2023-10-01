@@ -26098,5 +26098,14 @@
         "timestamp": 1696160110513,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "bJUlb2DxT1xyaYAp": {
+        "id": "bJUlb2DxT1xyaYAp",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Darklands Alchemical Golem",
+        "prompt": "Fantasy art Darklands Alchemical Golem alchemical construct golem mindless Variant elite alchemical golem in the style of Greg Rutkowski",
+        "timestamp": 1696160110513,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
