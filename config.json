@@ -32209,5 +32209,14 @@
         "timestamp": 1696160111752,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HvrXHDTyttxDYvpL": {
+        "id": "HvrXHDTyttxDYvpL",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Thomil Bolyrius (5-6)",
+        "prompt": "Fantasy art Thomil Bolyrius human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111753,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
