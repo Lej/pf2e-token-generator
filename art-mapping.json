@@ -13393,6 +13393,10 @@
         "Vtx0UBhy5aUu3UMO": {
             "actor": "modules/pf2e-ai-token-placeholders/images/rage-of-elements-bestiary/Vtx0UBhy5aUu3UMO/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/rage-of-elements-bestiary/Vtx0UBhy5aUu3UMO/token.webp"
+        },
+        "PameP0qGSvNrhGeH": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/rage-of-elements-bestiary/PameP0qGSvNrhGeH/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/rage-of-elements-bestiary/PameP0qGSvNrhGeH/token.webp"
         }
     }
 }

@@ -29977,5 +29977,14 @@
         "timestamp": 1696160111669,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PameP0qGSvNrhGeH": {
+        "id": "PameP0qGSvNrhGeH",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Avalanche Legion",
+        "prompt": "Fantasy art Avalanche Legion earth elemental troop in the style of Greg Rutkowski",
+        "timestamp": 1696160111669,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
