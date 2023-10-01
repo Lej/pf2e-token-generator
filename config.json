@@ -27799,5 +27799,14 @@
         "timestamp": 1696160111523,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DunLW2kBqOpE0pkL": {
+        "id": "DunLW2kBqOpE0pkL",
+        "compendium": "blood-lords-bestiary",
+        "name": "Decrosia",
+        "prompt": "Fantasy art Decrosia hag humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111523,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
