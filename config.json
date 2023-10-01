@@ -24361,5 +24361,14 @@
         "timestamp": 1696160110434,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CrAsEzLl3F2vejd3": {
+        "id": "CrAsEzLl3F2vejd3",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Earthen Destrier",
+        "prompt": "Fantasy art Earthen Destrier earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160110434,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
