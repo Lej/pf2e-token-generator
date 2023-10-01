@@ -31210,5 +31210,14 @@
         "timestamp": 1696160111720,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Bpprw07yfbxqLdBp": {
+        "id": "Bpprw07yfbxqLdBp",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Poltergeist (Holy Hand)",
+        "prompt": "Fantasy art Poltergeist Holy Hand incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111720,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
