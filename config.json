@@ -23164,5 +23164,14 @@
         "timestamp": 1696160110393,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oMZaSpBmWddKZ1KN": {
+        "id": "oMZaSpBmWddKZ1KN",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Ancient Brine Dragon",
+        "prompt": "Fantasy art Ancient Brine Dragon amphibious dragon elemental water in the style of Greg Rutkowski",
+        "timestamp": 1696160110394,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
