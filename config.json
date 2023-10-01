@@ -22390,5 +22390,14 @@
         "timestamp": 1696160110365,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZBTqN3DNjdreXCu7": {
+        "id": "ZBTqN3DNjdreXCu7",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Mastodon",
+        "prompt": "Fantasy art Mastodon animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110365,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
