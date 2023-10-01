@@ -25072,5 +25072,14 @@
         "timestamp": 1696160110461,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5FcYbQxHehjO4w1d": {
+        "id": "5FcYbQxHehjO4w1d",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Ooze Mephit",
+        "prompt": "Fantasy art Ooze Mephit earth elemental water in the style of Greg Rutkowski",
+        "timestamp": 1696160110462,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
