@@ -27655,5 +27655,14 @@
         "timestamp": 1696160111514,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dmUBlUsO6AoxjgxL": {
+        "id": "dmUBlUsO6AoxjgxL",
+        "compendium": "blood-lords-bestiary",
+        "name": "Firebrand Bastion",
+        "prompt": "Fantasy art Firebrand Bastion human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111514,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
