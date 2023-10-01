@@ -30994,5 +30994,14 @@
         "timestamp": 1696160111712,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "P51YAmzcq1jONhJR": {
+        "id": "P51YAmzcq1jONhJR",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Wailing Ghost",
+        "prompt": "Fantasy art Wailing Ghost ghost incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111713,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
