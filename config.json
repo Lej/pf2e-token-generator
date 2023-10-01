@@ -20680,5 +20680,14 @@
         "timestamp": 1696160110138,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JhC9sqhFy88lX4Xu": {
+        "id": "JhC9sqhFy88lX4Xu",
+        "compendium": "blog-bestiary",
+        "name": "Pr'rall",
+        "prompt": "Fantasy art Pr'rall catfolk humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110138,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
