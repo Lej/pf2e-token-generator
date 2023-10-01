@@ -21472,5 +21472,14 @@
         "timestamp": 1696160110275,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZRGRAqkDEZbRn8x3": {
+        "id": "ZRGRAqkDEZbRn8x3",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Crucidaemon",
+        "prompt": "Fantasy art Crucidaemon daemon fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160110275,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
