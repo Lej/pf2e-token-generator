@@ -28267,5 +28267,14 @@
         "timestamp": 1696160111542,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OjqCx6nMwDuVLoqA": {
+        "id": "OjqCx6nMwDuVLoqA",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Jackal Guard",
+        "prompt": "Fantasy art Jackal Guard human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111542,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
