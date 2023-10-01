@@ -27340,5 +27340,14 @@
         "timestamp": 1696160111496,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JiT7B2Y7yYG8G0ZL": {
+        "id": "JiT7B2Y7yYG8G0ZL",
+        "compendium": "blood-lords-bestiary",
+        "name": "Nwanyian Archer",
+        "prompt": "Fantasy art Nwanyian Archer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111496,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
