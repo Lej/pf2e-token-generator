@@ -25342,5 +25342,14 @@
         "timestamp": 1696160110477,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HbxPY2GSxhRu4rVi": {
+        "id": "HbxPY2GSxhRu4rVi",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Lion Visitant",
+        "prompt": "Fantasy art Lion Visitant animal undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110478,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
