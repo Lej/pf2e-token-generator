@@ -21742,5 +21742,14 @@
         "timestamp": 1696160110329,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Afq4Osh3W1k9Bcsh": {
+        "id": "Afq4Osh3W1k9Bcsh",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Promise Guard",
+        "prompt": "Fantasy art Promise Guard human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110330,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
