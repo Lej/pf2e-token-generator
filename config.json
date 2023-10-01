@@ -22534,5 +22534,14 @@
         "timestamp": 1696160110368,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Aa652cDdKTani3DY": {
+        "id": "Aa652cDdKTani3DY",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Scythe Tree",
+        "prompt": "Fantasy art Scythe Tree plant in the style of Greg Rutkowski",
+        "timestamp": 1696160110368,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
