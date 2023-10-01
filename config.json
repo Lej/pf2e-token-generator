@@ -26341,5 +26341,14 @@
         "timestamp": 1696160110523,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HFAhDmrkxg6YLhdF": {
+        "id": "HFAhDmrkxg6YLhdF",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Blood Wolf",
+        "prompt": "Fantasy art Blood Wolf animal fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160110523,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
