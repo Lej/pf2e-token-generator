@@ -11234,5 +11234,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/QR3AC4mkpfz6KPSh/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/QR3AC4mkpfz6KPSh/token.webp"
         }
+    },
+    "extinction-curse-bestiary": {
+        "18Y3yoYcEGoLcmDy": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/extinction-curse-bestiary/18Y3yoYcEGoLcmDy/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/extinction-curse-bestiary/18Y3yoYcEGoLcmDy/token.webp"
+        }
     }
 }

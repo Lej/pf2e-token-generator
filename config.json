@@ -25162,5 +25162,14 @@
         "timestamp": 1696160110465,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "18Y3yoYcEGoLcmDy": {
+        "id": "18Y3yoYcEGoLcmDy",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Death Drider",
+        "prompt": "Fantasy art Death Drider undead Variant drider in the style of Greg Rutkowski",
+        "timestamp": 1696160110468,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
