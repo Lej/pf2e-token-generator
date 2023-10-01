@@ -25918,5 +25918,14 @@
         "timestamp": 1696160110506,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "a2FCggU8UCQl6RDx": {
+        "id": "a2FCggU8UCQl6RDx",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Juvenile Boar",
+        "prompt": "Fantasy art Juvenile Boar animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110507,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
