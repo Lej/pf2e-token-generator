@@ -31903,5 +31903,14 @@
         "timestamp": 1696160111744,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "g3UYRJQCwnjdvCm9": {
+        "id": "g3UYRJQCwnjdvCm9",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Tyrannical Interrogator",
+        "prompt": "Fantasy art Tyrannical Interrogator human humanoid Tyrant in the style of Greg Rutkowski",
+        "timestamp": 1696160111744,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
