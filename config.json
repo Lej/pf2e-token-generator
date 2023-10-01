@@ -25900,5 +25900,14 @@
         "timestamp": 1696160110506,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UKBR2GdXIdg66Nqm": {
+        "id": "UKBR2GdXIdg66Nqm",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Ulthadar",
+        "prompt": "Fantasy art Ulthadar incorporeal spirit undead Male ghost high priest of Aroden in the style of Greg Rutkowski",
+        "timestamp": 1696160110506,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

@@ -11563,6 +11563,10 @@
         "2bu9oGbB7UUTq2sR": {
             "actor": "modules/pf2e-ai-token-placeholders/images/extinction-curse-bestiary/2bu9oGbB7UUTq2sR/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/extinction-curse-bestiary/2bu9oGbB7UUTq2sR/token.webp"
+        },
+        "UKBR2GdXIdg66Nqm": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/extinction-curse-bestiary/UKBR2GdXIdg66Nqm/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/extinction-curse-bestiary/UKBR2GdXIdg66Nqm/token.webp"
         }
     }
 }
