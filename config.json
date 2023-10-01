@@ -30337,5 +30337,14 @@
         "timestamp": 1696160111682,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BKHoKKSWvc7rQoyz": {
+        "id": "BKHoKKSWvc7rQoyz",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Mercurial",
+        "prompt": "Fantasy art Mercurial elemental metal in the style of Greg Rutkowski",
+        "timestamp": 1696160111682,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

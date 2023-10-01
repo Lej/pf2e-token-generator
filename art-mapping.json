@@ -13553,6 +13553,10 @@
         "OX25euLqeBR07Ul7": {
             "actor": "modules/pf2e-ai-token-placeholders/images/rage-of-elements-bestiary/OX25euLqeBR07Ul7/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/rage-of-elements-bestiary/OX25euLqeBR07Ul7/token.webp"
+        },
+        "BKHoKKSWvc7rQoyz": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/rage-of-elements-bestiary/BKHoKKSWvc7rQoyz/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/rage-of-elements-bestiary/BKHoKKSWvc7rQoyz/token.webp"
         }
     }
 }
