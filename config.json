@@ -24010,5 +24010,14 @@
         "timestamp": 1696160110421,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "jhr6WpTeY8GXXwK1": {
+        "id": "jhr6WpTeY8GXXwK1",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Ifrit Pyrochemist",
+        "prompt": "Fantasy art Ifrit Pyrochemist human humanoid ifrit in the style of Greg Rutkowski",
+        "timestamp": 1696160110422,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
