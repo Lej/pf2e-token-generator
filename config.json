@@ -30058,5 +30058,14 @@
         "timestamp": 1696160111671,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rmno91OxFdAJX5ap": {
+        "id": "rmno91OxFdAJX5ap",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Ore Louse",
+        "prompt": "Fantasy art Ore Louse amphibious beast water in the style of Greg Rutkowski",
+        "timestamp": 1696160111671,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
