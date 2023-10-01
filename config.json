@@ -26926,5 +26926,14 @@
         "timestamp": 1696160111476,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dEUFmId6fuT97MFg": {
+        "id": "dEUFmId6fuT97MFg",
+        "compendium": "blood-lords-bestiary",
+        "name": "Solar Glass Golem",
+        "prompt": "Fantasy art Solar Glass Golem construct golem mindless Variant glass golem in the style of Greg Rutkowski",
+        "timestamp": 1696160111477,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
