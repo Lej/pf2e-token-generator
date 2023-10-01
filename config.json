@@ -26521,5 +26521,14 @@
         "timestamp": 1696160110648,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "lZtkMlyix3kaTO0j": {
+        "id": "lZtkMlyix3kaTO0j",
+        "compendium": "kingmaker-bestiary",
+        "name": "The Beast",
+        "prompt": "Fantasy art The Beast animal Variant owlbear in the style of Greg Rutkowski",
+        "timestamp": 1696160110667,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
