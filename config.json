@@ -33091,5 +33091,14 @@
         "timestamp": 1696160111808,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oWFqioYktqayWFlS": {
+        "id": "oWFqioYktqayWFlS",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Arodeth",
+        "prompt": "Fantasy art Arodeth human humanoid Female human magus in the style of Greg Rutkowski",
+        "timestamp": 1696160111808,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
