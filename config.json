@@ -30679,5 +30679,14 @@
         "timestamp": 1696160111695,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wdeje31VJ7Ivcdd6": {
+        "id": "wdeje31VJ7Ivcdd6",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Sakuachi",
+        "prompt": "Fantasy art Sakuachi human humanoid Female human dream seer in the style of Greg Rutkowski",
+        "timestamp": 1696160111696,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
