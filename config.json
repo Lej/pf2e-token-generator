@@ -24298,5 +24298,14 @@
         "timestamp": 1696160110432,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Bz5wgKEVsHAyaYEx": {
+        "id": "Bz5wgKEVsHAyaYEx",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Sunflower Leshy",
+        "prompt": "Fantasy art Sunflower Leshy leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1696160110432,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
