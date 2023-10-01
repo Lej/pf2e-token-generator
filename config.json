@@ -22588,5 +22588,14 @@
         "timestamp": 1696160110371,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vHTvuteLd2kYX3ib": {
+        "id": "vHTvuteLd2kYX3ib",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Flytrap Leshy",
+        "prompt": "Fantasy art Flytrap Leshy leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1696160110371,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
