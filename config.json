@@ -28213,5 +28213,14 @@
         "timestamp": 1696160111540,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vTETJgwDLVK6bKQt": {
+        "id": "vTETJgwDLVK6bKQt",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Crawling Slurry",
+        "prompt": "Fantasy art Crawling Slurry acid mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1696160111541,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
