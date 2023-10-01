@@ -28222,5 +28222,14 @@
         "timestamp": 1696160111541,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OPLok0VMnWsmhF7K": {
+        "id": "OPLok0VMnWsmhF7K",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Ancient Rivener",
+        "prompt": "Fantasy art Ancient Rivener humanoid ikeshti in the style of Greg Rutkowski",
+        "timestamp": 1696160111541,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
