@@ -23722,5 +23722,14 @@
         "timestamp": 1696160110413,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mpBOeFrbtx1wMrNn": {
+        "id": "mpBOeFrbtx1wMrNn",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Frost Worm",
+        "prompt": "Fantasy art Frost Worm animal cold in the style of Greg Rutkowski",
+        "timestamp": 1696160110413,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
