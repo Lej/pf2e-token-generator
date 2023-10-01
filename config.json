@@ -30283,5 +30283,14 @@
         "timestamp": 1696160111678,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "a2kTygtqIuMCSLIr": {
+        "id": "a2kTygtqIuMCSLIr",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Zuhra Shuyookh",
+        "prompt": "Fantasy art Zuhra Shuyookh elemental genie in the style of Greg Rutkowski",
+        "timestamp": 1696160111679,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
