@@ -32479,5 +32479,14 @@
         "timestamp": 1696160111762,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "El0QINB4nVKeiI5A": {
+        "id": "El0QINB4nVKeiI5A",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Giant Amoeba (PFS 3-98)",
+        "prompt": "Fantasy art Giant Amoeba amphibious mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1696160111762,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
