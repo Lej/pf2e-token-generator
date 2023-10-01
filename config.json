@@ -27646,5 +27646,14 @@
         "timestamp": 1696160111513,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HNcBJFUhdLfOZxPS": {
+        "id": "HNcBJFUhdLfOZxPS",
+        "compendium": "blood-lords-bestiary",
+        "name": "Ghiasi",
+        "prompt": "Fantasy art Ghiasi shadow Female shae spy rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111514,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
