@@ -25423,5 +25423,14 @@
         "timestamp": 1696160110482,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NBCqA1NLRlhMuqGl": {
+        "id": "NBCqA1NLRlhMuqGl",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Daring Danika",
+        "prompt": "Fantasy art Daring Danika human humanoid Female human lion-tamer in the style of Greg Rutkowski",
+        "timestamp": 1696160110482,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
