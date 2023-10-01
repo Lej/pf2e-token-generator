@@ -25621,5 +25621,14 @@
         "timestamp": 1696160110492,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "G2ICeUU6br5Xem3P": {
+        "id": "G2ICeUU6br5Xem3P",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Zinogyvaz",
+        "prompt": "Fantasy art Zinogyvaz undead vampire Female vampire drider priest in the style of Greg Rutkowski",
+        "timestamp": 1696160110493,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
