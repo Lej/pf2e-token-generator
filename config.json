@@ -20770,5 +20770,14 @@
         "timestamp": 1696160110140,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tKrAtcACOtDnHLG0": {
+        "id": "tKrAtcACOtDnHLG0",
+        "compendium": "blog-bestiary",
+        "name": "Duhgik",
+        "prompt": "Fantasy art Duhgik humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1696160110141,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
