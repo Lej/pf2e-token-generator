@@ -25837,5 +25837,14 @@
         "timestamp": 1696160110502,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "uPWqYc05YQ0Q4i0g": {
+        "id": "uPWqYc05YQ0Q4i0g",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Xulgath Stoneliege",
+        "prompt": "Fantasy art Xulgath Stoneliege humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1696160110502,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
