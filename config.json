@@ -20572,5 +20572,14 @@
         "timestamp": 1696160110134,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oF1SkWMwJpWtKIoq": {
+        "id": "oF1SkWMwJpWtKIoq",
+        "compendium": "blog-bestiary",
+        "name": "Kobold Tunnelrunner",
+        "prompt": "Fantasy art Kobold Tunnelrunner humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1696160110134,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
