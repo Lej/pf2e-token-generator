@@ -25927,5 +25927,14 @@
         "timestamp": 1696160110507,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aqcDvkIaKwJdMEAO": {
+        "id": "aqcDvkIaKwJdMEAO",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Iffdahsil",
+        "prompt": "Fantasy art Iffdahsil aberration undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110507,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
