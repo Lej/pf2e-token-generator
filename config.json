@@ -31048,5 +31048,14 @@
         "timestamp": 1696160111714,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tVsrWl9kfVIGG5OW": {
+        "id": "tVsrWl9kfVIGG5OW",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Thick Pelagastr Tail",
+        "prompt": "Fantasy art Thick Pelagastr Tail monitor protean in the style of Greg Rutkowski",
+        "timestamp": 1696160111715,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
