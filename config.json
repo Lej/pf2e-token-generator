@@ -30418,5 +30418,14 @@
         "timestamp": 1696160111684,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Rv14qdCi4cTEBXJ4": {
+        "id": "Rv14qdCi4cTEBXJ4",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Murajau",
+        "prompt": "Fantasy art Murajau amphibious humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111685,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
