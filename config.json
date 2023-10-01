@@ -25153,5 +25153,14 @@
         "timestamp": 1696160110465,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QR3AC4mkpfz6KPSh": {
+        "id": "QR3AC4mkpfz6KPSh",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Cythnigot",
+        "prompt": "Fantasy art Cythnigot fiend qlippoth in the style of Greg Rutkowski",
+        "timestamp": 1696160110465,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
