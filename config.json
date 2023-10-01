@@ -24370,5 +24370,14 @@
         "timestamp": 1696160110434,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6Me4Q1JDupyCCnGg": {
+        "id": "6Me4Q1JDupyCCnGg",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Ice Mephit",
+        "prompt": "Fantasy art Ice Mephit air elemental water in the style of Greg Rutkowski",
+        "timestamp": 1696160110435,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
