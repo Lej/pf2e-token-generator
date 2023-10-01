@@ -25630,5 +25630,14 @@
         "timestamp": 1696160110493,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YaKW9i3v9nn8Blij": {
+        "id": "YaKW9i3v9nn8Blij",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Xulgath Thoughtmaw",
+        "prompt": "Fantasy art Xulgath Thoughtmaw humanoid xulgath rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110495,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
