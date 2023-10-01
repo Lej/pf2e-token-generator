@@ -25783,5 +25783,14 @@
         "timestamp": 1696160110500,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SAqbWugp2NcdEtrr": {
+        "id": "SAqbWugp2NcdEtrr",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Bone Croupier",
+        "prompt": "Fantasy art Bone Croupier undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110501,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
