@@ -23578,5 +23578,14 @@
         "timestamp": 1696160110407,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wxBQsGLdti2xcGVT": {
+        "id": "wxBQsGLdti2xcGVT",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Neothelid",
+        "prompt": "Fantasy art Neothelid aberration rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110408,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
