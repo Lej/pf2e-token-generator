@@ -28456,5 +28456,14 @@
         "timestamp": 1696160111552,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rGZsMD3loampnRRo": {
+        "id": "rGZsMD3loampnRRo",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Shieldbearer Construct",
+        "prompt": "Fantasy art Shieldbearer Construct construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111552,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
