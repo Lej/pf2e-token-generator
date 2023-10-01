@@ -22120,5 +22120,14 @@
         "timestamp": 1696160110355,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TeUO57XO1Mqk1cTl": {
+        "id": "TeUO57XO1Mqk1cTl",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Ancient Magma Dragon (Spellcaster)",
+        "prompt": "Fantasy art Ancient Magma Dragon Spellcaster dragon elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1696160110356,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
