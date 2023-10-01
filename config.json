@@ -25882,5 +25882,14 @@
         "timestamp": 1696160110504,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IVpSJcoRLGgUfqW7": {
+        "id": "IVpSJcoRLGgUfqW7",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Harrow Doll",
+        "prompt": "Fantasy art Harrow Doll construct in the style of Greg Rutkowski",
+        "timestamp": 1696160110504,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
