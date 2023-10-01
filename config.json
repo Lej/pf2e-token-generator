@@ -21616,5 +21616,14 @@
         "timestamp": 1696160110283,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "60aeSJvu09ZM3SPx": {
+        "id": "60aeSJvu09ZM3SPx",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Racharak",
+        "prompt": "Fantasy art Racharak charau-ka dragon fire humanoid Female charau-ka guardian in the style of Greg Rutkowski",
+        "timestamp": 1696160110283,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
