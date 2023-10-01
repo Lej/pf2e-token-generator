@@ -25945,5 +25945,14 @@
         "timestamp": 1696160110507,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "s7447jKTaAd4r3Oa": {
+        "id": "s7447jKTaAd4r3Oa",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Ciza",
+        "prompt": "Fantasy art Ciza incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110508,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
