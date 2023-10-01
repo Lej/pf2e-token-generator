@@ -27961,5 +27961,14 @@
         "timestamp": 1696160111531,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0iZHpYIbxquRDd8E": {
+        "id": "0iZHpYIbxquRDd8E",
+        "compendium": "blood-lords-bestiary",
+        "name": "Pyrogeist",
+        "prompt": "Fantasy art Pyrogeist incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111531,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
