@@ -28285,5 +28285,14 @@
         "timestamp": 1696160111543,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zgd9SvS7CyWTHlBs": {
+        "id": "zgd9SvS7CyWTHlBs",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Kurshkin",
+        "prompt": "Fantasy art Kurshkin fey gremlin in the style of Greg Rutkowski",
+        "timestamp": 1696160111543,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
