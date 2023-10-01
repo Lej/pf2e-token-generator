@@ -22192,5 +22192,14 @@
         "timestamp": 1696160110359,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aMIb3Xm64NzRj8YP": {
+        "id": "aMIb3Xm64NzRj8YP",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Mandragora",
+        "prompt": "Fantasy art Mandragora plant in the style of Greg Rutkowski",
+        "timestamp": 1696160110359,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
