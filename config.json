@@ -31939,5 +31939,14 @@
         "timestamp": 1696160111745,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EiCWpQOwOlGnvWB8": {
+        "id": "EiCWpQOwOlGnvWB8",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Explosive Rat",
+        "prompt": "Fantasy art Explosive Rat animal in the style of Greg Rutkowski",
+        "timestamp": 1696160111745,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

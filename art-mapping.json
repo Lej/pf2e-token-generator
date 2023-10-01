@@ -14269,6 +14269,10 @@
         "sfStaEmGGvXWftsn": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-3-bestiary/sfStaEmGGvXWftsn/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-3-bestiary/sfStaEmGGvXWftsn/token.webp"
+        },
+        "EiCWpQOwOlGnvWB8": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pfs-season-3-bestiary/EiCWpQOwOlGnvWB8/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pfs-season-3-bestiary/EiCWpQOwOlGnvWB8/token.webp"
         }
     }
 }
