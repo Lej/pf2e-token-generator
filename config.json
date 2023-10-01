@@ -22165,5 +22165,14 @@
         "timestamp": 1696160110358,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FJr7Rc9MQEwxjAcz": {
+        "id": "FJr7Rc9MQEwxjAcz",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Urdefhan Tormentor",
+        "prompt": "Fantasy art Urdefhan Tormentor humanoid urdefhan rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110358,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
