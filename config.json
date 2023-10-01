@@ -24721,5 +24721,14 @@
         "timestamp": 1696160110448,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DWQzgPL1WjXfu4rV": {
+        "id": "DWQzgPL1WjXfu4rV",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Assassin Vine",
+        "prompt": "Fantasy art Assassin Vine mindless plant in the style of Greg Rutkowski",
+        "timestamp": 1696160110448,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
