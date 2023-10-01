@@ -27232,5 +27232,14 @@
         "timestamp": 1696160111491,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "vYMWNYvaKYxKm2Jh": {
+        "id": "vYMWNYvaKYxKm2Jh",
+        "compendium": "blood-lords-bestiary",
+        "name": "Kapoacinth",
+        "prompt": "Fantasy art Kapoacinth aquatic beast earth Variant gargoyle in the style of Greg Rutkowski",
+        "timestamp": 1696160111491,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
