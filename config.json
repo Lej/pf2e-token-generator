@@ -24973,5 +24973,14 @@
         "timestamp": 1696160110457,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "37FAi1y5S8snofws": {
+        "id": "37FAi1y5S8snofws",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Olethrodaemon",
+        "prompt": "Fantasy art Olethrodaemon daemon fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110458,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
