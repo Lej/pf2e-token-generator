@@ -28744,5 +28744,14 @@
         "timestamp": 1696160111566,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vjmhpWfL8hvK2nzO": {
+        "id": "vjmhpWfL8hvK2nzO",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Abendego Brute",
+        "prompt": "Fantasy art Abendego Brute human humanoid Human bruiser in the style of Greg Rutkowski",
+        "timestamp": 1696160111566,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
