@@ -24226,5 +24226,14 @@
         "timestamp": 1696160110429,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WKsogmP2X2F68Zdm": {
+        "id": "WKsogmP2X2F68Zdm",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Devourer",
+        "prompt": "Fantasy art Devourer undead rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110429,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
