@@ -29509,5 +29509,14 @@
         "timestamp": 1696160111647,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "s7lkV69f0RRHwFEU": {
+        "id": "s7lkV69f0RRHwFEU",
+        "compendium": "night-of-the-gray-death-bestiary",
+        "name": "Gray Gardener Enforcer",
+        "prompt": "Fantasy art Gray Gardener Enforcer human humanoid mortic in the style of Greg Rutkowski",
+        "timestamp": 1696160111647,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
