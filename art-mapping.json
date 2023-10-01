@@ -13288,5 +13288,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/the-enmity-cycle-bestiary/uo8oScVY4NLRCuo2/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/the-enmity-cycle-bestiary/uo8oScVY4NLRCuo2/token.webp"
         }
+    },
+    "rage-of-elements-bestiary": {
+        "YWFBlSODRkWD60Je": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/rage-of-elements-bestiary/YWFBlSODRkWD60Je/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/rage-of-elements-bestiary/YWFBlSODRkWD60Je/token.webp"
+        }
     }
 }

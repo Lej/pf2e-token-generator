@@ -29743,5 +29743,14 @@
         "timestamp": 1696160111660,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "YWFBlSODRkWD60Je": {
+        "id": "YWFBlSODRkWD60Je",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Picture-in-Clouds",
+        "prompt": "Fantasy art Picture-in-Clouds air elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160111661,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
