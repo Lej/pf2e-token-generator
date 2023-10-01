@@ -25234,5 +25234,14 @@
         "timestamp": 1696160110470,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "b5creqUAlBl0Tmmc": {
+        "id": "b5creqUAlBl0Tmmc",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Leandrus",
+        "prompt": "Fantasy art Leandrus animal minion Male lion in the style of Greg Rutkowski",
+        "timestamp": 1696160110471,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
