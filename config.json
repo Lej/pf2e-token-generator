@@ -31984,5 +31984,14 @@
         "timestamp": 1696160111746,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RTHM0lrmzvUskBMy": {
+        "id": "RTHM0lrmzvUskBMy",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Arabuk",
+        "prompt": "Fantasy art Arabuk animal in the style of Greg Rutkowski",
+        "timestamp": 1696160111746,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
