@@ -26071,5 +26071,14 @@
         "timestamp": 1696160110512,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7p4RWS26W5k6vCkH": {
+        "id": "7p4RWS26W5k6vCkH",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Cat Sith",
+        "prompt": "Fantasy art Cat Sith fey in the style of Greg Rutkowski",
+        "timestamp": 1696160110512,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
