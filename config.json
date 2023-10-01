@@ -27142,5 +27142,14 @@
         "timestamp": 1696160111487,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "c8OrFlroChWV6ad4": {
+        "id": "c8OrFlroChWV6ad4",
+        "compendium": "blood-lords-bestiary",
+        "name": "Mechanical Laborer",
+        "prompt": "Fantasy art Mechanical Laborer construct earth mindless Variant animated statue in the style of Greg Rutkowski",
+        "timestamp": 1696160111487,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
