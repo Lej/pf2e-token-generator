@@ -31291,5 +31291,14 @@
         "timestamp": 1696160111723,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "BuLgk7s7lPfn1HUS": {
+        "id": "BuLgk7s7lPfn1HUS",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Weakened Cobbleswarm",
+        "prompt": "Fantasy art Weakened Cobbleswarm aberration earth swarm Spawned from a Cobbled Bruiser in the style of Greg Rutkowski",
+        "timestamp": 1696160111723,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
