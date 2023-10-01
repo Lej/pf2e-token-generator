@@ -20842,5 +20842,14 @@
         "timestamp": 1696160110144,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PhLxqnAIhCovfcXy": {
+        "id": "PhLxqnAIhCovfcXy",
+        "compendium": "troubles-in-otari-bestiary",
+        "name": "Kotgar Leadbuster",
+        "prompt": "Fantasy art Kotgar Leadbuster dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110145,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
