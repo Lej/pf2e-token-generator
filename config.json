@@ -22246,5 +22246,14 @@
         "timestamp": 1696160110360,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "57pzXwM9qFiRTwq9": {
+        "id": "57pzXwM9qFiRTwq9",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Dig-Widget",
+        "prompt": "Fantasy art Dig-Widget construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160110361,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
