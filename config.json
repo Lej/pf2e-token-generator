@@ -32488,5 +32488,14 @@
         "timestamp": 1696160111762,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8tDDIvcinSurN8BF": {
+        "id": "8tDDIvcinSurN8BF",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Marcien Blakros (9-10)",
+        "prompt": "Fantasy art Marcien Blakros fetchling humanoid shadow in the style of Greg Rutkowski",
+        "timestamp": 1696160111763,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
