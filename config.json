@@ -32380,5 +32380,14 @@
         "timestamp": 1696160111759,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hGu2JDWOAHHMLYeH": {
+        "id": "hGu2JDWOAHHMLYeH",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Thundering Wihsaak (Rifle Mutation)",
+        "prompt": "Fantasy art Thundering Wihsaak Rifle Mutation fiend sahkil in the style of Greg Rutkowski",
+        "timestamp": 1696160111759,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
