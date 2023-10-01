@@ -30238,5 +30238,14 @@
         "timestamp": 1696160111677,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7C6sSVh7jipvHKbV": {
+        "id": "7C6sSVh7jipvHKbV",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Vegetable Lamb",
+        "prompt": "Fantasy art Vegetable Lamb elemental plant wood in the style of Greg Rutkowski",
+        "timestamp": 1696160111678,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
