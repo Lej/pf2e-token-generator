@@ -29293,5 +29293,14 @@
         "timestamp": 1696160111590,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ErJQcWKeBm1aZ7Np": {
+        "id": "ErJQcWKeBm1aZ7Np",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Grippli Skirmisher",
+        "prompt": "Fantasy art Grippli Skirmisher grippli humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111591,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
