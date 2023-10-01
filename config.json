@@ -22174,5 +22174,14 @@
         "timestamp": 1696160110358,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8WAc7n2M4Ks00yvj": {
+        "id": "8WAc7n2M4Ks00yvj",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Cavern Troll",
+        "prompt": "Fantasy art Cavern Troll earth giant troll in the style of Greg Rutkowski",
+        "timestamp": 1696160110359,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
