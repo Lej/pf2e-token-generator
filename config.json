@@ -30220,5 +30220,14 @@
         "timestamp": 1696160111677,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Vv9ffFM1qiTdIEsy": {
+        "id": "Vv9ffFM1qiTdIEsy",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Munsahir Trooper",
+        "prompt": "Fantasy art Munsahir Trooper elemental fire humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111677,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
