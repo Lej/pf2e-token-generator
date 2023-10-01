@@ -21238,5 +21238,14 @@
         "timestamp": 1696160110261,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xPV49ZBCwDdCq5eI": {
+        "id": "xPV49ZBCwDdCq5eI",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Vazgorlu",
+        "prompt": "Fantasy art Vazgorlu aberration astral in the style of Greg Rutkowski",
+        "timestamp": 1696160110261,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
