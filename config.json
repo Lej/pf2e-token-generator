@@ -31408,5 +31408,14 @@
         "timestamp": 1696160111727,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8sCLuGyghlIvMoBo": {
+        "id": "8sCLuGyghlIvMoBo",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Languid Purple Worm",
+        "prompt": "Fantasy art Languid Purple Worm animal variant Purple Worm in the style of Greg Rutkowski",
+        "timestamp": 1696160111727,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
