@@ -25972,5 +25972,14 @@
         "timestamp": 1696160110508,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "I6i1uvFI7VCTyVbM": {
+        "id": "I6i1uvFI7VCTyVbM",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Xulgath Herd-Tender",
+        "prompt": "Fantasy art Xulgath Herd-Tender humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1696160110508,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
