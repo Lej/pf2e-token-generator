@@ -29113,5 +29113,14 @@
         "timestamp": 1696160111579,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LA5VHAp0urzMEdsH": {
+        "id": "LA5VHAp0urzMEdsH",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Takulu Ot",
+        "prompt": "Fantasy art Takulu Ot human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111579,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
