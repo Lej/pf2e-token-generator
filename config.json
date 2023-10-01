@@ -29608,5 +29608,14 @@
         "timestamp": 1696160111651,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GyBkJWmMHfNQtAFw": {
+        "id": "GyBkJWmMHfNQtAFw",
+        "compendium": "the-slithering-bestiary",
+        "name": "Aspis Guard",
+        "prompt": "Fantasy art Aspis Guard dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111652,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
