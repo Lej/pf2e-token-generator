@@ -29482,5 +29482,14 @@
         "timestamp": 1696160111646,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "aufhOvDz7EBjbxaQ": {
+        "id": "aufhOvDz7EBjbxaQ",
+        "compendium": "night-of-the-gray-death-bestiary",
+        "name": "Gray Gardener Director General",
+        "prompt": "Fantasy art Gray Gardener Director General human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111646,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
