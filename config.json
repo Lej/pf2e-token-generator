@@ -26026,5 +26026,14 @@
         "timestamp": 1696160110511,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "JvSCGGnexk7CmVke": {
+        "id": "JvSCGGnexk7CmVke",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Viktor Volkano",
+        "prompt": "Fantasy art Viktor Volkano human humanoid Male human fire-breather in the style of Greg Rutkowski",
+        "timestamp": 1696160110511,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
