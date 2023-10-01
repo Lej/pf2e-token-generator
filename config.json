@@ -23623,5 +23623,14 @@
         "timestamp": 1696160110410,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZrDGTNxlISyxNAKX": {
+        "id": "ZrDGTNxlISyxNAKX",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Bralani",
+        "prompt": "Fantasy art Bralani azata celestial in the style of Greg Rutkowski",
+        "timestamp": 1696160110410,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
