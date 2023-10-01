@@ -21688,5 +21688,14 @@
         "timestamp": 1696160110287,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kLX36WXp6rjTt71z": {
+        "id": "kLX36WXp6rjTt71z",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Rinnarv Bontimar",
+        "prompt": "Fantasy art Rinnarv Bontimar elf human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110289,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
