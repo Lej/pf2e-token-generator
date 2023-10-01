@@ -21607,5 +21607,14 @@
         "timestamp": 1696160110283,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9oNwQuwKGUuG9G9g": {
+        "id": "9oNwQuwKGUuG9G9g",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Laslunn",
+        "prompt": "Fantasy art Laslunn gnoll humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110283,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
