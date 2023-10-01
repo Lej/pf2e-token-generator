@@ -29212,5 +29212,14 @@
         "timestamp": 1696160111585,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "flVfkZzC1cse78Hn": {
+        "id": "flVfkZzC1cse78Hn",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Abendego Priest",
+        "prompt": "Fantasy art Abendego Priest human humanoid Human priest of Norgorber in the style of Greg Rutkowski",
+        "timestamp": 1696160111586,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
