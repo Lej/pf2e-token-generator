@@ -24802,5 +24802,14 @@
         "timestamp": 1696160110452,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "340AwQpRXGblw1kF": {
+        "id": "340AwQpRXGblw1kF",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Sarglagon",
+        "prompt": "Fantasy art Sarglagon amphibious devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110452,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
