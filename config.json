@@ -25090,5 +25090,14 @@
         "timestamp": 1696160110462,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "iLZpGlyBWxS4Idbi": {
+        "id": "iLZpGlyBWxS4Idbi",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Emperor Cobra",
+        "prompt": "Fantasy art Emperor Cobra animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110462,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
