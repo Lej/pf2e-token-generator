@@ -28870,5 +28870,14 @@
         "timestamp": 1696160111572,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SvOEczaYVWrASvSm": {
+        "id": "SvOEczaYVWrASvSm",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Riding Frog",
+        "prompt": "Fantasy art Riding Frog animal Variant elite giant frog in the style of Greg Rutkowski",
+        "timestamp": 1696160111572,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
