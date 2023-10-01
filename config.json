@@ -27349,5 +27349,14 @@
         "timestamp": 1696160111496,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0PJ75DaIe8x5ynp1": {
+        "id": "0PJ75DaIe8x5ynp1",
+        "compendium": "blood-lords-bestiary",
+        "name": "Ghoul Antipaladin",
+        "prompt": "Fantasy art Ghoul Antipaladin ghoul undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111497,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
