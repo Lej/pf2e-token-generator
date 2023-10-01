@@ -31606,5 +31606,14 @@
         "timestamp": 1696160111734,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BQOgvcGbGxFSQQ0T": {
+        "id": "BQOgvcGbGxFSQQ0T",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Leopard (PFS 3-13)",
+        "prompt": "Fantasy art Leopard animal in the style of Greg Rutkowski",
+        "timestamp": 1696160111734,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
