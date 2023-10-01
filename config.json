@@ -26764,5 +26764,14 @@
         "timestamp": 1696160111195,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "uDmXkhH56GdGtfQo": {
+        "id": "uDmXkhH56GdGtfQo",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Azlanti Cutpurse",
+        "prompt": "Fantasy art Azlanti Cutpurse human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111195,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
