@@ -27313,5 +27313,14 @@
         "timestamp": 1696160111495,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1Hc1BLc9LIXLuBdg": {
+        "id": "1Hc1BLc9LIXLuBdg",
+        "compendium": "blood-lords-bestiary",
+        "name": "Rival Corpsekiller",
+        "prompt": "Fantasy art Rival Corpsekiller human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111495,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
