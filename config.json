@@ -25333,5 +25333,14 @@
         "timestamp": 1696160110477,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OCrQtfKDFpLedE13": {
+        "id": "OCrQtfKDFpLedE13",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Shoony Militia Member",
+        "prompt": "Fantasy art Shoony Militia Member humanoid shoony in the style of Greg Rutkowski",
+        "timestamp": 1696160110477,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
