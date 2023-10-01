@@ -22084,5 +22084,14 @@
         "timestamp": 1696160110354,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wByXwxI5r7YRlkAK": {
+        "id": "wByXwxI5r7YRlkAK",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Shoggti",
+        "prompt": "Fantasy art Shoggti amphibious fiend qlippoth in the style of Greg Rutkowski",
+        "timestamp": 1696160110354,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
