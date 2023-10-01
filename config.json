@@ -27565,5 +27565,14 @@
         "timestamp": 1696160111509,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aZMbCNaUnmqIVoyA": {
+        "id": "aZMbCNaUnmqIVoyA",
+        "compendium": "blood-lords-bestiary",
+        "name": "Granite Vulture",
+        "prompt": "Fantasy art Granite Vulture fiend LE variant guardian beast in the style of Greg Rutkowski",
+        "timestamp": 1696160111510,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
