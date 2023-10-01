@@ -27421,5 +27421,14 @@
         "timestamp": 1696160111501,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EqO67DHLlB88vSJZ": {
+        "id": "EqO67DHLlB88vSJZ",
+        "compendium": "blood-lords-bestiary",
+        "name": "Theater Phantasm",
+        "prompt": "Fantasy art Theater Phantasm incorporeal undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111502,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
