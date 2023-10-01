@@ -21103,5 +21103,14 @@
         "timestamp": 1696160110254,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nQ2eBOpK71I8D2JC": {
+        "id": "nQ2eBOpK71I8D2JC",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Scarlet Triad Poisoner",
+        "prompt": "Fantasy art Scarlet Triad Poisoner human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110254,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
