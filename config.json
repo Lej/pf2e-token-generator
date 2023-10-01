@@ -20644,5 +20644,14 @@
         "timestamp": 1696160110136,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "h3qZZZ5PCbY87HZ4": {
+        "id": "h3qZZZ5PCbY87HZ4",
+        "compendium": "blog-bestiary",
+        "name": "Psstpsstmitl",
+        "prompt": "Fantasy art Psstpsstmitl animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110136,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
