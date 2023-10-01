@@ -11858,5 +11858,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/travel-guide-bestiary/FMGyuNpkxMRR1Jrw/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/travel-guide-bestiary/FMGyuNpkxMRR1Jrw/token.webp"
         }
+    },
+    "pathfinder-dark-archive": {
+        "34gooaLEuQh0Cu9n": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-dark-archive/34gooaLEuQh0Cu9n/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-dark-archive/34gooaLEuQh0Cu9n/token.webp"
+        }
     }
 }

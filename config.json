@@ -26557,5 +26557,14 @@
         "timestamp": 1696160110691,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "34gooaLEuQh0Cu9n": {
+        "id": "34gooaLEuQh0Cu9n",
+        "compendium": "pathfinder-dark-archive",
+        "name": "Cocoon of Lucid Potential",
+        "prompt": "Fantasy art Cocoon of Lucid Potential aberration in the style of Greg Rutkowski",
+        "timestamp": 1696160110987,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
