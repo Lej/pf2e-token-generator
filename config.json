@@ -24577,5 +24577,14 @@
         "timestamp": 1696160110441,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ytsHNgRwLzabsrZt": {
+        "id": "ytsHNgRwLzabsrZt",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Meladaemon",
+        "prompt": "Fantasy art Meladaemon daemon fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110442,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
