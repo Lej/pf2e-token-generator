@@ -27979,5 +27979,14 @@
         "timestamp": 1696160111532,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Eu7KtTDs6ia5ijUK": {
+        "id": "Eu7KtTDs6ia5ijUK",
+        "compendium": "blood-lords-bestiary",
+        "name": "Shadow Worm",
+        "prompt": "Fantasy art Shadow Worm animal shadow in the style of Greg Rutkowski",
+        "timestamp": 1696160111532,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
