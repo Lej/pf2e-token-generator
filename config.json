@@ -22858,5 +22858,14 @@
         "timestamp": 1696160110381,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "y9D2wh63pBzIyI7i": {
+        "id": "y9D2wh63pBzIyI7i",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Giant Maggot",
+        "prompt": "Fantasy art Giant Maggot animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110382,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
