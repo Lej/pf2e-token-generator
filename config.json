@@ -27484,5 +27484,14 @@
         "timestamp": 1696160111503,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sJRDLWLc7F6ZCc31": {
+        "id": "sJRDLWLc7F6ZCc31",
+        "compendium": "blood-lords-bestiary",
+        "name": "Sorvinaesen",
+        "prompt": "Fantasy art Sorvinaesen giant humanoid Female tomb giant seer rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111505,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
