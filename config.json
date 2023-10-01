@@ -27097,5 +27097,14 @@
         "timestamp": 1696160111484,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bZPLaHBF66XuRQlv": {
+        "id": "bZPLaHBF66XuRQlv",
+        "compendium": "blood-lords-bestiary",
+        "name": "Lasheeli",
+        "prompt": "Fantasy art Lasheeli aasimar human humanoid Female aasimar human storyteller in the style of Greg Rutkowski",
+        "timestamp": 1696160111485,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
