@@ -33082,5 +33082,14 @@
         "timestamp": 1696160111807,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jH57QwQxH7aBs56G": {
+        "id": "jH57QwQxH7aBs56G",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Hadi Mob",
+        "prompt": "Fantasy art Hadi Mob humanoid ratfolk troop in the style of Greg Rutkowski",
+        "timestamp": 1696160111808,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
