@@ -26431,5 +26431,14 @@
         "timestamp": 1696160110527,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yRhCsQsoz1Uqvkmk": {
+        "id": "yRhCsQsoz1Uqvkmk",
+        "compendium": "travel-guide-bestiary",
+        "name": "Vulture Rat",
+        "prompt": "Fantasy art Vulture Rat animal Variant giant rat in the style of Greg Rutkowski",
+        "timestamp": 1696160110527,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
