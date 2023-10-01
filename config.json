@@ -29185,5 +29185,14 @@
         "timestamp": 1696160111584,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9bv6UWHz66TRwP4H": {
+        "id": "9bv6UWHz66TRwP4H",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Spellskein (Consecrate)",
+        "prompt": "Fantasy art Spellskein Consecrate construct in the style of Greg Rutkowski",
+        "timestamp": 1696160111584,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
