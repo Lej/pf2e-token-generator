@@ -29986,5 +29986,14 @@
         "timestamp": 1696160111669,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AahAJjsv74rPfAG5": {
+        "id": "AahAJjsv74rPfAG5",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Oregorger",
+        "prompt": "Fantasy art Oregorger elemental metal in the style of Greg Rutkowski",
+        "timestamp": 1696160111669,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
