@@ -23713,5 +23713,14 @@
         "timestamp": 1696160110412,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "a6TY4fgTz5MbpkRR": {
+        "id": "a6TY4fgTz5MbpkRR",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Young Magma Dragon (Spellcaster)",
+        "prompt": "Fantasy art Young Magma Dragon Spellcaster dragon elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1696160110413,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
