@@ -25450,5 +25450,14 @@
         "timestamp": 1696160110483,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "I31kJb0DRkzTn8iX": {
+        "id": "I31kJb0DRkzTn8iX",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Xulgath Spinesnapper",
+        "prompt": "Fantasy art Xulgath Spinesnapper humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1696160110483,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
