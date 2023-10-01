@@ -24469,5 +24469,14 @@
         "timestamp": 1696160110439,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sMNqIHHxcVBXG08h": {
+        "id": "sMNqIHHxcVBXG08h",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Cairn Wight",
+        "prompt": "Fantasy art Cairn Wight undead wight in the style of Greg Rutkowski",
+        "timestamp": 1696160110439,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
