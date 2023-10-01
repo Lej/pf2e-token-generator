@@ -27259,5 +27259,14 @@
         "timestamp": 1696160111492,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "glq0AJMjNAB0R2Ke": {
+        "id": "glq0AJMjNAB0R2Ke",
+        "compendium": "blood-lords-bestiary",
+        "name": "Terra-cotta Soldier",
+        "prompt": "Fantasy art Terra-cotta Soldier construct in the style of Greg Rutkowski",
+        "timestamp": 1696160111492,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
