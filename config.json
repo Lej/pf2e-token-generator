@@ -28177,5 +28177,14 @@
         "timestamp": 1696160111538,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "1GNNvFjOH3mlJiRF": {
+        "id": "1GNNvFjOH3mlJiRF",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Reborn Sun Mage",
+        "prompt": "Fantasy art Reborn Sun Mage fire undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111539,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
