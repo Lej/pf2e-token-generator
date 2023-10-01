@@ -32533,5 +32533,14 @@
         "timestamp": 1696160111764,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZzH4EqJtWIhaNWSv": {
+        "id": "ZzH4EqJtWIhaNWSv",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Animated Blade (PFS 3-99)",
+        "prompt": "Fantasy art Animated Blade construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111764,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
