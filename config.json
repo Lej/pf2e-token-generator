@@ -30202,5 +30202,14 @@
         "timestamp": 1696160111676,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "RObxZM2z4P6ZW3hN": {
+        "id": "RObxZM2z4P6ZW3hN",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Jann Shuyookh",
+        "prompt": "Fantasy art Jann Shuyookh air earth elemental fire genie metal water wood in the style of Greg Rutkowski",
+        "timestamp": 1696160111677,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
