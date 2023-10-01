@@ -28294,5 +28294,14 @@
         "timestamp": 1696160111543,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "waXVDOOvff9GtAbq": {
+        "id": "waXVDOOvff9GtAbq",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "King of Biting Ants",
+        "prompt": "Fantasy art King of Biting Ants aberration swarm Male worm that walks sorcerer in the style of Greg Rutkowski",
+        "timestamp": 1696160111544,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
