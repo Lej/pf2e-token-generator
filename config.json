@@ -20968,5 +20968,14 @@
         "timestamp": 1696160110247,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rd8Scu1YBSyKFwnk": {
+        "id": "rd8Scu1YBSyKFwnk",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Emperor Bird",
+        "prompt": "Fantasy art Emperor Bird animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110247,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
