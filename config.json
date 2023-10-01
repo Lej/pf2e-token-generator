@@ -32614,5 +32614,14 @@
         "timestamp": 1696160111767,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SkV5zYJgu7hdpZE0": {
+        "id": "SkV5zYJgu7hdpZE0",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Sparkles (11-12)",
+        "prompt": "Fantasy art Sparkles beast weak Shuln in the style of Greg Rutkowski",
+        "timestamp": 1696160111767,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
