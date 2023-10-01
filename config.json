@@ -23938,5 +23938,14 @@
         "timestamp": 1696160110420,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Hwy4YrNVVr7NnsMC": {
+        "id": "Hwy4YrNVVr7NnsMC",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Mudwretch",
+        "prompt": "Fantasy art Mudwretch earth elemental water in the style of Greg Rutkowski",
+        "timestamp": 1696160110420,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
