@@ -21058,5 +21058,14 @@
         "timestamp": 1696160110252,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xXtGS9uBa9z43X7y": {
+        "id": "xXtGS9uBa9z43X7y",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Graveshell",
+        "prompt": "Fantasy art Graveshell beast in the style of Greg Rutkowski",
+        "timestamp": 1696160110252,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
