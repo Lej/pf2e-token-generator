@@ -30643,5 +30643,14 @@
         "timestamp": 1696160111694,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tjDGU0T5RYZG49EN": {
+        "id": "tjDGU0T5RYZG49EN",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Elder Thing",
+        "prompt": "Fantasy art Elder Thing aberration amphibious in the style of Greg Rutkowski",
+        "timestamp": 1696160111695,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
