@@ -30877,5 +30877,14 @@
         "timestamp": 1696160111704,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7VoxPNp1BMlhGrss": {
+        "id": "7VoxPNp1BMlhGrss",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Amelekana",
+        "prompt": "Fantasy art Amelekana amphibious beast in the style of Greg Rutkowski",
+        "timestamp": 1696160111704,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
