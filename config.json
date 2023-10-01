@@ -31561,5 +31561,14 @@
         "timestamp": 1696160111733,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XyrToL9Wyl4MoAf1": {
+        "id": "XyrToL9Wyl4MoAf1",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Caliclotherax (9-10)",
+        "prompt": "Fantasy art Caliclotherax dragon earth elemental Adult Crystal Dragon in the style of Greg Rutkowski",
+        "timestamp": 1696160111733,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
