@@ -28816,5 +28816,14 @@
         "timestamp": 1696160111570,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VUad8HXC87nC9OrZ": {
+        "id": "VUad8HXC87nC9OrZ",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Mutated Sewer Ooze",
+        "prompt": "Fantasy art Mutated Sewer Ooze mindless mutant ooze in the style of Greg Rutkowski",
+        "timestamp": 1696160111570,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
