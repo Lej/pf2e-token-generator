@@ -29464,5 +29464,14 @@
         "timestamp": 1696160111645,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9TmGRq1HjPwy1CLq": {
+        "id": "9TmGRq1HjPwy1CLq",
+        "compendium": "night-of-the-gray-death-bestiary",
+        "name": "Tumblak",
+        "prompt": "Fantasy art Tumblak fiend incorporeal sahkil in the style of Greg Rutkowski",
+        "timestamp": 1696160111645,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
