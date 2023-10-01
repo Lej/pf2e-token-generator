@@ -27583,5 +27583,14 @@
         "timestamp": 1696160111510,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CVBM8oY76Yw4IxN5": {
+        "id": "CVBM8oY76Yw4IxN5",
+        "compendium": "blood-lords-bestiary",
+        "name": "Scrabbling Ribcage",
+        "prompt": "Fantasy art Scrabbling Ribcage construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111510,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
