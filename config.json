@@ -32731,5 +32731,14 @@
         "timestamp": 1696160111771,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "U41mRr07sJywSFYZ": {
+        "id": "U41mRr07sJywSFYZ",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Werebat (PFS 3-13)",
+        "prompt": "Fantasy art Werebat beast human humanoid werecreature in the style of Greg Rutkowski",
+        "timestamp": 1696160111771,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
