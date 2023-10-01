@@ -30634,5 +30634,14 @@
         "timestamp": 1696160111694,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4LTBKID3ZcZgyOVw": {
+        "id": "4LTBKID3ZcZgyOVw",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Elder Thing Researcher",
+        "prompt": "Fantasy art Elder Thing Researcher aberration amphibious in the style of Greg Rutkowski",
+        "timestamp": 1696160111694,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
