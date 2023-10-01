@@ -30985,5 +30985,14 @@
         "timestamp": 1696160111712,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WxN19w3aO5MpVY6Z": {
+        "id": "WxN19w3aO5MpVY6Z",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Cole Farsen, Gang Leader",
+        "prompt": "Fantasy art Cole Farsen, Gang Leader human humanoid Variant gang leader in the style of Greg Rutkowski",
+        "timestamp": 1696160111712,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
