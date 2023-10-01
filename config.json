@@ -25216,5 +25216,14 @@
         "timestamp": 1696160110470,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "x2XcPDPLeCAXITlZ": {
+        "id": "x2XcPDPLeCAXITlZ",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Iridescent Elephant",
+        "prompt": "Fantasy art Iridescent Elephant animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110470,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
