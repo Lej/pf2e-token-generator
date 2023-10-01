@@ -26413,5 +26413,14 @@
         "timestamp": 1696160110526,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lh3pcyJlUUtNpWcI": {
+        "id": "lh3pcyJlUUtNpWcI",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Ledorick Banyan",
+        "prompt": "Fantasy art Ledorick Banyan human humanoid Male human folk hero in the style of Greg Rutkowski",
+        "timestamp": 1696160110527,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
