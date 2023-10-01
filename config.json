@@ -32515,5 +32515,14 @@
         "timestamp": 1696160111763,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PhnmHglnmoiIb3Al": {
+        "id": "PhnmHglnmoiIb3Al",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Flaming Animated Armor (Leadroar) (1-2)",
+        "prompt": "Fantasy art Flaming Animated Armor Leadroar construct mindless Variant animated armor in the style of Greg Rutkowski",
+        "timestamp": 1696160111764,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
