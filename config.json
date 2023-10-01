@@ -21229,5 +21229,14 @@
         "timestamp": 1696160110260,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "53lk7ek73j65A09B": {
+        "id": "53lk7ek73j65A09B",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Candlaron's Echo",
+        "prompt": "Fantasy art Candlaron's Echo ghost incorporeal spirit in the style of Greg Rutkowski",
+        "timestamp": 1696160110261,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
