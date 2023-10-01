@@ -23830,5 +23830,14 @@
         "timestamp": 1696160110417,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WxSpfUReYJb4StxG": {
+        "id": "WxSpfUReYJb4StxG",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Blue-Ringed Octopus",
+        "prompt": "Fantasy art Blue-Ringed Octopus animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1696160110417,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
