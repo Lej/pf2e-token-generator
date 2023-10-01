@@ -25738,5 +25738,14 @@
         "timestamp": 1696160110498,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CQ2682vd4bUtvKQX": {
+        "id": "CQ2682vd4bUtvKQX",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Runkrunk",
+        "prompt": "Fantasy art Runkrunk construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160110498,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
