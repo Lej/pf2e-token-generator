@@ -25369,5 +25369,14 @@
         "timestamp": 1696160110478,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ffj8PyKkBkYNV6pd": {
+        "id": "Ffj8PyKkBkYNV6pd",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Raptor Guard Wight",
+        "prompt": "Fantasy art Raptor Guard Wight undead Variant wight in the style of Greg Rutkowski",
+        "timestamp": 1696160110479,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
