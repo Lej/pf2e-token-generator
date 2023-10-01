@@ -28141,5 +28141,14 @@
         "timestamp": 1696160111537,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ip0htomE6BytVw5h": {
+        "id": "ip0htomE6BytVw5h",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Skartitch Chip-Tooth",
+        "prompt": "Fantasy art Skartitch Chip-Tooth humanoid ratfolk Female ratfolk crime lord in the style of Greg Rutkowski",
+        "timestamp": 1696160111537,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
