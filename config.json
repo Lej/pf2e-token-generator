@@ -25639,5 +25639,14 @@
         "timestamp": 1696160110495,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DJyAXPHQy7OUUw00": {
+        "id": "DJyAXPHQy7OUUw00",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Headless Xulgath",
+        "prompt": "Fantasy art Headless Xulgath humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1696160110495,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
