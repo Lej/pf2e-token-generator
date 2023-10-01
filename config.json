@@ -22300,5 +22300,14 @@
         "timestamp": 1696160110362,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Kw4UUxt5rorsGjsK": {
+        "id": "Kw4UUxt5rorsGjsK",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Yellow Musk Brute",
+        "prompt": "Fantasy art Yellow Musk Brute mindless plant in the style of Greg Rutkowski",
+        "timestamp": 1696160110362,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
