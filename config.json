@@ -29554,5 +29554,14 @@
         "timestamp": 1696160111648,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Fd9l3UtiMLIRAjhO": {
+        "id": "Fd9l3UtiMLIRAjhO",
+        "compendium": "the-slithering-bestiary",
+        "name": "Aspis Technician",
+        "prompt": "Fantasy art Aspis Technician gnome humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111649,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
