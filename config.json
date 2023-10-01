@@ -22057,5 +22057,14 @@
         "timestamp": 1696160110353,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7UBCht1tQfeba2Ih": {
+        "id": "7UBCht1tQfeba2Ih",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Wood Golem",
+        "prompt": "Fantasy art Wood Golem construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160110353,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
