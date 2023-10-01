@@ -21661,5 +21661,14 @@
         "timestamp": 1696160110286,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gF8Qy1k8gPBEUBAd": {
+        "id": "gF8Qy1k8gPBEUBAd",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Scarlet Triad Mage",
+        "prompt": "Fantasy art Scarlet Triad Mage human humanoid tiefling rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110287,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
