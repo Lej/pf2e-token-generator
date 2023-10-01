@@ -22021,5 +22021,14 @@
         "timestamp": 1696160110351,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VYEPG1G64OaCQmwf": {
+        "id": "VYEPG1G64OaCQmwf",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Elasmosaurus",
+        "prompt": "Fantasy art Elasmosaurus animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110352,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
