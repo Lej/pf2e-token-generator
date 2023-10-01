@@ -21022,5 +21022,14 @@
         "timestamp": 1696160110250,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "T3UVfAfcvAMe9rih": {
+        "id": "T3UVfAfcvAMe9rih",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Charau-ka Dragon Priest",
+        "prompt": "Fantasy art Charau-ka Dragon Priest charau-ka dragon fire humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110251,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
