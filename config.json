@@ -32092,5 +32092,14 @@
         "timestamp": 1696160111749,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ISBNLUY6Ilu0Jl28": {
+        "id": "ISBNLUY6Ilu0Jl28",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Eloko (PFS 3-03)",
+        "prompt": "Fantasy art Eloko fey in the style of Greg Rutkowski",
+        "timestamp": 1696160111750,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
