@@ -27169,5 +27169,14 @@
         "timestamp": 1696160111488,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rAKazZKUhWdwPQBx": {
+        "id": "rAKazZKUhWdwPQBx",
+        "compendium": "blood-lords-bestiary",
+        "name": "Basiri, Wellspring Keeper",
+        "prompt": "Fantasy art Basiri, Wellspring Keeper aquatic skeleton undead rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111489,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
