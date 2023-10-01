@@ -30094,5 +30094,14 @@
         "timestamp": 1696160111671,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bzMyAFhSQ1mfTNx9": {
+        "id": "bzMyAFhSQ1mfTNx9",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Nursery Crawler",
+        "prompt": "Fantasy art Nursery Crawler elemental plant wood in the style of Greg Rutkowski",
+        "timestamp": 1696160111672,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
