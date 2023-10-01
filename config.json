@@ -28942,5 +28942,14 @@
         "timestamp": 1696160111574,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "t5ir38Oait0lziq2": {
+        "id": "t5ir38Oait0lziq2",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Aspect of Insects",
+        "prompt": "Fantasy art Aspect of Insects beast Variant mukradi in the style of Greg Rutkowski",
+        "timestamp": 1696160111574,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
