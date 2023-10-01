@@ -32839,5 +32839,14 @@
         "timestamp": 1696160111787,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0C9muUhjn4vAL5UW": {
+        "id": "0C9muUhjn4vAL5UW",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Ferrugon",
+        "prompt": "Fantasy art Ferrugon devil fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160111788,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
