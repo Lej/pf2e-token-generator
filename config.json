@@ -29941,5 +29941,14 @@
         "timestamp": 1696160111667,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7U27iYyyGK8iGYzR": {
+        "id": "7U27iYyyGK8iGYzR",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Austral, The South Wind",
+        "prompt": "Fantasy art Austral, The South Wind air elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160111668,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
