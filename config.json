@@ -26494,5 +26494,14 @@
         "timestamp": 1696160110639,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gXbDaY9ci2u22ptT": {
+        "id": "gXbDaY9ci2u22ptT",
+        "compendium": "kingmaker-bestiary",
+        "name": "Ghostly Guard",
+        "prompt": "Fantasy art Ghostly Guard ghost incorporeal spirit undead Elf ghost in the style of Greg Rutkowski",
+        "timestamp": 1696160110643,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
