@@ -32065,5 +32065,14 @@
         "timestamp": 1696160111748,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "x6uXLDuFimMuvz3w": {
+        "id": "x6uXLDuFimMuvz3w",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Half-Formed Abrikandilu",
+        "prompt": "Fantasy art Half-Formed Abrikandilu demon fiend Variant abrikandilu rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111748,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
