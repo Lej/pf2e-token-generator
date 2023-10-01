@@ -27736,5 +27736,14 @@
         "timestamp": 1696160111520,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "CWg8NX6XHv2sEVlg": {
+        "id": "CWg8NX6XHv2sEVlg",
+        "compendium": "blood-lords-bestiary",
+        "name": "Weeping Jack",
+        "prompt": "Fantasy art Weeping Jack undead vampire Male halfling vampire rogue in the style of Greg Rutkowski",
+        "timestamp": 1696160111520,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
