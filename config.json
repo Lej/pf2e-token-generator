@@ -29572,5 +29572,14 @@
         "timestamp": 1696160111649,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "ZXpX1TWooxGkIOuu": {
+        "id": "ZXpX1TWooxGkIOuu",
+        "compendium": "the-slithering-bestiary",
+        "name": "Fuming Sludge",
+        "prompt": "Fantasy art Fuming Sludge mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1696160111649,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
