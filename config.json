@@ -32605,5 +32605,14 @@
         "timestamp": 1696160111766,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YsF8TteK6XsThooV": {
+        "id": "YsF8TteK6XsThooV",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Shanrigol Mound",
+        "prompt": "Fantasy art Shanrigol Mound aberration undead Variant shanrigol heap in the style of Greg Rutkowski",
+        "timestamp": 1696160111767,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
