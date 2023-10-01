@@ -25846,5 +25846,14 @@
         "timestamp": 1696160110502,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hz2uoBS8DFOWshko": {
+        "id": "hz2uoBS8DFOWshko",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Darricus Stallit",
+        "prompt": "Fantasy art Darricus Stallit human humanoid Male human deputy constable in the style of Greg Rutkowski",
+        "timestamp": 1696160110503,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
