@@ -29320,5 +29320,14 @@
         "timestamp": 1696160111593,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "j1UkNX6saQfgGZpf": {
+        "id": "j1UkNX6saQfgGZpf",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Salathiss",
+        "prompt": "Fantasy art Salathiss humanoid mutant serpentfolk in the style of Greg Rutkowski",
+        "timestamp": 1696160111594,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
