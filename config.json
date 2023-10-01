@@ -26404,5 +26404,14 @@
         "timestamp": 1696160110526,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bpTQfx4UixMV3Fja": {
+        "id": "bpTQfx4UixMV3Fja",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Kharostan",
+        "prompt": "Fantasy art Kharostan fiend humanoid urdefhan Male urdefhan war champion in the style of Greg Rutkowski",
+        "timestamp": 1696160110526,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
