@@ -32389,5 +32389,14 @@
         "timestamp": 1696160111759,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WpdOwEpoWwxrBUpF": {
+        "id": "WpdOwEpoWwxrBUpF",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Peryton (Rifle Mutation)",
+        "prompt": "Fantasy art Peryton Rifle Mutation beast in the style of Greg Rutkowski",
+        "timestamp": 1696160111760,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
