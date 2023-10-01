@@ -29122,5 +29122,14 @@
         "timestamp": 1696160111579,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BsXzS2fooPorzqsV": {
+        "id": "BsXzS2fooPorzqsV",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Unshadowed Haibram",
+        "prompt": "Fantasy art Unshadowed Haibram dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111580,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
