@@ -31147,5 +31147,14 @@
         "timestamp": 1696160111717,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "zIMgoLwuJVMYxqeF": {
+        "id": "zIMgoLwuJVMYxqeF",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Languid Isqulug",
+        "prompt": "Fantasy art Languid Isqulug aberration amphibious variant Isqulug in the style of Greg Rutkowski",
+        "timestamp": 1696160111718,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
