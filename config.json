@@ -25549,5 +25549,14 @@
         "timestamp": 1696160110488,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YZcw33uhsPHWKcHM": {
+        "id": "YZcw33uhsPHWKcHM",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Hollow Hush",
+        "prompt": "Fantasy art Hollow Hush aberration Variant quelaunt in the style of Greg Rutkowski",
+        "timestamp": 1696160110489,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
