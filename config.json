@@ -31102,5 +31102,14 @@
         "timestamp": 1696160111716,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ATBFj4El0uLXDrjb": {
+        "id": "ATBFj4El0uLXDrjb",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Cinder Rat (Leadroar)",
+        "prompt": "Fantasy art Cinder Rat Leadroar elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1696160111716,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
