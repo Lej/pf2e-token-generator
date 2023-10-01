@@ -31354,5 +31354,14 @@
         "timestamp": 1696160111726,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gTJsV3w2gknQJXiH": {
+        "id": "gTJsV3w2gknQJXiH",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Smiglen Daet",
+        "prompt": "Fantasy art Smiglen Daet aberration amphibious in the style of Greg Rutkowski",
+        "timestamp": 1696160111726,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
