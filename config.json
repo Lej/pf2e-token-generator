@@ -21868,5 +21868,14 @@
         "timestamp": 1696160110346,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8IyfadYYpYXBvlXN": {
+        "id": "8IyfadYYpYXBvlXN",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Vrykolakas Spawn",
+        "prompt": "Fantasy art Vrykolakas Spawn undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1696160110347,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
