@@ -25279,5 +25279,14 @@
         "timestamp": 1696160110473,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "f4H9d0b1vJvxeFqs": {
+        "id": "f4H9d0b1vJvxeFqs",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Sodden Sentinel",
+        "prompt": "Fantasy art Sodden Sentinel undead Variant zombie in the style of Greg Rutkowski",
+        "timestamp": 1696160110473,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
