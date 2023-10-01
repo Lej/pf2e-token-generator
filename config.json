@@ -23794,5 +23794,14 @@
         "timestamp": 1696160110415,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "18NInoyRLIrWE0nt": {
+        "id": "18NInoyRLIrWE0nt",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Chernobue",
+        "prompt": "Fantasy art Chernobue fiend qlippoth in the style of Greg Rutkowski",
+        "timestamp": 1696160110416,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
