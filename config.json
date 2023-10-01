@@ -21382,5 +21382,14 @@
         "timestamp": 1696160110268,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "X7zSx8LFh2ZDnOYy": {
+        "id": "X7zSx8LFh2ZDnOYy",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Teyam Ishtori",
+        "prompt": "Fantasy art Teyam Ishtori undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110269,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
