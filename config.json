@@ -22651,5 +22651,14 @@
         "timestamp": 1696160110373,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Nk3Inn5jel1VQMLt": {
+        "id": "Nk3Inn5jel1VQMLt",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Radiant Warden",
+        "prompt": "Fantasy art Radiant Warden construct in the style of Greg Rutkowski",
+        "timestamp": 1696160110373,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
