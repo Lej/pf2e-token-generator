@@ -24604,5 +24604,14 @@
         "timestamp": 1696160110443,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZGEf08j9q4fIPDFd": {
+        "id": "ZGEf08j9q4fIPDFd",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Dread Wraith",
+        "prompt": "Fantasy art Dread Wraith incorporeal undead wraith in the style of Greg Rutkowski",
+        "timestamp": 1696160110444,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
