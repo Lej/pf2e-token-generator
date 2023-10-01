@@ -26143,5 +26143,14 @@
         "timestamp": 1696160110515,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9cwg4cOgvFqtxIQ1": {
+        "id": "9cwg4cOgvFqtxIQ1",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Gluttondark Babau",
+        "prompt": "Fantasy art Gluttondark Babau demon fiend Elite babau demon rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110516,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
