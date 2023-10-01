@@ -22795,5 +22795,14 @@
         "timestamp": 1696160110379,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EOiOqs1vHCxZAj3T": {
+        "id": "EOiOqs1vHCxZAj3T",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Scarecrow",
+        "prompt": "Fantasy art Scarecrow construct in the style of Greg Rutkowski",
+        "timestamp": 1696160110379,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
