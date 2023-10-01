@@ -22759,5 +22759,14 @@
         "timestamp": 1696160110377,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WPTXi1WGKAvIIsrH": {
+        "id": "WPTXi1WGKAvIIsrH",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Ancient Brine Dragon (Spellcaster)",
+        "prompt": "Fantasy art Ancient Brine Dragon Spellcaster amphibious dragon elemental water in the style of Greg Rutkowski",
+        "timestamp": 1696160110378,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
