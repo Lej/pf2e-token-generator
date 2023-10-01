@@ -25360,5 +25360,14 @@
         "timestamp": 1696160110478,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "qXC4lGSWxqIhO5tr": {
+        "id": "qXC4lGSWxqIhO5tr",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Hooklimb Xulgath",
+        "prompt": "Fantasy art Hooklimb Xulgath humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1696160110478,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
