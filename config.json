@@ -30697,5 +30697,14 @@
         "timestamp": 1696160111696,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bz5OjD8rYMm1M4EC": {
+        "id": "bz5OjD8rYMm1M4EC",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Delphon",
+        "prompt": "Fantasy art Delphon dwarf humanoid Male dwarven Oaksteward enforcer in the style of Greg Rutkowski",
+        "timestamp": 1696160111697,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
