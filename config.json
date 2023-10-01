@@ -24820,5 +24820,14 @@
         "timestamp": 1696160110452,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "48agy7vl9fQW1LLA": {
+        "id": "48agy7vl9fQW1LLA",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Draugr",
+        "prompt": "Fantasy art Draugr undead water in the style of Greg Rutkowski",
+        "timestamp": 1696160110453,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
