@@ -31894,5 +31894,14 @@
         "timestamp": 1696160111743,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vwV33OVSDH6fsdPI": {
+        "id": "vwV33OVSDH6fsdPI",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Mummy Guardian (PFS 3-09)",
+        "prompt": "Fantasy art Mummy Guardian mummy undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111744,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
