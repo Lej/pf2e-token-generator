@@ -20905,5 +20905,14 @@
         "timestamp": 1696160110244,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5dSVk2y88SLsPPON": {
+        "id": "5dSVk2y88SLsPPON",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Hermean Mutant",
+        "prompt": "Fantasy art Hermean Mutant aberration mutant in the style of Greg Rutkowski",
+        "timestamp": 1696160110244,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
