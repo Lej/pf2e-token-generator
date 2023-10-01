@@ -23227,5 +23227,14 @@
         "timestamp": 1696160110396,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "VrkmTQKB3Ln7wVTr": {
+        "id": "VrkmTQKB3Ln7wVTr",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Behemoth Hippopotamus",
+        "prompt": "Fantasy art Behemoth Hippopotamus animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110396,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
