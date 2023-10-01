@@ -27727,5 +27727,14 @@
         "timestamp": 1696160111519,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "624fuRv6nLi31THS": {
+        "id": "624fuRv6nLi31THS",
+        "compendium": "blood-lords-bestiary",
+        "name": "Prachalla",
+        "prompt": "Fantasy art Prachalla construct soulbound Variant soulbound doll in the style of Greg Rutkowski",
+        "timestamp": 1696160111520,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
