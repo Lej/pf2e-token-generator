@@ -22849,5 +22849,14 @@
         "timestamp": 1696160110381,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kapPWNOxXOLcd4VF": {
+        "id": "kapPWNOxXOLcd4VF",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Amoeba Swarm",
+        "prompt": "Fantasy art Amoeba Swarm amphibious mindless ooze swarm in the style of Greg Rutkowski",
+        "timestamp": 1696160110381,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
