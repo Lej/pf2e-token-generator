@@ -23776,5 +23776,14 @@
         "timestamp": 1696160110415,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kElZCC1zMQVftoi9": {
+        "id": "kElZCC1zMQVftoi9",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Isqulug",
+        "prompt": "Fantasy art Isqulug aberration amphibious in the style of Greg Rutkowski",
+        "timestamp": 1696160110415,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
