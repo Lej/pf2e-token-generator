@@ -22012,5 +22012,14 @@
         "timestamp": 1696160110351,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SY8pvLPqc2EgP9Xj": {
+        "id": "SY8pvLPqc2EgP9Xj",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Soul Eater",
+        "prompt": "Fantasy art Soul Eater fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160110351,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
