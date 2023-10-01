@@ -29806,5 +29806,14 @@
         "timestamp": 1696160111663,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WrGYN6jtEfv7k1pV": {
+        "id": "WrGYN6jtEfv7k1pV",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Living Grove",
+        "prompt": "Fantasy art Living Grove elemental plant wood in the style of Greg Rutkowski",
+        "timestamp": 1696160111663,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
