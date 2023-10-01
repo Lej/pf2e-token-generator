@@ -31453,5 +31453,14 @@
         "timestamp": 1696160111729,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QvrnfL8u3azh9lBA": {
+        "id": "QvrnfL8u3azh9lBA",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Fetchling Sneak",
+        "prompt": "Fantasy art Fetchling Sneak fetchling humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111729,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
