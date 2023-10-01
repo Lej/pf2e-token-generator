@@ -25351,5 +25351,14 @@
         "timestamp": 1696160110478,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aIT5S2fKgMZ6pVP2": {
+        "id": "aIT5S2fKgMZ6pVP2",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Ginjana Mindkeeper",
+        "prompt": "Fantasy art Ginjana Mindkeeper dero humanoid Female dero anatomist in the style of Greg Rutkowski",
+        "timestamp": 1696160110478,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
