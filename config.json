@@ -22966,5 +22966,14 @@
         "timestamp": 1696160110385,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NtezcliwnH4R1tJw": {
+        "id": "NtezcliwnH4R1tJw",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Thulgant",
+        "prompt": "Fantasy art Thulgant fiend qlippoth rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110386,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
