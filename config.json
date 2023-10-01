@@ -26170,5 +26170,14 @@
         "timestamp": 1696160110516,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tg5SrKu228LZkoC0": {
+        "id": "tg5SrKu228LZkoC0",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Xulgath Hardscale",
+        "prompt": "Fantasy art Xulgath Hardscale humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1696160110516,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
