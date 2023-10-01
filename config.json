@@ -27709,5 +27709,14 @@
         "timestamp": 1696160111518,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7Ah4NAOuhPqMQ5e7": {
+        "id": "7Ah4NAOuhPqMQ5e7",
+        "compendium": "blood-lords-bestiary",
+        "name": "Ghiasi's Double",
+        "prompt": "Fantasy art Ghiasi's Double shadow Female shae shadow double in the style of Greg Rutkowski",
+        "timestamp": 1696160111518,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
