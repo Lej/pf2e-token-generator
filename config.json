@@ -25171,5 +25171,14 @@
         "timestamp": 1696160110468,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "R3SbxfWLp8xUvXUP": {
+        "id": "R3SbxfWLp8xUvXUP",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Elysian Sheep",
+        "prompt": "Fantasy art Elysian Sheep animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110468,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
