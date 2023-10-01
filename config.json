@@ -33109,5 +33109,14 @@
         "timestamp": 1696160111809,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TQXPhj5Adm4pfX31": {
+        "id": "TQXPhj5Adm4pfX31",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Fabrina The Spinster",
+        "prompt": "Fantasy art Fabrina The Spinster fey Female norn rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111809,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
