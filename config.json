@@ -31372,5 +31372,14 @@
         "timestamp": 1696160111726,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "olP1l0gi9qYFZtt2": {
+        "id": "olP1l0gi9qYFZtt2",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Lightweight Animated Armor",
+        "prompt": "Fantasy art Lightweight Animated Armor construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111727,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
