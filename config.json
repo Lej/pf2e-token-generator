@@ -29698,5 +29698,14 @@
         "timestamp": 1696160111659,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hKXwujYX7CDtsZ5P": {
+        "id": "hKXwujYX7CDtsZ5P",
+        "compendium": "the-enmity-cycle-bestiary",
+        "name": "Scrapborn",
+        "prompt": "Fantasy art Scrapborn aberration aquatic in the style of Greg Rutkowski",
+        "timestamp": 1696160111659,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
