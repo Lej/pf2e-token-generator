@@ -28312,5 +28312,14 @@
         "timestamp": 1696160111544,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "U6EEfdbaodpYZfU6": {
+        "id": "U6EEfdbaodpYZfU6",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Biloko Reaver",
+        "prompt": "Fantasy art Biloko Reaver fey in the style of Greg Rutkowski",
+        "timestamp": 1696160111545,
+        "seed": 1024,
+        "used_seed": 1027
     }
 }
