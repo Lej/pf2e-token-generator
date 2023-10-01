@@ -30391,5 +30391,14 @@
         "timestamp": 1696160111684,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JR7VT7ObQRaBtUlk": {
+        "id": "JR7VT7ObQRaBtUlk",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Tantriog",
+        "prompt": "Fantasy art Tantriog amphibious elemental water in the style of Greg Rutkowski",
+        "timestamp": 1696160111684,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
