@@ -25414,5 +25414,14 @@
         "timestamp": 1696160110481,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fsPWWmIao1eFTAV4": {
+        "id": "fsPWWmIao1eFTAV4",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Sarvel Ever-Hunger",
+        "prompt": "Fantasy art Sarvel Ever-Hunger fiend humanoid xulgath Male xulgath prophet rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110482,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
