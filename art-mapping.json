@@ -11005,6 +11005,10 @@
         "coNTMrHerjBIf2ig": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/coNTMrHerjBIf2ig/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/coNTMrHerjBIf2ig/token.webp"
+        },
+        "p5ZGpvIfEiBgMG2f": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/p5ZGpvIfEiBgMG2f/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/p5ZGpvIfEiBgMG2f/token.webp"
         }
     }
 }
