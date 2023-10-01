@@ -25909,5 +25909,14 @@
         "timestamp": 1696160110506,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NITxPebTwserqASe": {
+        "id": "NITxPebTwserqASe",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Xilvirek",
+        "prompt": "Fantasy art Xilvirek fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160110506,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
