@@ -25585,5 +25585,14 @@
         "timestamp": 1696160110490,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wi94WddixQEID9Jl": {
+        "id": "wi94WddixQEID9Jl",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Corrupted Priest",
+        "prompt": "Fantasy art Corrupted Priest human humanoid Human hermit in the style of Greg Rutkowski",
+        "timestamp": 1696160110491,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
