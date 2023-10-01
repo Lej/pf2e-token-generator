@@ -25180,5 +25180,14 @@
         "timestamp": 1696160110468,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7YJHi9niIKpFXXrf": {
+        "id": "7YJHi9niIKpFXXrf",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Celestial Menagerie Bruiser",
+        "prompt": "Fantasy art Celestial Menagerie Bruiser human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110468,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
