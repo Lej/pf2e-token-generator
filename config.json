@@ -26359,5 +26359,14 @@
         "timestamp": 1696160110524,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3Fxih1eU4IXABxpy": {
+        "id": "3Fxih1eU4IXABxpy",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Mechanical Carny",
+        "prompt": "Fantasy art Mechanical Carny construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160110524,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
