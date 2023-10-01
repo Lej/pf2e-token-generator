@@ -30688,5 +30688,14 @@
         "timestamp": 1696160111696,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eR1tzQX7WrTsJMb3": {
+        "id": "eR1tzQX7WrTsJMb3",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Kitari Lambossa",
+        "prompt": "Fantasy art Kitari Lambossa human humanoid Female human ship captain in the style of Greg Rutkowski",
+        "timestamp": 1696160111696,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
