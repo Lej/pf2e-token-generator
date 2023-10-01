@@ -29131,5 +29131,14 @@
         "timestamp": 1696160111580,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sxOuLaNH5VNsRFZf": {
+        "id": "sxOuLaNH5VNsRFZf",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Wereant Poisoner",
+        "prompt": "Fantasy art Wereant Poisoner beast human humanoid werecreature in the style of Greg Rutkowski",
+        "timestamp": 1696160111581,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
