@@ -25729,5 +25729,14 @@
         "timestamp": 1696160110498,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YS8UvVGFgHP2TrY3": {
+        "id": "YS8UvVGFgHP2TrY3",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Shoony Hierarch",
+        "prompt": "Fantasy art Shoony Hierarch humanoid shoony in the style of Greg Rutkowski",
+        "timestamp": 1696160110498,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
