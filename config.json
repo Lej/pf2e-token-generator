@@ -29716,5 +29716,14 @@
         "timestamp": 1696160111659,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gBjrp5li1LCbIO8X": {
+        "id": "gBjrp5li1LCbIO8X",
+        "compendium": "the-enmity-cycle-bestiary",
+        "name": "Sand Wolf",
+        "prompt": "Fantasy art Sand Wolf air beast earth in the style of Greg Rutkowski",
+        "timestamp": 1696160111659,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
