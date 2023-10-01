@@ -26629,5 +26629,14 @@
         "timestamp": 1696160110990,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "I3moTdccfUwGK3oJ": {
+        "id": "I3moTdccfUwGK3oJ",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Experienced Robbers",
+        "prompt": "Fantasy art Experienced Robbers human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111191,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
