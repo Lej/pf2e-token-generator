@@ -22372,5 +22372,14 @@
         "timestamp": 1696160110364,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tIDbOvltrFsgnwgf": {
+        "id": "tIDbOvltrFsgnwgf",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Sea Drake",
+        "prompt": "Fantasy art Sea Drake amphibious dragon water in the style of Greg Rutkowski",
+        "timestamp": 1696160110364,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
