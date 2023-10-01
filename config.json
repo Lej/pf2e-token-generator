@@ -30670,5 +30670,14 @@
         "timestamp": 1696160111695,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "COyGm2KW6YKFE67u": {
+        "id": "COyGm2KW6YKFE67u",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Skin Beetle Swarm",
+        "prompt": "Fantasy art Skin Beetle Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1696160111695,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
