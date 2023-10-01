@@ -20932,5 +20932,14 @@
         "timestamp": 1696160110245,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "080v247YtmFRxT3l": {
+        "id": "080v247YtmFRxT3l",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Bshez \"Sand Claws\" Shak",
+        "prompt": "Fantasy art Bshez \"Sand Claws\" Shak human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110246,
+        "seed": 1024,
+        "used_seed": 1027
     }
 }
