@@ -21985,5 +21985,14 @@
         "timestamp": 1696160110350,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5l0b80kz53Ie26gq": {
+        "id": "5l0b80kz53Ie26gq",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Wood Giant",
+        "prompt": "Fantasy art Wood Giant giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110351,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
