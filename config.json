@@ -26251,5 +26251,14 @@
         "timestamp": 1696160110519,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YAKZUBOth75W2mWT": {
+        "id": "YAKZUBOth75W2mWT",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Vermlek",
+        "prompt": "Fantasy art Vermlek demon fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160110519,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
