@@ -21769,5 +21769,14 @@
         "timestamp": 1696160110330,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "2FbG5nLE91b6BNiB": {
+        "id": "2FbG5nLE91b6BNiB",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Duergar Slave Lord",
+        "prompt": "Fantasy art Duergar Slave Lord duergar dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110331,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
