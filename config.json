@@ -29887,5 +29887,14 @@
         "timestamp": 1696160111666,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IPKzI7XwILuDc21S": {
+        "id": "IPKzI7XwILuDc21S",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Asp of Grief",
+        "prompt": "Fantasy art Asp of Grief elemental metal in the style of Greg Rutkowski",
+        "timestamp": 1696160111666,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
