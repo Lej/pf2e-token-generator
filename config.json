@@ -25243,5 +25243,14 @@
         "timestamp": 1696160110471,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "16cZVZxsXVRHfuuQ": {
+        "id": "16cZVZxsXVRHfuuQ",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Jellico Bounce-Bounce",
+        "prompt": "Fantasy art Jellico Bounce-Bounce human humanoid Male human clown in the style of Greg Rutkowski",
+        "timestamp": 1696160110471,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
