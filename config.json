@@ -28537,5 +28537,14 @@
         "timestamp": 1696160111555,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0WgS1WgvVtJbYU4r": {
+        "id": "0WgS1WgvVtJbYU4r",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Abendego Jailer",
+        "prompt": "Fantasy art Abendego Jailer human humanoid Human prison guard in the style of Greg Rutkowski",
+        "timestamp": 1696160111556,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
