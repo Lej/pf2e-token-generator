@@ -25936,5 +25936,14 @@
         "timestamp": 1696160110507,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "Z3VrS25uw9vD2sek": {
+        "id": "Z3VrS25uw9vD2sek",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Vitalia",
+        "prompt": "Fantasy art Vitalia aberration aquatic mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160110507,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
