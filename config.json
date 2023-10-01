@@ -32758,5 +32758,14 @@
         "timestamp": 1696160111772,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7SoxdXIjPQzUahDz": {
+        "id": "7SoxdXIjPQzUahDz",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Simple Harrowkin",
+        "prompt": "Fantasy art Simple Harrowkin construct in the style of Greg Rutkowski",
+        "timestamp": 1696160111782,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
