@@ -23002,5 +23002,14 @@
         "timestamp": 1696160110387,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "elb0mL1cfknHxskr": {
+        "id": "elb0mL1cfknHxskr",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Petitioner (Nirvana)",
+        "prompt": "Fantasy art Petitioner Nirvana celestial petitioner in the style of Greg Rutkowski",
+        "timestamp": 1696160110388,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
