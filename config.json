@@ -28024,5 +28024,14 @@
         "timestamp": 1696160111533,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mfBLoIaSYNbmmtht": {
+        "id": "mfBLoIaSYNbmmtht",
+        "compendium": "blood-lords-bestiary",
+        "name": "Drusilla",
+        "prompt": "Fantasy art Drusilla fey Female variant huldra in the style of Greg Rutkowski",
+        "timestamp": 1696160111534,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
