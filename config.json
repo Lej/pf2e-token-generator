@@ -32434,5 +32434,14 @@
         "timestamp": 1696160111761,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WB4DMTHCIEBOiitp": {
+        "id": "WB4DMTHCIEBOiitp",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Shadow Guardian",
+        "prompt": "Fantasy art Shadow Guardian construct mindless shadow in the style of Greg Rutkowski",
+        "timestamp": 1696160111761,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
