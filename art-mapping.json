@@ -13735,6 +13735,10 @@
         "5kcL1xtNY0apAwhO": {
             "actor": "modules/pf2e-ai-token-placeholders/images/gatewalkers-bestiary/5kcL1xtNY0apAwhO/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/gatewalkers-bestiary/5kcL1xtNY0apAwhO/token.webp"
+        },
+        "ESgndiwI8BzwhDLi": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/gatewalkers-bestiary/ESgndiwI8BzwhDLi/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/gatewalkers-bestiary/ESgndiwI8BzwhDLi/token.webp"
         }
     }
 }
