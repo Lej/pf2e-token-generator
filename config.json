@@ -26044,5 +26044,14 @@
         "timestamp": 1696160110511,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KXNSBeUWLxMfd2Zg": {
+        "id": "KXNSBeUWLxMfd2Zg",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Pinacosaurus",
+        "prompt": "Fantasy art Pinacosaurus animal dinosaur in the style of Greg Rutkowski",
+        "timestamp": 1696160110511,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
