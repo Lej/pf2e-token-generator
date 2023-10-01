@@ -20779,5 +20779,14 @@
         "timestamp": 1696160110141,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "l7wng1EXY7np8Hcu": {
+        "id": "l7wng1EXY7np8Hcu",
+        "compendium": "troubles-in-otari-bestiary",
+        "name": "Scalliwing",
+        "prompt": "Fantasy art Scalliwing beast couatl in the style of Greg Rutkowski",
+        "timestamp": 1696160110141,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

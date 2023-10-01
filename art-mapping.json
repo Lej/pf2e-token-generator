@@ -9280,5 +9280,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/blog-bestiary/tKrAtcACOtDnHLG0/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/blog-bestiary/tKrAtcACOtDnHLG0/token.webp"
         }
+    },
+    "troubles-in-otari-bestiary": {
+        "l7wng1EXY7np8Hcu": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/troubles-in-otari-bestiary/l7wng1EXY7np8Hcu/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/troubles-in-otari-bestiary/l7wng1EXY7np8Hcu/token.webp"
+        }
     }
 }
