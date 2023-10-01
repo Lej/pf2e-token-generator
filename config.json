@@ -27133,5 +27133,14 @@
         "timestamp": 1696160111486,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oVqkX1LugEW4qoXN": {
+        "id": "oVqkX1LugEW4qoXN",
+        "compendium": "blood-lords-bestiary",
+        "name": "Kelganth",
+        "prompt": "Fantasy art Kelganth undead Male tomb giant lich rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111487,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
