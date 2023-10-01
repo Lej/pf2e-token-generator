@@ -22030,5 +22030,14 @@
         "timestamp": 1696160110352,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ABrzFoOqQohQqU6C": {
+        "id": "ABrzFoOqQohQqU6C",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Yamaraj",
+        "prompt": "Fantasy art Yamaraj monitor psychopomp rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110352,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
