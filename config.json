@@ -25666,5 +25666,14 @@
         "timestamp": 1696160110495,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2XRzA5GZeDk88Y2z": {
+        "id": "2XRzA5GZeDk88Y2z",
+        "compendium": "extinction-curse-bestiary",
+        "name": "War Sauropelta",
+        "prompt": "Fantasy art War Sauropelta animal dinosaur in the style of Greg Rutkowski",
+        "timestamp": 1696160110496,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
