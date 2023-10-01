@@ -31588,5 +31588,14 @@
         "timestamp": 1696160111734,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eiWWhTeR8QTLKptH": {
+        "id": "eiWWhTeR8QTLKptH",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Lesser Animate Dream",
+        "prompt": "Fantasy art Lesser Animate Dream dream incorporeal Variant animate dream in the style of Greg Rutkowski",
+        "timestamp": 1696160111734,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
