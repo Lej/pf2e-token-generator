@@ -33064,5 +33064,14 @@
         "timestamp": 1696160111805,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RLuLdBW6SSs9u2hL": {
+        "id": "RLuLdBW6SSs9u2hL",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Mogaran",
+        "prompt": "Fantasy art Mogaran demon fiend Male weakened vavakia rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111806,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
