@@ -27691,5 +27691,14 @@
         "timestamp": 1696160111515,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "X9Sz3ttieDhYSlvB": {
+        "id": "X9Sz3ttieDhYSlvB",
+        "compendium": "blood-lords-bestiary",
+        "name": "Kemnebi",
+        "prompt": "Fantasy art Kemnebi undead vampire Male vetalarana vampire rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111517,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
