@@ -27610,5 +27610,14 @@
         "timestamp": 1696160111512,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sySkOlAi825RpRrj": {
+        "id": "sySkOlAi825RpRrj",
+        "compendium": "blood-lords-bestiary",
+        "name": "Sallowdrudge",
+        "prompt": "Fantasy art Sallowdrudge human humanoid Human dock worker in the style of Greg Rutkowski",
+        "timestamp": 1696160111512,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
