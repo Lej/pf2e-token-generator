@@ -24460,5 +24460,14 @@
         "timestamp": 1696160110438,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "SpnJQIHLeiJOjEWR": {
+        "id": "SpnJQIHLeiJOjEWR",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Shadow Giant",
+        "prompt": "Fantasy art Shadow Giant giant humanoid shadow in the style of Greg Rutkowski",
+        "timestamp": 1696160110439,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
