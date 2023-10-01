@@ -30751,5 +30751,14 @@
         "timestamp": 1696160111699,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DP1XF7ygEPlBOdVB": {
+        "id": "DP1XF7ygEPlBOdVB",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Snowy Owl",
+        "prompt": "Fantasy art Snowy Owl human humanoid Female avatar of a Sarkorian god in the style of Greg Rutkowski",
+        "timestamp": 1696160111699,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
