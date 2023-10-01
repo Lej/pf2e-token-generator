@@ -25765,5 +25765,14 @@
         "timestamp": 1696160110499,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0pw0r1w8vO7aRocN": {
+        "id": "0pw0r1w8vO7aRocN",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Resin-seep Xulgath",
+        "prompt": "Fantasy art Resin-seep Xulgath humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1696160110500,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
