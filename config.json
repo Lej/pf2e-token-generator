@@ -28510,5 +28510,14 @@
         "timestamp": 1696160111554,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NVeGEMmia7sVq7uj": {
+        "id": "NVeGEMmia7sVq7uj",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Unshadowed Mariama",
+        "prompt": "Fantasy art Unshadowed Mariama human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111555,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
