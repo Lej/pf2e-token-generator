@@ -31489,5 +31489,14 @@
         "timestamp": 1696160111731,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FyQji78S25WiZMct": {
+        "id": "FyQji78S25WiZMct",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Khisisi (7-8)",
+        "prompt": "Fantasy art Khisisi mummy undead Mummy Pharoah in the style of Greg Rutkowski",
+        "timestamp": 1696160111731,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
