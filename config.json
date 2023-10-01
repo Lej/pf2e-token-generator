@@ -22408,5 +22408,14 @@
         "timestamp": 1696160110365,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rpq2rHlZjy5g31xo": {
+        "id": "rpq2rHlZjy5g31xo",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Grippli Scout",
+        "prompt": "Fantasy art Grippli Scout grippli humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110365,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
