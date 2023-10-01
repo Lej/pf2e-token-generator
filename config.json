@@ -29626,5 +29626,14 @@
         "timestamp": 1696160111652,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "nz6ldwPZm0WWCCYV": {
+        "id": "nz6ldwPZm0WWCCYV",
+        "compendium": "the-slithering-bestiary",
+        "name": "Nyamat Mshwe",
+        "prompt": "Fantasy art Nyamat Mshwe human humanoid Male human cult master in the style of Greg Rutkowski",
+        "timestamp": 1696160111653,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
