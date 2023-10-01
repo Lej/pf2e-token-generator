@@ -25486,5 +25486,14 @@
         "timestamp": 1696160110484,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pOlP9ZR0eFS57c27": {
+        "id": "pOlP9ZR0eFS57c27",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Aives The Smoke Dragon",
+        "prompt": "Fantasy art Aives The Smoke Dragon humanoid tiefling Male tiefling poison artist in the style of Greg Rutkowski",
+        "timestamp": 1696160110485,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
