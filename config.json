@@ -24865,5 +24865,14 @@
         "timestamp": 1696160110454,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xUtl7Nkb6iJpPUMK": {
+        "id": "xUtl7Nkb6iJpPUMK",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Destrachan",
+        "prompt": "Fantasy art Destrachan aberration in the style of Greg Rutkowski",
+        "timestamp": 1696160110454,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
