@@ -32155,5 +32155,14 @@
         "timestamp": 1696160111751,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wqJDAf89wSAdG0qy": {
+        "id": "wqJDAf89wSAdG0qy",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Peryton (Arctic)",
+        "prompt": "Fantasy art Peryton Arctic beast in the style of Greg Rutkowski",
+        "timestamp": 1696160111752,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
