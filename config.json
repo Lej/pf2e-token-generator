@@ -29104,5 +29104,14 @@
         "timestamp": 1696160111579,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "uO8X1xEciIBuiL1C": {
+        "id": "uO8X1xEciIBuiL1C",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Old Thrasher",
+        "prompt": "Fantasy art Old Thrasher animal in the style of Greg Rutkowski",
+        "timestamp": 1696160111579,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
