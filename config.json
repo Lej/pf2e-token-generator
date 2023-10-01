@@ -32902,5 +32902,14 @@
         "timestamp": 1696160111793,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bmCBmw4pQeEIelkY": {
+        "id": "bmCBmw4pQeEIelkY",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Hurlilu",
+        "prompt": "Fantasy art Hurlilu fiend lilu in the style of Greg Rutkowski",
+        "timestamp": 1696160111793,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
