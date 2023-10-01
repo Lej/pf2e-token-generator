@@ -31003,5 +31003,14 @@
         "timestamp": 1696160111713,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YMT0Hl0LO9QKrb3X": {
+        "id": "YMT0Hl0LO9QKrb3X",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Aspis Agent",
+        "prompt": "Fantasy art Aspis Agent human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111713,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
