@@ -32965,5 +32965,14 @@
         "timestamp": 1696160111797,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "asagrj8H4W7ioops": {
+        "id": "asagrj8H4W7ioops",
+        "compendium": "stolen-fate-bestiary",
+        "name": "The Prince of Wolves",
+        "prompt": "Fantasy art The Prince of Wolves beast beastkin human humanoid Male beastkin ranger in the style of Greg Rutkowski",
+        "timestamp": 1696160111798,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
