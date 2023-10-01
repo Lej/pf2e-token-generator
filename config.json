@@ -31183,5 +31183,14 @@
         "timestamp": 1696160111718,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "43L2RtbBprItSjPY": {
+        "id": "43L2RtbBprItSjPY",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Pontrius Tilasti (3-4)",
+        "prompt": "Fantasy art Pontrius Tilasti devil fiend halfling humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111719,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
