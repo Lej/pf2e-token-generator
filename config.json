@@ -33001,5 +33001,14 @@
         "timestamp": 1696160111800,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "okLgvERf3ul8JxKk": {
+        "id": "okLgvERf3ul8JxKk",
+        "compendium": "stolen-fate-bestiary",
+        "name": "All-Seeing Hajeck",
+        "prompt": "Fantasy art All-Seeing Hajeck beast Variant lamia matriarch in the style of Greg Rutkowski",
+        "timestamp": 1696160111800,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
