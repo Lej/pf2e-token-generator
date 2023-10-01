@@ -29203,5 +29203,14 @@
         "timestamp": 1696160111584,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "M2YAGc36xzy8SAL7": {
+        "id": "M2YAGc36xzy8SAL7",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Grippli Jinxer",
+        "prompt": "Fantasy art Grippli Jinxer grippli humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111585,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
