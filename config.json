@@ -28366,5 +28366,14 @@
         "timestamp": 1696160111548,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6pPolNZycfDiOl2I": {
+        "id": "6pPolNZycfDiOl2I",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Nairu",
+        "prompt": "Fantasy art Nairu elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111548,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
