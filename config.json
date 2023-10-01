@@ -26125,5 +26125,14 @@
         "timestamp": 1696160110514,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gZBayD2gJu7iZrud": {
+        "id": "gZBayD2gJu7iZrud",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Ruanna Nyamma",
+        "prompt": "Fantasy art Ruanna Nyamma elf human humanoid Female half-elf carnival barker in the style of Greg Rutkowski",
+        "timestamp": 1696160110515,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
