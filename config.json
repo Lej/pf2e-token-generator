@@ -30499,5 +30499,14 @@
         "timestamp": 1696160111689,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "uTaGZT1vl7UG9tdf": {
+        "id": "uTaGZT1vl7UG9tdf",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Apothecary's Cabinet",
+        "prompt": "Fantasy art Apothecary's Cabinet construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111689,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
