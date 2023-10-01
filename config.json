@@ -31435,5 +31435,14 @@
         "timestamp": 1696160111728,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "3bijukcKD8MfoHA9": {
+        "id": "3bijukcKD8MfoHA9",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Forged Bones",
+        "prompt": "Fantasy art Forged Bones skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111729,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
