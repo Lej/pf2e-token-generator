@@ -24127,5 +24127,14 @@
         "timestamp": 1696160110426,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ho1Dx2dXlQZYLApP": {
+        "id": "Ho1Dx2dXlQZYLApP",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Sylph Sneak",
+        "prompt": "Fantasy art Sylph Sneak human humanoid sylph in the style of Greg Rutkowski",
+        "timestamp": 1696160110426,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
