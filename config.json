@@ -31480,5 +31480,14 @@
         "timestamp": 1696160111730,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fiArvThMW2QanZGk": {
+        "id": "fiArvThMW2QanZGk",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Raseri Kanton Skeleton",
+        "prompt": "Fantasy art Raseri Kanton Skeleton skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111731,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
