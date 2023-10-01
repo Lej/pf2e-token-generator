@@ -22957,5 +22957,14 @@
         "timestamp": 1696160110384,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PAGytLw1QnAiNYC2": {
+        "id": "PAGytLw1QnAiNYC2",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Coil Spy",
+        "prompt": "Fantasy art Coil Spy humanoid serpentfolk in the style of Greg Rutkowski",
+        "timestamp": 1696160110385,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
