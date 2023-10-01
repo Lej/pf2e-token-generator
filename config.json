@@ -30400,5 +30400,14 @@
         "timestamp": 1696160111684,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TPi6QRmfyM9BWSof": {
+        "id": "TPi6QRmfyM9BWSof",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Living Magma",
+        "prompt": "Fantasy art Living Magma elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1696160111684,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
