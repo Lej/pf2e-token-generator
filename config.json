@@ -27286,5 +27286,14 @@
         "timestamp": 1696160111493,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yydyiiBoUGrzPu2v": {
+        "id": "yydyiiBoUGrzPu2v",
+        "compendium": "blood-lords-bestiary",
+        "name": "Pokmit Bloody-Pike",
+        "prompt": "Fantasy art Pokmit Bloody-Pike undead Male graveknight military captain in the style of Greg Rutkowski",
+        "timestamp": 1696160111494,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
