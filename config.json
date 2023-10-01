@@ -26440,5 +26440,14 @@
         "timestamp": 1696160110527,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Oefb1ZCYp2DolpZr": {
+        "id": "Oefb1ZCYp2DolpZr",
+        "compendium": "travel-guide-bestiary",
+        "name": "Irriseni Owlbear",
+        "prompt": "Fantasy art Irriseni Owlbear animal Variant elite owlbear in the style of Greg Rutkowski",
+        "timestamp": 1696160110527,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
