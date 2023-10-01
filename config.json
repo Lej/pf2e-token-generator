@@ -30130,5 +30130,14 @@
         "timestamp": 1696160111673,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6VCNPJ3xPw4Js52V": {
+        "id": "6VCNPJ3xPw4Js52V",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Blustering Gale",
+        "prompt": "Fantasy art Blustering Gale air elemental troop in the style of Greg Rutkowski",
+        "timestamp": 1696160111673,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
