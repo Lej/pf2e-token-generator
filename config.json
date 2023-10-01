@@ -31399,5 +31399,14 @@
         "timestamp": 1696160111727,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dYcDARPuNmLlGNuG": {
+        "id": "dYcDARPuNmLlGNuG",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Flaming Animated Armor (Firecutter) (1-2)",
+        "prompt": "Fantasy art Flaming Animated Armor Firecutter construct mindless Variant animated armor in the style of Greg Rutkowski",
+        "timestamp": 1696160111727,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
