@@ -30706,5 +30706,14 @@
         "timestamp": 1696160111697,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AeM32zT3kFOOAugS": {
+        "id": "AeM32zT3kFOOAugS",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Equendia",
+        "prompt": "Fantasy art Equendia cold mummy undead Female blackfrost ice mummy in the style of Greg Rutkowski",
+        "timestamp": 1696160111697,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
