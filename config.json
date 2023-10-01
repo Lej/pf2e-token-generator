@@ -23353,5 +23353,14 @@
         "timestamp": 1696160110400,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4x9trDSABU5dqq9w": {
+        "id": "4x9trDSABU5dqq9w",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Blue Dracolisk",
+        "prompt": "Fantasy art Blue Dracolisk beast dragon in the style of Greg Rutkowski",
+        "timestamp": 1696160110400,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
