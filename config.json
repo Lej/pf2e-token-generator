@@ -29086,5 +29086,14 @@
         "timestamp": 1696160111578,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BkBwYuqaYBbIsp1b": {
+        "id": "BkBwYuqaYBbIsp1b",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Clockwork Clock Tower",
+        "prompt": "Fantasy art Clockwork Clock Tower clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111578,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
