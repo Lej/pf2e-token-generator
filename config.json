@@ -21139,5 +21139,14 @@
         "timestamp": 1696160110255,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "30FX1WFr0RkGeueX": {
+        "id": "30FX1WFr0RkGeueX",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Inizra Arumelo",
+        "prompt": "Fantasy art Inizra Arumelo human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110256,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
