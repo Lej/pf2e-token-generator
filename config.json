@@ -21166,5 +21166,14 @@
         "timestamp": 1696160110257,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5DwiLZJf6KxpIjDq": {
+        "id": "5DwiLZJf6KxpIjDq",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Grippli Archer",
+        "prompt": "Fantasy art Grippli Archer grippli humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110258,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
