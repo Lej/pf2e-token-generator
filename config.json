@@ -25207,5 +25207,14 @@
         "timestamp": 1696160110469,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "uUcqr8gPQIw5govC": {
+        "id": "uUcqr8gPQIw5govC",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Xulgath Skirmisher",
+        "prompt": "Fantasy art Xulgath Skirmisher humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1696160110470,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
