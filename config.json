@@ -30364,5 +30364,14 @@
         "timestamp": 1696160111683,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "O3Rjdf00nJOHF4PE": {
+        "id": "O3Rjdf00nJOHF4PE",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Jaathoom Shuyookh",
+        "prompt": "Fantasy art Jaathoom Shuyookh air elemental genie in the style of Greg Rutkowski",
+        "timestamp": 1696160111683,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
