@@ -31957,5 +31957,14 @@
         "timestamp": 1696160111745,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XYBA4EoyegNciY2P": {
+        "id": "XYBA4EoyegNciY2P",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Elite Hell Hound (PFS 3-07)",
+        "prompt": "Fantasy art Elite Hell Hound beast fiend fire Variant hell hound in the style of Greg Rutkowski",
+        "timestamp": 1696160111745,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
