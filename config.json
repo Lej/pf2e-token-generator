@@ -22669,5 +22669,14 @@
         "timestamp": 1696160110373,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "s0wn50S5mGxagSAa": {
+        "id": "s0wn50S5mGxagSAa",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Zyss Serpentfolk",
+        "prompt": "Fantasy art Zyss Serpentfolk humanoid serpentfolk in the style of Greg Rutkowski",
+        "timestamp": 1696160110374,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
