@@ -20527,5 +20527,14 @@
         "timestamp": 1695663943438,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ssaJVgjmjvk9ezoe": {
+        "id": "ssaJVgjmjvk9ezoe",
+        "compendium": "blog-bestiary",
+        "name": "Eleukas",
+        "prompt": "Fantasy art Eleukas human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110133,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
