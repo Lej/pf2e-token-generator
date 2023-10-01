@@ -21337,5 +21337,14 @@
         "timestamp": 1696160110265,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JD6kdfZveObBe1mR": {
+        "id": "JD6kdfZveObBe1mR",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Xotanispawn",
+        "prompt": "Fantasy art Xotanispawn animal fire in the style of Greg Rutkowski",
+        "timestamp": 1696160110266,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
