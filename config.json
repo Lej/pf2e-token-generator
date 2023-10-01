@@ -28393,5 +28393,14 @@
         "timestamp": 1696160111549,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "r5lXWv7Xd2ur4fmT": {
+        "id": "r5lXWv7Xd2ur4fmT",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Bharlen Sajor",
+        "prompt": "Fantasy art Bharlen Sajor undead Female graveknight in the style of Greg Rutkowski",
+        "timestamp": 1696160111549,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
