@@ -24559,5 +24559,14 @@
         "timestamp": 1696160110441,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "GsrqCDf0Dc9PisEt": {
+        "id": "GsrqCDf0Dc9PisEt",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Violet Fungus",
+        "prompt": "Fantasy art Violet Fungus fungus mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160110441,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
