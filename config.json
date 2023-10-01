@@ -31669,5 +31669,14 @@
         "timestamp": 1696160111736,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PqawYWEK0iqvcBZj": {
+        "id": "PqawYWEK0iqvcBZj",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Marcien Blakros (7-8) (Shadow Double)",
+        "prompt": "Fantasy art Marcien Blakros Shadow Double fetchling humanoid shadow summoned in the style of Greg Rutkowski",
+        "timestamp": 1696160111736,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
