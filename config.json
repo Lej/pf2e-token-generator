@@ -24883,5 +24883,14 @@
         "timestamp": 1696160110454,
         "seed": 1024,
         "used_seed": 1028
+    },
+    "tieZOKf2qX7GsL9H": {
+        "id": "tieZOKf2qX7GsL9H",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Ice Golem",
+        "prompt": "Fantasy art Ice Golem cold construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160110455,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
