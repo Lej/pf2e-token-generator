@@ -22264,5 +22264,14 @@
         "timestamp": 1696160110361,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ril4ohkYrf5mGwHO": {
+        "id": "ril4ohkYrf5mGwHO",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Attic Whisperer",
+        "prompt": "Fantasy art Attic Whisperer undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110361,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
