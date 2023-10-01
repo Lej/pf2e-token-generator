@@ -32263,5 +32263,14 @@
         "timestamp": 1696160111754,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Gt2NqeZldkUf4vHI": {
+        "id": "Gt2NqeZldkUf4vHI",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Aspis Enforcer",
+        "prompt": "Fantasy art Aspis Enforcer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111755,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
