@@ -21544,5 +21544,14 @@
         "timestamp": 1696160110279,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "X2edjYEqAHsdQc6L": {
+        "id": "X2edjYEqAHsdQc6L",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Grippli Greenspeaker",
+        "prompt": "Fantasy art Grippli Greenspeaker grippli humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110279,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
