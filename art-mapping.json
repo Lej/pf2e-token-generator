@@ -10045,6 +10045,10 @@
         "OaNtHZAraCrVLuSo": {
             "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/OaNtHZAraCrVLuSo/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/OaNtHZAraCrVLuSo/token.webp"
+        },
+        "EKbnknpDZEMkZSF4": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/EKbnknpDZEMkZSF4/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/pathfinder-bestiary-2/EKbnknpDZEMkZSF4/token.webp"
         }
     }
 }
