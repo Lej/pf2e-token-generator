@@ -29545,5 +29545,14 @@
         "timestamp": 1696160111648,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "wgeuaYe2fbGNg42z": {
+        "id": "wgeuaYe2fbGNg42z",
+        "compendium": "the-slithering-bestiary",
+        "name": "Ahvothian",
+        "prompt": "Fantasy art Ahvothian fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160111648,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
