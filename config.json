@@ -25477,5 +25477,14 @@
         "timestamp": 1696160110484,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xGTl3DVCD0etE6MU": {
+        "id": "xGTl3DVCD0etE6MU",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Ledorick Banyan (Possessed)",
+        "prompt": "Fantasy art Ledorick Banyan Possessed human humanoid Male human folk hero in the style of Greg Rutkowski",
+        "timestamp": 1696160110484,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
