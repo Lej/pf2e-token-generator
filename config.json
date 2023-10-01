@@ -33190,5 +33190,14 @@
         "timestamp": 1696160111813,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "s8pBIwZjOdep4Lfp": {
+        "id": "s8pBIwZjOdep4Lfp",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Katpaskir",
+        "prompt": "Fantasy art Katpaskir demon fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160111814,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
