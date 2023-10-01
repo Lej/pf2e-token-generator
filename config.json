@@ -23173,5 +23173,14 @@
         "timestamp": 1696160110394,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6xioRweZ0T4o4X9e": {
+        "id": "6xioRweZ0T4o4X9e",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Witchfire",
+        "prompt": "Fantasy art Witchfire incorporeal spirit undead rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110395,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
