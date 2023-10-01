@@ -25873,5 +25873,14 @@
         "timestamp": 1696160110503,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2Ey2VZ3aQlN4FGHJ": {
+        "id": "2Ey2VZ3aQlN4FGHJ",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Pin Tingwheely",
+        "prompt": "Fantasy art Pin Tingwheely fey sprite Male pixie daredevil in the style of Greg Rutkowski",
+        "timestamp": 1696160110504,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
