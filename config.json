@@ -29599,5 +29599,14 @@
         "timestamp": 1696160111651,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6U8P0ITf4gkJfeKD": {
+        "id": "6U8P0ITf4gkJfeKD",
+        "compendium": "the-slithering-bestiary",
+        "name": "Croakchief Globblit Skink-eater",
+        "prompt": "Fantasy art Croakchief Globblit Skink-eater amphibious boggard humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111651,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
