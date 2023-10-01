@@ -26620,5 +26620,14 @@
         "timestamp": 1696160110989,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WiFzLguamOR69IcD": {
+        "id": "WiFzLguamOR69IcD",
+        "compendium": "pathfinder-dark-archive",
+        "name": "Mother Mitera",
+        "prompt": "Fantasy art Mother Mitera human in the style of Greg Rutkowski",
+        "timestamp": 1696160110990,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
