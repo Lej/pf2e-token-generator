@@ -32272,5 +32272,14 @@
         "timestamp": 1696160111755,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "umiKZDfhNO3mXvEb": {
+        "id": "umiKZDfhNO3mXvEb",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Alchemy-Gorged Giant Leech",
+        "prompt": "Fantasy art Alchemy-Gorged Giant Leech amphibious animal Variant giant leech in the style of Greg Rutkowski",
+        "timestamp": 1696160111755,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
