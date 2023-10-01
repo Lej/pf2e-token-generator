@@ -24964,5 +24964,14 @@
         "timestamp": 1696160110457,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "M2BkGD9YwEmCvD9D": {
+        "id": "M2BkGD9YwEmCvD9D",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Invidiak",
+        "prompt": "Fantasy art Invidiak demon fiend incorporeal rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110457,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
