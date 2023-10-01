@@ -22921,5 +22921,14 @@
         "timestamp": 1696160110384,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YZeJRw4hvKyBrNFx": {
+        "id": "YZeJRw4hvKyBrNFx",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Petitioner (Hell)",
+        "prompt": "Fantasy art Petitioner Hell fiend petitioner in the style of Greg Rutkowski",
+        "timestamp": 1696160110384,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
