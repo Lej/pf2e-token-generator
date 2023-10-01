@@ -26314,5 +26314,14 @@
         "timestamp": 1696160110521,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5tlPKUZroqzycuzD": {
+        "id": "5tlPKUZroqzycuzD",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Shanchek",
+        "prompt": "Fantasy art Shanchek humanoid xulgath Female xulgath thoughtmaw rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110522,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
