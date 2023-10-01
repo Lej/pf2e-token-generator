@@ -30940,5 +30940,14 @@
         "timestamp": 1696160111706,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qsRrYCsKLiMwZ1I9": {
+        "id": "qsRrYCsKLiMwZ1I9",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Bolan Nogasso",
+        "prompt": "Fantasy art Bolan Nogasso human humanoid Male human druid in the style of Greg Rutkowski",
+        "timestamp": 1696160111707,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
