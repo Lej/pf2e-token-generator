@@ -27187,5 +27187,14 @@
         "timestamp": 1696160111489,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "FzEwUkw6SCgQ1YJg": {
+        "id": "FzEwUkw6SCgQ1YJg",
+        "compendium": "blood-lords-bestiary",
+        "name": "Wheel Archon",
+        "prompt": "Fantasy art Wheel Archon archon celestial in the style of Greg Rutkowski",
+        "timestamp": 1696160111490,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
