@@ -22273,5 +22273,14 @@
         "timestamp": 1696160110361,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yBglC9GBy6p1x87t": {
+        "id": "yBglC9GBy6p1x87t",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Tendriculos",
+        "prompt": "Fantasy art Tendriculos fungus plant in the style of Greg Rutkowski",
+        "timestamp": 1696160110361,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
