@@ -31066,5 +31066,14 @@
         "timestamp": 1696160111715,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AuU3BGEz05Q180yI": {
+        "id": "AuU3BGEz05Q180yI",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Tascio Raetullus (3-4)",
+        "prompt": "Fantasy art Tascio Raetullus human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111715,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
