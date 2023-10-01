@@ -27367,5 +27367,14 @@
         "timestamp": 1696160111497,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3t57lJmLz6qQPqoD": {
+        "id": "3t57lJmLz6qQPqoD",
+        "compendium": "blood-lords-bestiary",
+        "name": "Hyrune Loxenna",
+        "prompt": "Fantasy art Hyrune Loxenna undead vampire Male half-elf vampire witch in the style of Greg Rutkowski",
+        "timestamp": 1696160111499,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
