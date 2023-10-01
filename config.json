@@ -23965,5 +23965,14 @@
         "timestamp": 1696160110420,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8a9N2iPA5HLpkWaF": {
+        "id": "8a9N2iPA5HLpkWaF",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Army Ant Swarm",
+        "prompt": "Fantasy art Army Ant Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1696160110421,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
