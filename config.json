@@ -30769,5 +30769,14 @@
         "timestamp": 1696160111700,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "h5S6ayqQTa7r6p8w": {
+        "id": "h5S6ayqQTa7r6p8w",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Tree Fisher",
+        "prompt": "Fantasy art Tree Fisher animal in the style of Greg Rutkowski",
+        "timestamp": 1696160111700,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
