@@ -22705,5 +22705,14 @@
         "timestamp": 1696160110374,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OFHr8UhsBOOgj0ef": {
+        "id": "OFHr8UhsBOOgj0ef",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Intellect Devourer",
+        "prompt": "Fantasy art Intellect Devourer aberration in the style of Greg Rutkowski",
+        "timestamp": 1696160110375,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
