@@ -30967,5 +30967,14 @@
         "timestamp": 1696160111708,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rrMtTABR1587fJGU": {
+        "id": "rrMtTABR1587fJGU",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Ghodrak the Quick",
+        "prompt": "Fantasy art Ghodrak the Quick goblin hobgoblin humanoid Male hobgoblin leader of the Obsidian Oath in the style of Greg Rutkowski",
+        "timestamp": 1696160111708,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
