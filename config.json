@@ -26593,5 +26593,14 @@
         "timestamp": 1696160110989,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "q9R4hKHeErDOaFJu": {
+        "id": "q9R4hKHeErDOaFJu",
+        "compendium": "pathfinder-dark-archive",
+        "name": "Quartz-Spawned Shadow",
+        "prompt": "Fantasy art Quartz-Spawned Shadow incorporeal undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110989,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
