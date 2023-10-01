@@ -21157,5 +21157,14 @@
         "timestamp": 1696160110257,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "H0pP1GqpMfX1WEiQ": {
+        "id": "H0pP1GqpMfX1WEiQ",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Grauladon",
+        "prompt": "Fantasy art Grauladon dragon in the style of Greg Rutkowski",
+        "timestamp": 1696160110257,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
