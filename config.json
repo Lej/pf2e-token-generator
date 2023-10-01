@@ -28168,5 +28168,14 @@
         "timestamp": 1696160111538,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "no9k3lpGXgF3uzUV": {
+        "id": "no9k3lpGXgF3uzUV",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Anadi Lurker",
+        "prompt": "Fantasy art Anadi Lurker anadi humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111538,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
