@@ -27088,5 +27088,14 @@
         "timestamp": 1696160111483,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7tmoC1LEp3taxaRp": {
+        "id": "7tmoC1LEp3taxaRp",
+        "compendium": "blood-lords-bestiary",
+        "name": "Eseneth",
+        "prompt": "Fantasy art Eseneth monitor psychopomp in the style of Greg Rutkowski",
+        "timestamp": 1696160111484,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
