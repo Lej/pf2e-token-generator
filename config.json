@@ -28528,5 +28528,14 @@
         "timestamp": 1696160111555,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xJPpzTfTABmT5C4i": {
+        "id": "xJPpzTfTABmT5C4i",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Golgopo",
+        "prompt": "Fantasy art Golgopo construct in the style of Greg Rutkowski",
+        "timestamp": 1696160111555,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
