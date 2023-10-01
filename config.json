@@ -32938,5 +32938,14 @@
         "timestamp": 1696160111795,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EkPs0okirh66YKa0": {
+        "id": "EkPs0okirh66YKa0",
+        "compendium": "stolen-fate-bestiary",
+        "name": "The Joke",
+        "prompt": "Fantasy art The Joke construct Variant fabled harrowkin in the style of Greg Rutkowski",
+        "timestamp": 1696160111796,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
