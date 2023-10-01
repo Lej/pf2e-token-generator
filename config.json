@@ -30733,5 +30733,14 @@
         "timestamp": 1696160111698,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5kcL1xtNY0apAwhO": {
+        "id": "5kcL1xtNY0apAwhO",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Blackfrost Prophet",
+        "prompt": "Fantasy art Blackfrost Prophet cold undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111698,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
