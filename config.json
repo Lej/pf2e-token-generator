@@ -26836,5 +26836,14 @@
         "timestamp": 1696160111470,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "bblPYqxgXeRmR4Bi": {
+        "id": "bblPYqxgXeRmR4Bi",
+        "compendium": "blood-lords-bestiary",
+        "name": "Ghiono",
+        "prompt": "Fantasy art Ghiono shadow in the style of Greg Rutkowski",
+        "timestamp": 1696160111470,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
