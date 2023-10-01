@@ -31075,5 +31075,14 @@
         "timestamp": 1696160111715,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "l1EWODWiDlDLQx0L": {
+        "id": "l1EWODWiDlDLQx0L",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Kobold Scout (PFS 3-99)",
+        "prompt": "Fantasy art Kobold Scout humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1696160111716,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
