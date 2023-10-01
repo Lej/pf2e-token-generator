@@ -31741,5 +31741,14 @@
         "timestamp": 1696160111738,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1OHuJmY24AnfJHpz": {
+        "id": "1OHuJmY24AnfJHpz",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Bergworm",
+        "prompt": "Fantasy art Bergworm animal in the style of Greg Rutkowski",
+        "timestamp": 1696160111738,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
