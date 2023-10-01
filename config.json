@@ -21679,5 +21679,14 @@
         "timestamp": 1696160110287,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WouSA1UsIzvBTOix": {
+        "id": "WouSA1UsIzvBTOix",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Carnivorous Crystal",
+        "prompt": "Fantasy art Carnivorous Crystal earth mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1696160110287,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
