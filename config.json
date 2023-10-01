@@ -28303,5 +28303,14 @@
         "timestamp": 1696160111544,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XsLYAnDjzpPeICkL": {
+        "id": "XsLYAnDjzpPeICkL",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Ba'aupa Mdoudu",
+        "prompt": "Fantasy art Ba'aupa Mdoudu beast in the style of Greg Rutkowski",
+        "timestamp": 1696160111544,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
