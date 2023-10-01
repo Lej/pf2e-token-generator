@@ -27556,5 +27556,14 @@
         "timestamp": 1696160111509,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "t92NDPmfXnOke88G": {
+        "id": "t92NDPmfXnOke88G",
+        "compendium": "blood-lords-bestiary",
+        "name": "Pesgahi the Poisoner",
+        "prompt": "Fantasy art Pesgahi the Poisoner ghoul undead Male ghoul poisoner in the style of Greg Rutkowski",
+        "timestamp": 1696160111509,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
