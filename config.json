@@ -33019,5 +33019,14 @@
         "timestamp": 1696160111801,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "dr6JPHvDMs9YavIq": {
+        "id": "dr6JPHvDMs9YavIq",
+        "compendium": "stolen-fate-bestiary",
+        "name": "The Inquisitor",
+        "prompt": "Fantasy art The Inquisitor construct Variant fabled harrowkin in the style of Greg Rutkowski",
+        "timestamp": 1696160111801,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
