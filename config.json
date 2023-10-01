@@ -27601,5 +27601,14 @@
         "timestamp": 1696160111511,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dUl7C2wT4mT3mAGH": {
+        "id": "dUl7C2wT4mT3mAGH",
+        "compendium": "blood-lords-bestiary",
+        "name": "Ruby",
+        "prompt": "Fantasy art Ruby halfling humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111512,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
