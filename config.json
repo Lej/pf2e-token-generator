@@ -20545,5 +20545,14 @@
         "timestamp": 1696160110133,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "erbFDwCcn1qsJnxS": {
+        "id": "erbFDwCcn1qsJnxS",
+        "compendium": "blog-bestiary",
+        "name": "Floolf",
+        "prompt": "Fantasy art Floolf animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110133,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
