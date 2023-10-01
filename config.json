@@ -32722,5 +32722,14 @@
         "timestamp": 1696160111771,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9auIrnhXBCHnO5Ww": {
+        "id": "9auIrnhXBCHnO5Ww",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Shrouded Bloodseeker",
+        "prompt": "Fantasy art Shrouded Bloodseeker animal shadow in the style of Greg Rutkowski",
+        "timestamp": 1696160111771,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
