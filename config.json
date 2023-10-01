@@ -28789,5 +28789,14 @@
         "timestamp": 1696160111568,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yBIeXuLhBROG84Ca": {
+        "id": "yBIeXuLhBROG84Ca",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Unshadowed Anchor Root",
+        "prompt": "Fantasy art Unshadowed Anchor Root gnoll humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111569,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
