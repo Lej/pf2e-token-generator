@@ -31813,5 +31813,14 @@
         "timestamp": 1696160111740,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "986YKe07u2538RcF": {
+        "id": "986YKe07u2538RcF",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Fasiel Ibn Sazadin (3-4)",
+        "prompt": "Fantasy art Fasiel Ibn Sazadin humanoid skelm Variant street skelm in the style of Greg Rutkowski",
+        "timestamp": 1696160111741,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
