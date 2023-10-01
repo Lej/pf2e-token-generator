@@ -28843,5 +28843,14 @@
         "timestamp": 1696160111570,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LBIK0gw2TzcLIDaJ": {
+        "id": "LBIK0gw2TzcLIDaJ",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Grouloop",
+        "prompt": "Fantasy art Grouloop amphibious boggard humanoid Female boggard ritualist rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111571,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
