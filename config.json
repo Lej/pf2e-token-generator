@@ -23911,5 +23911,14 @@
         "timestamp": 1696160110419,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Z2v611Np3J1MBkpv": {
+        "id": "Z2v611Np3J1MBkpv",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Dream Spider",
+        "prompt": "Fantasy art Dream Spider animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110419,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
