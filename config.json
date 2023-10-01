@@ -31723,5 +31723,14 @@
         "timestamp": 1696160111737,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "nPuiF2GEyJ2WMG4v": {
+        "id": "nPuiF2GEyJ2WMG4v",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Grimple (PFS 3-18)",
+        "prompt": "Fantasy art Grimple fey gremlin in the style of Greg Rutkowski",
+        "timestamp": 1696160111738,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
