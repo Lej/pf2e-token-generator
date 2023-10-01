@@ -31687,5 +31687,14 @@
         "timestamp": 1696160111737,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LHEI3E4THLsz0rr0": {
+        "id": "LHEI3E4THLsz0rr0",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Enduring Zombie Hulk",
+        "prompt": "Fantasy art Enduring Zombie Hulk undead zombie Variant zombie hulk in the style of Greg Rutkowski",
+        "timestamp": 1696160111737,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
