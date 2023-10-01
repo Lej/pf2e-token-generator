@@ -25774,5 +25774,14 @@
         "timestamp": 1696160110500,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "qCTU0ywtCOgiUM0q": {
+        "id": "qCTU0ywtCOgiUM0q",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Skarja",
+        "prompt": "Fantasy art Skarja fiend hag humanoid Female night hag corruptor rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110500,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
