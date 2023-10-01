@@ -22111,5 +22111,14 @@
         "timestamp": 1696160110355,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HI7SecILsRTmOtky": {
+        "id": "HI7SecILsRTmOtky",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Shocker Lizard",
+        "prompt": "Fantasy art Shocker Lizard animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110355,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
