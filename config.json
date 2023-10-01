@@ -30913,5 +30913,14 @@
         "timestamp": 1696160111705,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZzVs5T27LnLhRZ5u": {
+        "id": "ZzVs5T27LnLhRZ5u",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Kaneepo the Slim",
+        "prompt": "Fantasy art Kaneepo the Slim fey in the style of Greg Rutkowski",
+        "timestamp": 1696160111706,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
