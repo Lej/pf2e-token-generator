@@ -27250,5 +27250,14 @@
         "timestamp": 1696160111492,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NiDaVEpAOgbuwnau": {
+        "id": "NiDaVEpAOgbuwnau",
+        "compendium": "blood-lords-bestiary",
+        "name": "Kemnebi's Puppet",
+        "prompt": "Fantasy art Kemnebi's Puppet human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111492,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
