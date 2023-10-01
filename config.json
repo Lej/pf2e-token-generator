@@ -32497,5 +32497,14 @@
         "timestamp": 1696160111763,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "83lyaQloNlS16sJu": {
+        "id": "83lyaQloNlS16sJu",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Mature Arabuk",
+        "prompt": "Fantasy art Mature Arabuk animal in the style of Greg Rutkowski",
+        "timestamp": 1696160111763,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
