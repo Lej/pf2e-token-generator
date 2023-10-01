@@ -33181,5 +33181,14 @@
         "timestamp": 1696160111813,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "fcMf5NrHPZS54Hkd": {
+        "id": "fcMf5NrHPZS54Hkd",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Vincuvicar",
+        "prompt": "Fantasy art Vincuvicar fiend velstrac in the style of Greg Rutkowski",
+        "timestamp": 1696160111813,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
