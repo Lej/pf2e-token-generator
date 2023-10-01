@@ -25720,5 +25720,14 @@
         "timestamp": 1696160110497,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5G8Iokror8QtBhbx": {
+        "id": "5G8Iokror8QtBhbx",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Urdefhan Dominator",
+        "prompt": "Fantasy art Urdefhan Dominator humanoid urdefhan in the style of Greg Rutkowski",
+        "timestamp": 1696160110498,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
