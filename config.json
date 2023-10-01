@@ -29995,5 +29995,14 @@
         "timestamp": 1696160111669,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ub0UIqBOjouOePe8": {
+        "id": "Ub0UIqBOjouOePe8",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Ferrous Butterfly",
+        "prompt": "Fantasy art Ferrous Butterfly elemental metal in the style of Greg Rutkowski",
+        "timestamp": 1696160111669,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
