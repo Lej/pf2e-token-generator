@@ -24019,5 +24019,14 @@
         "timestamp": 1696160110422,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hvKRgNiQtQJhHk9u": {
+        "id": "hvKRgNiQtQJhHk9u",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Imentesh",
+        "prompt": "Fantasy art Imentesh monitor protean in the style of Greg Rutkowski",
+        "timestamp": 1696160110422,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
