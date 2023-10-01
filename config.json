@@ -31993,5 +31993,14 @@
         "timestamp": 1696160111746,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cYovLvzfbqkTF9uF": {
+        "id": "cYovLvzfbqkTF9uF",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Cobbled Bruiser",
+        "prompt": "Fantasy art Cobbled Bruiser aberration earth in the style of Greg Rutkowski",
+        "timestamp": 1696160111746,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
