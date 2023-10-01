@@ -29140,5 +29140,14 @@
         "timestamp": 1696160111581,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "MLCRss7LhVEE0HHy": {
+        "id": "MLCRss7LhVEE0HHy",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Nkiruka",
+        "prompt": "Fantasy art Nkiruka human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111582,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
