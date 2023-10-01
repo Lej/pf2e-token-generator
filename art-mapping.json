@@ -12131,6 +12131,10 @@
         "zrMBLTlxPCIwtwGo": {
             "actor": "modules/pf2e-ai-token-placeholders/images/blood-lords-bestiary/zrMBLTlxPCIwtwGo/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/blood-lords-bestiary/zrMBLTlxPCIwtwGo/token.webp"
+        },
+        "LRHYWNJg7231HUOc": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/blood-lords-bestiary/LRHYWNJg7231HUOc/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/blood-lords-bestiary/LRHYWNJg7231HUOc/token.webp"
         }
     }
 }

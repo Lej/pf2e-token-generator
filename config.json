@@ -27160,5 +27160,14 @@
         "timestamp": 1696160111488,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LRHYWNJg7231HUOc": {
+        "id": "LRHYWNJg7231HUOc",
+        "compendium": "blood-lords-bestiary",
+        "name": "Dirge Piper",
+        "prompt": "Fantasy art Dirge Piper undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1696160111488,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
