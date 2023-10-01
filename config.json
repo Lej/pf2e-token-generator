@@ -32776,5 +32776,14 @@
         "timestamp": 1696160111783,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7ze52pL9OFjZBGWa": {
+        "id": "7ze52pL9OFjZBGWa",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Blade Magus",
+        "prompt": "Fantasy art Blade Magus human humanoid Human magus in the style of Greg Rutkowski",
+        "timestamp": 1696160111784,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
