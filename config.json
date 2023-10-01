@@ -21490,5 +21490,14 @@
         "timestamp": 1696160110276,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UD7EwTQG2Sbl4d8R": {
+        "id": "UD7EwTQG2Sbl4d8R",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Voz Lirayne",
+        "prompt": "Fantasy art Voz Lirayne elf half-elf human humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110277,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
