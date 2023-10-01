@@ -30121,5 +30121,14 @@
         "timestamp": 1696160111672,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dLFxm5kZBRzvqf1f": {
+        "id": "dLFxm5kZBRzvqf1f",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Eural, The East Wind",
+        "prompt": "Fantasy art Eural, The East Wind air elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160111673,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
