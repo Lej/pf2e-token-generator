@@ -31165,5 +31165,14 @@
         "timestamp": 1696160111718,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9FB0dIfsZSk6bdKt": {
+        "id": "9FB0dIfsZSk6bdKt",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Animated Cookware",
+        "prompt": "Fantasy art Animated Cookware construct mindless Variant animated armor in the style of Greg Rutkowski",
+        "timestamp": 1696160111718,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
