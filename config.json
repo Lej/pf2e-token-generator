@@ -20662,5 +20662,14 @@
         "timestamp": 1696160110137,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GQE978SzTLS0Sa8B": {
+        "id": "GQE978SzTLS0Sa8B",
+        "compendium": "blog-bestiary",
+        "name": "Morlibint",
+        "prompt": "Fantasy art Morlibint human humanoid Male human wizard in the style of Greg Rutkowski",
+        "timestamp": 1696160110137,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
