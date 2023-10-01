@@ -29689,5 +29689,14 @@
         "timestamp": 1696160111658,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "CriBWDFr8l2SPDVO": {
+        "id": "CriBWDFr8l2SPDVO",
+        "compendium": "the-enmity-cycle-bestiary",
+        "name": "Krashk",
+        "prompt": "Fantasy art Krashk gnoll humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111659,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
