@@ -21175,5 +21175,14 @@
         "timestamp": 1696160110258,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Fe1lYhCUY4UO4Plw": {
+        "id": "Fe1lYhCUY4UO4Plw",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Talamira",
+        "prompt": "Fantasy art Talamira ghost incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110258,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
