@@ -32164,5 +32164,14 @@
         "timestamp": 1696160111752,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LqEHXPTgyVUltvS2": {
+        "id": "LqEHXPTgyVUltvS2",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Skulk (PFS 3-13)",
+        "prompt": "Fantasy art Skulk humanoid skulk in the style of Greg Rutkowski",
+        "timestamp": 1696160111752,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
