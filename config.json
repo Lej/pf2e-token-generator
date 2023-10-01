@@ -27475,5 +27475,14 @@
         "timestamp": 1696160111503,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "duqhXs5SXmvSC1uI": {
+        "id": "duqhXs5SXmvSC1uI",
+        "compendium": "blood-lords-bestiary",
+        "name": "Hollow Husk",
+        "prompt": "Fantasy art Hollow Husk mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1696160111503,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
