@@ -25432,5 +25432,14 @@
         "timestamp": 1696160110482,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "iUA3E379TDoEAXz7": {
+        "id": "iUA3E379TDoEAXz7",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Qurashith",
+        "prompt": "Fantasy art Qurashith aberration fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160110483,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
