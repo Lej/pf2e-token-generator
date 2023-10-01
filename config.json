@@ -21526,5 +21526,14 @@
         "timestamp": 1696160110278,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NwLrwNqwedh95iry": {
+        "id": "NwLrwNqwedh95iry",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Scarlet Triad Thug",
+        "prompt": "Fantasy art Scarlet Triad Thug dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110278,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
