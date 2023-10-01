@@ -23884,5 +23884,14 @@
         "timestamp": 1696160110418,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nSDXAfFOF2gEKmkM": {
+        "id": "nSDXAfFOF2gEKmkM",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Movanic Deva",
+        "prompt": "Fantasy art Movanic Deva angel celestial rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110418,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
