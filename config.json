@@ -23182,5 +23182,14 @@
         "timestamp": 1696160110395,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "Ge5Q5I7TTksf7QyN": {
+        "id": "Ge5Q5I7TTksf7QyN",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Zomok",
+        "prompt": "Fantasy art Zomok dragon plant rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110395,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
