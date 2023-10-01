@@ -13329,6 +13329,10 @@
         "1cpG2DuXPXq3DMBx": {
             "actor": "modules/pf2e-ai-token-placeholders/images/rage-of-elements-bestiary/1cpG2DuXPXq3DMBx/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/rage-of-elements-bestiary/1cpG2DuXPXq3DMBx/token.webp"
+        },
+        "m6lUcyekHwJxTLzo": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/rage-of-elements-bestiary/m6lUcyekHwJxTLzo/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/rage-of-elements-bestiary/m6lUcyekHwJxTLzo/token.webp"
         }
     }
 }

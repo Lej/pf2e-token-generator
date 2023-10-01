@@ -29833,5 +29833,14 @@
         "timestamp": 1696160111664,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "m6lUcyekHwJxTLzo": {
+        "id": "m6lUcyekHwJxTLzo",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Vault Keeper",
+        "prompt": "Fantasy art Vault Keeper earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160111665,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
