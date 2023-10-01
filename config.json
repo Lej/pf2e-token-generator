@@ -25612,5 +25612,14 @@
         "timestamp": 1696160110492,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "wOzDhkm9sd7IygoS": {
+        "id": "wOzDhkm9sd7IygoS",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Wight Cultist",
+        "prompt": "Fantasy art Wight Cultist undead Variant wight in the style of Greg Rutkowski",
+        "timestamp": 1696160110492,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
