@@ -28735,5 +28735,14 @@
         "timestamp": 1696160111566,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6W8aW2Pw1j8d0Y4g": {
+        "id": "6W8aW2Pw1j8d0Y4g",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Thiarvo the Quick",
+        "prompt": "Fantasy art Thiarvo the Quick halfling humanoid Male halfling treasure hunter in the style of Greg Rutkowski",
+        "timestamp": 1696160111566,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
