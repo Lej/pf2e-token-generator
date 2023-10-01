@@ -20671,5 +20671,14 @@
         "timestamp": 1696160110137,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8xPlavExNidQSFyb": {
+        "id": "8xPlavExNidQSFyb",
+        "compendium": "blog-bestiary",
+        "name": "Wendlyn",
+        "prompt": "Fantasy art Wendlyn elf half-elf human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110138,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
