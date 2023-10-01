@@ -24244,5 +24244,14 @@
         "timestamp": 1696160110430,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5CixyyBkCLj2VI8q": {
+        "id": "5CixyyBkCLj2VI8q",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Hippopotamus",
+        "prompt": "Fantasy art Hippopotamus animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110430,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
