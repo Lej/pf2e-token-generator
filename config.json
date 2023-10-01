@@ -23272,5 +23272,14 @@
         "timestamp": 1696160110397,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JJKxWVExhUEno9j0": {
+        "id": "JJKxWVExhUEno9j0",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Giant Leech",
+        "prompt": "Fantasy art Giant Leech amphibious animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110397,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
