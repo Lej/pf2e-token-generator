@@ -26746,5 +26746,14 @@
         "timestamp": 1696160111194,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xtIoQWKv3xBd2gqZ": {
+        "id": "xtIoQWKv3xBd2gqZ",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Baby Brine Shark",
+        "prompt": "Fantasy art Baby Brine Shark aquatic elemental water Variant brine shark in the style of Greg Rutkowski",
+        "timestamp": 1696160111195,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
