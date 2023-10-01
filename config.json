@@ -30193,5 +30193,14 @@
         "timestamp": 1696160111676,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nhIxIC4O6XGUZ8Ng": {
+        "id": "nhIxIC4O6XGUZ8Ng",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Nanoshard Swarm",
+        "prompt": "Fantasy art Nanoshard Swarm elemental metal in the style of Greg Rutkowski",
+        "timestamp": 1696160111676,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
