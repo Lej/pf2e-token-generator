@@ -24568,5 +24568,14 @@
         "timestamp": 1696160110441,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HmeEHIXL46rBQWAa": {
+        "id": "HmeEHIXL46rBQWAa",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Frost Troll",
+        "prompt": "Fantasy art Frost Troll cold giant troll in the style of Greg Rutkowski",
+        "timestamp": 1696160110441,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
