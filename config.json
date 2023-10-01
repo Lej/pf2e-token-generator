@@ -26116,5 +26116,14 @@
         "timestamp": 1696160110513,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HCxhltvoCdy3RXlH": {
+        "id": "HCxhltvoCdy3RXlH",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Saurian Warmonger",
+        "prompt": "Fantasy art Saurian Warmonger dinosaur humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110514,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
