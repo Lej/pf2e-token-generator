@@ -30814,5 +30814,14 @@
         "timestamp": 1696160111702,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HypIeplCDn0Phqs4": {
+        "id": "HypIeplCDn0Phqs4",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Symbiotic Amoeba",
+        "prompt": "Fantasy art Symbiotic Amoeba beast mindless minion Amelekana's Minion in the style of Greg Rutkowski",
+        "timestamp": 1696160111702,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
