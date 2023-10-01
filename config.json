@@ -27844,5 +27844,14 @@
         "timestamp": 1696160111525,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zEPIkUw9ZlXi5Jzb": {
+        "id": "zEPIkUw9ZlXi5Jzb",
+        "compendium": "blood-lords-bestiary",
+        "name": "Afziaka Brute",
+        "prompt": "Fantasy art Afziaka Brute animal mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111526,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
