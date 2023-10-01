@@ -27943,5 +27943,14 @@
         "timestamp": 1696160111530,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cUUyIZ3Y8VAbfI9P": {
+        "id": "cUUyIZ3Y8VAbfI9P",
+        "compendium": "blood-lords-bestiary",
+        "name": "Kerinza",
+        "prompt": "Fantasy art Kerinza humanoid Female medusa exile in the style of Greg Rutkowski",
+        "timestamp": 1696160111530,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
