@@ -24775,5 +24775,14 @@
         "timestamp": 1696160110450,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DEo5AEY1i9s0kWYZ": {
+        "id": "DEo5AEY1i9s0kWYZ",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Lunar Naga",
+        "prompt": "Fantasy art Lunar Naga aberration in the style of Greg Rutkowski",
+        "timestamp": 1696160110451,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
