@@ -31876,5 +31876,14 @@
         "timestamp": 1696160111742,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "39ShWwOPdJq2X5o2": {
+        "id": "39ShWwOPdJq2X5o2",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Aydrian Thrune (3-4)",
+        "prompt": "Fantasy art Aydrian Thrune human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111743,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
