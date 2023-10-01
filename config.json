@@ -31390,5 +31390,14 @@
         "timestamp": 1696160111727,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "RmgJ2iZ20AKxZZjQ": {
+        "id": "RmgJ2iZ20AKxZZjQ",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Animated Knickknack (3-4)",
+        "prompt": "Fantasy art Animated Knickknack construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111727,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
