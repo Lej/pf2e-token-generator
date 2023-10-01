@@ -21751,5 +21751,14 @@
         "timestamp": 1696160110330,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "H7NO4Q7ctHnfGKeJ": {
+        "id": "H7NO4Q7ctHnfGKeJ",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Weathered Wail",
+        "prompt": "Fantasy art Weathered Wail beast fire in the style of Greg Rutkowski",
+        "timestamp": 1696160110330,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
