@@ -29959,5 +29959,14 @@
         "timestamp": 1696160111668,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CKRqlCHgvZp9YL5s": {
+        "id": "CKRqlCHgvZp9YL5s",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Living Lodestone",
+        "prompt": "Fantasy art Living Lodestone elemental metal in the style of Greg Rutkowski",
+        "timestamp": 1696160111669,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
