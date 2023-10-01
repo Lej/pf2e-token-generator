@@ -27151,5 +27151,14 @@
         "timestamp": 1696160111487,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zrMBLTlxPCIwtwGo": {
+        "id": "zrMBLTlxPCIwtwGo",
+        "compendium": "blood-lords-bestiary",
+        "name": "Iron Taviah",
+        "prompt": "Fantasy art Iron Taviah hag humanoid Female annis hag ritualist rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111488,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
