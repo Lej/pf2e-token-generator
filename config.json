@@ -28879,5 +28879,14 @@
         "timestamp": 1696160111572,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "caOhluoshxMJwGoE": {
+        "id": "caOhluoshxMJwGoE",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Stone Ghost",
+        "prompt": "Fantasy art Stone Ghost human humanoid oread in the style of Greg Rutkowski",
+        "timestamp": 1696160111573,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
