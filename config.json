@@ -26197,5 +26197,14 @@
         "timestamp": 1696160110517,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QcJtBai5JViNFqUC": {
+        "id": "QcJtBai5JViNFqUC",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Viskithrel",
+        "prompt": "Fantasy art Viskithrel beast in the style of Greg Rutkowski",
+        "timestamp": 1696160110517,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
