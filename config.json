@@ -32056,5 +32056,14 @@
         "timestamp": 1696160111748,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DOG6jdFk7JmBDEBg": {
+        "id": "DOG6jdFk7JmBDEBg",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Fast Shambler Troop",
+        "prompt": "Fantasy art Fast Shambler Troop mindless troop undead zombie Variant shambler troop in the style of Greg Rutkowski",
+        "timestamp": 1696160111748,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
