@@ -24532,5 +24532,14 @@
         "timestamp": 1696160110440,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Z9rOUqCqAaMjvgBc": {
+        "id": "Z9rOUqCqAaMjvgBc",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Drainberry Bush",
+        "prompt": "Fantasy art Drainberry Bush plant in the style of Greg Rutkowski",
+        "timestamp": 1696160110440,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
