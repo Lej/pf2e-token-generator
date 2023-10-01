@@ -23515,5 +23515,14 @@
         "timestamp": 1696160110405,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LtaVzD7ADtWmBWap": {
+        "id": "LtaVzD7ADtWmBWap",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Skrik Nettle",
+        "prompt": "Fantasy art Skrik Nettle aberration in the style of Greg Rutkowski",
+        "timestamp": 1696160110405,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
