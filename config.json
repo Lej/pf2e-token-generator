@@ -28987,5 +28987,14 @@
         "timestamp": 1696160111575,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wCmTtkeVjPILP7Vl": {
+        "id": "wCmTtkeVjPILP7Vl",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Ikeshti Brood-Minder",
+        "prompt": "Fantasy art Ikeshti Brood-Minder humanoid ikeshti in the style of Greg Rutkowski",
+        "timestamp": 1696160111576,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
