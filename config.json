@@ -26134,5 +26134,14 @@
         "timestamp": 1696160110515,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fvGqCYfVAI3KXnSl": {
+        "id": "fvGqCYfVAI3KXnSl",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Xulgath Bomber",
+        "prompt": "Fantasy art Xulgath Bomber humanoid xulgath in the style of Greg Rutkowski",
+        "timestamp": 1696160110515,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
