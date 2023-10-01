@@ -28582,5 +28582,14 @@
         "timestamp": 1696160111558,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aQH62hiGUoOscc4i": {
+        "id": "aQH62hiGUoOscc4i",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Reborn Sun Hunter",
+        "prompt": "Fantasy art Reborn Sun Hunter fire undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111558,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
