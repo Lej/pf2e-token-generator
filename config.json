@@ -30229,5 +30229,14 @@
         "timestamp": 1696160111677,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "h6oWKFSqpXHnOg5h": {
+        "id": "h6oWKFSqpXHnOg5h",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Munsahir Gatecrasher",
+        "prompt": "Fantasy art Munsahir Gatecrasher elemental fire humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111677,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
