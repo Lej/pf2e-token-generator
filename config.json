@@ -31111,5 +31111,14 @@
         "timestamp": 1696160111716,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "i9cCVnI5OlMe8d2u": {
+        "id": "i9cCVnI5OlMe8d2u",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Displaced Robot (1-2)",
+        "prompt": "Fantasy art Displaced Robot construct in the style of Greg Rutkowski",
+        "timestamp": 1696160111717,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
