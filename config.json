@@ -26530,5 +26530,14 @@
         "timestamp": 1696160110667,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SjU0oB6pOk0XY8VN": {
+        "id": "SjU0oB6pOk0XY8VN",
+        "compendium": "kingmaker-bestiary",
+        "name": "Minognos-Ushad",
+        "prompt": "Fantasy art Minognos-Ushad dragon Variant wyvern in the style of Greg Rutkowski",
+        "timestamp": 1696160110673,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
