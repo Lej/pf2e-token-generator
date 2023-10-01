@@ -32470,5 +32470,14 @@
         "timestamp": 1696160111761,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "aZl2962bnq1j6Hpy": {
+        "id": "aZl2962bnq1j6Hpy",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Vengeful Ember Fox",
+        "prompt": "Fantasy art Vengeful Ember Fox elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1696160111762,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
