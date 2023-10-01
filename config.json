@@ -30166,5 +30166,14 @@
         "timestamp": 1696160111674,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jKSirpKNicffmRpW": {
+        "id": "jKSirpKNicffmRpW",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Crysmal",
+        "prompt": "Fantasy art Crysmal earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160111675,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
