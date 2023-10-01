@@ -32416,5 +32416,14 @@
         "timestamp": 1696160111760,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qRX3Gax6xC3yIqyt": {
+        "id": "qRX3Gax6xC3yIqyt",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Ninth Army War Mage",
+        "prompt": "Fantasy art Ninth Army War Mage human humanoid Variant mage for hire in the style of Greg Rutkowski",
+        "timestamp": 1696160111760,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
