@@ -22327,5 +22327,14 @@
         "timestamp": 1696160110363,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fizcFuAe2WPauA2U": {
+        "id": "fizcFuAe2WPauA2U",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Petitioner (Boneyard)",
+        "prompt": "Fantasy art Petitioner Boneyard monitor petitioner in the style of Greg Rutkowski",
+        "timestamp": 1696160110363,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
