@@ -28969,5 +28969,14 @@
         "timestamp": 1696160111575,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pjnTEh0NVd1DB6jI": {
+        "id": "pjnTEh0NVd1DB6jI",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Yorulu",
+        "prompt": "Fantasy art Yorulu grippli humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111575,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
