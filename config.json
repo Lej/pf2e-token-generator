@@ -30040,5 +30040,14 @@
         "timestamp": 1696160111670,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Kv6zyQC3JCEWWwvf": {
+        "id": "Kv6zyQC3JCEWWwvf",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Solar Crow",
+        "prompt": "Fantasy art Solar Crow elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1696160111671,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
