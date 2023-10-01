@@ -21967,5 +21967,14 @@
         "timestamp": 1696160110349,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zjPdqdQGNjO3Kto7": {
+        "id": "zjPdqdQGNjO3Kto7",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Aurumvorax",
+        "prompt": "Fantasy art Aurumvorax animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110349,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
