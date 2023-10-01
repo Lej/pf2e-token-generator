@@ -22444,5 +22444,14 @@
         "timestamp": 1696160110366,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tCJEjNDUxyV1GzE3": {
+        "id": "tCJEjNDUxyV1GzE3",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Hamatula",
+        "prompt": "Fantasy art Hamatula devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110366,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
