@@ -27718,5 +27718,14 @@
         "timestamp": 1696160111518,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "RpFpcfMqD6wqIHfE": {
+        "id": "RpFpcfMqD6wqIHfE",
+        "compendium": "blood-lords-bestiary",
+        "name": "Vampire Rival Necromancer",
+        "prompt": "Fantasy art Vampire Rival Necromancer human humanoid undead vampire in the style of Greg Rutkowski",
+        "timestamp": 1696160111519,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
