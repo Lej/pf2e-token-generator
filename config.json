@@ -20950,5 +20950,14 @@
         "timestamp": 1696160110246,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "595MAHwB4JWtzLAA": {
+        "id": "595MAHwB4JWtzLAA",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Soulbound Ruin",
+        "prompt": "Fantasy art Soulbound Ruin construct undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110246,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
