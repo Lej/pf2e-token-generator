@@ -23020,5 +23020,14 @@
         "timestamp": 1696160110388,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "jQ7zBVDCEhuMOOTl": {
+        "id": "jQ7zBVDCEhuMOOTl",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Nabasu",
+        "prompt": "Fantasy art Nabasu demon fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110388,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
