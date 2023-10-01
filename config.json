@@ -22804,5 +22804,14 @@
         "timestamp": 1696160110379,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OaKx1ZaU25i3cypS": {
+        "id": "OaKx1ZaU25i3cypS",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Theletos",
+        "prompt": "Fantasy art Theletos aeon monitor rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110380,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
