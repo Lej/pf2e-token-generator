@@ -24766,5 +24766,14 @@
         "timestamp": 1696160110450,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "RUdP7qWg6pnKrPnh": {
+        "id": "RUdP7qWg6pnKrPnh",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Striding Fire",
+        "prompt": "Fantasy art Striding Fire elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1696160110450,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
