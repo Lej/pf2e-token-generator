@@ -29617,5 +29617,14 @@
         "timestamp": 1696160111652,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "idj4GBmsLUNUbk9r": {
+        "id": "idj4GBmsLUNUbk9r",
+        "compendium": "the-slithering-bestiary",
+        "name": "Alchemical Golem (Slithering)",
+        "prompt": "Fantasy art Alchemical Golem Slithering alchemical construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111652,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
