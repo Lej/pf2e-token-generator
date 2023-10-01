@@ -22003,5 +22003,14 @@
         "timestamp": 1696160110351,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wjcBMB7OvCHrnS39": {
+        "id": "wjcBMB7OvCHrnS39",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Petitioner (Material Plane)",
+        "prompt": "Fantasy art Petitioner Material Plane petitioner in the style of Greg Rutkowski",
+        "timestamp": 1696160110351,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
