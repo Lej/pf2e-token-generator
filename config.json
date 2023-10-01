@@ -25306,5 +25306,14 @@
         "timestamp": 1696160110475,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wBlnbLj8FfgxArQm": {
+        "id": "wBlnbLj8FfgxArQm",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Lyrt Cozurn",
+        "prompt": "Fantasy art Lyrt Cozurn incorporeal spirit undead Male dybbuk cult leader in the style of Greg Rutkowski",
+        "timestamp": 1696160110476,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
