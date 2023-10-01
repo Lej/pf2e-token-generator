@@ -25603,5 +25603,14 @@
         "timestamp": 1696160110491,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "sPuh6Ahatn0Vhn7P": {
+        "id": "sPuh6Ahatn0Vhn7P",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Urushil",
+        "prompt": "Fantasy art Urushil demon fiend Elite marilith rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110492,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
