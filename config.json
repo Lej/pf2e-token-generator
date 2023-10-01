@@ -32992,5 +32992,14 @@
         "timestamp": 1696160111799,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "F902rCNyW8cVyBEp": {
+        "id": "F902rCNyW8cVyBEp",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Uniila Occultist",
+        "prompt": "Fantasy art Uniila Occultist devil fiend in the style of Greg Rutkowski",
+        "timestamp": 1696160111800,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
