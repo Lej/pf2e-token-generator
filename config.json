@@ -31948,5 +31948,14 @@
         "timestamp": 1696160111745,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zMVQXCDhP7yeuQg3": {
+        "id": "zMVQXCDhP7yeuQg3",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Aspis Bulwark",
+        "prompt": "Fantasy art Aspis Bulwark human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111745,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
