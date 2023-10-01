@@ -27070,5 +27070,14 @@
         "timestamp": 1696160111482,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pHiRAXi3YxFhBeLi": {
+        "id": "pHiRAXi3YxFhBeLi",
+        "compendium": "blood-lords-bestiary",
+        "name": "Yshula",
+        "prompt": "Fantasy art Yshula div fiend Male elite pairaka div rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111482,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
