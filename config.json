@@ -31822,5 +31822,14 @@
         "timestamp": 1696160111741,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BcSac9voqpoDjMTy": {
+        "id": "BcSac9voqpoDjMTy",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Thundering Wihsaak (Heretical)",
+        "prompt": "Fantasy art Thundering Wihsaak Heretical fiend sahkil in the style of Greg Rutkowski",
+        "timestamp": 1696160111741,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
