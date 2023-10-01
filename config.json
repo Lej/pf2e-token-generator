@@ -20653,5 +20653,14 @@
         "timestamp": 1696160110136,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xkMQlY10mUIIkrfa": {
+        "id": "xkMQlY10mUIIkrfa",
+        "compendium": "blog-bestiary",
+        "name": "Ogre Hurler",
+        "prompt": "Fantasy art Ogre Hurler giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110137,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
