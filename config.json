@@ -27115,5 +27115,14 @@
         "timestamp": 1696160111485,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tu9Y0LJ6ghOpkJTX": {
+        "id": "tu9Y0LJ6ghOpkJTX",
+        "compendium": "blood-lords-bestiary",
+        "name": "Seldeg Bheldis",
+        "prompt": "Fantasy art Seldeg Bheldis undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111485,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
