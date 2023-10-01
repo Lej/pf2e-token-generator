@@ -31552,5 +31552,14 @@
         "timestamp": 1696160111732,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xkXMKw8GhdI5FNar": {
+        "id": "xkXMKw8GhdI5FNar",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Monastic Bodyguard (3-4)",
+        "prompt": "Fantasy art Monastic Bodyguard human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111733,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
