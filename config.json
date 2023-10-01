@@ -23560,5 +23560,14 @@
         "timestamp": 1696160110406,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TKlnOKpYJkg1dNwb": {
+        "id": "TKlnOKpYJkg1dNwb",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Totenmaske",
+        "prompt": "Fantasy art Totenmaske undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110407,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
