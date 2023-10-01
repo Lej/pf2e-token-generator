@@ -24172,5 +24172,14 @@
         "timestamp": 1696160110427,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JgePINrFINmlsvn3": {
+        "id": "JgePINrFINmlsvn3",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Hound Of Tindalos",
+        "prompt": "Fantasy art Hound Of Tindalos aberration time in the style of Greg Rutkowski",
+        "timestamp": 1696160110427,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
