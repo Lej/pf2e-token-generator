@@ -29563,5 +29563,14 @@
         "timestamp": 1696160111649,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PugTH4pasVxBB7Pn": {
+        "id": "PugTH4pasVxBB7Pn",
+        "compendium": "the-slithering-bestiary",
+        "name": "Cursebreaker",
+        "prompt": "Fantasy art Cursebreaker construct golem mindless Variant stone golem in the style of Greg Rutkowski",
+        "timestamp": 1696160111649,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
