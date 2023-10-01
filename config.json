@@ -25081,5 +25081,14 @@
         "timestamp": 1696160110462,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mZxVXRI1Zh3HUXxn": {
+        "id": "mZxVXRI1Zh3HUXxn",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Living Thunderclap",
+        "prompt": "Fantasy art Living Thunderclap air elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160110462,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
