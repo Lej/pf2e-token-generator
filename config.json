@@ -23740,5 +23740,14 @@
         "timestamp": 1696160110414,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FnLuqlzLl4zCE9pJ": {
+        "id": "FnLuqlzLl4zCE9pJ",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Adult Magma Dragon",
+        "prompt": "Fantasy art Adult Magma Dragon dragon elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1696160110414,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
