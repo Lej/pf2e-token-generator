@@ -31219,5 +31219,14 @@
         "timestamp": 1696160111720,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "gwy6v9P8E8hIlP19": {
+        "id": "gwy6v9P8E8hIlP19",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Zebub (PFS)",
+        "prompt": "Fantasy art Zebub devil fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111721,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
