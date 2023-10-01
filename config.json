@@ -25459,5 +25459,14 @@
         "timestamp": 1696160110483,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jxGA1C8xX0WkJGI4": {
+        "id": "jxGA1C8xX0WkJGI4",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Yaganty",
+        "prompt": "Fantasy art Yaganty fey in the style of Greg Rutkowski",
+        "timestamp": 1696160110484,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
