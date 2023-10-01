@@ -26467,5 +26467,14 @@
         "timestamp": 1696160110528,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pfvUhfy0VHNlTyvN": {
+        "id": "pfvUhfy0VHNlTyvN",
+        "compendium": "kingmaker-bestiary",
+        "name": "Immense Mandragora",
+        "prompt": "Fantasy art Immense Mandragora plant Variant mandragora in the style of Greg Rutkowski",
+        "timestamp": 1696160110609,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
