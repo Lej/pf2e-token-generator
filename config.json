@@ -23407,5 +23407,14 @@
         "timestamp": 1696160110401,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6tKVMKDdvbp0VhZD": {
+        "id": "6tKVMKDdvbp0VhZD",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Slime Mold",
+        "prompt": "Fantasy art Slime Mold fungus mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1696160110401,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
