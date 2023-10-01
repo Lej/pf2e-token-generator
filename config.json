@@ -27916,5 +27916,14 @@
         "timestamp": 1696160111529,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2ZpYVlsDigX5ZQR6": {
+        "id": "2ZpYVlsDigX5ZQR6",
+        "compendium": "blood-lords-bestiary",
+        "name": "Mummy Valet",
+        "prompt": "Fantasy art Mummy Valet mummy undead Elite mummy guardian in the style of Greg Rutkowski",
+        "timestamp": 1696160111529,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
