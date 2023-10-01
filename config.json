@@ -20941,5 +20941,14 @@
         "timestamp": 1696160110246,
         "seed": 1024,
         "used_seed": 1027
+    },
+    "dG5DBgrxlaimsWOS": {
+        "id": "dG5DBgrxlaimsWOS",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Falrok",
+        "prompt": "Fantasy art Falrok ghoul undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110246,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
