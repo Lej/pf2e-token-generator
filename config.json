@@ -27025,5 +27025,14 @@
         "timestamp": 1696160111480,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RIKDtmwVQQeJUZKg": {
+        "id": "RIKDtmwVQQeJUZKg",
+        "compendium": "blood-lords-bestiary",
+        "name": "Vampire Taviah",
+        "prompt": "Fantasy art Vampire Taviah undead vampire Female vetalarana vampire annis hag in the style of Greg Rutkowski",
+        "timestamp": 1696160111481,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
