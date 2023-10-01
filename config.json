@@ -23011,5 +23011,14 @@
         "timestamp": 1696160110388,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SYaC46yrqcyp16Dq": {
+        "id": "SYaC46yrqcyp16Dq",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Weretiger",
+        "prompt": "Fantasy art Weretiger beast human humanoid werecreature in the style of Greg Rutkowski",
+        "timestamp": 1696160110388,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
