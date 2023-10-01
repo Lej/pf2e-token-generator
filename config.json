@@ -28069,5 +28069,14 @@
         "timestamp": 1696160111535,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wqnc9i6hDS9FP8IO": {
+        "id": "wqnc9i6hDS9FP8IO",
+        "compendium": "blood-lords-bestiary",
+        "name": "Agorron Guard",
+        "prompt": "Fantasy art Agorron Guard giant humanoid Tomb giant defender rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111535,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
