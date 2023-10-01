@@ -23110,5 +23110,14 @@
         "timestamp": 1696160110391,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BNizhfieKEditLGb": {
+        "id": "BNizhfieKEditLGb",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Petitioner (Plane of Fire)",
+        "prompt": "Fantasy art Petitioner Plane of Fire fire petitioner in the style of Greg Rutkowski",
+        "timestamp": 1696160110391,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
