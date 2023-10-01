@@ -21148,5 +21148,14 @@
         "timestamp": 1696160110256,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "sQZDwS08l6Agsryq": {
+        "id": "sQZDwS08l6Agsryq",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Barushak Il-Varashma",
+        "prompt": "Fantasy art Barushak Il-Varashma human humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110257,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
