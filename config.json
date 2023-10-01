@@ -29824,5 +29824,14 @@
         "timestamp": 1696160111664,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1cpG2DuXPXq3DMBx": {
+        "id": "1cpG2DuXPXq3DMBx",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Jabali Shuyookh",
+        "prompt": "Fantasy art Jabali Shuyookh earth elemental genie in the style of Greg Rutkowski",
+        "timestamp": 1696160111664,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
