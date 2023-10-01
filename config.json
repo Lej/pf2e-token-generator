@@ -26665,5 +26665,14 @@
         "timestamp": 1696160111192,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Zff7C8x4VzB7ZOiZ": {
+        "id": "Zff7C8x4VzB7ZOiZ",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Hermit Rat",
+        "prompt": "Fantasy art Hermit Rat animal in the style of Greg Rutkowski",
+        "timestamp": 1696160111192,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
