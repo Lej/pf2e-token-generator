@@ -32893,5 +32893,14 @@
         "timestamp": 1696160111792,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "P604YfY14wo4Uu56": {
+        "id": "P604YfY14wo4Uu56",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Hala The Rod",
+        "prompt": "Fantasy art Hala The Rod fey Female norn rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111793,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
