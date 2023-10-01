@@ -25495,5 +25495,14 @@
         "timestamp": 1696160110485,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IacftcXDDMBNcKbY": {
+        "id": "IacftcXDDMBNcKbY",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Nemmia Bramblecloak",
+        "prompt": "Fantasy art Nemmia Bramblecloak halfling humanoid Female halfling zealot in the style of Greg Rutkowski",
+        "timestamp": 1696160110485,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
