@@ -26791,5 +26791,14 @@
         "timestamp": 1696160111196,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yDcmp9DpXU1gLrop": {
+        "id": "yDcmp9DpXU1gLrop",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Azlanti Thief",
+        "prompt": "Fantasy art Azlanti Thief human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111196,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
