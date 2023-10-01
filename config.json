@@ -29050,5 +29050,14 @@
         "timestamp": 1696160111577,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OC9ttUM3xalAJWSM": {
+        "id": "OC9ttUM3xalAJWSM",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Damibwa",
+        "prompt": "Fantasy art Damibwa animal in the style of Greg Rutkowski",
+        "timestamp": 1696160111577,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
