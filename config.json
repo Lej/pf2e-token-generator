@@ -32848,5 +32848,14 @@
         "timestamp": 1696160111788,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2crt0oeOnu3G3Nhw": {
+        "id": "2crt0oeOnu3G3Nhw",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Demongate Colossus",
+        "prompt": "Fantasy art Demongate Colossus construct Variant radiant warden in the style of Greg Rutkowski",
+        "timestamp": 1696160111789,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
