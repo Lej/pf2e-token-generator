@@ -28060,5 +28060,14 @@
         "timestamp": 1696160111534,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GVIv3WxwbwztNmvD": {
+        "id": "GVIv3WxwbwztNmvD",
+        "compendium": "blood-lords-bestiary",
+        "name": "Teaching Assistant",
+        "prompt": "Fantasy art Teaching Assistant human humanoid Human aspiring necromancers in the style of Greg Rutkowski",
+        "timestamp": 1696160111535,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
