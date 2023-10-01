@@ -29860,5 +29860,14 @@
         "timestamp": 1696160111665,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GdXjhFu8Afg24fM9": {
+        "id": "GdXjhFu8Afg24fM9",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Elder Outcrop",
+        "prompt": "Fantasy art Elder Outcrop earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160111666,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
