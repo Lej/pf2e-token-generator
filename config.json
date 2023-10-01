@@ -22291,5 +22291,14 @@
         "timestamp": 1696160110362,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6ic6oNCpWjkVAsIN": {
+        "id": "6ic6oNCpWjkVAsIN",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Ember Fox",
+        "prompt": "Fantasy art Ember Fox elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1696160110362,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
