@@ -27241,5 +27241,14 @@
         "timestamp": 1696160111491,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IeAy6hvDcnU1pCZr": {
+        "id": "IeAy6hvDcnU1pCZr",
+        "compendium": "blood-lords-bestiary",
+        "name": "Guloval",
+        "prompt": "Fantasy art Guloval agathion celestial in the style of Greg Rutkowski",
+        "timestamp": 1696160111492,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
