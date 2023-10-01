@@ -22768,5 +22768,14 @@
         "timestamp": 1696160110378,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3MDlKPlPhHBo1DId": {
+        "id": "3MDlKPlPhHBo1DId",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Vampire Squid",
+        "prompt": "Fantasy art Vampire Squid animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1696160110378,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
