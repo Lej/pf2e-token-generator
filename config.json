@@ -31417,5 +31417,14 @@
         "timestamp": 1696160111727,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jMxFlkAbepA47sHb": {
+        "id": "jMxFlkAbepA47sHb",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Scalding Mephit",
+        "prompt": "Fantasy art Scalding Mephit elemental fire water Variant steam mephit in the style of Greg Rutkowski",
+        "timestamp": 1696160111728,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
