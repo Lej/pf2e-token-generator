@@ -31579,5 +31579,14 @@
         "timestamp": 1696160111734,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "phgXSggQiGRNn4Yr": {
+        "id": "phgXSggQiGRNn4Yr",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Ninth Army Bodyguard",
+        "prompt": "Fantasy art Ninth Army Bodyguard human humanoid Variant bodyguard in the style of Greg Rutkowski",
+        "timestamp": 1696160111734,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
