@@ -29662,5 +29662,14 @@
         "timestamp": 1696160111657,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ziy3L849K2Fayesa": {
+        "id": "Ziy3L849K2Fayesa",
+        "compendium": "the-enmity-cycle-bestiary",
+        "name": "Noolik",
+        "prompt": "Fantasy art Noolik fey gremlin Jinkin leader in the style of Greg Rutkowski",
+        "timestamp": 1696160111658,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
