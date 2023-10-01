@@ -24739,5 +24739,14 @@
         "timestamp": 1696160110449,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fwjDIGzmuEJN81Qq": {
+        "id": "fwjDIGzmuEJN81Qq",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Trollhound",
+        "prompt": "Fantasy art Trollhound beast troll in the style of Greg Rutkowski",
+        "timestamp": 1696160110449,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
