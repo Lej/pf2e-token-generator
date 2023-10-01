@@ -23677,5 +23677,14 @@
         "timestamp": 1696160110411,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "r3yLNfqS00g8sdrT": {
+        "id": "r3yLNfqS00g8sdrT",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Duneshaker Solifugid",
+        "prompt": "Fantasy art Duneshaker Solifugid animal in the style of Greg Rutkowski",
+        "timestamp": 1696160110411,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
