@@ -20914,5 +20914,14 @@
         "timestamp": 1696160110244,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "4vEQ8zRXC51Qo4Mv": {
+        "id": "4vEQ8zRXC51Qo4Mv",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Bloody Blade Mercenary",
+        "prompt": "Fantasy art Bloody Blade Mercenary half-orc human humanoid orc Human half-orc ranger 1 in the style of Greg Rutkowski",
+        "timestamp": 1696160110245,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
