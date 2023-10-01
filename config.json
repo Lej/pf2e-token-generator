@@ -23983,5 +23983,14 @@
         "timestamp": 1696160110421,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cKu0rrZtEAFCosej": {
+        "id": "cKu0rrZtEAFCosej",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Void Zombie",
+        "prompt": "Fantasy art Void Zombie undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110421,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
