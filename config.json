@@ -32011,5 +32011,14 @@
         "timestamp": 1696160111746,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Hez7S4Mhvi816fHi": {
+        "id": "Hez7S4Mhvi816fHi",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Unstable Skeletal Champion",
+        "prompt": "Fantasy art Unstable Skeletal Champion skeleton undead Variant skeletal champion in the style of Greg Rutkowski",
+        "timestamp": 1696160111747,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
