@@ -30184,5 +30184,14 @@
         "timestamp": 1696160111675,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "6CYo7vuxoroSqKzr": {
+        "id": "6CYo7vuxoroSqKzr",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Zephyr, The West Wind",
+        "prompt": "Fantasy art Zephyr, The West Wind air elemental in the style of Greg Rutkowski",
+        "timestamp": 1696160111676,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
