@@ -24955,5 +24955,14 @@
         "timestamp": 1696160110457,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5FGuXfg6Ub2hCBG7": {
+        "id": "5FGuXfg6Ub2hCBG7",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Yellow Musk Creeper",
+        "prompt": "Fantasy art Yellow Musk Creeper mindless plant in the style of Greg Rutkowski",
+        "timestamp": 1696160110457,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
