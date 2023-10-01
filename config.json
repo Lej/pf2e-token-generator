@@ -27745,5 +27745,14 @@
         "timestamp": 1696160111520,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1KDrm9ErOHyMsDUP": {
+        "id": "1KDrm9ErOHyMsDUP",
+        "compendium": "blood-lords-bestiary",
+        "name": "Straugh",
+        "prompt": "Fantasy art Straugh ghoul undead in the style of Greg Rutkowski",
+        "timestamp": 1696160111521,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
