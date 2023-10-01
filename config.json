@@ -30517,5 +30517,14 @@
         "timestamp": 1696160111690,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wt9kH6AwMRuSeGBV": {
+        "id": "wt9kH6AwMRuSeGBV",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Vhisa Resgrido",
+        "prompt": "Fantasy art Vhisa Resgrido human humanoid elf half-elf Female half-elf elite charlatan in the style of Greg Rutkowski",
+        "timestamp": 1696160111690,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
