@@ -20554,5 +20554,14 @@
         "timestamp": 1696160110133,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mngmrx4PtFoFMp5I": {
+        "id": "mngmrx4PtFoFMp5I",
+        "compendium": "blog-bestiary",
+        "name": "Urok",
+        "prompt": "Fantasy art Urok aphorite humanoid kobold Male aphorite kobold infiltrator in the style of Greg Rutkowski",
+        "timestamp": 1696160110133,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
