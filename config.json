@@ -24442,5 +24442,14 @@
         "timestamp": 1696160110438,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DYBZniwR1Ip4inVr": {
+        "id": "DYBZniwR1Ip4inVr",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Morlock",
+        "prompt": "Fantasy art Morlock humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110438,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
