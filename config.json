@@ -26260,5 +26260,14 @@
         "timestamp": 1696160110519,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "88VcnxbKPF2QkPiF": {
+        "id": "88VcnxbKPF2QkPiF",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Bitter Truth Bandit",
+        "prompt": "Fantasy art Bitter Truth Bandit human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110519,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
