@@ -21373,5 +21373,14 @@
         "timestamp": 1696160110267,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "C4PD4p4I9byZ8yp6": {
+        "id": "C4PD4p4I9byZ8yp6",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "King Harral",
+        "prompt": "Fantasy art King Harral undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110268,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
