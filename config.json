@@ -24091,5 +24091,14 @@
         "timestamp": 1696160110425,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "SKooDsYDMEloMG16": {
+        "id": "SKooDsYDMEloMG16",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Giant Jellyfish",
+        "prompt": "Fantasy art Giant Jellyfish animal aquatic mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160110425,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
