@@ -32560,5 +32560,14 @@
         "timestamp": 1696160111765,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EB00f6ADElWInuix": {
+        "id": "EB00f6ADElWInuix",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Shobhad Hunter (7-8)",
+        "prompt": "Fantasy art Shobhad Hunter humanoid shobhad in the style of Greg Rutkowski",
+        "timestamp": 1696160111765,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
