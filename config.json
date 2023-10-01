@@ -29275,5 +29275,14 @@
         "timestamp": 1696160111589,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ST4oQnNs5ePZIrZc": {
+        "id": "ST4oQnNs5ePZIrZc",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Contemplative",
+        "prompt": "Fantasy art Contemplative aberration in the style of Greg Rutkowski",
+        "timestamp": 1696160111589,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
