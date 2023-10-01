@@ -24163,5 +24163,14 @@
         "timestamp": 1696160110427,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6ZLs4H4gjVyb3yV7": {
+        "id": "6ZLs4H4gjVyb3yV7",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Petitioner (Elysium)",
+        "prompt": "Fantasy art Petitioner Elysium petitioner in the style of Greg Rutkowski",
+        "timestamp": 1696160110427,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
