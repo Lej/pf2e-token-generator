@@ -29059,5 +29059,14 @@
         "timestamp": 1696160111577,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0Gnj7jlSf4WLY0lA": {
+        "id": "0Gnj7jlSf4WLY0lA",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Anadi Fateweaver",
+        "prompt": "Fantasy art Anadi Fateweaver anadi humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111578,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
