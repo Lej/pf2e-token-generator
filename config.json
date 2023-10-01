@@ -25810,5 +25810,14 @@
         "timestamp": 1696160110501,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "f6uVOvKEkojOf9Ab": {
+        "id": "f6uVOvKEkojOf9Ab",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Swardlands Delinquent",
+        "prompt": "Fantasy art Swardlands Delinquent human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110501,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
