@@ -28483,5 +28483,14 @@
         "timestamp": 1696160111553,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MtaFBwBwpvoTC1PH": {
+        "id": "MtaFBwBwpvoTC1PH",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Formian Worker",
+        "prompt": "Fantasy art Formian Worker formian in the style of Greg Rutkowski",
+        "timestamp": 1696160111553,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
