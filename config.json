@@ -21211,5 +21211,14 @@
         "timestamp": 1696160110259,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qouYGPM8mE4KUCTe": {
+        "id": "qouYGPM8mE4KUCTe",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Rusty Mae",
+        "prompt": "Fantasy art Rusty Mae hag humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110260,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
