@@ -32335,5 +32335,14 @@
         "timestamp": 1696160111757,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wLM38nmdIITxkr4k": {
+        "id": "wLM38nmdIITxkr4k",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Elite Green Hag (PFS 3-99)",
+        "prompt": "Fantasy art Elite Green Hag hag humanoid Variant green hag rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111758,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
