@@ -28231,5 +28231,14 @@
         "timestamp": 1696160111541,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3vLu5145ORD6vcCJ": {
+        "id": "3vLu5145ORD6vcCJ",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Gold Defender",
+        "prompt": "Fantasy art Gold Defender construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111541,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
