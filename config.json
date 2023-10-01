@@ -25891,5 +25891,14 @@
         "timestamp": 1696160110504,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2bu9oGbB7UUTq2sR": {
+        "id": "2bu9oGbB7UUTq2sR",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Kirosthrek",
+        "prompt": "Fantasy art Kirosthrek humanoid xulgath Female xulgath loremaster rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110506,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
