@@ -20959,5 +20959,14 @@
         "timestamp": 1696160110246,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mYJ6NNthl702Pz2s": {
+        "id": "mYJ6NNthl702Pz2s",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Scarlet Triad Agent",
+        "prompt": "Fantasy art Scarlet Triad Agent human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110247,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
