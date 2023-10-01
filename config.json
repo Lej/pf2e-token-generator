@@ -32551,5 +32551,14 @@
         "timestamp": 1696160111764,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "hEh3j8Fz8lbjuiRF": {
+        "id": "hEh3j8Fz8lbjuiRF",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Aspis Recruit",
+        "prompt": "Fantasy art Aspis Recruit human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111765,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
