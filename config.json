@@ -20806,5 +20806,14 @@
         "timestamp": 1696160110142,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lTVgdXuSv2B0yVVW": {
+        "id": "lTVgdXuSv2B0yVVW",
+        "compendium": "troubles-in-otari-bestiary",
+        "name": "Morgrym Leadbuster",
+        "prompt": "Fantasy art Morgrym Leadbuster dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110143,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
