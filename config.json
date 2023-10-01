@@ -31759,5 +31759,14 @@
         "timestamp": 1696160111739,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hqFuN3UINx7ChbqS": {
+        "id": "hqFuN3UINx7ChbqS",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Aspis Striker",
+        "prompt": "Fantasy art Aspis Striker human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111739,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
