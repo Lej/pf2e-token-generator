@@ -26710,5 +26710,14 @@
         "timestamp": 1696160111193,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sEUngbUxAOr8YwHh": {
+        "id": "sEUngbUxAOr8YwHh",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Azlanti Novice Sorcerer",
+        "prompt": "Fantasy art Azlanti Novice Sorcerer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111194,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
