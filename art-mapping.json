@@ -11809,6 +11809,10 @@
         "Oefb1ZCYp2DolpZr": {
             "actor": "modules/pf2e-ai-token-placeholders/images/travel-guide-bestiary/Oefb1ZCYp2DolpZr/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/travel-guide-bestiary/Oefb1ZCYp2DolpZr/token.webp"
+        },
+        "mpT2AbFjoyDBDN5l": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/travel-guide-bestiary/mpT2AbFjoyDBDN5l/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/travel-guide-bestiary/mpT2AbFjoyDBDN5l/token.webp"
         }
     }
 }

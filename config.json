@@ -26449,5 +26449,14 @@
         "timestamp": 1696160110527,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mpT2AbFjoyDBDN5l": {
+        "id": "mpT2AbFjoyDBDN5l",
+        "compendium": "travel-guide-bestiary",
+        "name": "Baccali Alpaca",
+        "prompt": "Fantasy art Baccali Alpaca animal Variant riding pony in the style of Greg Rutkowski",
+        "timestamp": 1696160110528,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
