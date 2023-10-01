@@ -32371,5 +32371,14 @@
         "timestamp": 1696160111759,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "55uIx8vScaf8JeTY": {
+        "id": "55uIx8vScaf8JeTY",
+        "compendium": "pfs-season-3-bestiary",
+        "name": "Junior (3-4)",
+        "prompt": "Fantasy art Junior clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696160111759,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
