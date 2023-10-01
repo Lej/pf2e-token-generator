@@ -22732,5 +22732,14 @@
         "timestamp": 1696160110376,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qjAtPDIi7OyUGsNy": {
+        "id": "qjAtPDIi7OyUGsNy",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Bythos",
+        "prompt": "Fantasy art Bythos aeon monitor rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160110376,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
