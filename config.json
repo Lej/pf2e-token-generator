@@ -25126,5 +25126,14 @@
         "timestamp": 1696160110463,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tZkiE8hnN5e9KIzi": {
+        "id": "tZkiE8hnN5e9KIzi",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Stygira",
+        "prompt": "Fantasy art Stygira earth fey in the style of Greg Rutkowski",
+        "timestamp": 1696160110463,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
