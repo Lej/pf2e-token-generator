@@ -29239,5 +29239,14 @@
         "timestamp": 1696160111586,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "NJclJai0QoEiR8wC": {
+        "id": "NJclJai0QoEiR8wC",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Iobane Magus",
+        "prompt": "Fantasy art Iobane Magus human humanoid Human magus in the style of Greg Rutkowski",
+        "timestamp": 1696160111587,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
