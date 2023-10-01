@@ -29500,5 +29500,14 @@
         "timestamp": 1696160111646,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "7jALXqInrmh428DW": {
+        "id": "7jALXqInrmh428DW",
+        "compendium": "night-of-the-gray-death-bestiary",
+        "name": "Gray Gardener Assassin",
+        "prompt": "Fantasy art Gray Gardener Assassin human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111647,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
