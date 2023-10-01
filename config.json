@@ -21796,5 +21796,14 @@
         "timestamp": 1696160110331,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "X6TTBlHIfJZ43OqR": {
+        "id": "X6TTBlHIfJZ43OqR",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Dragonshard Guardian",
+        "prompt": "Fantasy art Dragonshard Guardian construct in the style of Greg Rutkowski",
+        "timestamp": 1696160110331,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
