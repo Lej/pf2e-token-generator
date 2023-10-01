@@ -32812,5 +32812,14 @@
         "timestamp": 1696160111786,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zw2JQhb4cHkDk2zb": {
+        "id": "zw2JQhb4cHkDk2zb",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Blood-Pear Tree",
+        "prompt": "Fantasy art Blood-Pear Tree undead Variant corpseroot in the style of Greg Rutkowski",
+        "timestamp": 1696160111786,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
