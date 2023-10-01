@@ -33172,5 +33172,14 @@
         "timestamp": 1696160111812,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QiRja8LrBQUwh6St": {
+        "id": "QiRja8LrBQUwh6St",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Sickened Doprillu",
+        "prompt": "Fantasy art Sickened Doprillu aberration Variant doprillu in the style of Greg Rutkowski",
+        "timestamp": 1696160111813,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
