@@ -29401,5 +29401,14 @@
         "timestamp": 1696160111599,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gegq5VUU7oBwwoWA": {
+        "id": "gegq5VUU7oBwwoWA",
+        "compendium": "strength-of-thousands-bestiary",
+        "name": "Crimson Acolyte",
+        "prompt": "Fantasy art Crimson Acolyte human humanoid Human devotee in the style of Greg Rutkowski",
+        "timestamp": 1696160111599,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
