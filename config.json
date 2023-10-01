@@ -29734,5 +29734,14 @@
         "timestamp": 1696160111660,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "uo8oScVY4NLRCuo2": {
+        "id": "uo8oScVY4NLRCuo2",
+        "compendium": "the-enmity-cycle-bestiary",
+        "name": "Amar",
+        "prompt": "Fantasy art Amar human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160111660,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
