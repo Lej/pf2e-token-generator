@@ -30157,5 +30157,14 @@
         "timestamp": 1696160111674,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3ItvROg0JbYKUGRu": {
+        "id": "3ItvROg0JbYKUGRu",
+        "compendium": "rage-of-elements-bestiary",
+        "name": "Brochmaw",
+        "prompt": "Fantasy art Brochmaw elemental fire in the style of Greg Rutkowski",
+        "timestamp": 1696160111674,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
