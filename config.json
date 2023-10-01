@@ -26548,5 +26548,14 @@
         "timestamp": 1696160110680,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UAlHSl6Cpujld1dx": {
+        "id": "UAlHSl6Cpujld1dx",
+        "compendium": "kingmaker-bestiary",
+        "name": "Logger",
+        "prompt": "Fantasy art Logger human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110691,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
