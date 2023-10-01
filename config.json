@@ -25864,5 +25864,14 @@
         "timestamp": 1696160110503,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "otSfn7djr37Bdejj": {
+        "id": "otSfn7djr37Bdejj",
+        "compendium": "extinction-curse-bestiary",
+        "name": "Arskuva the Gnasher",
+        "prompt": "Fantasy art Arskuva the Gnasher minion undead in the style of Greg Rutkowski",
+        "timestamp": 1696160110503,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
