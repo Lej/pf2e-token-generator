@@ -27772,5 +27772,14 @@
         "timestamp": 1696160111521,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8I2hoMYo2hXVYZZ0": {
+        "id": "8I2hoMYo2hXVYZZ0",
+        "compendium": "blood-lords-bestiary",
+        "name": "Nydazuul",
+        "prompt": "Fantasy art Nydazuul fiend qlippoth Variant augnagar in the style of Greg Rutkowski",
+        "timestamp": 1696160111521,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
