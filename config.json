@@ -33073,5 +33073,14 @@
         "timestamp": 1696160111806,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "590fsfQ1S0dF1C3Z": {
+        "id": "590fsfQ1S0dF1C3Z",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Kannijo",
+        "prompt": "Fantasy art Kannijo undead vampire Male spirit naga jiangi\u2011shi vampire rituals in the style of Greg Rutkowski",
+        "timestamp": 1696160111807,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
