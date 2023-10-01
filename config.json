@@ -24667,5 +24667,14 @@
         "timestamp": 1696160110447,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "T3low0wQNMO0SEtr": {
+        "id": "T3low0wQNMO0SEtr",
+        "compendium": "pathfinder-bestiary-2",
+        "name": "Leucrotta",
+        "prompt": "Fantasy art Leucrotta beast in the style of Greg Rutkowski",
+        "timestamp": 1696160110447,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
