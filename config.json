@@ -32794,5 +32794,14 @@
         "timestamp": 1696160111785,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "pLbDF5JJoF93vgwL": {
+        "id": "pLbDF5JJoF93vgwL",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Blade Mercenary",
+        "prompt": "Fantasy art Blade Mercenary human humanoid Human mercenary in the style of Greg Rutkowski",
+        "timestamp": 1696160111785,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
