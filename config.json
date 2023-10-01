@@ -21436,5 +21436,14 @@
         "timestamp": 1696160110271,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XHJC4G6bfPiVXGKE": {
+        "id": "XHJC4G6bfPiVXGKE",
+        "compendium": "age-of-ashes-bestiary",
+        "name": "Ilssrah Embermead",
+        "prompt": "Fantasy art Ilssrah Embermead dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696160110273,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
