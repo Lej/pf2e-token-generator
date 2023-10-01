@@ -30562,5 +30562,14 @@
         "timestamp": 1696160111691,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SbJe7zmuevvBFhad": {
+        "id": "SbJe7zmuevvBFhad",
+        "compendium": "gatewalkers-bestiary",
+        "name": "Abyssal Muckrager",
+        "prompt": "Fantasy art Abyssal Muckrager earth elemental earthen destrier in the style of Greg Rutkowski",
+        "timestamp": 1696160111692,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
