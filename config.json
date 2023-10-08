@@ -36979,5 +36979,14 @@
         "timestamp": 1696785966106,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OqE7v9KwZNEO3zHp": {
+        "id": "OqE7v9KwZNEO3zHp",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Fan Hongrui",
+        "prompt": "Fantasy art Fan Hongrui undead Variant female red-hooded thatchling in the style of Greg Rutkowski",
+        "timestamp": 1696785966107,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
