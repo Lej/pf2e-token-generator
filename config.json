@@ -35224,5 +35224,14 @@
         "timestamp": 1696785965258,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "65LJVPu9DFkF0YNX": {
+        "id": "65LJVPu9DFkF0YNX",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Arms of Balance (Usvani)",
+        "prompt": "Fantasy art Arms of Balance Usvani human humanoid Male vanara monk in the style of Greg Rutkowski",
+        "timestamp": 1696785965259,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
