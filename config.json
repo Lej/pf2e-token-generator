@@ -34459,5 +34459,14 @@
         "timestamp": 1696785965223,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "haUIlixea4iwy0GZ": {
+        "id": "haUIlixea4iwy0GZ",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Ki Adept (Ahmoza Twins)",
+        "prompt": "Fantasy art Ki Adept Ahmoza Twins human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965224,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
