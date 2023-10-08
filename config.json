@@ -35395,5 +35395,14 @@
         "timestamp": 1696785965267,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hkGMvgL9IOZcAKyc": {
+        "id": "hkGMvgL9IOZcAKyc",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Hana's Hundreds",
+        "prompt": "Fantasy art Hana's Hundreds human humanoid troop in the style of Greg Rutkowski",
+        "timestamp": 1696785965267,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
