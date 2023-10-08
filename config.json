@@ -36565,5 +36565,14 @@
         "timestamp": 1696785965379,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1xGAktpj6N2Ugh0r": {
+        "id": "1xGAktpj6N2Ugh0r",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Shatterling",
+        "prompt": "Fantasy art Shatterling fey in the style of Greg Rutkowski",
+        "timestamp": 1696785965379,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
