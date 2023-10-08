@@ -37042,5 +37042,14 @@
         "timestamp": 1696785966109,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zhw2TOrXkWyvle5S": {
+        "id": "zhw2TOrXkWyvle5S",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Noppera-bo Occultist",
+        "prompt": "Fantasy art Noppera-bo Occultist aberration in the style of Greg Rutkowski",
+        "timestamp": 1696785966109,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
