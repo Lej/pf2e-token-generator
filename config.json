@@ -35917,5 +35917,14 @@
         "timestamp": 1696785965345,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "SgkV5RtcK72d0HwI": {
+        "id": "SgkV5RtcK72d0HwI",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Excorion",
+        "prompt": "Fantasy art Excorion undead in the style of Greg Rutkowski",
+        "timestamp": 1696785965345,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
