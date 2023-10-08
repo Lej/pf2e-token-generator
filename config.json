@@ -34189,5 +34189,14 @@
         "timestamp": 1696785964677,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "VA2L044R2WXupQl4": {
+        "id": "VA2L044R2WXupQl4",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Graylok Ambusher",
+        "prompt": "Fantasy art Graylok Ambusher cold giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785964678,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
