@@ -33829,5 +33829,14 @@
         "timestamp": 1696785964658,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nwbgz8PNXaHPU5tg": {
+        "id": "nwbgz8PNXaHPU5tg",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Venexus's Wyrmling",
+        "prompt": "Fantasy art Venexus's Wyrmling cold dragon in the style of Greg Rutkowski",
+        "timestamp": 1696785964658,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
