@@ -33271,5 +33271,14 @@
         "timestamp": 1696785964064,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "meKJ9hL6pDye46XR": {
+        "id": "meKJ9hL6pDye46XR",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Raised Draugr",
+        "prompt": "Fantasy art Raised Draugr undead water Variant draugr in the style of Greg Rutkowski",
+        "timestamp": 1696785964064,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
