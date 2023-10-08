@@ -34513,5 +34513,14 @@
         "timestamp": 1696785965226,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Ezm1FlUk4JXeqPlC": {
+        "id": "Ezm1FlUk4JXeqPlC",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Rai Sho Disciple",
+        "prompt": "Fantasy art Rai Sho Disciple human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965226,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
