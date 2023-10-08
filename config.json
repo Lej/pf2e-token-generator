@@ -34801,5 +34801,14 @@
         "timestamp": 1696785965242,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "snrGRRYXD8mUG4Y1": {
+        "id": "snrGRRYXD8mUG4Y1",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Golarion's Finest (Krankkiss)",
+        "prompt": "Fantasy art Golarion's Finest Krankkiss human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965242,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
