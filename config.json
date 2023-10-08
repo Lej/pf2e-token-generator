@@ -35458,5 +35458,14 @@
         "timestamp": 1696785965270,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AYQEkPFyTuGlxNg3": {
+        "id": "AYQEkPFyTuGlxNg3",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Mage of Many Styles",
+        "prompt": "Fantasy art Mage of Many Styles human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965271,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
