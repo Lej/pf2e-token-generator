@@ -35674,5 +35674,14 @@
         "timestamp": 1696785965333,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Z6R8YjgX8Jvt9Ds4": {
+        "id": "Z6R8YjgX8Jvt9Ds4",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Avsheros the Betrayer",
+        "prompt": "Fantasy art Avsheros the Betrayer angel celestial in the style of Greg Rutkowski",
+        "timestamp": 1696785965333,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
