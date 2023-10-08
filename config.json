@@ -33415,5 +33415,14 @@
         "timestamp": 1696785964328,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "26mSMWZwuYBRDhBM": {
+        "id": "26mSMWZwuYBRDhBM",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Crystalline Sentinel",
+        "prompt": "Fantasy art Crystalline Sentinel earth elemental Variant xorn in the style of Greg Rutkowski",
+        "timestamp": 1696785964331,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
