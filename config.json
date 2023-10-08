@@ -35827,5 +35827,14 @@
         "timestamp": 1696785965341,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eQc0ADMuHl1JzL8z": {
+        "id": "eQc0ADMuHl1JzL8z",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Shredskin",
+        "prompt": "Fantasy art Shredskin undead in the style of Greg Rutkowski",
+        "timestamp": 1696785965341,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
