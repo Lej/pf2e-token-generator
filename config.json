@@ -34504,5 +34504,14 @@
         "timestamp": 1696785965225,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VGJF0jWWnA4ljfZE": {
+        "id": "VGJF0jWWnA4ljfZE",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Melodic Squall",
+        "prompt": "Fantasy art Melodic Squall air elemental Variant melody on the wind in the style of Greg Rutkowski",
+        "timestamp": 1696785965226,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
