@@ -36835,5 +36835,14 @@
         "timestamp": 1696785965391,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "lzmGdArS3kjJOqT6": {
+        "id": "lzmGdArS3kjJOqT6",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Lyrma Swampwalker",
+        "prompt": "Fantasy art Lyrma Swampwalker gnome humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965391,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
