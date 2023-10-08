@@ -34666,5 +34666,14 @@
         "timestamp": 1696785965233,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yNqeqEULKA536K4r": {
+        "id": "yNqeqEULKA536K4r",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Anugobu Wondercrafter",
+        "prompt": "Fantasy art Anugobu Wondercrafter anugobu humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965233,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
