@@ -33811,5 +33811,14 @@
         "timestamp": 1696785964656,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hNHljzF0xpUBKiA9": {
+        "id": "hNHljzF0xpUBKiA9",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Jesseri The Hailstorm",
+        "prompt": "Fantasy art Jesseri The Hailstorm human humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1696785964657,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
