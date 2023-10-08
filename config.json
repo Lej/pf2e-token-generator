@@ -34324,5 +34324,14 @@
         "timestamp": 1696785964685,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UFKiRCIj9ETec46r": {
+        "id": "UFKiRCIj9ETec46r",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Beaver",
+        "prompt": "Fantasy art Beaver animal in the style of Greg Rutkowski",
+        "timestamp": 1696785964685,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
