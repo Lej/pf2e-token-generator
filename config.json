@@ -35044,5 +35044,14 @@
         "timestamp": 1696785965251,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "FwIJpQn1FIpGgvIY": {
+        "id": "FwIJpQn1FIpGgvIY",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Artus Rodrivan",
+        "prompt": "Fantasy art Artus Rodrivan elf human humanoid Male half-elf soul archer in the style of Greg Rutkowski",
+        "timestamp": 1696785965251,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
