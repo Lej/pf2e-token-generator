@@ -35809,5 +35809,14 @@
         "timestamp": 1696785965340,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yR6p0KVvZ3tPflRt": {
+        "id": "yR6p0KVvZ3tPflRt",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Kemeneles",
+        "prompt": "Fantasy art Kemeneles human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965340,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
