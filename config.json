@@ -33235,5 +33235,14 @@
         "timestamp": 1696785964062,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qqBaCxN4Epxe1rnF": {
+        "id": "qqBaCxN4Epxe1rnF",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Weak Shadow Draugr",
+        "prompt": "Fantasy art Weak Shadow Draugr undead water Variant draugr in the style of Greg Rutkowski",
+        "timestamp": 1696785964062,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
