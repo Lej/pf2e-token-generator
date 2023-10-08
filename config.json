@@ -35431,5 +35431,14 @@
         "timestamp": 1696785965269,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "VEnxFwTAhyO03Yse": {
+        "id": "VEnxFwTAhyO03Yse",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Inmyeonjo",
+        "prompt": "Fantasy art Inmyeonjo air beast in the style of Greg Rutkowski",
+        "timestamp": 1696785965270,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
