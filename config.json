@@ -35521,5 +35521,14 @@
         "timestamp": 1696785965275,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "FWfKJ7e8UgbBXTkU": {
+        "id": "FWfKJ7e8UgbBXTkU",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Weapon Master (Under the Pale Sun Dervishes)",
+        "prompt": "Fantasy art Weapon Master Under the Pale Sun Dervishes human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965276,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
