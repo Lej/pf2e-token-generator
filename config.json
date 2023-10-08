@@ -34009,5 +34009,14 @@
         "timestamp": 1696785964665,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "UGB689LLMK5Vi0Nc": {
+        "id": "UGB689LLMK5Vi0Nc",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Ivarsa",
+        "prompt": "Fantasy art Ivarsa human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785964667,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
