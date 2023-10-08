@@ -35296,5 +35296,14 @@
         "timestamp": 1696785965263,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YVP3pM7jxY9Gyouy": {
+        "id": "YVP3pM7jxY9Gyouy",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Caustic Monitor",
+        "prompt": "Fantasy art Caustic Monitor animal in the style of Greg Rutkowski",
+        "timestamp": 1696785965263,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
