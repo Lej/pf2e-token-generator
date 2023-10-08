@@ -35323,5 +35323,14 @@
         "timestamp": 1696785965264,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IGEht7ysUSZndtgp": {
+        "id": "IGEht7ysUSZndtgp",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Old Man Statue",
+        "prompt": "Fantasy art Old Man Statue construct divine mindless Divine warden of Irori in the style of Greg Rutkowski",
+        "timestamp": 1696785965264,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
