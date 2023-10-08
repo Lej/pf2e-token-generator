@@ -34639,5 +34639,14 @@
         "timestamp": 1696785965231,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vf59nmtYaF0se9Ui": {
+        "id": "vf59nmtYaF0se9Ui",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Dancing Night Parade",
+        "prompt": "Fantasy art Dancing Night Parade troop spirit in the style of Greg Rutkowski",
+        "timestamp": 1696785965231,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
