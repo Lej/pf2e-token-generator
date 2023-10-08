@@ -34099,5 +34099,14 @@
         "timestamp": 1696785964672,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3uWNAMSPf0y2Bx0g": {
+        "id": "3uWNAMSPf0y2Bx0g",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Skeletal Woolly Rhinoceros",
+        "prompt": "Fantasy art Skeletal Woolly Rhinoceros mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1696785964672,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
