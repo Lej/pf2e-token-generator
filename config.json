@@ -34072,5 +34072,14 @@
         "timestamp": 1696785964671,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "LL3XklJHogUKWDfh": {
+        "id": "LL3XklJHogUKWDfh",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Bargott",
+        "prompt": "Fantasy art Bargott fey nymph plant Male dryad husk in the style of Greg Rutkowski",
+        "timestamp": 1696785964671,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
