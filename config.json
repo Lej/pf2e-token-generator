@@ -33280,5 +33280,14 @@
         "timestamp": 1696785964064,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "99jIe6Kvy9kEDdde": {
+        "id": "99jIe6Kvy9kEDdde",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Germinated Mandragora",
+        "prompt": "Fantasy art Germinated Mandragora plant in the style of Greg Rutkowski",
+        "timestamp": 1696785964064,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
