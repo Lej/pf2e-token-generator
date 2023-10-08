@@ -36268,5 +36268,14 @@
         "timestamp": 1696785965366,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9vt9Dr2a8MkkD83z": {
+        "id": "9vt9Dr2a8MkkD83z",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Chalky",
+        "prompt": "Fantasy art Chalky alchemical construct golem mindless in the style of Greg Rutkowski",
+        "timestamp": 1696785965366,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
