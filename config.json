@@ -33622,5 +33622,14 @@
         "timestamp": 1696785964357,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eC0O1nNWMjWydbPG": {
+        "id": "eC0O1nNWMjWydbPG",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Obcisidaemon",
+        "prompt": "Fantasy art Obcisidaemon daemon fiend in the style of Greg Rutkowski",
+        "timestamp": 1696785964358,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
