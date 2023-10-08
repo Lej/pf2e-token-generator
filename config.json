@@ -33505,5 +33505,14 @@
         "timestamp": 1696785964339,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "a5B1GrGkM97l20Wk": {
+        "id": "a5B1GrGkM97l20Wk",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Torgral",
+        "prompt": "Fantasy art Torgral demon fiend Male ghalzarokh in the style of Greg Rutkowski",
+        "timestamp": 1696785964340,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
