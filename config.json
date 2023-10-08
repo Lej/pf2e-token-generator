@@ -35539,5 +35539,14 @@
         "timestamp": 1696785965276,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Twt8z6nTPgYQ0mTv": {
+        "id": "Twt8z6nTPgYQ0mTv",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Berberoka",
+        "prompt": "Fantasy art Berberoka giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965276,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
