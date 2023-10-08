@@ -33406,5 +33406,14 @@
         "timestamp": 1696785964073,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eF3ndkXtyeMHpzZb": {
+        "id": "eF3ndkXtyeMHpzZb",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Bhanyada Behemoth",
+        "prompt": "Fantasy art Bhanyada Behemoth aberration in the style of Greg Rutkowski",
+        "timestamp": 1696785964328,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
