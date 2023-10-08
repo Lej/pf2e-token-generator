@@ -36907,5 +36907,14 @@
         "timestamp": 1696785966103,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "52dTAJPXCnE48a5a": {
+        "id": "52dTAJPXCnE48a5a",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Noppera-bo Grunt",
+        "prompt": "Fantasy art Noppera-bo Grunt aberration in the style of Greg Rutkowski",
+        "timestamp": 1696785966103,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
