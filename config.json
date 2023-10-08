@@ -36097,5 +36097,14 @@
         "timestamp": 1696785965356,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GYhV5eYNDO1Llbv2": {
+        "id": "GYhV5eYNDO1Llbv2",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Venom Mage",
+        "prompt": "Fantasy art Venom Mage human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965357,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
