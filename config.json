@@ -33973,5 +33973,14 @@
         "timestamp": 1696785964663,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "o5apaaqJlL7A48N8": {
+        "id": "o5apaaqJlL7A48N8",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Long-horned Bison Beheaded",
+        "prompt": "Fantasy art Long-horned Bison Beheaded mindless undead in the style of Greg Rutkowski",
+        "timestamp": 1696785964663,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
