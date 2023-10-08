@@ -37105,5 +37105,14 @@
         "timestamp": 1696785966368,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fRiOPTsfqJBiwUwh": {
+        "id": "fRiOPTsfqJBiwUwh",
+        "compendium": "rusthenge-bestiary",
+        "name": "Vloriak",
+        "prompt": "Fantasy art Vloriak demon fiend in the style of Greg Rutkowski",
+        "timestamp": 1696785966368,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
