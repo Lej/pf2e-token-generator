@@ -36646,5 +36646,14 @@
         "timestamp": 1696785965383,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "EGQgqBfV80ll3pcf": {
+        "id": "EGQgqBfV80ll3pcf",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Chaos Gulgamodh",
+        "prompt": "Fantasy art Chaos Gulgamodh construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696785965383,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
