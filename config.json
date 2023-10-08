@@ -34522,5 +34522,14 @@
         "timestamp": 1696785965226,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AxVNn9nyobosLEAq": {
+        "id": "AxVNn9nyobosLEAq",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Agile Warrior",
+        "prompt": "Fantasy art Agile Warrior human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965226,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
