@@ -35143,5 +35143,14 @@
         "timestamp": 1696785965254,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KHPOm5KHtbMNzcx7": {
+        "id": "KHPOm5KHtbMNzcx7",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Sigbin",
+        "prompt": "Fantasy art Sigbin beast in the style of Greg Rutkowski",
+        "timestamp": 1696785965255,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
