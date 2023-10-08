@@ -34297,5 +34297,14 @@
         "timestamp": 1696785964683,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "O87CB2RiM0WCDz8P": {
+        "id": "O87CB2RiM0WCDz8P",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Burning Mammoth Reaver",
+        "prompt": "Fantasy art Burning Mammoth Reaver human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785964684,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
