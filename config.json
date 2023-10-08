@@ -35953,5 +35953,14 @@
         "timestamp": 1696785965347,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ySpOZlKUbcxWhKQ6": {
+        "id": "ySpOZlKUbcxWhKQ6",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Ofalth Zombie",
+        "prompt": "Fantasy art Ofalth Zombie aberration mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1696785965347,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
