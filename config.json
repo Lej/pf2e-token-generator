@@ -35179,5 +35179,14 @@
         "timestamp": 1696785965256,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "g1ms3xQfS6Ws7KGD": {
+        "id": "g1ms3xQfS6Ws7KGD",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Sthira",
+        "prompt": "Fantasy art Sthira cold undead in the style of Greg Rutkowski",
+        "timestamp": 1696785965256,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
