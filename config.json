@@ -33703,5 +33703,14 @@
         "timestamp": 1696785964372,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "o8DGfZKaz1TELyzU": {
+        "id": "o8DGfZKaz1TELyzU",
+        "compendium": "stolen-fate-bestiary",
+        "name": "The Winged Serpent",
+        "prompt": "Fantasy art The Winged Serpent construct Variant fabled harrowkin in the style of Greg Rutkowski",
+        "timestamp": 1696785964373,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
