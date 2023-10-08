@@ -36502,5 +36502,14 @@
         "timestamp": 1696785965377,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "D36nL0YjCVHfjBNw": {
+        "id": "D36nL0YjCVHfjBNw",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Clockwork Chopper",
+        "prompt": "Fantasy art Clockwork Chopper clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696785965377,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
