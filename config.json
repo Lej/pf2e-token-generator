@@ -34081,5 +34081,14 @@
         "timestamp": 1696785964671,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QdDoqb0RSy1Mer5Q": {
+        "id": "QdDoqb0RSy1Mer5Q",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Everburning Mammoth",
+        "prompt": "Fantasy art Everburning Mammoth undead in the style of Greg Rutkowski",
+        "timestamp": 1696785964672,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
