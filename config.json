@@ -36214,5 +36214,14 @@
         "timestamp": 1696785965364,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jJ1UTNLiRCoN1O3i": {
+        "id": "jJ1UTNLiRCoN1O3i",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Hendrid Pratchett",
+        "prompt": "Fantasy art Hendrid Pratchett elf human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965364,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
