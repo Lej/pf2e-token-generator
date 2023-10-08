@@ -33649,5 +33649,14 @@
         "timestamp": 1696785964359,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WddCUSjH70mHmzK3": {
+        "id": "WddCUSjH70mHmzK3",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Diskrasia The Sharp",
+        "prompt": "Fantasy art Diskrasia The Sharp fey Female norn rituals in the style of Greg Rutkowski",
+        "timestamp": 1696785964360,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
