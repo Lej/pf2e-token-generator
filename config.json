@@ -33451,5 +33451,14 @@
         "timestamp": 1696785964337,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gmY1qb5fZFsc80d0": {
+        "id": "gmY1qb5fZFsc80d0",
+        "compendium": "stolen-fate-bestiary",
+        "name": "The Cricket",
+        "prompt": "Fantasy art The Cricket construct Variant fabled harrowkin in the style of Greg Rutkowski",
+        "timestamp": 1696785964338,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
