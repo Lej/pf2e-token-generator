@@ -33298,5 +33298,14 @@
         "timestamp": 1696785964065,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ACCnvTL2K5L9CAPg": {
+        "id": "ACCnvTL2K5L9CAPg",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Barnacle Barnaby",
+        "prompt": "Fantasy art Barnacle Barnaby amphibious ghoul undead Variant male lacedon in the style of Greg Rutkowski",
+        "timestamp": 1696785964065,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
