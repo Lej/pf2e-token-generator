@@ -34594,5 +34594,14 @@
         "timestamp": 1696785965228,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "IlDWyCnxA6gS2UZm": {
+        "id": "IlDWyCnxA6gS2UZm",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Syndara the Sculptor",
+        "prompt": "Fantasy art Syndara the Sculptor aeon monitor in the style of Greg Rutkowski",
+        "timestamp": 1696785965229,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
