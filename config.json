@@ -33604,5 +33604,14 @@
         "timestamp": 1696785964354,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mcCHcnMN1gYBHbqA": {
+        "id": "mcCHcnMN1gYBHbqA",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Speaker Of Svaryr",
+        "prompt": "Fantasy art Speaker Of Svaryr fey Variant female huldra in the style of Greg Rutkowski",
+        "timestamp": 1696785964357,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
