@@ -34927,5 +34927,14 @@
         "timestamp": 1696785965246,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Zp6lrCF3JwpdfKyK": {
+        "id": "Zp6lrCF3JwpdfKyK",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Tyrannosaurus Imperator",
+        "prompt": "Fantasy art Tyrannosaurus Imperator animal dinosaur Variant tyrannosaurus in the style of Greg Rutkowski",
+        "timestamp": 1696785965246,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
