@@ -36205,5 +36205,14 @@
         "timestamp": 1696785965363,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fvOjtzuRNpmpEHXA": {
+        "id": "fvOjtzuRNpmpEHXA",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Binumir",
+        "prompt": "Fantasy art Binumir incorporeal spirit undead in the style of Greg Rutkowski",
+        "timestamp": 1696785965364,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
