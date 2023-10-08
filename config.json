@@ -34342,5 +34342,14 @@
         "timestamp": 1696785964685,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RuVQUpUOLAE2x2tY": {
+        "id": "RuVQUpUOLAE2x2tY",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Tar Ooze",
+        "prompt": "Fantasy art Tar Ooze mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1696785964686,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
