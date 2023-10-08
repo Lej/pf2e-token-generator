@@ -36385,5 +36385,14 @@
         "timestamp": 1696785965372,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rsKf8ixrl3yBq1gb": {
+        "id": "rsKf8ixrl3yBq1gb",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Starwatch Commando",
+        "prompt": "Fantasy art Starwatch Commando human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965373,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
