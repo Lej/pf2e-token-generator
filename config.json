@@ -34549,5 +34549,14 @@
         "timestamp": 1696785965227,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mwovQpf278O1vdCR": {
+        "id": "mwovQpf278O1vdCR",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Watchtower Poltergeist",
+        "prompt": "Fantasy art Watchtower Poltergeist incorporeal spirit undead Variant poltergeist in the style of Greg Rutkowski",
+        "timestamp": 1696785965227,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
