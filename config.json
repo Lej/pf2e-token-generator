@@ -35188,5 +35188,14 @@
         "timestamp": 1696785965256,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TjmD89wG7qQ0tRXj": {
+        "id": "TjmD89wG7qQ0tRXj",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Speakers to the Wind (Gnoll Cascade Bearer)",
+        "prompt": "Fantasy art Speakers to the Wind Gnoll Cascade Bearer gnoll humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965257,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
