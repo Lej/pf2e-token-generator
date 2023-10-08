@@ -34684,5 +34684,14 @@
         "timestamp": 1696785965234,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nejHZ9ccKcDXZWQM": {
+        "id": "nejHZ9ccKcDXZWQM",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Gomwai",
+        "prompt": "Fantasy art Gomwai goblin humanoid Male hobgoblin tournament enforcer in the style of Greg Rutkowski",
+        "timestamp": 1696785965235,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
