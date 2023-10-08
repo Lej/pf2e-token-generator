@@ -36808,5 +36808,14 @@
         "timestamp": 1696785965390,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qSL6PtsHPekEEEjx": {
+        "id": "qSL6PtsHPekEEEjx",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Overdrive Imentesh",
+        "prompt": "Fantasy art Overdrive Imentesh monitor protean in the style of Greg Rutkowski",
+        "timestamp": 1696785965390,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
