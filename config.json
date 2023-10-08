@@ -34315,5 +34315,14 @@
         "timestamp": 1696785964684,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TlYG0Hyxh7gI7Jd8": {
+        "id": "TlYG0Hyxh7gI7Jd8",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Graylok Artillerist",
+        "prompt": "Fantasy art Graylok Artillerist cold giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785964685,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
