@@ -34396,5 +34396,14 @@
         "timestamp": 1696785965221,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lqHn5wSzxvdllGgH": {
+        "id": "lqHn5wSzxvdllGgH",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Flying Mountain Kaminari",
+        "prompt": "Fantasy art Flying Mountain Kaminari humanoid kami in the style of Greg Rutkowski",
+        "timestamp": 1696785965221,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
