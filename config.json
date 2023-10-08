@@ -35998,5 +35998,14 @@
         "timestamp": 1696785965350,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "3GNq4Vy40vk9zwMQ": {
+        "id": "3GNq4Vy40vk9zwMQ",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Graem",
+        "prompt": "Fantasy art Graem amphibious hag humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965350,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
