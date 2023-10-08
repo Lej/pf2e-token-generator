@@ -36763,5 +36763,14 @@
         "timestamp": 1696785965388,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7bMhDg4DNqoPlRsF": {
+        "id": "7bMhDg4DNqoPlRsF",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Avarek",
+        "prompt": "Fantasy art Avarek amphibious fey in the style of Greg Rutkowski",
+        "timestamp": 1696785965389,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
