@@ -36439,5 +36439,14 @@
         "timestamp": 1696785965375,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0UbehYHzOGlNK8Hc": {
+        "id": "0UbehYHzOGlNK8Hc",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Baatamidar",
+        "prompt": "Fantasy art Baatamidar monitor in the style of Greg Rutkowski",
+        "timestamp": 1696785965375,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
