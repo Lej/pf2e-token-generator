@@ -33793,5 +33793,14 @@
         "timestamp": 1696785964656,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VyXYqiIWYpyx9QJm": {
+        "id": "VyXYqiIWYpyx9QJm",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Fiendish Arboreal",
+        "prompt": "Fantasy art Fiendish Arboreal fiend plant Demon\u2011touched arboreal wardens in the style of Greg Rutkowski",
+        "timestamp": 1696785964656,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
