@@ -34378,5 +34378,14 @@
         "timestamp": 1696785964687,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "u3vdt2J02rw8RyRq": {
+        "id": "u3vdt2J02rw8RyRq",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Yabin the Just (Level 9)",
+        "prompt": "Fantasy art Yabin the Just humanoid nagaji Male nagaji dragon sorcerer in the style of Greg Rutkowski",
+        "timestamp": 1696785965221,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
