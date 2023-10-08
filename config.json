@@ -35413,5 +35413,14 @@
         "timestamp": 1696785965268,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EYr9GBleLFezHqBk": {
+        "id": "EYr9GBleLFezHqBk",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Rivka (Yorak)",
+        "prompt": "Fantasy art Rivka Yorak aberration in the style of Greg Rutkowski",
+        "timestamp": 1696785965268,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
