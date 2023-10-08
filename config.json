@@ -34135,5 +34135,14 @@
         "timestamp": 1696785964673,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "F4bNgQx2NLOwSlBR": {
+        "id": "F4bNgQx2NLOwSlBR",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Burnbearer",
+        "prompt": "Fantasy art Burnbearer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785964674,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
