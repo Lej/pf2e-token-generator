@@ -34900,5 +34900,14 @@
         "timestamp": 1696785965245,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "80tgHHqfxA5lUfjS": {
+        "id": "80tgHHqfxA5lUfjS",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Bul-Gae",
+        "prompt": "Fantasy art Bul-Gae beast cold fire in the style of Greg Rutkowski",
+        "timestamp": 1696785965245,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
