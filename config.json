@@ -34387,5 +34387,14 @@
         "timestamp": 1696785965221,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Yg0lmfxyBSggOkUp": {
+        "id": "Yg0lmfxyBSggOkUp",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Orochi",
+        "prompt": "Fantasy art Orochi amphibious beast in the style of Greg Rutkowski",
+        "timestamp": 1696785965221,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
