@@ -35314,5 +35314,14 @@
         "timestamp": 1696785965263,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "khAJHftnWe21eTm2": {
+        "id": "khAJHftnWe21eTm2",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Shino Hakusa (Level 14)",
+        "prompt": "Fantasy art Shino Hakusa human humanoid Female Tian-Shu assassin in the style of Greg Rutkowski",
+        "timestamp": 1696785965264,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
