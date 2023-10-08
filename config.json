@@ -33595,5 +33595,14 @@
         "timestamp": 1696785964353,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dbzt5TU3fXSManTU": {
+        "id": "dbzt5TU3fXSManTU",
+        "compendium": "stolen-fate-bestiary",
+        "name": "The Teamster",
+        "prompt": "Fantasy art The Teamster construct Variant fabled harrowkin in the style of Greg Rutkowski",
+        "timestamp": 1696785964354,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
