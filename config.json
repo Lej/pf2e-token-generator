@@ -36412,5 +36412,14 @@
         "timestamp": 1696785965374,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4ffoPNBKdEwBmYgL": {
+        "id": "4ffoPNBKdEwBmYgL",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Battle Leader Rekarek",
+        "prompt": "Fantasy art Battle Leader Rekarek humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1696785965374,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
