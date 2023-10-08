@@ -35989,5 +35989,14 @@
         "timestamp": 1696785965349,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Wk2T0Wr8Sebo4br5": {
+        "id": "Wk2T0Wr8Sebo4br5",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Mr. Snips",
+        "prompt": "Fantasy art Mr. Snips construct golem mindless Elite variant iron golem in the style of Greg Rutkowski",
+        "timestamp": 1696785965350,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
