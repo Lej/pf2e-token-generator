@@ -34576,5 +34576,14 @@
         "timestamp": 1696785965228,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fOdNBYgjTveLzpbd": {
+        "id": "fOdNBYgjTveLzpbd",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Agile Warrior (Nightmares)",
+        "prompt": "Fantasy art Agile Warrior Nightmares human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965228,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
