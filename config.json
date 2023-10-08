@@ -36853,5 +36853,14 @@
         "timestamp": 1696785965392,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "a3pTQfLzsJThQvI9": {
+        "id": "a3pTQfLzsJThQvI9",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Calennia",
+        "prompt": "Fantasy art Calennia human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965392,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
