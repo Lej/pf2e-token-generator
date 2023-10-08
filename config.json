@@ -33982,5 +33982,14 @@
         "timestamp": 1696785964663,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "koxcnymhEMtf0Uye": {
+        "id": "koxcnymhEMtf0Uye",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Burning Mammoth Hunter",
+        "prompt": "Fantasy art Burning Mammoth Hunter human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785964663,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
