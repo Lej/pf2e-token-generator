@@ -34243,5 +34243,14 @@
         "timestamp": 1696785964680,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "haLAebehr7ppMlPn": {
+        "id": "haLAebehr7ppMlPn",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Corrupted Elder Tree",
+        "prompt": "Fantasy art Corrupted Elder Tree fiend plant Variant arboreal regent in the style of Greg Rutkowski",
+        "timestamp": 1696785964681,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
