@@ -36394,5 +36394,14 @@
         "timestamp": 1696785965373,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1bPc2rjR4MghbMwD": {
+        "id": "1bPc2rjR4MghbMwD",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Obrousian",
+        "prompt": "Fantasy art Obrousian undead in the style of Greg Rutkowski",
+        "timestamp": 1696785965373,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
