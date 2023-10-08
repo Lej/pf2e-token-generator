@@ -34486,5 +34486,14 @@
         "timestamp": 1696785965224,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "wfp1cV5xCdpElkoU": {
+        "id": "wfp1cV5xCdpElkoU",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Yabin (White Serpent Form)",
+        "prompt": "Fantasy art Yabin White Serpent Form humanoid nagaji in the style of Greg Rutkowski",
+        "timestamp": 1696785965225,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
