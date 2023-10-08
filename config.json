@@ -36952,5 +36952,14 @@
         "timestamp": 1696785966105,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rYUegSA59suduHs4": {
+        "id": "rYUegSA59suduHs4",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Zoudou The Zealous",
+        "prompt": "Fantasy art Zoudou The Zealous aberration Female noppera-bo in the style of Greg Rutkowski",
+        "timestamp": 1696785966106,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
