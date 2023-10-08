@@ -35476,5 +35476,14 @@
         "timestamp": 1696785965272,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HqN4nUnl75foBKLZ": {
+        "id": "HqN4nUnl75foBKLZ",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Nai Yan Fei",
+        "prompt": "Fantasy art Nai Yan Fei human humanoid Female Tian-Shu empress in the style of Greg Rutkowski",
+        "timestamp": 1696785965272,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
