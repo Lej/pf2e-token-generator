@@ -33541,5 +33541,14 @@
         "timestamp": 1696785964345,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9CR1pTY23jFPi5Xn": {
+        "id": "9CR1pTY23jFPi5Xn",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Sonnorae",
+        "prompt": "Fantasy art Sonnorae fiend velstrac Female velstrac precentor in the style of Greg Rutkowski",
+        "timestamp": 1696785964347,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
