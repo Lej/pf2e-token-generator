@@ -34423,5 +34423,14 @@
         "timestamp": 1696785965222,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KfpYMKJ1ka9volP6": {
+        "id": "KfpYMKJ1ka9volP6",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Grandfather Mantis",
+        "prompt": "Fantasy art Grandfather Mantis minion monitor spirit Yarrika's spirit guardian in the style of Greg Rutkowski",
+        "timestamp": 1696785965223,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
