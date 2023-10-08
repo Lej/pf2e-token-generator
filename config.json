@@ -36016,5 +36016,14 @@
         "timestamp": 1696785965351,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BuPf7xtqfwCjNOQv": {
+        "id": "BuPf7xtqfwCjNOQv",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Reginald Vancaskerkin",
+        "prompt": "Fantasy art Reginald Vancaskerkin aberration humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965352,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
