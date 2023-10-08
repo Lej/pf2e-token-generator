@@ -36970,5 +36970,14 @@
         "timestamp": 1696785966106,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7Fua7064VlF0Y14D": {
+        "id": "7Fua7064VlF0Y14D",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Thatchling",
+        "prompt": "Fantasy art Thatchling undead in the style of Greg Rutkowski",
+        "timestamp": 1696785966106,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
