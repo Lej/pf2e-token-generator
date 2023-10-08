@@ -34216,5 +34216,14 @@
         "timestamp": 1696785964679,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "nBoysLyDYIZaaAHP": {
+        "id": "nBoysLyDYIZaaAHP",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Metuak",
+        "prompt": "Fantasy art Metuak fiend human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785964679,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
