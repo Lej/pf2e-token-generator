@@ -34891,5 +34891,14 @@
         "timestamp": 1696785965245,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DW4UFHXzExWwvEuH": {
+        "id": "DW4UFHXzExWwvEuH",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Dread Roc",
+        "prompt": "Fantasy art Dread Roc animal Variant roc in the style of Greg Rutkowski",
+        "timestamp": 1696785965245,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
