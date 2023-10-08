@@ -36043,5 +36043,14 @@
         "timestamp": 1696785965353,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JhYJUNlcxiurcZcl": {
+        "id": "JhYJUNlcxiurcZcl",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Water Elemental Vessel (I2)",
+        "prompt": "Fantasy art Water Elemental Vessel aquatic elemental water Variant water elemental vessel in the style of Greg Rutkowski",
+        "timestamp": 1696785965354,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
