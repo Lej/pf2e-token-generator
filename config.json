@@ -37195,5 +37195,14 @@
         "timestamp": 1696785966373,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BXS36BprDgzSnXuZ": {
+        "id": "BXS36BprDgzSnXuZ",
+        "compendium": "rusthenge-bestiary",
+        "name": "Severed Head",
+        "prompt": "Fantasy art Severed Head mindless undead Variant severed head in the style of Greg Rutkowski",
+        "timestamp": 1696785966373,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
