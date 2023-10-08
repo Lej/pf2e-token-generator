@@ -34162,5 +34162,14 @@
         "timestamp": 1696785964676,
         "seed": 1024,
         "used_seed": 1028
+    },
+    "wuV8k7N1cEJBYNbK": {
+        "id": "wuV8k7N1cEJBYNbK",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Weykoward",
+        "prompt": "Fantasy art Weykoward construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696785964676,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
