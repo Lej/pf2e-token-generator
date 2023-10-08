@@ -34783,5 +34783,14 @@
         "timestamp": 1696785965240,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "ghAlcSfpO03JLvwG": {
+        "id": "ghAlcSfpO03JLvwG",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Ji-yook (Level 13)",
+        "prompt": "Fantasy art Ji-yook humanoid kitsune Female kitsune ninja in the style of Greg Rutkowski",
+        "timestamp": 1696785965240,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
