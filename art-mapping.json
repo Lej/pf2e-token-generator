@@ -16482,5 +16482,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/agents-of-edgewatch-bestiary/1eMDYXXf2leLTYHV/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/agents-of-edgewatch-bestiary/1eMDYXXf2leLTYHV/token.webp"
         }
+    },
+    "season-of-ghosts-bestiary": {
+        "4iZxxQFySmU6EOfn": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/season-of-ghosts-bestiary/4iZxxQFySmU6EOfn/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/season-of-ghosts-bestiary/4iZxxQFySmU6EOfn/token.webp"
+        }
     }
 }
