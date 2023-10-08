@@ -36187,5 +36187,14 @@
         "timestamp": 1696785965363,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "P9Wg0sGcNkemOvm3": {
+        "id": "P9Wg0sGcNkemOvm3",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Slithering Rift",
+        "prompt": "Fantasy art Slithering Rift mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1696785965363,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
