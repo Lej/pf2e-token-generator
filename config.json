@@ -33568,5 +33568,14 @@
         "timestamp": 1696785964348,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "KPwAtJ0wFmMTFfWV": {
+        "id": "KPwAtJ0wFmMTFfWV",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Guardian Aluum",
+        "prompt": "Fantasy art Guardian Aluum construct mindless Variant aluum in the style of Greg Rutkowski",
+        "timestamp": 1696785964349,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
