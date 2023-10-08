@@ -33721,5 +33721,14 @@
         "timestamp": 1696785964374,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "M8Ud2zb5KwfocEd2": {
+        "id": "M8Ud2zb5KwfocEd2",
+        "compendium": "stolen-fate-bestiary",
+        "name": "The Trader",
+        "prompt": "Fantasy art The Trader construct Variant fabled harrowkin in the style of Greg Rutkowski",
+        "timestamp": 1696785964378,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
