@@ -35152,5 +35152,14 @@
         "timestamp": 1696785965255,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TbImjEpxYO5tsJIA": {
+        "id": "TbImjEpxYO5tsJIA",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Gumiho",
+        "prompt": "Fantasy art Gumiho fey in the style of Greg Rutkowski",
+        "timestamp": 1696785965255,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
