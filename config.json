@@ -36574,5 +36574,14 @@
         "timestamp": 1696785965379,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XDt87cqF85zWnlC8": {
+        "id": "XDt87cqF85zWnlC8",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Siege Shard",
+        "prompt": "Fantasy art Siege Shard construct in the style of Greg Rutkowski",
+        "timestamp": 1696785965380,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
