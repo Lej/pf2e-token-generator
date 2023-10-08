@@ -33955,5 +33955,14 @@
         "timestamp": 1696785964662,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZxKGQpbkXVLI7lab": {
+        "id": "ZxKGQpbkXVLI7lab",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Venexus's Chosen",
+        "prompt": "Fantasy art Venexus's Chosen beast beastkin humanoid Dragonkin monks in the style of Greg Rutkowski",
+        "timestamp": 1696785964663,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
