@@ -34693,5 +34693,14 @@
         "timestamp": 1696785965235,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EItI5u34FIIuZM9W": {
+        "id": "EItI5u34FIIuZM9W",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Angoyang",
+        "prompt": "Fantasy art Angoyang aberration in the style of Greg Rutkowski",
+        "timestamp": 1696785965235,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
