@@ -35161,5 +35161,14 @@
         "timestamp": 1696785965255,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "o8UMCrKWf89xNvSE": {
+        "id": "o8UMCrKWf89xNvSE",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Ki Adept",
+        "prompt": "Fantasy art Ki Adept human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965256,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
