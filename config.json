@@ -36421,5 +36421,14 @@
         "timestamp": 1696785965374,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "S9JJsUNSeeoIClON": {
+        "id": "S9JJsUNSeeoIClON",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Poison Eater",
+        "prompt": "Fantasy art Poison Eater human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965374,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
