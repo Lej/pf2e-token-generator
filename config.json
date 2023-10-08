@@ -33775,5 +33775,14 @@
         "timestamp": 1696785964656,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "yAYQeZI1W7XGeoMf": {
+        "id": "yAYQeZI1W7XGeoMf",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Rhino Warriors",
+        "prompt": "Fantasy art Rhino Warriors human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785964656,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
