@@ -33865,5 +33865,14 @@
         "timestamp": 1696785964659,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kNMrvb2zDm7tKjVP": {
+        "id": "kNMrvb2zDm7tKjVP",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Gathganara",
+        "prompt": "Fantasy art Gathganara amphibious fey nymph water in the style of Greg Rutkowski",
+        "timestamp": 1696785964659,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
