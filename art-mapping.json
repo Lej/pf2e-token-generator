@@ -15599,6 +15599,10 @@
         "4RaeyGxw5EgagDZE": {
             "actor": "modules/pf2e-ai-token-placeholders/images/fists-of-the-ruby-phoenix-bestiary/4RaeyGxw5EgagDZE/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/fists-of-the-ruby-phoenix-bestiary/4RaeyGxw5EgagDZE/token.webp"
+        },
+        "CKS4OsoyI2QI8RUn": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/fists-of-the-ruby-phoenix-bestiary/CKS4OsoyI2QI8RUn/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/fists-of-the-ruby-phoenix-bestiary/CKS4OsoyI2QI8RUn/token.webp"
         }
     }
 }
