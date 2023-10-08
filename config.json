@@ -33991,5 +33991,14 @@
         "timestamp": 1696785964663,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RPXXt5bgFCqKibZ3": {
+        "id": "RPXXt5bgFCqKibZ3",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Idovik",
+        "prompt": "Fantasy art Idovik beast eidolon Male Sarkorian god in the style of Greg Rutkowski",
+        "timestamp": 1696785964664,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
