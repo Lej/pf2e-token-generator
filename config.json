@@ -33739,5 +33739,14 @@
         "timestamp": 1696785964379,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ax9j12x0JqBBPE5M": {
+        "id": "ax9j12x0JqBBPE5M",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Bhanyada Scavenger",
+        "prompt": "Fantasy art Bhanyada Scavenger aberration in the style of Greg Rutkowski",
+        "timestamp": 1696785964379,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
