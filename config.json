@@ -36286,5 +36286,14 @@
         "timestamp": 1696785965366,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "azyIfDNNW44jY8YX": {
+        "id": "azyIfDNNW44jY8YX",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Barrel Launcher",
+        "prompt": "Fantasy art Barrel Launcher clockwork construct mindless Elite clockwork assassin in the style of Greg Rutkowski",
+        "timestamp": 1696785965366,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
