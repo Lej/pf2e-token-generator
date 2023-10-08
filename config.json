@@ -36052,5 +36052,14 @@
         "timestamp": 1696785965354,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "lgbJbeSeC1f8otvH": {
+        "id": "lgbJbeSeC1f8otvH",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Daemonic Skinner",
+        "prompt": "Fantasy art Daemonic Skinner daemon fiend human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965355,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
