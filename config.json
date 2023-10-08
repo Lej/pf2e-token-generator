@@ -34747,5 +34747,14 @@
         "timestamp": 1696785965238,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "2ryxyUYlf8lY6o1D": {
+        "id": "2ryxyUYlf8lY6o1D",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Golarion's Finest (Mingyu)",
+        "prompt": "Fantasy art Golarion's Finest Mingyu human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965239,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
