@@ -34045,5 +34045,14 @@
         "timestamp": 1696785964668,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8qtTf1FvvBrcEypA": {
+        "id": "8qtTf1FvvBrcEypA",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Yana No-trail",
+        "prompt": "Fantasy art Yana No-trail humanoid kitsune in the style of Greg Rutkowski",
+        "timestamp": 1696785964669,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
