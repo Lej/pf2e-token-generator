@@ -36340,5 +36340,14 @@
         "timestamp": 1696785965369,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qY1NrXKmL0y18qoz": {
+        "id": "qY1NrXKmL0y18qoz",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Bolar Of Stonemoor",
+        "prompt": "Fantasy art Bolar Of Stonemoor dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965369,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
