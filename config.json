@@ -33307,5 +33307,14 @@
         "timestamp": 1696785964065,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "ytb75tCpHFXxryFZ": {
+        "id": "ytb75tCpHFXxryFZ",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Elite Arisen Shadow Pixie",
+        "prompt": "Fantasy art Elite Arisen Shadow Pixie fey shadow sprite undead in the style of Greg Rutkowski",
+        "timestamp": 1696785964066,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
