@@ -35350,5 +35350,14 @@
         "timestamp": 1696785965266,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vgMFPC9SoC3eyNSs": {
+        "id": "vgMFPC9SoC3eyNSs",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Maalya",
+        "prompt": "Fantasy art Maalya human humanoid Female Tian-Sing battle dancers in the style of Greg Rutkowski",
+        "timestamp": 1696785965266,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
