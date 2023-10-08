@@ -33631,5 +33631,14 @@
         "timestamp": 1696785964358,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "c5PsLzWosNiKXU6o": {
+        "id": "c5PsLzWosNiKXU6o",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Svaryr Soldier",
+        "prompt": "Fantasy art Svaryr Soldier aesir monitor Variant einherji in the style of Greg Rutkowski",
+        "timestamp": 1696785964358,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
