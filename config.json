@@ -33550,5 +33550,14 @@
         "timestamp": 1696785964347,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "VCn8GC3XXCES5Cns": {
+        "id": "VCn8GC3XXCES5Cns",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Quoppopak Mummy",
+        "prompt": "Fantasy art Quoppopak Mummy mummy undead in the style of Greg Rutkowski",
+        "timestamp": 1696785964347,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
