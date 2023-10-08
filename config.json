@@ -34810,5 +34810,14 @@
         "timestamp": 1696785965242,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "7MiWOVxjocxNr0dh": {
+        "id": "7MiWOVxjocxNr0dh",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Laruhao",
+        "prompt": "Fantasy art Laruhao humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965243,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
