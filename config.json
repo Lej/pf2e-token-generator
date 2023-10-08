@@ -37168,5 +37168,14 @@
         "timestamp": 1696785966372,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "H3Ma71C2ZEku2RdG": {
+        "id": "H3Ma71C2ZEku2RdG",
+        "compendium": "rusthenge-bestiary",
+        "name": "Vanda",
+        "prompt": "Fantasy art Vanda human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785966372,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
