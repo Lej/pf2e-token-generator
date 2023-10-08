@@ -37051,5 +37051,14 @@
         "timestamp": 1696785966109,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WHb1ycftTkk1QNoJ": {
+        "id": "WHb1ycftTkk1QNoJ",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Animated Cookware Swarm",
+        "prompt": "Fantasy art Animated Cookware Swarm construct mindless swarm Variant animated silverware swarm in the style of Greg Rutkowski",
+        "timestamp": 1696785966109,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
