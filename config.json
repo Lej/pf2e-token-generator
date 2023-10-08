@@ -33640,5 +33640,14 @@
         "timestamp": 1696785964358,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Yg5xl1lu0211JVi7": {
+        "id": "Yg5xl1lu0211JVi7",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Raskus",
+        "prompt": "Fantasy art Raskus humanoid tengu Male tengu commander in the style of Greg Rutkowski",
+        "timestamp": 1696785964359,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
