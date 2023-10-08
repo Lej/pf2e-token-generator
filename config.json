@@ -36664,5 +36664,14 @@
         "timestamp": 1696785965384,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qUhxXE2yT0qwSJQm": {
+        "id": "qUhxXE2yT0qwSJQm",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Agradaemon",
+        "prompt": "Fantasy art Agradaemon daemon fiend fire in the style of Greg Rutkowski",
+        "timestamp": 1696785965384,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
