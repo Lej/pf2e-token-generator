@@ -33874,5 +33874,14 @@
         "timestamp": 1696785964659,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "PsRObxHMe71zJi8d": {
+        "id": "PsRObxHMe71zJi8d",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Bone Warrior",
+        "prompt": "Fantasy art Bone Warrior human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785964659,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
