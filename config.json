@@ -36826,5 +36826,14 @@
         "timestamp": 1696785965391,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pE5GxoB1FtXBqnF7": {
+        "id": "pE5GxoB1FtXBqnF7",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Gref",
+        "prompt": "Fantasy art Gref humanoid ratfolk in the style of Greg Rutkowski",
+        "timestamp": 1696785965391,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
