@@ -33937,5 +33937,14 @@
         "timestamp": 1696785964661,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZKxZgklb78PULu10": {
+        "id": "ZKxZgklb78PULu10",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Pakano (Level 12)",
+        "prompt": "Fantasy art Pakano animal cold Male Kellid hunter in the style of Greg Rutkowski",
+        "timestamp": 1696785964662,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
