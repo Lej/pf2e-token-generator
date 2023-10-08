@@ -36718,5 +36718,14 @@
         "timestamp": 1696785965386,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "8GQ7dq7s9CetOlkg": {
+        "id": "8GQ7dq7s9CetOlkg",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Gang Tough",
+        "prompt": "Fantasy art Gang Tough human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965386,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
