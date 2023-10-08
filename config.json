@@ -35926,5 +35926,14 @@
         "timestamp": 1696785965345,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "8AdsRaXftoR1beTk": {
+        "id": "8AdsRaXftoR1beTk",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Frefferth",
+        "prompt": "Fantasy art Frefferth undead in the style of Greg Rutkowski",
+        "timestamp": 1696785965346,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
