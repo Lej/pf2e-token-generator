@@ -34711,5 +34711,14 @@
         "timestamp": 1696785965235,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "N9Qp7x6n6ighaXOY": {
+        "id": "N9Qp7x6n6ighaXOY",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Golarion's Finest (Jun)",
+        "prompt": "Fantasy art Golarion's Finest Jun human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965236,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
