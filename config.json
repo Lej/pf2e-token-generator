@@ -35845,5 +35845,14 @@
         "timestamp": 1696785965342,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "w2J6GpuMYM24U4sb": {
+        "id": "w2J6GpuMYM24U4sb",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Clockwork Injector",
+        "prompt": "Fantasy art Clockwork Injector clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696785965342,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
