@@ -34729,5 +34729,14 @@
         "timestamp": 1696785965237,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "se8SrwtuaamXIEo5": {
+        "id": "se8SrwtuaamXIEo5",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Blue Viper (Level 20)",
+        "prompt": "Fantasy art Blue Viper humanoid ratfolk in the style of Greg Rutkowski",
+        "timestamp": 1696785965237,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
