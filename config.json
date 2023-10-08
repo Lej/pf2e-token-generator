@@ -33847,5 +33847,14 @@
         "timestamp": 1696785964658,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2nnCyf8LBxLAWKRE": {
+        "id": "2nnCyf8LBxLAWKRE",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Ardissa's Porter",
+        "prompt": "Fantasy art Ardissa's Porter dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785964659,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
