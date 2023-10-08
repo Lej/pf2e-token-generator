@@ -34090,5 +34090,14 @@
         "timestamp": 1696785964672,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "jNv046Jhoq4yEMey": {
+        "id": "jNv046Jhoq4yEMey",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Lagofir",
+        "prompt": "Fantasy art Lagofir animal in the style of Greg Rutkowski",
+        "timestamp": 1696785964672,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
