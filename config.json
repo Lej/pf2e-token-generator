@@ -34603,5 +34603,14 @@
         "timestamp": 1696785965229,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zpXQHbe037haBVmD": {
+        "id": "zpXQHbe037haBVmD",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Rivka (Igroon)",
+        "prompt": "Fantasy art Rivka Igroon aberration in the style of Greg Rutkowski",
+        "timestamp": 1696785965229,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
