@@ -35656,5 +35656,14 @@
         "timestamp": 1696785965332,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8jjEOs99Bmo1v0Qc": {
+        "id": "8jjEOs99Bmo1v0Qc",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Teraphant",
+        "prompt": "Fantasy art Teraphant beast in the style of Greg Rutkowski",
+        "timestamp": 1696785965332,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
