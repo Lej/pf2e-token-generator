@@ -36547,5 +36547,14 @@
         "timestamp": 1696785965379,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "syUXLdUsEDYgni5R": {
+        "id": "syUXLdUsEDYgni5R",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Wrent Dicaspiron",
+        "prompt": "Fantasy art Wrent Dicaspiron human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965379,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
