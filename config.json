@@ -36448,5 +36448,14 @@
         "timestamp": 1696785965375,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5u7luLMeRNJ4en65": {
+        "id": "5u7luLMeRNJ4en65",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Bone Skipper Swarm",
+        "prompt": "Fantasy art Bone Skipper Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1696785965375,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
