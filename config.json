@@ -37132,5 +37132,14 @@
         "timestamp": 1696785966370,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "UMDbYqoMhnLZQ2gf": {
+        "id": "UMDbYqoMhnLZQ2gf",
+        "compendium": "rusthenge-bestiary",
+        "name": "Rust Zombie",
+        "prompt": "Fantasy art Rust Zombie mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1696785966370,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
