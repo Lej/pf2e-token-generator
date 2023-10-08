@@ -34477,5 +34477,14 @@
         "timestamp": 1696785965224,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vjE1lUpklp4slNbd": {
+        "id": "vjE1lUpklp4slNbd",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Planar Terra-cotta Squadron",
+        "prompt": "Fantasy art Planar Terra-cotta Squadron construct troop Variant terra-cotta soldier garrison in the style of Greg Rutkowski",
+        "timestamp": 1696785965224,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
