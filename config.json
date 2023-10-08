@@ -34828,5 +34828,14 @@
         "timestamp": 1696785965243,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9WcpNMJJqF3cLTqT": {
+        "id": "9WcpNMJJqF3cLTqT",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Ran-to (Level 16)",
+        "prompt": "Fantasy art Ran-to goblin humanoid Male frost goblin grappler in the style of Greg Rutkowski",
+        "timestamp": 1696785965243,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
