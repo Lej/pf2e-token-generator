@@ -37141,5 +37141,14 @@
         "timestamp": 1696785966370,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "DetuCfGXs1UGdVdz": {
+        "id": "DetuCfGXs1UGdVdz",
+        "compendium": "rusthenge-bestiary",
+        "name": "Clockwork Serpent Spy",
+        "prompt": "Fantasy art Clockwork Serpent Spy clockwork construct mindless Variant clockwork spy in the style of Greg Rutkowski",
+        "timestamp": 1696785966370,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

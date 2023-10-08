@@ -16593,6 +16593,10 @@
         "UMDbYqoMhnLZQ2gf": {
             "actor": "modules/pf2e-ai-token-placeholders/images/rusthenge-bestiary/UMDbYqoMhnLZQ2gf/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/rusthenge-bestiary/UMDbYqoMhnLZQ2gf/token.webp"
+        },
+        "DetuCfGXs1UGdVdz": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/rusthenge-bestiary/DetuCfGXs1UGdVdz/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/rusthenge-bestiary/DetuCfGXs1UGdVdz/token.webp"
         }
     }
 }
