@@ -34252,5 +34252,14 @@
         "timestamp": 1696785964681,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ovrQ2R9HJJhC1Yij": {
+        "id": "ovrQ2R9HJJhC1Yij",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Roru",
+        "prompt": "Fantasy art Roru demon fiend rituals in the style of Greg Rutkowski",
+        "timestamp": 1696785964681,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
