@@ -33676,5 +33676,14 @@
         "timestamp": 1696785964362,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Cj0oleWD4YOmT1Mn": {
+        "id": "Cj0oleWD4YOmT1Mn",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Voricose",
+        "prompt": "Fantasy art Voricose fiend velstrac Male variant velstrac interlocutor in the style of Greg Rutkowski",
+        "timestamp": 1696785964364,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
