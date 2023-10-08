@@ -35755,5 +35755,14 @@
         "timestamp": 1696785965336,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "vwxNCuBksHYU2Dwf": {
+        "id": "vwxNCuBksHYU2Dwf",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Hundun Chaos Mage",
+        "prompt": "Fantasy art Hundun Chaos Mage aberration in the style of Greg Rutkowski",
+        "timestamp": 1696785965337,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
