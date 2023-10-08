@@ -34207,5 +34207,14 @@
         "timestamp": 1696785964678,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "r9RTeZGlX8Asicku": {
+        "id": "r9RTeZGlX8Asicku",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Pakano",
+        "prompt": "Fantasy art Pakano human humanoid Male Kellid hunter in the style of Greg Rutkowski",
+        "timestamp": 1696785964679,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
