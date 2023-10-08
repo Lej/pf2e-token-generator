@@ -35332,5 +35332,14 @@
         "timestamp": 1696785965264,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XiO3tJlYmuZwOBaA": {
+        "id": "XiO3tJlYmuZwOBaA",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Koto Zekora",
+        "prompt": "Fantasy art Koto Zekora fiend giant humanoid oni Female onidoshi imperial-blooded sorcerer in the style of Greg Rutkowski",
+        "timestamp": 1696785965265,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
