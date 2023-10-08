@@ -35233,5 +35233,14 @@
         "timestamp": 1696785965259,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "9ksOukuecb43zqOd": {
+        "id": "9ksOukuecb43zqOd",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Razu",
+        "prompt": "Fantasy art Razu humanoid tengu Male tengu master bard in the style of Greg Rutkowski",
+        "timestamp": 1696785965260,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
