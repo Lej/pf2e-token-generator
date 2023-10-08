@@ -35530,5 +35530,14 @@
         "timestamp": 1696785965276,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5cMbN10QKGS06Zhy": {
+        "id": "5cMbN10QKGS06Zhy",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Arms of Balance (Jivati Rovat)",
+        "prompt": "Fantasy art Arms of Balance Jivati Rovat human humanoid Female vishkanya monk in the style of Greg Rutkowski",
+        "timestamp": 1696785965276,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
