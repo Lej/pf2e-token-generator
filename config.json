@@ -34063,5 +34063,14 @@
         "timestamp": 1696785964670,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "B7O9nFwhHMmCWbQg": {
+        "id": "B7O9nFwhHMmCWbQg",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Summer Hora",
+        "prompt": "Fantasy art Summer Hora fey nymph in the style of Greg Rutkowski",
+        "timestamp": 1696785964671,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
