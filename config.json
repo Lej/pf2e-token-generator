@@ -34360,5 +34360,14 @@
         "timestamp": 1696785964687,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "XxKWVyq21NGiDCaR": {
+        "id": "XxKWVyq21NGiDCaR",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Long-horned Bison",
+        "prompt": "Fantasy art Long-horned Bison animal in the style of Greg Rutkowski",
+        "timestamp": 1696785964687,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
