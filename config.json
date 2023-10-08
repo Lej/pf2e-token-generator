@@ -35935,5 +35935,14 @@
         "timestamp": 1696785965346,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Wb4Md6byPhBWe56J": {
+        "id": "Wb4Md6byPhBWe56J",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Cobbleswarm (AoE)",
+        "prompt": "Fantasy art Cobbleswarm aberration earth swarm in the style of Greg Rutkowski",
+        "timestamp": 1696785965346,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
