@@ -36700,5 +36700,14 @@
         "timestamp": 1696785965385,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WXwvWHRpwK17YABQ": {
+        "id": "WXwvWHRpwK17YABQ",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Bregdi",
+        "prompt": "Fantasy art Bregdi animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1696785965386,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
