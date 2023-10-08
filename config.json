@@ -35341,5 +35341,14 @@
         "timestamp": 1696785965265,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tBQgipDUVhamBNrZ": {
+        "id": "tBQgipDUVhamBNrZ",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Dromornis",
+        "prompt": "Fantasy art Dromornis animal in the style of Greg Rutkowski",
+        "timestamp": 1696785965266,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
