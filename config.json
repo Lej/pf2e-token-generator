@@ -35242,5 +35242,14 @@
         "timestamp": 1696785965260,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2ZnZ0d61CQHMHtHN": {
+        "id": "2ZnZ0d61CQHMHtHN",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Arms of Balance (Ranya Shibhatesh)",
+        "prompt": "Fantasy art Arms of Balance Ranya Shibhatesh human humanoid Female human monk in the style of Greg Rutkowski",
+        "timestamp": 1696785965260,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
