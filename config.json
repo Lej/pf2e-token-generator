@@ -34720,5 +34720,14 @@
         "timestamp": 1696785965236,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "PhFDdGFXaaiLe4k4": {
+        "id": "PhFDdGFXaaiLe4k4",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Joon-seo",
+        "prompt": "Fantasy art Joon-seo humanoid samsaran Male samsaran song striker in the style of Greg Rutkowski",
+        "timestamp": 1696785965237,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
