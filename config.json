@@ -36142,5 +36142,14 @@
         "timestamp": 1696785965360,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "N1IpUIW2Ry7uBN3G": {
+        "id": "N1IpUIW2Ry7uBN3G",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Tiderunner Aquamancer",
+        "prompt": "Fantasy art Tiderunner Aquamancer amphibious azarketi humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965361,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
