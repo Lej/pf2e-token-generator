@@ -36025,5 +36025,14 @@
         "timestamp": 1696785965352,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Sq0Kb92nGkqj19Xx": {
+        "id": "Sq0Kb92nGkqj19Xx",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Miogimo",
+        "prompt": "Fantasy art Miogimo undead Male zealborn criminal mastermind rituals in the style of Greg Rutkowski",
+        "timestamp": 1696785965353,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
