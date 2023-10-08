@@ -33343,5 +33343,14 @@
         "timestamp": 1696785964067,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "VNOQk9lAIaCT5QNW": {
+        "id": "VNOQk9lAIaCT5QNW",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Shadowborn Slayer",
+        "prompt": "Fantasy art Shadowborn Slayer undead in the style of Greg Rutkowski",
+        "timestamp": 1696785964067,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
