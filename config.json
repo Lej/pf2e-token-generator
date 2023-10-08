@@ -37087,5 +37087,14 @@
         "timestamp": 1696785966367,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1oVJFDY5BJQxO3k9": {
+        "id": "1oVJFDY5BJQxO3k9",
+        "compendium": "rusthenge-bestiary",
+        "name": "Trygve",
+        "prompt": "Fantasy art Trygve human humanoid Human smith in the style of Greg Rutkowski",
+        "timestamp": 1696785966367,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
