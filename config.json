@@ -36511,5 +36511,14 @@
         "timestamp": 1696785965377,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JuCLvgvxYbSRXqON": {
+        "id": "JuCLvgvxYbSRXqON",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Copper Hand Illusionist",
+        "prompt": "Fantasy art Copper Hand Illusionist human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965378,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
