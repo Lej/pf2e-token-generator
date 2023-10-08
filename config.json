@@ -33514,5 +33514,14 @@
         "timestamp": 1696785964340,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tVZ7ijV3W1HmMwzz": {
+        "id": "tVZ7ijV3W1HmMwzz",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Scaleseed Nagaji",
+        "prompt": "Fantasy art Scaleseed Nagaji humanoid nagaji Nagaji naturalist in the style of Greg Rutkowski",
+        "timestamp": 1696785964341,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
