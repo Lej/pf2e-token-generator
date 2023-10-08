@@ -34765,5 +34765,14 @@
         "timestamp": 1696785965239,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TqKFvTmJnhdclCgt": {
+        "id": "TqKFvTmJnhdclCgt",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Ghost Monk",
+        "prompt": "Fantasy art Ghost Monk ghost incorporeal spirit undead Ghost adherents of Irori in the style of Greg Rutkowski",
+        "timestamp": 1696785965239,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
