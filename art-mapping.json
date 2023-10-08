@@ -16445,6 +16445,10 @@
         "qSL6PtsHPekEEEjx": {
             "actor": "modules/pf2e-ai-token-placeholders/images/agents-of-edgewatch-bestiary/qSL6PtsHPekEEEjx/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/agents-of-edgewatch-bestiary/qSL6PtsHPekEEEjx/token.webp"
+        },
+        "WplBGSeB9pK9AULX": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/agents-of-edgewatch-bestiary/WplBGSeB9pK9AULX/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/agents-of-edgewatch-bestiary/WplBGSeB9pK9AULX/token.webp"
         }
     }
 }

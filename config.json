@@ -36817,5 +36817,14 @@
         "timestamp": 1696785965390,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WplBGSeB9pK9AULX": {
+        "id": "WplBGSeB9pK9AULX",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "The Rabbit Prince",
+        "prompt": "Fantasy art The Rabbit Prince halfling humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1696785965391,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
