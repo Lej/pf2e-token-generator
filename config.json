@@ -36358,5 +36358,14 @@
         "timestamp": 1696785965370,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "d3TzpCuRJF78xHZK": {
+        "id": "d3TzpCuRJF78xHZK",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Black Whale Guard (F3)",
+        "prompt": "Fantasy art Black Whale Guard human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965370,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
