@@ -34279,5 +34279,14 @@
         "timestamp": 1696785964682,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "7yanFrY21w21ZNFP": {
+        "id": "7yanFrY21w21ZNFP",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Hegremon",
+        "prompt": "Fantasy art Hegremon cold giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785964683,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
