@@ -35836,5 +35836,14 @@
         "timestamp": 1696785965341,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pK1tlsgkmzkaaCe5": {
+        "id": "pK1tlsgkmzkaaCe5",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Iroran Skeleton",
+        "prompt": "Fantasy art Iroran Skeleton mindless skeleton undead in the style of Greg Rutkowski",
+        "timestamp": 1696785965342,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
