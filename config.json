@@ -36925,5 +36925,14 @@
         "timestamp": 1696785966104,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KhGtAbhgupqJyqET": {
+        "id": "KhGtAbhgupqJyqET",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Shou Matsuki",
+        "prompt": "Fantasy art Shou Matsuki human humanoid Male human carpenter in the style of Greg Rutkowski",
+        "timestamp": 1696785966104,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
