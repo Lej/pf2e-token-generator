@@ -34558,5 +34558,14 @@
         "timestamp": 1696785965227,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "YHSV9DfaqoaSggLi": {
+        "id": "YHSV9DfaqoaSggLi",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Archery Specialist",
+        "prompt": "Fantasy art Archery Specialist human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965228,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
