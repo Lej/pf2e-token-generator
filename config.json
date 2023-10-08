@@ -34963,5 +34963,14 @@
         "timestamp": 1696785965248,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "TEHxsglxWi1i3jSN": {
+        "id": "TEHxsglxWi1i3jSN",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Elder Cauthooj",
+        "prompt": "Fantasy art Elder Cauthooj beast Variant cauthooj in the style of Greg Rutkowski",
+        "timestamp": 1696785965248,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
