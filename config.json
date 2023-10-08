@@ -35467,5 +35467,14 @@
         "timestamp": 1696785965271,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cg1kQPO3FBSCFDVt": {
+        "id": "cg1kQPO3FBSCFDVt",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Shadow Yai",
+        "prompt": "Fantasy art Shadow Yai fiend giant humanoid oni shadow in the style of Greg Rutkowski",
+        "timestamp": 1696785965272,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
