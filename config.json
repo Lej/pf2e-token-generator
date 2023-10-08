@@ -36889,5 +36889,14 @@
         "timestamp": 1696785965394,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "1eMDYXXf2leLTYHV": {
+        "id": "1eMDYXXf2leLTYHV",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Eberark",
+        "prompt": "Fantasy art Eberark beast fire in the style of Greg Rutkowski",
+        "timestamp": 1696785965395,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
