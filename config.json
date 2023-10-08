@@ -34117,5 +34117,14 @@
         "timestamp": 1696785964673,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0GArHVfN0VxejVZp": {
+        "id": "0GArHVfN0VxejVZp",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Throttled Blindheim",
+        "prompt": "Fantasy art Throttled Blindheim animal in the style of Greg Rutkowski",
+        "timestamp": 1696785964673,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
