@@ -33487,5 +33487,14 @@
         "timestamp": 1696785964339,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ttUZn9WMNZzG9YdZ": {
+        "id": "ttUZn9WMNZzG9YdZ",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Bhanyada Swarm",
+        "prompt": "Fantasy art Bhanyada Swarm aberration swarm in the style of Greg Rutkowski",
+        "timestamp": 1696785964339,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
