@@ -36223,5 +36223,14 @@
         "timestamp": 1696785965364,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "B4kIfCimsz8wfc0k": {
+        "id": "B4kIfCimsz8wfc0k",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Lord Guirden",
+        "prompt": "Fantasy art Lord Guirden human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965364,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
