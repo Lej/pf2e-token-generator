@@ -36331,5 +36331,14 @@
         "timestamp": 1696785965368,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "H4bY8v6e3drOIoUe": {
+        "id": "H4bY8v6e3drOIoUe",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Grabble Forden",
+        "prompt": "Fantasy art Grabble Forden dwarf humanoid Male dwarf poison scholar in the style of Greg Rutkowski",
+        "timestamp": 1696785965369,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
