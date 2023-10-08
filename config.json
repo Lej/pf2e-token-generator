@@ -36844,5 +36844,14 @@
         "timestamp": 1696785965391,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "WDTdWiC9Rdl6rqh8": {
+        "id": "WDTdWiC9Rdl6rqh8",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Myrucarx",
+        "prompt": "Fantasy art Myrucarx aberration in the style of Greg Rutkowski",
+        "timestamp": 1696785965392,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
