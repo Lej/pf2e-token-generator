@@ -34738,5 +34738,14 @@
         "timestamp": 1696785965237,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "zFye7hJzzwgajovA": {
+        "id": "zFye7hJzzwgajovA",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Halspin the Stung",
+        "prompt": "Fantasy art Halspin the Stung catfolk humanoid Male catfolk beast-singer in the style of Greg Rutkowski",
+        "timestamp": 1696785965238,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
