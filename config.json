@@ -35206,5 +35206,14 @@
         "timestamp": 1696785965258,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rAsJXFWr1IJatEUm": {
+        "id": "rAsJXFWr1IJatEUm",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Mammoth Turtle",
+        "prompt": "Fantasy art Mammoth Turtle animal Variant giant snapping turtle in the style of Greg Rutkowski",
+        "timestamp": 1696785965258,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
