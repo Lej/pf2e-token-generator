@@ -36232,5 +36232,14 @@
         "timestamp": 1696785965364,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZY3q7AV1qbwWwNl2": {
+        "id": "ZY3q7AV1qbwWwNl2",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Mobana",
+        "prompt": "Fantasy art Mobana halfling humanoid tiefling in the style of Greg Rutkowski",
+        "timestamp": 1696785965365,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
