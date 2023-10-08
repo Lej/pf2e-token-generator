@@ -35728,5 +35728,14 @@
         "timestamp": 1696785965335,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ai7Q9vBHHAGj7uFE": {
+        "id": "ai7Q9vBHHAGj7uFE",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Svartalfar Killer",
+        "prompt": "Fantasy art Svartalfar Killer fey in the style of Greg Rutkowski",
+        "timestamp": 1696785965336,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
