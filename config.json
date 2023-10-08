@@ -34981,5 +34981,14 @@
         "timestamp": 1696785965248,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dTcsY3v9lg4BRrsj": {
+        "id": "dTcsY3v9lg4BRrsj",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Anugobu Apprentice",
+        "prompt": "Fantasy art Anugobu Apprentice anugobu humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965249,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
