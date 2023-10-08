@@ -33883,5 +33883,14 @@
         "timestamp": 1696785964659,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "dPJxDpVcDFDQqwWO": {
+        "id": "dPJxDpVcDFDQqwWO",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Desiak",
+        "prompt": "Fantasy art Desiak aberration humanoid Male fleshwarp warrior in the style of Greg Rutkowski",
+        "timestamp": 1696785964660,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
