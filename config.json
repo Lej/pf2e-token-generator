@@ -33757,5 +33757,14 @@
         "timestamp": 1696785964379,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "jYHPxFsTUS6jGY4a": {
+        "id": "jYHPxFsTUS6jGY4a",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Ticktock",
+        "prompt": "Fantasy art Ticktock fiend velstrac Male storykin variant sacristan velstrac in the style of Greg Rutkowski",
+        "timestamp": 1696785964380,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
