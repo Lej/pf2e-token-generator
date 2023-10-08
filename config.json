@@ -33496,5 +33496,14 @@
         "timestamp": 1696785964339,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Bn7bG2gbyXYj7mzT": {
+        "id": "Bn7bG2gbyXYj7mzT",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Dieral Myrnese",
+        "prompt": "Fantasy art Dieral Myrnese elf humanoid Male elf fence in the style of Greg Rutkowski",
+        "timestamp": 1696785964339,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
