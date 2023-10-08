@@ -34657,5 +34657,14 @@
         "timestamp": 1696785965232,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Sx7Ob64O0e9aIhpO": {
+        "id": "Sx7Ob64O0e9aIhpO",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Syu Tak-nwa (Level 14)",
+        "prompt": "Fantasy art Syu Tak-nwa human humanoid Female Tian-Hwan white-haired witch in the style of Greg Rutkowski",
+        "timestamp": 1696785965233,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
