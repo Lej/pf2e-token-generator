@@ -34495,5 +34495,14 @@
         "timestamp": 1696785965225,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "jnN7fYYndv3oobJJ": {
+        "id": "jnN7fYYndv3oobJJ",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Butterfly Blade Warrior",
+        "prompt": "Fantasy art Butterfly Blade Warrior human humanoid Human royal assassins in the style of Greg Rutkowski",
+        "timestamp": 1696785965225,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
