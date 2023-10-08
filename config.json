@@ -35080,5 +35080,14 @@
         "timestamp": 1696785965252,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "qpbFSs0Z68z58T4m": {
+        "id": "qpbFSs0Z68z58T4m",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Tino Tung (Level 9)",
+        "prompt": "Fantasy art Tino Tung human humanoid Male Tian-Shu paladin of Irori in the style of Greg Rutkowski",
+        "timestamp": 1696785965252,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
