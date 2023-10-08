@@ -35980,5 +35980,14 @@
         "timestamp": 1696785965348,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "AYNIAAxV7TbIKPI4": {
+        "id": "AYNIAAxV7TbIKPI4",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Skitterstitch",
+        "prompt": "Fantasy art Skitterstitch construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696785965349,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
