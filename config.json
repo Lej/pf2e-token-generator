@@ -35197,5 +35197,14 @@
         "timestamp": 1696785965257,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xBSLIoVsZ6I4LOZc": {
+        "id": "xBSLIoVsZ6I4LOZc",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Arms of Balance (Pravan Majinapti)",
+        "prompt": "Fantasy art Arms of Balance Pravan Majinapti human humanoid Male human monk in the style of Greg Rutkowski",
+        "timestamp": 1696785965258,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
