@@ -36376,5 +36376,14 @@
         "timestamp": 1696785965371,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "LkaB8RH73DY4TO9V": {
+        "id": "LkaB8RH73DY4TO9V",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Priest of Blackfingers",
+        "prompt": "Fantasy art Priest of Blackfingers human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965372,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
