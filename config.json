@@ -34468,5 +34468,14 @@
         "timestamp": 1696785965224,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "6z4xzi3yZuGr1Iv7": {
+        "id": "6z4xzi3yZuGr1Iv7",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Spirit Turtle",
+        "prompt": "Fantasy art Spirit Turtle fey in the style of Greg Rutkowski",
+        "timestamp": 1696785965224,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
