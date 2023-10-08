@@ -36403,5 +36403,14 @@
         "timestamp": 1696785965373,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tt5eaS28C4PrHmZD": {
+        "id": "tt5eaS28C4PrHmZD",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "The Inkmaster",
+        "prompt": "Fantasy art The Inkmaster demon fiend Male variant shemhazian in the style of Greg Rutkowski",
+        "timestamp": 1696785965374,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
