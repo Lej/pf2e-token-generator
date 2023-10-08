@@ -37222,5 +37222,14 @@
         "timestamp": 1696785966374,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "romVSuOVkSVFwsN4": {
+        "id": "romVSuOVkSVFwsN4",
+        "compendium": "rusthenge-bestiary",
+        "name": "Clockwork Belimarius",
+        "prompt": "Fantasy art Clockwork Belimarius clockwork construct mindless Variant clockwork mage in the style of Greg Rutkowski",
+        "timestamp": 1696785966375,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
