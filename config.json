@@ -37006,5 +37006,14 @@
         "timestamp": 1696785966107,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "5GZ9o5DlIQIZgLb8": {
+        "id": "5GZ9o5DlIQIZgLb8",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Shinigami",
+        "prompt": "Fantasy art Shinigami monitor in the style of Greg Rutkowski",
+        "timestamp": 1696785966108,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
