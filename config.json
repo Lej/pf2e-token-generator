@@ -35107,5 +35107,14 @@
         "timestamp": 1696785965253,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "sXtwJyM7sWWDQDOU": {
+        "id": "sXtwJyM7sWWDQDOU",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Muckish Creep",
+        "prompt": "Fantasy art Muckish Creep aberration in the style of Greg Rutkowski",
+        "timestamp": 1696785965253,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
