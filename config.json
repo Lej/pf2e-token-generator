@@ -33838,5 +33838,14 @@
         "timestamp": 1696785964658,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HCtfUGao82L0sVBo": {
+        "id": "HCtfUGao82L0sVBo",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Tar Zombie Mammoth",
+        "prompt": "Fantasy art Tar Zombie Mammoth mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1696785964658,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
