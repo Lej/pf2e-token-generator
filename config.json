@@ -33784,5 +33784,14 @@
         "timestamp": 1696785964656,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZZkuo6mOh0SQWC3T": {
+        "id": "ZZkuo6mOh0SQWC3T",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Megaloceros",
+        "prompt": "Fantasy art Megaloceros animal in the style of Greg Rutkowski",
+        "timestamp": 1696785964656,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
