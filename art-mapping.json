@@ -15905,6 +15905,10 @@
         "7LN8clGKJWTpxISR": {
             "actor": "modules/pf2e-ai-token-placeholders/images/agents-of-edgewatch-bestiary/7LN8clGKJWTpxISR/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/agents-of-edgewatch-bestiary/7LN8clGKJWTpxISR/token.webp"
+        },
+        "rm0iJOMwruWSE93I": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/agents-of-edgewatch-bestiary/rm0iJOMwruWSE93I/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/agents-of-edgewatch-bestiary/rm0iJOMwruWSE93I/token.webp"
         }
     }
 }

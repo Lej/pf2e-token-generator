@@ -35602,5 +35602,14 @@
         "timestamp": 1696785965329,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "rm0iJOMwruWSE93I": {
+        "id": "rm0iJOMwruWSE93I",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Olansa Terimor",
+        "prompt": "Fantasy art Olansa Terimor daemon human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965330,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
