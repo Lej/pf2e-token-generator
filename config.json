@@ -35683,5 +35683,14 @@
         "timestamp": 1696785965333,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8LlqjWcqiFq7YMmQ": {
+        "id": "8LlqjWcqiFq7YMmQ",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Agent of the Gray Queen",
+        "prompt": "Fantasy art Agent of the Gray Queen daemon fiend in the style of Greg Rutkowski",
+        "timestamp": 1696785965334,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
