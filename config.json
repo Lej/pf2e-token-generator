@@ -34954,5 +34954,14 @@
         "timestamp": 1696785965247,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "l2oapyRhfCFRsCHX": {
+        "id": "l2oapyRhfCFRsCHX",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Umbasi",
+        "prompt": "Fantasy art Umbasi elf humanoid Pangender elf Uzunjati attendant in the style of Greg Rutkowski",
+        "timestamp": 1696785965248,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
