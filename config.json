@@ -33559,5 +33559,14 @@
         "timestamp": 1696785964347,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "u5o9uU9Saweij7mF": {
+        "id": "u5o9uU9Saweij7mF",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Zashuvin",
+        "prompt": "Fantasy art Zashuvin fiend lilu Female hurlilu in the style of Greg Rutkowski",
+        "timestamp": 1696785964348,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
