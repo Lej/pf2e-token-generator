@@ -36457,5 +36457,14 @@
         "timestamp": 1696785965375,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JnNPdvOXtkGQHyfQ": {
+        "id": "JnNPdvOXtkGQHyfQ",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Gloaming Will-o'-Wisp",
+        "prompt": "Fantasy art Gloaming Will-o'-Wisp aberration air in the style of Greg Rutkowski",
+        "timestamp": 1696785965376,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
