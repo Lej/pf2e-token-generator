@@ -35215,5 +35215,14 @@
         "timestamp": 1696785965258,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RKkIczqYUJkij0Oh": {
+        "id": "RKkIczqYUJkij0Oh",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Blue Viper (Level 14)",
+        "prompt": "Fantasy art Blue Viper humanoid ratfolk Male ysoki poisoner in the style of Greg Rutkowski",
+        "timestamp": 1696785965258,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
