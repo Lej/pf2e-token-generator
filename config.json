@@ -36997,5 +36997,14 @@
         "timestamp": 1696785966107,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "nkayyo1O9RFVBvCW": {
+        "id": "nkayyo1O9RFVBvCW",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Kugaptee's Blessing",
+        "prompt": "Fantasy art Kugaptee's Blessing mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1696785966107,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
