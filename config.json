@@ -35971,5 +35971,14 @@
         "timestamp": 1696785965348,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "gd0sVQtCHbhP8iHI": {
+        "id": "gd0sVQtCHbhP8iHI",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Grospek Lavarsus",
+        "prompt": "Fantasy art Grospek Lavarsus human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965348,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
