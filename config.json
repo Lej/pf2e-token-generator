@@ -36943,5 +36943,14 @@
         "timestamp": 1696785966105,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4fQfYZY6N9oUC9Ws": {
+        "id": "4fQfYZY6N9oUC9Ws",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Jinkin",
+        "prompt": "Fantasy art Jinkin fey gremlin in the style of Greg Rutkowski",
+        "timestamp": 1696785966105,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
