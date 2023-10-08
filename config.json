@@ -33730,5 +33730,14 @@
         "timestamp": 1696785964378,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hqnAjx8pamSAzAmb": {
+        "id": "hqnAjx8pamSAzAmb",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Ildamir",
+        "prompt": "Fantasy art Ildamir beast in the style of Greg Rutkowski",
+        "timestamp": 1696785964379,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
