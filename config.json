@@ -33613,5 +33613,14 @@
         "timestamp": 1696785964357,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "334vtiUd5J507PsX": {
+        "id": "334vtiUd5J507PsX",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Ephialtes",
+        "prompt": "Fantasy art Ephialtes fiend velstrac in the style of Greg Rutkowski",
+        "timestamp": 1696785964357,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
