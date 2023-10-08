@@ -36745,5 +36745,14 @@
         "timestamp": 1696785965387,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vPMmTtvl5UPOcCoa": {
+        "id": "vPMmTtvl5UPOcCoa",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Myrna Rath",
+        "prompt": "Fantasy art Myrna Rath fiend hag humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965388,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
