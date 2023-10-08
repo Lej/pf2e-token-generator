@@ -36007,5 +36007,14 @@
         "timestamp": 1696785965350,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "5pBr5aWUb7yGCqN7": {
+        "id": "5pBr5aWUb7yGCqN7",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Washboard Dog Tough",
+        "prompt": "Fantasy art Washboard Dog Tough human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965351,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
