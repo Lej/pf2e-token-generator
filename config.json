@@ -35305,5 +35305,14 @@
         "timestamp": 1696785965263,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "d7fBEPfzXSeCZZXE": {
+        "id": "d7fBEPfzXSeCZZXE",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Canopy Elder",
+        "prompt": "Fantasy art Canopy Elder plant in the style of Greg Rutkowski",
+        "timestamp": 1696785965263,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
