@@ -36988,5 +36988,14 @@
         "timestamp": 1696785966107,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Cxe6UXbm4kHLNRyC": {
+        "id": "Cxe6UXbm4kHLNRyC",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Very Drunken Jinkin",
+        "prompt": "Fantasy art Very Drunken Jinkin fey gremlin Variant jinkins in the style of Greg Rutkowski",
+        "timestamp": 1696785966107,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
