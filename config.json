@@ -36628,5 +36628,14 @@
         "timestamp": 1696785965382,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TIaZIUb9Mq9B4Mf2": {
+        "id": "TIaZIUb9Mq9B4Mf2",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Bloody Berleth",
+        "prompt": "Fantasy art Bloody Berleth human humanoid orc in the style of Greg Rutkowski",
+        "timestamp": 1696785965383,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
