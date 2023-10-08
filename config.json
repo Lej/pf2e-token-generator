@@ -34819,5 +34819,14 @@
         "timestamp": 1696785965243,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vjONecsFtSFpjNaN": {
+        "id": "vjONecsFtSFpjNaN",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Hantu Denai",
+        "prompt": "Fantasy art Hantu Denai beast hantu incorporeal spirit in the style of Greg Rutkowski",
+        "timestamp": 1696785965243,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
