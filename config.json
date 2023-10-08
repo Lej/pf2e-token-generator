@@ -34108,5 +34108,14 @@
         "timestamp": 1696785964672,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EWT9OXxBuKQLQMHj": {
+        "id": "EWT9OXxBuKQLQMHj",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Rime Sludge",
+        "prompt": "Fantasy art Rime Sludge mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1696785964673,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
