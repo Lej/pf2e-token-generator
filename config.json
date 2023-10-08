@@ -35872,5 +35872,14 @@
         "timestamp": 1696785965344,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "y1tw2ohNagqQJ6RV": {
+        "id": "y1tw2ohNagqQJ6RV",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Skinsaw Seamer",
+        "prompt": "Fantasy art Skinsaw Seamer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965344,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
