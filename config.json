@@ -36520,5 +36520,14 @@
         "timestamp": 1696785965378,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8eBXEszbl4gOHGdU": {
+        "id": "8eBXEszbl4gOHGdU",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Wynsal Starborn",
+        "prompt": "Fantasy art Wynsal Starborn human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965378,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
