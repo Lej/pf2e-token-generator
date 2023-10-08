@@ -36862,5 +36862,14 @@
         "timestamp": 1696785965392,
         "seed": 1024,
         "used_seed": 1026
+    },
+    "4TB1eo3O22khMyDU": {
+        "id": "4TB1eo3O22khMyDU",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Sad Liza",
+        "prompt": "Fantasy art Sad Liza human humanoid tiefling in the style of Greg Rutkowski",
+        "timestamp": 1696785965393,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
