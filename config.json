@@ -36709,5 +36709,14 @@
         "timestamp": 1696785965386,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "oWASKud0jwlGSfJg": {
+        "id": "oWASKud0jwlGSfJg",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Pelmo",
+        "prompt": "Fantasy art Pelmo goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965386,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
