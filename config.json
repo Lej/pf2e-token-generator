@@ -33766,5 +33766,14 @@
         "timestamp": 1696785964380,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "KeOKPlxxBw5m2wly": {
+        "id": "KeOKPlxxBw5m2wly",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Varilyn \"Vare\" Eridge",
+        "prompt": "Fantasy art Varilyn \"Vare\" Eridge halfling humanoid Female halfling ex-crusader in the style of Greg Rutkowski",
+        "timestamp": 1696785964656,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }

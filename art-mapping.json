@@ -15084,5 +15084,11 @@
             "actor": "modules/pf2e-ai-token-placeholders/images/stolen-fate-bestiary/jYHPxFsTUS6jGY4a/actor.webp",
             "token": "modules/pf2e-ai-token-placeholders/images/stolen-fate-bestiary/jYHPxFsTUS6jGY4a/token.webp"
         }
+    },
+    "quest-for-the-frozen-flame-bestiary": {
+        "KeOKPlxxBw5m2wly": {
+            "actor": "modules/pf2e-ai-token-placeholders/images/quest-for-the-frozen-flame-bestiary/KeOKPlxxBw5m2wly/actor.webp",
+            "token": "modules/pf2e-ai-token-placeholders/images/quest-for-the-frozen-flame-bestiary/KeOKPlxxBw5m2wly/token.webp"
+        }
     }
 }
