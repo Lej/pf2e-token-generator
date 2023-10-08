@@ -35575,5 +35575,14 @@
         "timestamp": 1696785965328,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8HTPdiH6yEk0jlNF": {
+        "id": "8HTPdiH6yEk0jlNF",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Pickled Punk",
+        "prompt": "Fantasy art Pickled Punk undead in the style of Greg Rutkowski",
+        "timestamp": 1696785965328,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
