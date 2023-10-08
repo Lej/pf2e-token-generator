@@ -36934,5 +36934,14 @@
         "timestamp": 1696785966104,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "N69YhHyRWfpfvESy": {
+        "id": "N69YhHyRWfpfvESy",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Red-Hooded Thatchling",
+        "prompt": "Fantasy art Red-Hooded Thatchling undead in the style of Greg Rutkowski",
+        "timestamp": 1696785966105,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
