@@ -33244,5 +33244,14 @@
         "timestamp": 1696785964062,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EgAoF7pXBsHxthA0": {
+        "id": "EgAoF7pXBsHxthA0",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Shadow Draugr",
+        "prompt": "Fantasy art Shadow Draugr undead water Variant draugr in the style of Greg Rutkowski",
+        "timestamp": 1696785964062,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
