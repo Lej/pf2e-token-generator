@@ -34144,5 +34144,14 @@
         "timestamp": 1696785964674,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kOLKFJ4Llso96HiD": {
+        "id": "kOLKFJ4Llso96HiD",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Turkek",
+        "prompt": "Fantasy art Turkek dhampir human humanoid Female human dhampir necromancer in the style of Greg Rutkowski",
+        "timestamp": 1696785964675,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
