@@ -33928,5 +33928,14 @@
         "timestamp": 1696785964661,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pQMgLVlFeGjScENC": {
+        "id": "pQMgLVlFeGjScENC",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Azi",
+        "prompt": "Fantasy art Azi human humanoid Female human necromancer in the style of Greg Rutkowski",
+        "timestamp": 1696785964661,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
