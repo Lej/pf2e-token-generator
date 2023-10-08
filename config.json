@@ -34180,5 +34180,14 @@
         "timestamp": 1696785964676,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "kxO7gXbpcmY1pi7p": {
+        "id": "kxO7gXbpcmY1pi7p",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Calcifda",
+        "prompt": "Fantasy art Calcifda earth fey in the style of Greg Rutkowski",
+        "timestamp": 1696785964677,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
