@@ -33802,5 +33802,14 @@
         "timestamp": 1696785964656,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8kGAwppxApSa6vyl": {
+        "id": "8kGAwppxApSa6vyl",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Kadlaka",
+        "prompt": "Fantasy art Kadlaka beast in the style of Greg Rutkowski",
+        "timestamp": 1696785964656,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
