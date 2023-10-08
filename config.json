@@ -34261,5 +34261,14 @@
         "timestamp": 1696785964681,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fnpv7Dg7QJWSdz6z": {
+        "id": "fnpv7Dg7QJWSdz6z",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Animated Blade",
+        "prompt": "Fantasy art Animated Blade construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696785964681,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
