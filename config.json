@@ -34171,5 +34171,14 @@
         "timestamp": 1696785964676,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "L3PGythRjyCdM322": {
+        "id": "L3PGythRjyCdM322",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Tar Zombie Predator",
+        "prompt": "Fantasy art Tar Zombie Predator mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1696785964676,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
