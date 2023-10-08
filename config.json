@@ -36079,5 +36079,14 @@
         "timestamp": 1696785965355,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "MONwgTbrcZFzr6vC": {
+        "id": "MONwgTbrcZFzr6vC",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Antaro Boldblade",
+        "prompt": "Fantasy art Antaro Boldblade human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965356,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
