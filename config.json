@@ -36061,5 +36061,14 @@
         "timestamp": 1696785965355,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZL2qLXwomKfBB8Eu": {
+        "id": "ZL2qLXwomKfBB8Eu",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Dreadsong Dancer",
+        "prompt": "Fantasy art Dreadsong Dancer fiend in the style of Greg Rutkowski",
+        "timestamp": 1696785965355,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
