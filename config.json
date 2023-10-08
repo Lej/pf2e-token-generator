@@ -35710,5 +35710,14 @@
         "timestamp": 1696785965334,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "3XbjmNeUtPLzxDge": {
+        "id": "3XbjmNeUtPLzxDge",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Penqual",
+        "prompt": "Fantasy art Penqual fiend sahkil swarm in the style of Greg Rutkowski",
+        "timestamp": 1696785965335,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
