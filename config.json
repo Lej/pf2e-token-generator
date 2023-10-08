@@ -36754,5 +36754,14 @@
         "timestamp": 1696785965388,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Rinxhe1cRXKEsXuW": {
+        "id": "Rinxhe1cRXKEsXuW",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Tyrroicese",
+        "prompt": "Fantasy art Tyrroicese construct ooze in the style of Greg Rutkowski",
+        "timestamp": 1696785965388,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
