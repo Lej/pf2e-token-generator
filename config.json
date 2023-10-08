@@ -35701,5 +35701,14 @@
         "timestamp": 1696785965334,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "1UtsScuNjmgwMZRn": {
+        "id": "1UtsScuNjmgwMZRn",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Excorion Paragon",
+        "prompt": "Fantasy art Excorion Paragon undead in the style of Greg Rutkowski",
+        "timestamp": 1696785965334,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
