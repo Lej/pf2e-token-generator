@@ -37060,5 +37060,14 @@
         "timestamp": 1696785966109,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "APu2EqTJ4QdHkwtR": {
+        "id": "APu2EqTJ4QdHkwtR",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Noppera-bo Trickster",
+        "prompt": "Fantasy art Noppera-bo Trickster aberration in the style of Greg Rutkowski",
+        "timestamp": 1696785966110,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
