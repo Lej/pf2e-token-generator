@@ -36655,5 +36655,14 @@
         "timestamp": 1696785965383,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eqwAdGsAk5JZKxUY": {
+        "id": "eqwAdGsAk5JZKxUY",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Gage Carlyle",
+        "prompt": "Fantasy art Gage Carlyle human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965384,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
