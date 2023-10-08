@@ -35287,5 +35287,14 @@
         "timestamp": 1696785965262,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "k5UjbiYr87NVK7qp": {
+        "id": "k5UjbiYr87NVK7qp",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Rivka (Cimurlian)",
+        "prompt": "Fantasy art Rivka Cimurlian aberration in the style of Greg Rutkowski",
+        "timestamp": 1696785965263,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
