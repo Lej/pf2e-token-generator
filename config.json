@@ -36466,5 +36466,14 @@
         "timestamp": 1696785965376,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pfHOwcITyC4gdCVu": {
+        "id": "pfHOwcITyC4gdCVu",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Garrote Master Assassin",
+        "prompt": "Fantasy art Garrote Master Assassin human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965376,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
