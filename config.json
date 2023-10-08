@@ -34369,5 +34369,14 @@
         "timestamp": 1696785964687,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "OpPfAFkJ1ctWAWdq": {
+        "id": "OpPfAFkJ1ctWAWdq",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Syarstik Painted-Tiger",
+        "prompt": "Fantasy art Syarstik Painted-Tiger ghost incorporeal spirit undead Male awakened smilodon ghost in the style of Greg Rutkowski",
+        "timestamp": 1696785964687,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
