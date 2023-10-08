@@ -37186,5 +37186,14 @@
         "timestamp": 1696785966372,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ye8Niis34NfY30TS": {
+        "id": "ye8Niis34NfY30TS",
+        "compendium": "rusthenge-bestiary",
+        "name": "Ordwi",
+        "prompt": "Fantasy art Ordwi human humanoid Female human cleric of Cayden Cailean in the style of Greg Rutkowski",
+        "timestamp": 1696785966373,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
