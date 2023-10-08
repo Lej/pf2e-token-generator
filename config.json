@@ -36538,5 +36538,14 @@
         "timestamp": 1696785965378,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "M8ONVV7yl4uu0zcz": {
+        "id": "M8ONVV7yl4uu0zcz",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Ixusoth",
+        "prompt": "Fantasy art Ixu h aberration Female hyakume brainwasher in the style of Greg Rutkowski",
+        "timestamp": 1696785965379,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
