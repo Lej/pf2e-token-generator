@@ -36916,5 +36916,14 @@
         "timestamp": 1696785966103,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "I9BbG4LH6LP4zlhK": {
+        "id": "I9BbG4LH6LP4zlhK",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Phantom Boar",
+        "prompt": "Fantasy art Phantom Boar ethereal incorporeal phantom spirit Variant phantom in the style of Greg Rutkowski",
+        "timestamp": 1696785966104,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
