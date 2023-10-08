@@ -35854,5 +35854,14 @@
         "timestamp": 1696785965342,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xN3FDmrCKWW0psBu": {
+        "id": "xN3FDmrCKWW0psBu",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Sleepless Sun Veteran",
+        "prompt": "Fantasy art Sleepless Sun Veteran humanoid human in the style of Greg Rutkowski",
+        "timestamp": 1696785965342,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
