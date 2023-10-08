@@ -35053,5 +35053,14 @@
         "timestamp": 1696785965251,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "ofYZYIZTkakVj2R0": {
+        "id": "ofYZYIZTkakVj2R0",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Ji-yook (Gumiho Form)",
+        "prompt": "Fantasy art Ji-yook Gumiho Form humanoid kitsune in the style of Greg Rutkowski",
+        "timestamp": 1696785965251,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
