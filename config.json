@@ -33748,5 +33748,14 @@
         "timestamp": 1696785964379,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JkEOtgyLkiuw5Nod": {
+        "id": "JkEOtgyLkiuw5Nod",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Mighty Bul-Gae",
+        "prompt": "Fantasy art Mighty Bul-Gae beast cold fire Variant bul\u2011gae in the style of Greg Rutkowski",
+        "timestamp": 1696785964379,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
