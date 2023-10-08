@@ -37069,5 +37069,14 @@
         "timestamp": 1696785966110,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GtI25Mqe9uQxandy": {
+        "id": "GtI25Mqe9uQxandy",
+        "compendium": "rusthenge-bestiary",
+        "name": "Glutu",
+        "prompt": "Fantasy art Glutu amphibious boggard humanoid Male variant boggard swampseer in the style of Greg Rutkowski",
+        "timestamp": 1696785966367,
+        "seed": 1024,
+        "used_seed": 1027
     }
 }
