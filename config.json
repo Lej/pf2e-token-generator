@@ -34567,5 +34567,14 @@
         "timestamp": 1696785965228,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "T5KMiSE8W1R8ChbV": {
+        "id": "T5KMiSE8W1R8ChbV",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Grave Spinosaurus",
+        "prompt": "Fantasy art Grave Spinosaurus animal dinosaur Variant spinosaurus in the style of Greg Rutkowski",
+        "timestamp": 1696785965228,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
