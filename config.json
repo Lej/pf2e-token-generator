@@ -36304,5 +36304,14 @@
         "timestamp": 1696785965367,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "QQkbvOCif8Bm1wws": {
+        "id": "QQkbvOCif8Bm1wws",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Izfiitar",
+        "prompt": "Fantasy art Izfiitar monitor protean in the style of Greg Rutkowski",
+        "timestamp": 1696785965367,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
