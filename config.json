@@ -36673,5 +36673,14 @@
         "timestamp": 1696785965384,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "CLntGVs7cAIL9Trk": {
+        "id": "CLntGVs7cAIL9Trk",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Scathka",
+        "prompt": "Fantasy art Scathka elf human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965385,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
