@@ -37096,5 +37096,14 @@
         "timestamp": 1696785966367,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "vQeUoEfY80yBs0Bb": {
+        "id": "vQeUoEfY80yBs0Bb",
+        "compendium": "rusthenge-bestiary",
+        "name": "Zaiox",
+        "prompt": "Fantasy art Zaiox dero humanoid Variant male dero magister in the style of Greg Rutkowski",
+        "timestamp": 1696785966368,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
