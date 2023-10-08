@@ -34225,5 +34225,14 @@
         "timestamp": 1696785964679,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "lJJ81JBAIuI72Fq2": {
+        "id": "lJJ81JBAIuI72Fq2",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Zombie Megaloceros",
+        "prompt": "Fantasy art Zombie Megaloceros mindless undead zombie Variant megaloceros in the style of Greg Rutkowski",
+        "timestamp": 1696785964680,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
