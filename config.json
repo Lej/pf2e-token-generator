@@ -35449,5 +35449,14 @@
         "timestamp": 1696785965270,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "TTEcqxuMqzIdkX6q": {
+        "id": "TTEcqxuMqzIdkX6q",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Troff Frostknuckles",
+        "prompt": "Fantasy art Troff Frostknuckles goblin humanoid Male hobgoblin brawler in the style of Greg Rutkowski",
+        "timestamp": 1696785965270,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
