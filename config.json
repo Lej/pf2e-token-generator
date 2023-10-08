@@ -36169,5 +36169,14 @@
         "timestamp": 1696785965362,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "2uxm1SxZXaG0ynCp": {
+        "id": "2uxm1SxZXaG0ynCp",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Pulping Golem",
+        "prompt": "Fantasy art Pulping Golem construct golem mindless Variant elite iron golem in the style of Greg Rutkowski",
+        "timestamp": 1696785965363,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
