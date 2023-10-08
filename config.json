@@ -34450,5 +34450,14 @@
         "timestamp": 1696785965223,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tfBczpCPNVnRE8pJ": {
+        "id": "tfBczpCPNVnRE8pJ",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Yoh Souran",
+        "prompt": "Fantasy art Yoh Souran human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965223,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
