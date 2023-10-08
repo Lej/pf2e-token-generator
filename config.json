@@ -37015,5 +37015,14 @@
         "timestamp": 1696785966108,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0QfL4oXQrDfhfZDs": {
+        "id": "0QfL4oXQrDfhfZDs",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Hu Ban-Niang",
+        "prompt": "Fantasy art Hu Ban-Niang human humanoid Female human guard captain in the style of Greg Rutkowski",
+        "timestamp": 1696785966108,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
