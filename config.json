@@ -35647,5 +35647,14 @@
         "timestamp": 1696785965332,
         "seed": 1024,
         "used_seed": 1025
+    },
+    "IKfYWE1NLVNLCXZm": {
+        "id": "IKfYWE1NLVNLCXZm",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Blune's Illusory Toady",
+        "prompt": "Fantasy art Blune's Illusory Toady incorporeal protean in the style of Greg Rutkowski",
+        "timestamp": 1696785965332,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
