@@ -33712,5 +33712,14 @@
         "timestamp": 1696785964373,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mLDzt35dEHUimp1E": {
+        "id": "mLDzt35dEHUimp1E",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Demonic Rabble",
+        "prompt": "Fantasy art Demonic Rabble demon fiend troop in the style of Greg Rutkowski",
+        "timestamp": 1696785964374,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
