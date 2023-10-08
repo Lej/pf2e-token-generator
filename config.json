@@ -33532,5 +33532,14 @@
         "timestamp": 1696785964344,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "GzkJGkSYO512zr80": {
+        "id": "GzkJGkSYO512zr80",
+        "compendium": "stolen-fate-bestiary",
+        "name": "The Betrayal",
+        "prompt": "Fantasy art The Betrayal construct Variant fabled harrowkin in the style of Greg Rutkowski",
+        "timestamp": 1696785964345,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
