@@ -36349,5 +36349,14 @@
         "timestamp": 1696785965369,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "sn9Pjkr2jlMEqc3E": {
+        "id": "sn9Pjkr2jlMEqc3E",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Eunice",
+        "prompt": "Fantasy art Eunice human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965370,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
