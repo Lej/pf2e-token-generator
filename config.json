@@ -36556,5 +36556,14 @@
         "timestamp": 1696785965379,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Uhi3wX4KveuMSARt": {
+        "id": "Uhi3wX4KveuMSARt",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Giant Joro Spider",
+        "prompt": "Fantasy art Giant Joro Spider animal in the style of Greg Rutkowski",
+        "timestamp": 1696785965379,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
