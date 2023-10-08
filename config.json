@@ -34198,5 +34198,14 @@
         "timestamp": 1696785964678,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BPZryWdi6LB9N9KC": {
+        "id": "BPZryWdi6LB9N9KC",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Crawling Hand Swarm",
+        "prompt": "Fantasy art Crawling Hand Swarm swarm undead in the style of Greg Rutkowski",
+        "timestamp": 1696785964678,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
