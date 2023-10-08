@@ -35116,5 +35116,14 @@
         "timestamp": 1696785965253,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "v85RucvwE8lGq7oY": {
+        "id": "v85RucvwE8lGq7oY",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Manananggal",
+        "prompt": "Fantasy art Manananggal aberration tanggal in the style of Greg Rutkowski",
+        "timestamp": 1696785965254,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
