@@ -34630,5 +34630,14 @@
         "timestamp": 1696785965230,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "blm15iXMR3Lbwdom": {
+        "id": "blm15iXMR3Lbwdom",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Mafika Ayuwari",
+        "prompt": "Fantasy art Mafika Ayuwari human humanoid Male Zenj Tempest-Sun halcyon speaker in the style of Greg Rutkowski",
+        "timestamp": 1696785965231,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
