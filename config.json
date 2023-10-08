@@ -33658,5 +33658,14 @@
         "timestamp": 1696785964360,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Rb85EObfBTL5Q3tU": {
+        "id": "Rb85EObfBTL5Q3tU",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Derhii",
+        "prompt": "Fantasy art Derhii humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785964361,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
