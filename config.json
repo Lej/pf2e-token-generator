@@ -34153,5 +34153,14 @@
         "timestamp": 1696785964675,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "hh9uR1teglhRRhY8": {
+        "id": "hh9uR1teglhRRhY8",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Loblobi",
+        "prompt": "Fantasy art Loblobi fey in the style of Greg Rutkowski",
+        "timestamp": 1696785964676,
+        "seed": 1024,
+        "used_seed": 1028
     }
 }
