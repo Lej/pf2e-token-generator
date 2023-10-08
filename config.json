@@ -36484,5 +36484,14 @@
         "timestamp": 1696785965376,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "HifZEgdCuZearOG2": {
+        "id": "HifZEgdCuZearOG2",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Clockwork Amalgam",
+        "prompt": "Fantasy art Clockwork Amalgam clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696785965376,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
