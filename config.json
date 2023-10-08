@@ -34702,5 +34702,14 @@
         "timestamp": 1696785965235,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zNOSSDaaCozimqaS": {
+        "id": "zNOSSDaaCozimqaS",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Jaiban",
+        "prompt": "Fantasy art Jaiban beast Legendary beast of Bonmu in the style of Greg Rutkowski",
+        "timestamp": 1696785965235,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
