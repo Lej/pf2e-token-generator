@@ -35170,5 +35170,14 @@
         "timestamp": 1696785965256,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ew2WOdIU5njPMzok": {
+        "id": "ew2WOdIU5njPMzok",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Watchtower Shadow",
+        "prompt": "Fantasy art Watchtower Shadow incorporeal undead Variant shadow in the style of Greg Rutkowski",
+        "timestamp": 1696785965256,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
