@@ -35071,5 +35071,14 @@
         "timestamp": 1696785965252,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xiQIw7iFjOizo3Fm": {
+        "id": "xiQIw7iFjOizo3Fm",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Akila Stormheel",
+        "prompt": "Fantasy art Akila Stormheel halfling humanoid Female halfling Emerald Boughs attendant in the style of Greg Rutkowski",
+        "timestamp": 1696785965252,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
