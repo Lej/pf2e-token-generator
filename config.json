@@ -35503,5 +35503,14 @@
         "timestamp": 1696785965274,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QhFUhlZl1bvUrtPs": {
+        "id": "QhFUhlZl1bvUrtPs",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Rai Sho Postulant",
+        "prompt": "Fantasy art Rai Sho Postulant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965274,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
