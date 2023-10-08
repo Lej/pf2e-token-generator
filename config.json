@@ -35494,5 +35494,14 @@
         "timestamp": 1696785965273,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "JFa9WD0nXOTgFGha": {
+        "id": "JFa9WD0nXOTgFGha",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Golarion's Finest (Numoriz)",
+        "prompt": "Fantasy art Golarion's Finest Numoriz human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965274,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
