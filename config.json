@@ -34018,5 +34018,14 @@
         "timestamp": 1696785964667,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QC2noL9T0y8Ny5eU": {
+        "id": "QC2noL9T0y8Ny5eU",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Lomok",
+        "prompt": "Fantasy art Lomok aasimar human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785964668,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
