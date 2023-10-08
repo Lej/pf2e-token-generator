@@ -35035,5 +35035,14 @@
         "timestamp": 1696785965250,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "RCbSoJ0Kg6ovGnRG": {
+        "id": "RCbSoJ0Kg6ovGnRG",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Hantu Belian",
+        "prompt": "Fantasy art Hantu Belian beast hantu incorporeal spirit in the style of Greg Rutkowski",
+        "timestamp": 1696785965251,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
