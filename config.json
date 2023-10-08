@@ -34909,5 +34909,14 @@
         "timestamp": 1696785965245,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "4RaeyGxw5EgagDZE": {
+        "id": "4RaeyGxw5EgagDZE",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Surjit Hamelan",
+        "prompt": "Fantasy art Surjit Hamelan gnoll humanoid Male gnome Rain-Scribe attendant in the style of Greg Rutkowski",
+        "timestamp": 1696785965246,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
