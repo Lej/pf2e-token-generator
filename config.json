@@ -33253,5 +33253,14 @@
         "timestamp": 1696785964062,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "k59XSuksLe81FTRe": {
+        "id": "k59XSuksLe81FTRe",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Draugr Captain",
+        "prompt": "Fantasy art Draugr Captain undead water Variant draugr in the style of Greg Rutkowski",
+        "timestamp": 1696785964063,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
