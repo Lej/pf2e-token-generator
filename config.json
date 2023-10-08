@@ -37078,5 +37078,14 @@
         "timestamp": 1696785966367,
         "seed": 1024,
         "used_seed": 1027
+    },
+    "ARjMJb6LCtwdNDM6": {
+        "id": "ARjMJb6LCtwdNDM6",
+        "compendium": "rusthenge-bestiary",
+        "name": "Rustsworn Initiate",
+        "prompt": "Fantasy art Rustsworn Initiate human humanoid Human cultist in the style of Greg Rutkowski",
+        "timestamp": 1696785966367,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
