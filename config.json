@@ -35062,5 +35062,14 @@
         "timestamp": 1696785965251,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Lsa0Q8aU8aPWjFYv": {
+        "id": "Lsa0Q8aU8aPWjFYv",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Kannitri",
+        "prompt": "Fantasy art Kannitri ghost incorporeal spirit undead Female human ghost monk in the style of Greg Rutkowski",
+        "timestamp": 1696785965252,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
