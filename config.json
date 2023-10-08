@@ -34288,5 +34288,14 @@
         "timestamp": 1696785964683,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tgUdk3pTQ6yHHLTH": {
+        "id": "tgUdk3pTQ6yHHLTH",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Giant Tapir",
+        "prompt": "Fantasy art Giant Tapir animal in the style of Greg Rutkowski",
+        "timestamp": 1696785964683,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
