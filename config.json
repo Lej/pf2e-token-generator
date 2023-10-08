@@ -34972,5 +34972,14 @@
         "timestamp": 1696785965248,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ZoBq423Q9PMa3rDV": {
+        "id": "ZoBq423Q9PMa3rDV",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Master Xun",
+        "prompt": "Fantasy art Master Xun human humanoid Tian-Shu Golden League ruffians in the style of Greg Rutkowski",
+        "timestamp": 1696785965248,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
