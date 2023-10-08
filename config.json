@@ -35782,5 +35782,14 @@
         "timestamp": 1696785965338,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "07AGJt4ZRjwH85Xp": {
+        "id": "07AGJt4ZRjwH85Xp",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Mother Venom",
+        "prompt": "Fantasy art Mother Venom aberration in the style of Greg Rutkowski",
+        "timestamp": 1696785965339,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
