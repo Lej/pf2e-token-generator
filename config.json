@@ -33694,5 +33694,14 @@
         "timestamp": 1696785964366,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "pFs3lFkXrwNNUsDf": {
+        "id": "pFs3lFkXrwNNUsDf",
+        "compendium": "stolen-fate-bestiary",
+        "name": "Mercenary Assassin",
+        "prompt": "Fantasy art Mercenary Assassin human humanoid Human assassin in the style of Greg Rutkowski",
+        "timestamp": 1696785964372,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
