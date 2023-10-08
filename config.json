@@ -33226,5 +33226,14 @@
         "timestamp": 1696160111817,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "ep7eL4vrN4F6YCdd": {
+        "id": "ep7eL4vrN4F6YCdd",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Elite Arisen Umbral Pixie",
+        "prompt": "Fantasy art Elite Arisen Umbral Pixie fey shadow sprite undead in the style of Greg Rutkowski",
+        "timestamp": 1696785964062,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
