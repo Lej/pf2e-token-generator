@@ -33856,5 +33856,14 @@
         "timestamp": 1696785964659,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "EyyCB9QBJKpsap5b": {
+        "id": "EyyCB9QBJKpsap5b",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Graylok Gatebreaker",
+        "prompt": "Fantasy art Graylok Gatebreaker cold giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785964659,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
