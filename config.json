@@ -35899,5 +35899,14 @@
         "timestamp": 1696785965344,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "0ti3f4fdcB5D2bLB": {
+        "id": "0ti3f4fdcB5D2bLB",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Casino Bouncer",
+        "prompt": "Fantasy art Casino Bouncer human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965345,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
