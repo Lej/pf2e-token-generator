@@ -36583,5 +36583,14 @@
         "timestamp": 1696785965380,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "QBlBYsxySiBMxf22": {
+        "id": "QBlBYsxySiBMxf22",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Zeal-damned Ghoul",
+        "prompt": "Fantasy art Zeal-damned Ghoul ghoul undead in the style of Greg Rutkowski",
+        "timestamp": 1696785965380,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
