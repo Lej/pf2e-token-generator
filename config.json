@@ -36691,5 +36691,14 @@
         "timestamp": 1696785965385,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "tm8vQ7gdAe9zVdDg": {
+        "id": "tm8vQ7gdAe9zVdDg",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Vaultbreaker Ooze",
+        "prompt": "Fantasy art Vaultbreaker Ooze mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1696785965385,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
