@@ -33325,5 +33325,14 @@
         "timestamp": 1696785964066,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "mU6Ut1p451lLZslX": {
+        "id": "mU6Ut1p451lLZslX",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Ghessa",
+        "prompt": "Fantasy art Ghessa undead Variant female kurobozu in the style of Greg Rutkowski",
+        "timestamp": 1696785964066,
+        "seed": 1024,
+        "used_seed": 1025
     }
 }
