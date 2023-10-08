@@ -33964,5 +33964,14 @@
         "timestamp": 1696785964663,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "iEOeCyL10neiaShj": {
+        "id": "iEOeCyL10neiaShj",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Giant Tapir (Snared)",
+        "prompt": "Fantasy art Giant Tapir Snared animal in the style of Greg Rutkowski",
+        "timestamp": 1696785964663,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
