@@ -35557,5 +35557,14 @@
         "timestamp": 1696785965327,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "xkkj0TW6BKNT3Bg4": {
+        "id": "xkkj0TW6BKNT3Bg4",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Diobel Sweeper Tough",
+        "prompt": "Fantasy art Diobel Sweeper Tough human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965327,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
