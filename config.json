@@ -35908,5 +35908,14 @@
         "timestamp": 1696785965345,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "BoFg19e3N8WiNa3Z": {
+        "id": "BoFg19e3N8WiNa3Z",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "The Stabbing Beast",
+        "prompt": "Fantasy art The Stabbing Beast fiend herald in the style of Greg Rutkowski",
+        "timestamp": 1696785965345,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
