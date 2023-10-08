@@ -36322,5 +36322,14 @@
         "timestamp": 1696785965368,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "fV5VIoXMtixmI3Wc": {
+        "id": "fV5VIoXMtixmI3Wc",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Clockwork Assassin",
+        "prompt": "Fantasy art Clockwork Assassin clockwork construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1696785965368,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
