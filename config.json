@@ -37033,5 +37033,14 @@
         "timestamp": 1696785966109,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "R805QpID53EycZ5E": {
+        "id": "R805QpID53EycZ5E",
+        "compendium": "season-of-ghosts-bestiary",
+        "name": "Phantom Wolf",
+        "prompt": "Fantasy art Phantom Wolf ethereal incorporeal phantom spirit Variant phantom in the style of Greg Rutkowski",
+        "timestamp": 1696785966109,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
