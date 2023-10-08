@@ -36106,5 +36106,14 @@
         "timestamp": 1696785965357,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "cLlOUUpCIAQwUuOP": {
+        "id": "cLlOUUpCIAQwUuOP",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Il'setsya Wyrmtouched",
+        "prompt": "Fantasy art Il'setsya Wyrmtouched ganzi humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965358,
+        "seed": 1024,
+        "used_seed": 1026
     }
 }
