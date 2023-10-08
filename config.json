@@ -35881,5 +35881,14 @@
         "timestamp": 1696785965344,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "zrh3MrS68H2gPlVs": {
+        "id": "zrh3MrS68H2gPlVs",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Tenome",
+        "prompt": "Fantasy art Tenome humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965344,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
