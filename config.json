@@ -34792,5 +34792,14 @@
         "timestamp": 1696785965240,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "eVKjtiQtDaJpk9Ra": {
+        "id": "eVKjtiQtDaJpk9Ra",
+        "compendium": "fists-of-the-ruby-phoenix-bestiary",
+        "name": "Sixth Pillar Student",
+        "prompt": "Fantasy art Sixth Pillar Student human humanoid nagaji Nagaji and human sorcerous monks in the style of Greg Rutkowski",
+        "timestamp": 1696785965242,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
