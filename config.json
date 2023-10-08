@@ -36610,5 +36610,14 @@
         "timestamp": 1696785965381,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "r3j5KEvULFP3fZS7": {
+        "id": "r3j5KEvULFP3fZS7",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Grimwold",
+        "prompt": "Fantasy art Grimwold human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965381,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
