@@ -33370,5 +33370,14 @@
         "timestamp": 1696785964070,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "8Zj3XDNa07fjkWAq": {
+        "id": "8Zj3XDNa07fjkWAq",
+        "compendium": "pfs-season-5-bestiary",
+        "name": "Arisen Shadow Pixie",
+        "prompt": "Fantasy art Arisen Shadow Pixie fey shadow sprite undead in the style of Greg Rutkowski",
+        "timestamp": 1696785964070,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
