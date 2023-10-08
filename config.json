@@ -33910,5 +33910,14 @@
         "timestamp": 1696785964660,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "Z637TaszmZsJTmBZ": {
+        "id": "Z637TaszmZsJTmBZ",
+        "compendium": "quest-for-the-frozen-flame-bestiary",
+        "name": "Tar Zombie Snatcher",
+        "prompt": "Fantasy art Tar Zombie Snatcher mindless undead zombie in the style of Greg Rutkowski",
+        "timestamp": 1696785964660,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
