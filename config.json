@@ -35944,5 +35944,14 @@
         "timestamp": 1696785965346,
         "seed": 1024,
         "used_seed": 1024
+    },
+    "gIcReNQOZceZBBlw": {
+        "id": "gIcReNQOZceZBBlw",
+        "compendium": "agents-of-edgewatch-bestiary",
+        "name": "Jonis Flakfatter",
+        "prompt": "Fantasy art Jonis Flakfatter human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1696785965347,
+        "seed": 1024,
+        "used_seed": 1024
     }
 }
