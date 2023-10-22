@@ -15,13 +15,13 @@ jobs:
           version: 1.0.${{github.run_number}}
           url: https://github.com/${{github.repository}}
           manifest: https://github.com/${{github.repository}}/releases/latest/download/module.json
-          download: https://github.com/${{github.repository}}/releases/download/${{github.run_number}}/module.zip
+          download: https://github.com/${{github.repository}}/releases/download/v${{github.run_number}}/module.zip
       - run: zip -r ./module.zip module.json art-mapping.json images/
       - name: Create Release
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true #An optional flag which indicates if we should update a release if it already exists. Defaults to false.
-          name: ${{github.run_number}}
+          name: v${{github.run_number}}
           tag: v${{github.run_number}}
           token: ${{ secrets.PAT }}
           artifacts: "./module.json, ./module.zip"
