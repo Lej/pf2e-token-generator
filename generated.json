@@ -13070,10 +13070,9 @@
     },
     "ImdKLPgazv4MSI0F": {
         "id": "ImdKLPgazv4MSI0F",
-        "prompt": "Fantasy art Barrister human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695572870583,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Barrister human humanoid lawful in the style of Greg Rutkowski",
+        "timestamp": 1711647979881,
+        "seed": 1024
     },
     "GoGNtiHuYycppLPk": {
         "id": "GoGNtiHuYycppLPk",
