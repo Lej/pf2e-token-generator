@@ -1,8 +1,8 @@
 {
     "CJuHwIRCAgTB1SEl": {
         "id": "CJuHwIRCAgTB1SEl",
-        "prompt": "Fantasy art Red Kobold Dragon Mage humanoid kobold in the style of Greg Rutkowski",
-        "timestamp": 1697999570460,
+        "prompt": "Fantasy art Kobold Dragon Mage Red, BB humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1720257276025,
         "seed": 1024
     },
     "ZMr28tFTA5NUcBTi": {
@@ -58,8 +58,8 @@
     },
     "WPsgrCUSFCqgDvJi": {
         "id": "WPsgrCUSFCqgDvJi",
-        "prompt": "Fantasy art Juvenile Horned Dragon amphibious dragon in the style of Greg Rutkowski",
-        "timestamp": 1711647302906,
+        "prompt": "Fantasy art Horned Dragon Juvenile, BB amphibious dragon in the style of Greg Rutkowski",
+        "timestamp": 1720257284721,
         "seed": 1024
     },
     "gvCCATlH9mPGWbsp": {
@@ -90,10 +90,9 @@
     },
     "QaldZV2p9RpMXzzn": {
         "id": "QaldZV2p9RpMXzzn",
-        "prompt": "Fantasy art Green Kobold Dragon Mage humanoid kobold in the style of Greg Rutkowski",
-        "timestamp": 1695502440570,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Kobold Dragon Mage Green, BB humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1720257250364,
+        "seed": 1024
     },
     "AYwdybUfm4meGUTJ": {
         "id": "AYwdybUfm4meGUTJ",
@@ -124,10 +123,9 @@
     },
     "93hZtLl9pRRfqI05": {
         "id": "93hZtLl9pRRfqI05",
-        "prompt": "Fantasy art Blue Kobold Dragon Mage humanoid kobold in the style of Greg Rutkowski",
-        "timestamp": 1695502440572,
-        "seed": 1024,
-        "used_seed": 1025
+        "prompt": "Fantasy art Kobold Dragon Mage Blue, BB humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1720257267436,
+        "seed": 1024
     },
     "EtRqBsWh1Hv1toqh": {
         "id": "EtRqBsWh1Hv1toqh",
@@ -217,10 +215,9 @@
     },
     "R9eoGwQ2tudxUKxS": {
         "id": "R9eoGwQ2tudxUKxS",
-        "prompt": "Fantasy art Black Kobold Dragon Mage humanoid kobold in the style of Greg Rutkowski",
-        "timestamp": 1695502440575,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Kobold Dragon Mage Black, BB humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1720257293187,
+        "seed": 1024
     },
     "0oWKApY5FR8IO7GG": {
         "id": "0oWKApY5FR8IO7GG",
@@ -231,10 +228,9 @@
     },
     "kCRfBZqCugMQmdpd": {
         "id": "kCRfBZqCugMQmdpd",
-        "prompt": "Fantasy art White Kobold Dragon Mage humanoid kobold in the style of Greg Rutkowski",
-        "timestamp": 1695502440576,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Kobold Dragon Mage White, BB humanoid kobold in the style of Greg Rutkowski",
+        "timestamp": 1720257258878,
+        "seed": 1024
     },
     "AleeS0IRqT4tUphB": {
         "id": "AleeS0IRqT4tUphB",
@@ -1678,10 +1674,9 @@
     },
     "T2lqHFAnZ1u6Z6MD": {
         "id": "T2lqHFAnZ1u6Z6MD",
-        "prompt": "Fantasy art Doatara the Priest human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695502440679,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Doatara the Priest evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1720257310886,
+        "seed": 1024
     },
     "iPhDi4SU6pbTJmef": {
         "id": "iPhDi4SU6pbTJmef",
@@ -1705,10 +1700,9 @@
     },
     "8BMVxqhcdNtdStUj": {
         "id": "8BMVxqhcdNtdStUj",
-        "prompt": "Fantasy art Scented Candle Homunculus construct Variant homunculus in the style of Greg Rutkowski",
-        "timestamp": 1695502440680,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Scented Candle Homunculus construct evil Variant homunculus in the style of Greg Rutkowski",
+        "timestamp": 1720257395301,
+        "seed": 1024
     },
     "3oCs4xRge4oXjQC4": {
         "id": "3oCs4xRge4oXjQC4",
@@ -1726,17 +1720,15 @@
     },
     "OvM1oLgQ7V2qa3vy": {
         "id": "OvM1oLgQ7V2qa3vy",
-        "prompt": "Fantasy art Cultist of Alocer human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695502440682,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Cultist of Alocer evil human humanoid lawful in the style of Greg Rutkowski",
+        "timestamp": 1720257386866,
+        "seed": 1024
     },
     "PbCcYOGqsDU96a4y": {
         "id": "PbCcYOGqsDU96a4y",
-        "prompt": "Fantasy art Giant Pirate Skeleton mindless skeleton undead in the style of Greg Rutkowski",
-        "timestamp": 1695502440682,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Giant Pirate Skeleton evil mindless skeleton undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1720257319386,
+        "seed": 1024
     },
     "ki4Wf1p5DlJaIYmU": {
         "id": "ki4Wf1p5DlJaIYmU",
@@ -1761,24 +1753,21 @@
     },
     "pPk3CgAHycfQZno7": {
         "id": "pPk3CgAHycfQZno7",
-        "prompt": "Fantasy art Kelorbeyan Guard human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695502440683,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Kelorbeyan Guard evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1720257344550,
+        "seed": 1024
     },
     "I9nJltbnjRRTKjoj": {
         "id": "I9nJltbnjRRTKjoj",
-        "prompt": "Fantasy art Vilm fey gremlin Variant jinkin ripclaw in the style of Greg Rutkowski",
-        "timestamp": 1695502440684,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Vilm chaotic evil fey gremlin Variant jinkin ripclaw in the style of Greg Rutkowski",
+        "timestamp": 1720257352983,
+        "seed": 1024
     },
     "RGcXNLz4TaziTInr": {
         "id": "RGcXNLz4TaziTInr",
-        "prompt": "Fantasy art Pairaka div fiend rituals in the style of Greg Rutkowski",
-        "timestamp": 1695502440684,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Pairaka div evil fiend lawful unholy rituals in the style of Greg Rutkowski",
+        "timestamp": 1720257378394,
+        "seed": 1024
     },
     "BFTodEMAuiYhte03": {
         "id": "BFTodEMAuiYhte03",
@@ -1789,17 +1778,15 @@
     },
     "hfoTGdl5WdS5s1Ss": {
         "id": "hfoTGdl5WdS5s1Ss",
-        "prompt": "Fantasy art Taxidermic Dog mindless undead in the style of Greg Rutkowski",
-        "timestamp": 1695502440685,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Taxidermic Dog evil mindless undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1720257369962,
+        "seed": 1024
     },
     "VKHaguCFtnDVMXTz": {
         "id": "VKHaguCFtnDVMXTz",
-        "prompt": "Fantasy art Jinkin Ripclaw fey gremlin in the style of Greg Rutkowski",
-        "timestamp": 1695502440685,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Jinkin Ripclaw chaotic evil fey gremlin in the style of Greg Rutkowski",
+        "timestamp": 1720257361520,
+        "seed": 1024
     },
     "ws7D95828SXNi4Vp": {
         "id": "ws7D95828SXNi4Vp",
@@ -1810,10 +1797,9 @@
     },
     "SoSFKK1TmqMqtnuR": {
         "id": "SoSFKK1TmqMqtnuR",
-        "prompt": "Fantasy art Doatara the Poisoner human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695502440685,
-        "seed": 1024,
-        "used_seed": 1025
+        "prompt": "Fantasy art Doatara the Poisoner evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1720257336111,
+        "seed": 1025
     },
     "qmw82W0WhPkn9UTW": {
         "id": "qmw82W0WhPkn9UTW",
@@ -28713,6 +28699,30 @@
         "id": "8AANjQtU703ghIsR",
         "prompt": "Fantasy art Animated Bamboo Figurine construct mindless in the style of Greg Rutkowski",
         "timestamp": 1720257214747,
+        "seed": 1024
+    },
+    "374PRwbW4i4Xw1Fe": {
+        "id": "374PRwbW4i4Xw1Fe",
+        "prompt": "Fantasy art Bul-Gae beast cold fire in the style of Greg Rutkowski",
+        "timestamp": 1720257224775,
+        "seed": 1024
+    },
+    "fXlmbjtV3spZlmGS": {
+        "id": "fXlmbjtV3spZlmGS",
+        "prompt": "Fantasy art Animated Kite construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1720257233203,
+        "seed": 1024
+    },
+    "n9LLGRKgPI8fDRBk": {
+        "id": "n9LLGRKgPI8fDRBk",
+        "prompt": "Fantasy art Jiidon beast in the style of Greg Rutkowski",
+        "timestamp": 1720257241689,
+        "seed": 1024
+    },
+    "h62rHXYDTW84VGUo": {
+        "id": "h62rHXYDTW84VGUo",
+        "prompt": "Fantasy art Nyctessa dhampir evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1720257301688,
         "seed": 1024
     }
 }
