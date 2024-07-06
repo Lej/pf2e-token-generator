@@ -39,8 +39,8 @@
     },
     "0plBflWwrCWQO2RO": {
         "id": "0plBflWwrCWQO2RO",
-        "prompt": "Fantasy art Zombie Shambler mindless undead unholy zombie in the style of Greg Rutkowski",
-        "timestamp": 1711647291183,
+        "prompt": "Fantasy art Zombie Shambler evil mindless undead unholy zombie in the style of Greg Rutkowski",
+        "timestamp": 1720261785342,
         "seed": 1024
     },
     "xKYIN88ULPFgSZmw": {
@@ -204,10 +204,9 @@
     },
     "r9w1n85mp9Ip4QiS": {
         "id": "r9w1n85mp9Ip4QiS",
-        "prompt": "Fantasy art Kobold Warrior humanoid kobold in the style of Greg Rutkowski",
-        "timestamp": 1695502440575,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Kobold Warrior evil humanoid kobold lawful in the style of Greg Rutkowski",
+        "timestamp": 1720261734758,
+        "seed": 1024
     },
     "R9eoGwQ2tudxUKxS": {
         "id": "R9eoGwQ2tudxUKxS",
@@ -7702,10 +7701,9 @@
     },
     "Dwgl1DzJAYE3ienu": {
         "id": "Dwgl1DzJAYE3ienu",
-        "prompt": "Fantasy art Cyclops giant humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695572870270,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Cyclops evil giant humanoid in the style of Greg Rutkowski",
+        "timestamp": 1720261625066,
+        "seed": 1024
     },
     "QT2gA8WMaT2cuXr7": {
         "id": "QT2gA8WMaT2cuXr7",
@@ -7955,10 +7953,9 @@
     },
     "7ptWlh4t6oHvYOcj": {
         "id": "7ptWlh4t6oHvYOcj",
-        "prompt": "Fantasy art Soulbound Doll Neutral Evil construct soulbound in the style of Greg Rutkowski",
-        "timestamp": 1695572870282,
-        "seed": 1024,
-        "used_seed": 1025
+        "prompt": "Fantasy art Soulbound Doll Neutral Evil construct evil soulbound in the style of Greg Rutkowski",
+        "timestamp": 1720261759891,
+        "seed": 1025
     },
     "H2ZxTHZOEigpH4LK": {
         "id": "H2ZxTHZOEigpH4LK",
@@ -8067,10 +8064,9 @@
     },
     "2T2cN4j4EzfDAIEe": {
         "id": "2T2cN4j4EzfDAIEe",
-        "prompt": "Fantasy art Ancient Red Dragon Spellcaster dragon fire in the style of Greg Rutkowski",
-        "timestamp": 1695572870289,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Red Dragon Ancient, Spellcaster chaotic dragon evil fire in the style of Greg Rutkowski",
+        "timestamp": 1720261802334,
+        "seed": 1024
     },
     "tm3Tixb7IDoLdJ5k": {
         "id": "tm3Tixb7IDoLdJ5k",
@@ -8198,10 +8194,9 @@
     },
     "0HjVFx8qIKDCfblg": {
         "id": "0HjVFx8qIKDCfblg",
-        "prompt": "Fantasy art Lantern Archon archon celestial in the style of Greg Rutkowski",
-        "timestamp": 1695572870303,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Lantern Archon archon celestial good holy lawful in the style of Greg Rutkowski",
+        "timestamp": 1720261650351,
+        "seed": 1024
     },
     "JnOgG1xfWleFGNt9": {
         "id": "JnOgG1xfWleFGNt9",
@@ -8304,10 +8299,9 @@
     },
     "Ix1PziAEk9IIMYBz": {
         "id": "Ix1PziAEk9IIMYBz",
-        "prompt": "Fantasy art Zombie Brute mindless undead zombie in the style of Greg Rutkowski",
-        "timestamp": 1695572870311,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Zombie Brute evil mindless undead unholy zombie in the style of Greg Rutkowski",
+        "timestamp": 1720261768326,
+        "seed": 1024
     },
     "NgCKGq28Qvt6ZOSr": {
         "id": "NgCKGq28Qvt6ZOSr",
@@ -8364,10 +8358,9 @@
     },
     "eQdLBzkluS1fvVC8": {
         "id": "eQdLBzkluS1fvVC8",
-        "prompt": "Fantasy art Caligni Dancer caligni humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695572870314,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Caligni Dancer caligni chaotic humanoid in the style of Greg Rutkowski",
+        "timestamp": 1720261667393,
+        "seed": 1024
     },
     "IQsTNM8aXcCUmFu0": {
         "id": "IQsTNM8aXcCUmFu0",
@@ -8509,10 +8502,9 @@
     },
     "VEnjCj4geJBzTgBJ": {
         "id": "VEnjCj4geJBzTgBJ",
-        "prompt": "Fantasy art Ancient Gold Dragon Spellcaster dragon fire in the style of Greg Rutkowski",
-        "timestamp": 1695572870324,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Gold Dragon Ancient, Spellcaster dragon fire good lawful in the style of Greg Rutkowski",
+        "timestamp": 1720261743200,
+        "seed": 1024
     },
     "waPgKbjhijeZ00Zm": {
         "id": "waPgKbjhijeZ00Zm",
@@ -8705,10 +8697,9 @@
     },
     "jMiiQDIDxW9ZMvCV": {
         "id": "jMiiQDIDxW9ZMvCV",
-        "prompt": "Fantasy art Dhampir Wizard dhampir human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695572870334,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Dhampir Wizard dhampir evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1720261701043,
+        "seed": 1024
     },
     "iSwUKe7cEytclS7r": {
         "id": "iSwUKe7cEytclS7r",
@@ -8919,10 +8910,9 @@
     },
     "kFQorgvvyozQVSKi": {
         "id": "kFQorgvvyozQVSKi",
-        "prompt": "Fantasy art Balisse angel celestial rituals in the style of Greg Rutkowski",
-        "timestamp": 1695572870348,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Balisse angel celestial good holy rituals in the style of Greg Rutkowski",
+        "timestamp": 1720261633540,
+        "seed": 1024
     },
     "6eabIbxzYepfZAHX": {
         "id": "6eabIbxzYepfZAHX",
@@ -9112,10 +9102,9 @@
     },
     "csfVqep68nYGHExr": {
         "id": "csfVqep68nYGHExr",
-        "prompt": "Fantasy art Young White Dragon Spellcaster cold dragon in the style of Greg Rutkowski",
-        "timestamp": 1695572870360,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art White Dragon Young, Spellcaster chaotic cold dragon evil in the style of Greg Rutkowski",
+        "timestamp": 1720261793848,
+        "seed": 1024
     },
     "pzG7Od1aHj0DkTzS": {
         "id": "pzG7Od1aHj0DkTzS",
@@ -9152,10 +9141,9 @@
     },
     "qpRJOzx3bJ7rolHp": {
         "id": "qpRJOzx3bJ7rolHp",
-        "prompt": "Fantasy art Manticore beast in the style of Greg Rutkowski",
-        "timestamp": 1695572870362,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Manticore beast evil lawful in the style of Greg Rutkowski",
+        "timestamp": 1720261709522,
+        "seed": 1024
     },
     "9X7hOvCKy1bqw0g6": {
         "id": "9X7hOvCKy1bqw0g6",
@@ -9806,10 +9794,9 @@
     },
     "fkBcMpr3Yxxfvz9v": {
         "id": "fkBcMpr3Yxxfvz9v",
-        "prompt": "Fantasy art Astradaemon daemon fiend in the style of Greg Rutkowski",
-        "timestamp": 1695572870395,
-        "seed": 1024,
-        "used_seed": 1025
+        "prompt": "Fantasy art Astradaemon daemon evil fiend unholy in the style of Greg Rutkowski",
+        "timestamp": 1720261658846,
+        "seed": 1024
     },
     "e8rmI5xt6IANatfX": {
         "id": "e8rmI5xt6IANatfX",
@@ -9928,10 +9915,9 @@
     },
     "8uXLbKKzxN5O0ZhM": {
         "id": "8uXLbKKzxN5O0ZhM",
-        "prompt": "Fantasy art Elananx fey fire in the style of Greg Rutkowski",
-        "timestamp": 1695572870401,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Elananx evil fey fire in the style of Greg Rutkowski",
+        "timestamp": 1720261692561,
+        "seed": 1024
     },
     "BzBFDaNj51PP97RZ": {
         "id": "BzBFDaNj51PP97RZ",
@@ -9948,10 +9934,9 @@
     },
     "AiPXegCJ1leUslTm": {
         "id": "AiPXegCJ1leUslTm",
-        "prompt": "Fantasy art Succubus demon fiend rituals in the style of Greg Rutkowski",
-        "timestamp": 1695572870403,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Succubus chaotic demon evil fiend unholy rituals in the style of Greg Rutkowski",
+        "timestamp": 1720261684128,
+        "seed": 1025
     },
     "hXpqjD3eBRxlemNs": {
         "id": "hXpqjD3eBRxlemNs",
@@ -10156,10 +10141,9 @@
     },
     "9qjXP1Lho1UmAihJ": {
         "id": "9qjXP1Lho1UmAihJ",
-        "prompt": "Fantasy art Axiomite aeon monitor in the style of Greg Rutkowski",
-        "timestamp": 1695572870416,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Axiomite aeon lawful monitor in the style of Greg Rutkowski",
+        "timestamp": 1720261776886,
+        "seed": 1024
     },
     "iII08V0HlvWGWSmu": {
         "id": "iII08V0HlvWGWSmu",
@@ -10201,10 +10185,9 @@
     },
     "z0l0lHc79NbMxiqZ": {
         "id": "z0l0lHc79NbMxiqZ",
-        "prompt": "Fantasy art Goblin Pyro goblin humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695572870419,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Goblin Pyro chaotic evil goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1720261717979,
+        "seed": 1024
     },
     "aqW5sp9HPgZgpXxs": {
         "id": "aqW5sp9HPgZgpXxs",
@@ -10325,10 +10308,9 @@
     },
     "PgBsMyjMITjQnCs8": {
         "id": "PgBsMyjMITjQnCs8",
-        "prompt": "Fantasy art Kolyarut aeon inevitable monitor rituals in the style of Greg Rutkowski",
-        "timestamp": 1695572870425,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Kolyarut aeon inevitable lawful monitor rituals in the style of Greg Rutkowski",
+        "timestamp": 1720261726395,
+        "seed": 1024
     },
     "Q3EaaLLx5kDXb5vQ": {
         "id": "Q3EaaLLx5kDXb5vQ",
@@ -10410,10 +10392,9 @@
     },
     "B7eLG2k7qUo8HU6O": {
         "id": "B7eLG2k7qUo8HU6O",
-        "prompt": "Fantasy art Drider aberration in the style of Greg Rutkowski",
-        "timestamp": 1695572870431,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Drider aberration chaotic evil in the style of Greg Rutkowski",
+        "timestamp": 1720261641970,
+        "seed": 1024
     },
     "SP72xojHR0UGAWcs": {
         "id": "SP72xojHR0UGAWcs",
