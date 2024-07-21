@@ -19152,11 +19152,10 @@
         "used_seed": 1024
     },
     "34gooaLEuQh0Cu9n": {
-        "id": "34gooaLEuQh0Cu9n",
-        "prompt": "Fantasy art Cocoon of Lucid Potential aberration in the style of Greg Rutkowski",
-        "timestamp": 1696160110987,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "34gooaLEuQh0Cu9n",
+        "prompt": "Fantasy art Cocoon of Lucid Potential aberration evil in the style of Greg Rutkowski",
+        "timestamp": 1721588531891
     },
     "q9q6ag5sSEEefgUs": {
         "id": "q9q6ag5sSEEefgUs",
@@ -19166,25 +19165,22 @@
         "used_seed": 1024
     },
     "wmKvVsfc6Hg1Bj8I": {
-        "id": "wmKvVsfc6Hg1Bj8I",
-        "prompt": "Fantasy art K. H. W.'s Echo human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1696160110988,
         "seed": 1024,
-        "used_seed": 1025
+        "id": "wmKvVsfc6Hg1Bj8I",
+        "prompt": "Fantasy art K. H. W.'s Echo human humanoid lawful in the style of Greg Rutkowski",
+        "timestamp": 1721588548914
     },
     "spP95evfvogIuclj": {
-        "id": "spP95evfvogIuclj",
-        "prompt": "Fantasy art The Weaver in Dreams aberration human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1696160110989,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "spP95evfvogIuclj",
+        "prompt": "Fantasy art The Weaver in Dreams aberration chaotic evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588523405
     },
     "q9R4hKHeErDOaFJu": {
+        "seed": 1025,
         "id": "q9R4hKHeErDOaFJu",
-        "prompt": "Fantasy art Quartz-Spawned Shadow incorporeal undead in the style of Greg Rutkowski",
-        "timestamp": 1696160110989,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Quartz-Spawned Shadow chaotic evil incorporeal undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1721588574291
     },
     "ICdVjs6JEs0YAefl": {
         "id": "ICdVjs6JEs0YAefl",
@@ -19194,18 +19190,16 @@
         "used_seed": 1024
     },
     "8Lo4sys48l7YaK5J": {
-        "id": "8Lo4sys48l7YaK5J",
-        "prompt": "Fantasy art The Morrowkin aberration time in the style of Greg Rutkowski",
-        "timestamp": 1696160110989,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "8Lo4sys48l7YaK5J",
+        "prompt": "Fantasy art The Morrowkin aberration evil time in the style of Greg Rutkowski",
+        "timestamp": 1721588540419
     },
     "WiFzLguamOR69IcD": {
-        "id": "WiFzLguamOR69IcD",
-        "prompt": "Fantasy art Mother Mitera human in the style of Greg Rutkowski",
-        "timestamp": 1696160110990,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "WiFzLguamOR69IcD",
+        "prompt": "Fantasy art Mother Mitera evil human in the style of Greg Rutkowski",
+        "timestamp": 1721588557444
     },
     "I3moTdccfUwGK3oJ": {
         "id": "I3moTdccfUwGK3oJ",
@@ -30579,5 +30573,269 @@
         "id": "NW68bxCLC6oDHxL9",
         "prompt": "Fantasy art Hobgoblin Soldier hobgoblin humanoid in the style of Greg Rutkowski",
         "timestamp": 1721588054952
+    },
+    "MXSKccQqbQqQ77Ii": {
+        "seed": 1025,
+        "id": "MXSKccQqbQqQ77Ii",
+        "prompt": "Fantasy art Aapoph Granitescale humanoid mutant serpentfolk in the style of Greg Rutkowski",
+        "timestamp": 1721588073773
+    },
+    "Ehtm5k9iBYTvSUcZ": {
+        "seed": 1024,
+        "id": "Ehtm5k9iBYTvSUcZ",
+        "prompt": "Fantasy art Pixie fey sprite in the style of Greg Rutkowski",
+        "timestamp": 1721588082343
+    },
+    "KDbJ402jFuvn5frX": {
+        "seed": 1024,
+        "id": "KDbJ402jFuvn5frX",
+        "prompt": "Fantasy art Hryngar Bombardier duergar dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588090875
+    },
+    "9rXYGu7D3umIW1sv": {
+        "seed": 1024,
+        "id": "9rXYGu7D3umIW1sv",
+        "prompt": "Fantasy art Megalodon animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1721588099348
+    },
+    "wy8Ve0m3wbHMo1U1": {
+        "seed": 1024,
+        "id": "wy8Ve0m3wbHMo1U1",
+        "prompt": "Fantasy art Brontosaurus animal dinosaur in the style of Greg Rutkowski",
+        "timestamp": 1721588107868
+    },
+    "6yTmbDaZmrkXUJ4t": {
+        "seed": 1025,
+        "id": "6yTmbDaZmrkXUJ4t",
+        "prompt": "Fantasy art Umbral Gnome Rockwarden gnome humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588124715
+    },
+    "dfshMY9yEEXOUoMo": {
+        "seed": 1024,
+        "id": "dfshMY9yEEXOUoMo",
+        "prompt": "Fantasy art Quatoid aquatic elemental water in the style of Greg Rutkowski",
+        "timestamp": 1721588133214
+    },
+    "YKMvlKA1AZJlXtz9": {
+        "seed": 1024,
+        "id": "YKMvlKA1AZJlXtz9",
+        "prompt": "Fantasy art Augnagar fiend qlippoth unholy in the style of Greg Rutkowski",
+        "timestamp": 1721588141831
+    },
+    "KgJq51AeYrENo3Db": {
+        "seed": 1024,
+        "id": "KgJq51AeYrENo3Db",
+        "prompt": "Fantasy art Will-o'-Wisp aberration air in the style of Greg Rutkowski",
+        "timestamp": 1721588150331
+    },
+    "qyCcr32PVcnNm4Wr": {
+        "seed": 1024,
+        "id": "qyCcr32PVcnNm4Wr",
+        "prompt": "Fantasy art Dero Magister dero humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588158826
+    },
+    "mz7ZO0g4begL6EGH": {
+        "seed": 1024,
+        "id": "mz7ZO0g4begL6EGH",
+        "prompt": "Fantasy art Diabolic Dragon Ancient divine dragon unholy in the style of Greg Rutkowski",
+        "timestamp": 1721588167323
+    },
+    "VCYF0NAfPKwTHkK1": {
+        "seed": 1024,
+        "id": "VCYF0NAfPKwTHkK1",
+        "prompt": "Fantasy art Grothlut aberration mindless in the style of Greg Rutkowski",
+        "timestamp": 1721588175879
+    },
+    "Hg7nCvltRBQOiijQ": {
+        "seed": 1024,
+        "id": "Hg7nCvltRBQOiijQ",
+        "prompt": "Fantasy art Werewolf beast human humanoid werecreature in the style of Greg Rutkowski",
+        "timestamp": 1721588184396
+    },
+    "QIXc18xHrEWDmtKW": {
+        "seed": 1024,
+        "id": "QIXc18xHrEWDmtKW",
+        "prompt": "Fantasy art Fey Dragonet dragon fey in the style of Greg Rutkowski",
+        "timestamp": 1721588192968
+    },
+    "cPRdGSSOmIIvAZVy": {
+        "seed": 1025,
+        "id": "cPRdGSSOmIIvAZVy",
+        "prompt": "Fantasy art Soulbound Doll Jolly construct soulbound in the style of Greg Rutkowski",
+        "timestamp": 1721588209822
+    },
+    "wepiUEi2Lxl8j1BH": {
+        "seed": 1024,
+        "id": "wepiUEi2Lxl8j1BH",
+        "prompt": "Fantasy art Goblin War Chanter goblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588218363
+    },
+    "6aaBmiOgqZ5h2IhW": {
+        "seed": 1024,
+        "id": "6aaBmiOgqZ5h2IhW",
+        "prompt": "Fantasy art Giant Wasp animal in the style of Greg Rutkowski",
+        "timestamp": 1721588226876
+    },
+    "jR4E2I2tmQ6sd5DR": {
+        "seed": 1024,
+        "id": "jR4E2I2tmQ6sd5DR",
+        "prompt": "Fantasy art Dezullon plant in the style of Greg Rutkowski",
+        "timestamp": 1721588235398
+    },
+    "XKOQ3ll9TGNso0uB": {
+        "seed": 1025,
+        "id": "XKOQ3ll9TGNso0uB",
+        "prompt": "Fantasy art Banshee incorporeal spirit undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1721588252200
+    },
+    "lUBkzsSqMfQBczU1": {
+        "seed": 1025,
+        "id": "lUBkzsSqMfQBczU1",
+        "prompt": "Fantasy art Sprite fey sprite in the style of Greg Rutkowski",
+        "timestamp": 1721588269072
+    },
+    "drcSWbCIWc7P4lKO": {
+        "seed": 1024,
+        "id": "drcSWbCIWc7P4lKO",
+        "prompt": "Fantasy art Army Ant Swarm animal swarm in the style of Greg Rutkowski",
+        "timestamp": 1721588277561
+    },
+    "nFhAJSpbJz1w71EU": {
+        "seed": 1024,
+        "id": "nFhAJSpbJz1w71EU",
+        "prompt": "Fantasy art Raktavarna rakshasa spirit unholy in the style of Greg Rutkowski",
+        "timestamp": 1721588286145
+    },
+    "IuVoyT5lkzcWJ6sK": {
+        "seed": 1024,
+        "id": "IuVoyT5lkzcWJ6sK",
+        "prompt": "Fantasy art Clay Effigy construct mindless in the style of Greg Rutkowski",
+        "timestamp": 1721588294642
+    },
+    "Wlupxz7dmKb6BYcr": {
+        "seed": 1024,
+        "id": "Wlupxz7dmKb6BYcr",
+        "prompt": "Fantasy art Caldera Oni fire giant humanoid oni in the style of Greg Rutkowski",
+        "timestamp": 1721588303227
+    },
+    "iIJPJcDT8wlJ8z5M": {
+        "seed": 1024,
+        "id": "iIJPJcDT8wlJ8z5M",
+        "prompt": "Fantasy art Giant Rat animal in the style of Greg Rutkowski",
+        "timestamp": 1721588311717
+    },
+    "k5p4mRDT26DrDXPA": {
+        "seed": 1024,
+        "id": "k5p4mRDT26DrDXPA",
+        "prompt": "Fantasy art Giant Octopus animal aquatic in the style of Greg Rutkowski",
+        "timestamp": 1721588320238
+    },
+    "E2XL2egIA3QaSDBM": {
+        "seed": 1024,
+        "id": "E2XL2egIA3QaSDBM",
+        "prompt": "Fantasy art Flash Beetle animal in the style of Greg Rutkowski",
+        "timestamp": 1721588328741
+    },
+    "r3EXyntNIazKf2gP": {
+        "seed": 1024,
+        "id": "r3EXyntNIazKf2gP",
+        "prompt": "Fantasy art String Slime mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1721588337292
+    },
+    "tbqcZG0lOoUVhNfn": {
+        "seed": 1024,
+        "id": "tbqcZG0lOoUVhNfn",
+        "prompt": "Fantasy art Mirage Dragon Young, Spellcaster arcane dragon in the style of Greg Rutkowski",
+        "timestamp": 1721588345819
+    },
+    "vqYrJ33XgoeQUUle": {
+        "seed": 1025,
+        "id": "vqYrJ33XgoeQUUle",
+        "prompt": "Fantasy art Lamia beast humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588362651
+    },
+    "Hl1Nnnda8KSf0Obp": {
+        "seed": 1024,
+        "id": "Hl1Nnnda8KSf0Obp",
+        "prompt": "Fantasy art Chupacabra beast in the style of Greg Rutkowski",
+        "timestamp": 1721588371024
+    },
+    "QJgC1lWvwekWJjkD": {
+        "seed": 1024,
+        "id": "QJgC1lWvwekWJjkD",
+        "prompt": "Fantasy art Qarna archon celestial holy in the style of Greg Rutkowski",
+        "timestamp": 1721588379506
+    },
+    "CPzquDOPnlHyIoVF": {
+        "seed": 1024,
+        "id": "CPzquDOPnlHyIoVF",
+        "prompt": "Fantasy art Diabolic Dragon Adult divine dragon unholy in the style of Greg Rutkowski",
+        "timestamp": 1721588387968
+    },
+    "6mdq7UV9gFXAEOpJ": {
+        "seed": 1026,
+        "id": "6mdq7UV9gFXAEOpJ",
+        "prompt": "Fantasy art Great Cyclops giant humanoid mutant in the style of Greg Rutkowski",
+        "timestamp": 1721588413108
+    },
+    "FWg5qHuwoa0JfEMR": {
+        "seed": 1024,
+        "id": "FWg5qHuwoa0JfEMR",
+        "prompt": "Fantasy art Rekhep archon celestial holy in the style of Greg Rutkowski",
+        "timestamp": 1721588421589
+    },
+    "QCPpQya5TEUuIxQn": {
+        "seed": 1025,
+        "id": "QCPpQya5TEUuIxQn",
+        "prompt": "Fantasy art Medusa humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588438465
+    },
+    "ZeUxgpNi5AXr9pX6": {
+        "seed": 1024,
+        "id": "ZeUxgpNi5AXr9pX6",
+        "prompt": "Fantasy art Manticore Quill Tail beast in the style of Greg Rutkowski",
+        "timestamp": 1721588447017
+    },
+    "BxOlYmZiwLRpxGWp": {
+        "seed": 1024,
+        "id": "BxOlYmZiwLRpxGWp",
+        "prompt": "Fantasy art Dero Stalker dero humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588455430
+    },
+    "ka7bXO7HIfBxk8Gy": {
+        "seed": 1024,
+        "id": "ka7bXO7HIfBxk8Gy",
+        "prompt": "Fantasy art Giant Flytrap mindless plant in the style of Greg Rutkowski",
+        "timestamp": 1721588463991
+    },
+    "YHoXWNZhIaZWdq0Y": {
+        "seed": 1024,
+        "id": "YHoXWNZhIaZWdq0Y",
+        "prompt": "Fantasy art Conspirator Dragon Young, Spellcaster dragon occult in the style of Greg Rutkowski",
+        "timestamp": 1721588472492
+    },
+    "bdarrRaLjNmlYvNa": {
+        "seed": 1025,
+        "id": "bdarrRaLjNmlYvNa",
+        "prompt": "Fantasy art Soulbound Doll Cruel construct soulbound in the style of Greg Rutkowski",
+        "timestamp": 1721588489354
+    },
+    "DZoKH4IXR4zeNxoa": {
+        "seed": 1024,
+        "id": "DZoKH4IXR4zeNxoa",
+        "prompt": "Fantasy art Horned Dragon Ancient amphibious dragon primal in the style of Greg Rutkowski",
+        "timestamp": 1721588497893
+    },
+    "qvagIV8gqF0g3m3l": {
+        "seed": 1024,
+        "id": "qvagIV8gqF0g3m3l",
+        "prompt": "Fantasy art Vordine devil fiend unholy in the style of Greg Rutkowski",
+        "timestamp": 1721588506429
+    },
+    "xgKDQB6ZYmAutwAm": {
+        "seed": 1024,
+        "id": "xgKDQB6ZYmAutwAm",
+        "prompt": "Fantasy art Hobgoblin General hobgoblin humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588514867
     }
 }
