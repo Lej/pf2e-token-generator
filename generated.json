@@ -4210,11 +4210,10 @@
         "used_seed": 1024
     },
     "0PInbNLNpw7qKTAu": {
-        "id": "0PInbNLNpw7qKTAu",
-        "prompt": "Fantasy art Ghoul ghoul undead in the style of Greg Rutkowski",
-        "timestamp": 1695547972992,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "0PInbNLNpw7qKTAu",
+        "prompt": "Fantasy art Ghoul chaotic evil ghoul undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1721588601569
     },
     "j7hidXUeUNJtQEW4": {
         "id": "j7hidXUeUNJtQEW4",
@@ -4224,18 +4223,16 @@
         "used_seed": 1024
     },
     "RPqISpa2Jq8Jy3dh": {
-        "id": "RPqISpa2Jq8Jy3dh",
-        "prompt": "Fantasy art Rain In Cloudy Day fungus leshy in the style of Greg Rutkowski",
-        "timestamp": 1695547972992,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "RPqISpa2Jq8Jy3dh",
+        "prompt": "Fantasy art Rain In Cloudy Day fungus good leshy in the style of Greg Rutkowski",
+        "timestamp": 1721588584513
     },
     "LG0Vg7zBMGFQUkvE": {
-        "id": "LG0Vg7zBMGFQUkvE",
-        "prompt": "Fantasy art Sun-Scorched Shadow Drake dragon shadow in the style of Greg Rutkowski",
-        "timestamp": 1695547972993,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "LG0Vg7zBMGFQUkvE",
+        "prompt": "Fantasy art Sun-Scorched Shadow Drake chaotic dragon evil shadow in the style of Greg Rutkowski",
+        "timestamp": 1721588593076
     },
     "bDKozdvVEElVQywQ": {
         "id": "bDKozdvVEElVQywQ",
@@ -4322,18 +4319,16 @@
         "used_seed": 1025
     },
     "fG2rxzrSiMS01Xqe": {
-        "id": "fG2rxzrSiMS01Xqe",
-        "prompt": "Fantasy art Unkillable Zombie Brute mindless undead zombie in the style of Greg Rutkowski",
-        "timestamp": 1695547973003,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "fG2rxzrSiMS01Xqe",
+        "prompt": "Fantasy art Unkillable Zombie Brute evil mindless undead unholy zombie in the style of Greg Rutkowski",
+        "timestamp": 1721588813388
     },
     "bM27sjs9yA3rX4DA": {
-        "id": "bM27sjs9yA3rX4DA",
-        "prompt": "Fantasy art The Ascendant devil fiend in the style of Greg Rutkowski",
-        "timestamp": 1695547973003,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "bM27sjs9yA3rX4DA",
+        "prompt": "Fantasy art The Ascendant devil evil fiend lawful unholy in the style of Greg Rutkowski",
+        "timestamp": 1721588880714
     },
     "XVoGQC0ret7XiGZD": {
         "id": "XVoGQC0ret7XiGZD",
@@ -4448,18 +4443,16 @@
         "used_seed": 1024
     },
     "pJck5AXRMWcAequ5": {
-        "id": "pJck5AXRMWcAequ5",
-        "prompt": "Fantasy art Boggard Warrior amphibious boggard humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973008,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "pJck5AXRMWcAequ5",
+        "prompt": "Fantasy art Boggard Warrior amphibious boggard chaotic evil humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588914740
     },
     "oHbuqmMgS8PutzMZ": {
-        "id": "oHbuqmMgS8PutzMZ",
-        "prompt": "Fantasy art Blue Streak Mage human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973008,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "oHbuqmMgS8PutzMZ",
+        "prompt": "Fantasy art Blue Streak Mage human humanoid lawful in the style of Greg Rutkowski",
+        "timestamp": 1721588635849
     },
     "LAZDcdX1ISXJCqPd": {
         "id": "LAZDcdX1ISXJCqPd",
@@ -4497,11 +4490,10 @@
         "used_seed": 1024
     },
     "fK69SijSGN3bOgSE": {
-        "id": "fK69SijSGN3bOgSE",
-        "prompt": "Fantasy art Plum Leshy leshy plant in the style of Greg Rutkowski",
-        "timestamp": 1695547973009,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "fK69SijSGN3bOgSE",
+        "prompt": "Fantasy art Plum Leshy chaotic evil leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1721588957385
     },
     "U6mEWRAurIbSgtnF": {
         "id": "U6mEWRAurIbSgtnF",
@@ -4553,11 +4545,10 @@
         "used_seed": 1024
     },
     "ff0j2iOsGGONwOVw": {
-        "id": "ff0j2iOsGGONwOVw",
-        "prompt": "Fantasy art Seaborn Captain aquatic elf humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973011,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "ff0j2iOsGGONwOVw",
+        "prompt": "Fantasy art Seaborn Captain aquatic chaotic elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588754022
     },
     "w8pkSmcvpZfp7Hsw": {
         "id": "w8pkSmcvpZfp7Hsw",
@@ -4574,18 +4565,16 @@
         "used_seed": 1024
     },
     "jkGd8nN4hnNLGS2D": {
+        "seed": 1026,
         "id": "jkGd8nN4hnNLGS2D",
-        "prompt": "Fantasy art Mummy Shambler mummy mindless undead in the style of Greg Rutkowski",
-        "timestamp": 1695547973012,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Mummy Shambler evil mindless mummy undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1721588736942
     },
     "rOYazaPBX73nLCJE": {
-        "id": "rOYazaPBX73nLCJE",
-        "prompt": "Fantasy art Manifestation of Qxal fey plant in the style of Greg Rutkowski",
-        "timestamp": 1695547973012,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "rOYazaPBX73nLCJE",
+        "prompt": "Fantasy art Manifestation of Qxal chaotic evil fey plant in the style of Greg Rutkowski",
+        "timestamp": 1721589016831
     },
     "Si5l2FvDCCmG6DRa": {
         "id": "Si5l2FvDCCmG6DRa",
@@ -4602,11 +4591,10 @@
         "used_seed": 1024
     },
     "FG0Cc949yZ8opW8I": {
-        "id": "FG0Cc949yZ8opW8I",
-        "prompt": "Fantasy art Hogweed Leshy leshy plant in the style of Greg Rutkowski",
-        "timestamp": 1695547973013,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "FG0Cc949yZ8opW8I",
+        "prompt": "Fantasy art Hogweed Leshy chaotic evil leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1721589059458
     },
     "xFeeszDfh4RISbib": {
         "id": "xFeeszDfh4RISbib",
@@ -4679,11 +4667,10 @@
         "used_seed": 1026
     },
     "uedXIip0UPHJ4Egt": {
+        "seed": 1027,
         "id": "uedXIip0UPHJ4Egt",
-        "prompt": "Fantasy art Flaming Skull Skeleton Guard mindless skeleton undead Variant skeleton guard in the style of Greg Rutkowski",
-        "timestamp": 1695547973016,
-        "seed": 1024,
-        "used_seed": 1025
+        "prompt": "Fantasy art Flaming Skull Skeleton Guard evil mindless skeleton undead unholy Variant skeleton guard in the style of Greg Rutkowski",
+        "timestamp": 1721588677900
     },
     "O6YxMaRh6tRGnnbl": {
         "id": "O6YxMaRh6tRGnnbl",
@@ -4700,11 +4687,10 @@
         "used_seed": 1024
     },
     "NZvXkQHfXM2XS50I": {
-        "id": "NZvXkQHfXM2XS50I",
-        "prompt": "Fantasy art Weak Green Hag hag humanoid rituals in the style of Greg Rutkowski",
-        "timestamp": 1695547973017,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "NZvXkQHfXM2XS50I",
+        "prompt": "Fantasy art Weak Green Hag chaotic evil hag humanoid rituals in the style of Greg Rutkowski",
+        "timestamp": 1721588906313
     },
     "81H7cwCK8TBi6dnv": {
         "id": "81H7cwCK8TBi6dnv",
@@ -4714,11 +4700,10 @@
         "used_seed": 1024
     },
     "1MXO3xJS50lENkHL": {
+        "seed": 1026,
         "id": "1MXO3xJS50lENkHL",
-        "prompt": "Fantasy art Meleeka Sanvara human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973018,
-        "seed": 1024,
-        "used_seed": 1026
+        "prompt": "Fantasy art Meleeka Sanvara chaotic human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588838522
     },
     "mjD8kNTb8IC5FBNA": {
         "id": "mjD8kNTb8IC5FBNA",
@@ -4756,11 +4741,10 @@
         "used_seed": 1024
     },
     "hNAN6bqWxFKjxR4Q": {
+        "seed": 1025,
         "id": "hNAN6bqWxFKjxR4Q",
-        "prompt": "Fantasy art Reast Mycer human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973019,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Reast Mycer chaotic evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588982832
     },
     "DsEg9sT7jCcsuEDI": {
         "id": "DsEg9sT7jCcsuEDI",
@@ -4784,11 +4768,10 @@
         "used_seed": 1024
     },
     "iozA5orydjkBmbHx": {
-        "id": "iozA5orydjkBmbHx",
-        "prompt": "Fantasy art Farmer Drystan's Scarecrow construct in the style of Greg Rutkowski",
-        "timestamp": 1695547973020,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "iozA5orydjkBmbHx",
+        "prompt": "Fantasy art Farmer Drystan's Scarecrow chaotic construct evil in the style of Greg Rutkowski",
+        "timestamp": 1721588618667
     },
     "toAsLLjdRwu1pT0b": {
         "id": "toAsLLjdRwu1pT0b",
@@ -4833,11 +4816,10 @@
         "used_seed": 1024
     },
     "yn7x4Me1YrPuXFZf": {
-        "id": "yn7x4Me1YrPuXFZf",
-        "prompt": "Fantasy art Keff The Lion animal in the style of Greg Rutkowski",
-        "timestamp": 1695547973022,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "yn7x4Me1YrPuXFZf",
+        "prompt": "Fantasy art Keff The Lion animal evil in the style of Greg Rutkowski",
+        "timestamp": 1721588610146
     },
     "Gxy0zuO7aqC9NBv0": {
         "id": "Gxy0zuO7aqC9NBv0",
@@ -4875,18 +4857,16 @@
         "used_seed": 1024
     },
     "S50loNsuTigldGll": {
-        "id": "S50loNsuTigldGll",
-        "prompt": "Fantasy art Bandit Disciple human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973024,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "S50loNsuTigldGll",
+        "prompt": "Fantasy art Bandit Disciple chaotic human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588991337
     },
     "jJd7Sa8DB7uBOn93": {
-        "id": "jJd7Sa8DB7uBOn93",
-        "prompt": "Fantasy art Bandit Disciple human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973024,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "jJd7Sa8DB7uBOn93",
+        "prompt": "Fantasy art Bandit Disciple chaotic human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588644425
     },
     "Cr0jrWe49odtef2P": {
         "id": "Cr0jrWe49odtef2P",
@@ -4910,11 +4890,10 @@
         "used_seed": 1024
     },
     "XiGTud90i1WkJYz2": {
-        "id": "XiGTud90i1WkJYz2",
-        "prompt": "Fantasy art Offended Gambler human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973025,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "XiGTud90i1WkJYz2",
+        "prompt": "Fantasy art Offended Gambler chaotic human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588779683
     },
     "rrlWzq8qKpOgaq7P": {
         "id": "rrlWzq8qKpOgaq7P",
@@ -4924,18 +4903,16 @@
         "used_seed": 1024
     },
     "D2Bc4GbmiuW29310": {
+        "seed": 1026,
         "id": "D2Bc4GbmiuW29310",
-        "prompt": "Fantasy art Elite Boggard Swampseer amphibious boggard humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973026,
-        "seed": 1024,
-        "used_seed": 1025
+        "prompt": "Fantasy art Elite Boggard Swampseer amphibious boggard chaotic evil humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588804865
     },
     "FcqRRAWeUzV89Z2s": {
-        "id": "FcqRRAWeUzV89Z2s",
-        "prompt": "Fantasy art Mitflit fey gremlin in the style of Greg Rutkowski",
-        "timestamp": 1695547973027,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "FcqRRAWeUzV89Z2s",
+        "prompt": "Fantasy art Mitflit evil fey gremlin lawful in the style of Greg Rutkowski",
+        "timestamp": 1721588965949
     },
     "8hdL1UOQZ1WPb6v7": {
         "id": "8hdL1UOQZ1WPb6v7",
@@ -4959,11 +4936,10 @@
         "used_seed": 1025
     },
     "zgvD5MpjPBJXIian": {
-        "id": "zgvD5MpjPBJXIian",
-        "prompt": "Fantasy art Elite Duergar Taskmaster duergar dwarf humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973028,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "zgvD5MpjPBJXIian",
+        "prompt": "Fantasy art Elite Duergar Taskmaster duergar dwarf evil humanoid lawful in the style of Greg Rutkowski",
+        "timestamp": 1721589042414
     },
     "cuTgbvAxDEkT4XhZ": {
         "id": "cuTgbvAxDEkT4XhZ",
@@ -4994,11 +4970,10 @@
         "used_seed": 1024
     },
     "pG7P9AxqzcsCjikh": {
-        "id": "pG7P9AxqzcsCjikh",
-        "prompt": "Fantasy art Zombie Shambler mindless zombie in the style of Greg Rutkowski",
-        "timestamp": 1695547973029,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "pG7P9AxqzcsCjikh",
+        "prompt": "Fantasy art Zombie Shambler evil mindless zombie in the style of Greg Rutkowski",
+        "timestamp": 1721588847028
     },
     "vgn39Yta3lgeRP1s": {
         "id": "vgn39Yta3lgeRP1s",
@@ -5008,11 +4983,10 @@
         "used_seed": 1024
     },
     "FXwYc62zORdcfnYb": {
+        "seed": 1025,
         "id": "FXwYc62zORdcfnYb",
-        "prompt": "Fantasy art Vengeant Thorn beast in the style of Greg Rutkowski",
-        "timestamp": 1695547973030,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Vengeant Thorn beast evil in the style of Greg Rutkowski",
+        "timestamp": 1721589076304
     },
     "wCZcZnEHskvccWJE": {
         "id": "wCZcZnEHskvccWJE",
@@ -5148,11 +5122,10 @@
         "used_seed": 1024
     },
     "kfoGOOgTkRjIzD4U": {
-        "id": "kfoGOOgTkRjIzD4U",
-        "prompt": "Fantasy art Kanker construct soulbound in the style of Greg Rutkowski",
-        "timestamp": 1695547973036,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "kfoGOOgTkRjIzD4U",
+        "prompt": "Fantasy art Kanker chaotic construct soulbound in the style of Greg Rutkowski",
+        "timestamp": 1721588686435
     },
     "anjyGCh5n1fj2kn3": {
         "id": "anjyGCh5n1fj2kn3",
@@ -5169,11 +5142,10 @@
         "used_seed": 1024
     },
     "tt4tZR8udjJ1zNyp": {
+        "seed": 1026,
         "id": "tt4tZR8udjJ1zNyp",
-        "prompt": "Fantasy art Seaborn Fisher aquatic elf humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973037,
-        "seed": 1024,
-        "used_seed": 1026
+        "prompt": "Fantasy art Seaborn Fisher aquatic chaotic elf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588872156
     },
     "02MIBcyPwCEmh8lA": {
         "id": "02MIBcyPwCEmh8lA",
@@ -5190,11 +5162,10 @@
         "used_seed": 1024
     },
     "Kv7ciLOLN8vDgIGy": {
-        "id": "Kv7ciLOLN8vDgIGy",
-        "prompt": "Fantasy art Kobold Dragon Mage humanoid kobold in the style of Greg Rutkowski",
-        "timestamp": 1695547973038,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "Kv7ciLOLN8vDgIGy",
+        "prompt": "Fantasy art Kobold Dragon Mage evil humanoid kobold lawful in the style of Greg Rutkowski",
+        "timestamp": 1721588923247
     },
     "AbFKkDIHUwx2EnR5": {
         "id": "AbFKkDIHUwx2EnR5",
@@ -5211,11 +5182,10 @@
         "used_seed": 1024
     },
     "8G0V3AjaLUkTbq0H": {
-        "id": "8G0V3AjaLUkTbq0H",
-        "prompt": "Fantasy art Mitflit Sneak fey gremlin in the style of Greg Rutkowski",
-        "timestamp": 1695547973039,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "8G0V3AjaLUkTbq0H",
+        "prompt": "Fantasy art Mitflit Sneak evil fey gremlin lawful in the style of Greg Rutkowski",
+        "timestamp": 1721588897824
     },
     "KcLEkekZZw9uI88I": {
         "id": "KcLEkekZZw9uI88I",
@@ -5239,11 +5209,10 @@
         "used_seed": 1024
     },
     "z8Bp3EtiJhA3nNrY": {
-        "id": "z8Bp3EtiJhA3nNrY",
-        "prompt": "Fantasy art Flaming Skull Skeletal Champion mindless skeleton undead Variant skeletal champion in the style of Greg Rutkowski",
-        "timestamp": 1695547973040,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "z8Bp3EtiJhA3nNrY",
+        "prompt": "Fantasy art Flaming Skull Skeletal Champion evil mindless skeleton undead unholy Variant skeletal champion in the style of Greg Rutkowski",
+        "timestamp": 1721589025309
     },
     "rEPnlpuRVCpnQNYP": {
         "id": "rEPnlpuRVCpnQNYP",
@@ -5253,11 +5222,10 @@
         "used_seed": 1024
     },
     "D8CPosS1fj2ZRBv0": {
-        "id": "D8CPosS1fj2ZRBv0",
-        "prompt": "Fantasy art Elite Skeletal Giant mindless skeleton undead in the style of Greg Rutkowski",
-        "timestamp": 1695547973040,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "D8CPosS1fj2ZRBv0",
+        "prompt": "Fantasy art Elite Skeletal Giant evil mindless skeleton undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1721588762547
     },
     "JDjwID3HZJqytPFP": {
         "id": "JDjwID3HZJqytPFP",
@@ -5302,11 +5270,10 @@
         "used_seed": 1024
     },
     "b7VoFnPimmOwx8nX": {
-        "id": "b7VoFnPimmOwx8nX",
-        "prompt": "Fantasy art Lelzeshin human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973042,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "b7VoFnPimmOwx8nX",
+        "prompt": "Fantasy art Lelzeshin evil human humanoid lawful in the style of Greg Rutkowski",
+        "timestamp": 1721588940286
     },
     "qumj2VUZ6aTnjjIU": {
         "id": "qumj2VUZ6aTnjjIU",
@@ -5407,18 +5374,16 @@
         "used_seed": 1024
     },
     "AKNY8155nYQ1WsmG": {
-        "id": "AKNY8155nYQ1WsmG",
-        "prompt": "Fantasy art Skeletal Mount mindless skeleton undead in the style of Greg Rutkowski",
-        "timestamp": 1695547973046,
         "seed": 1024,
-        "used_seed": 1025
+        "id": "AKNY8155nYQ1WsmG",
+        "prompt": "Fantasy art Skeletal Mount evil mindless skeleton undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1721588745455
     },
     "1JVuJXe27PLyUVwf": {
-        "id": "1JVuJXe27PLyUVwf",
-        "prompt": "Fantasy art Farmer Drystan's Scarecrow construct in the style of Greg Rutkowski",
-        "timestamp": 1695547973047,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "1JVuJXe27PLyUVwf",
+        "prompt": "Fantasy art Farmer Drystan's Scarecrow chaotic construct evil in the style of Greg Rutkowski",
+        "timestamp": 1721588694930
     },
     "54m8L1izUMDi02O9": {
         "id": "54m8L1izUMDi02O9",
@@ -5505,11 +5470,10 @@
         "used_seed": 1024
     },
     "5hR3mQw2sEy3Fy8g": {
-        "id": "5hR3mQw2sEy3Fy8g",
-        "prompt": "Fantasy art Ghost Of Diggen Thrune ghost incorporeal spirit undead in the style of Greg Rutkowski",
-        "timestamp": 1695547973050,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "5hR3mQw2sEy3Fy8g",
+        "prompt": "Fantasy art Ghost Of Diggen Thrune chaotic evil ghost incorporeal spirit undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1721589084863
     },
     "4MXoQZUrmGeuySrp": {
         "id": "4MXoQZUrmGeuySrp",
@@ -5519,11 +5483,10 @@
         "used_seed": 1026
     },
     "bjugOjcHcBHgWTeZ": {
-        "id": "bjugOjcHcBHgWTeZ",
-        "prompt": "Fantasy art Unkillable Zombie Brute mindless undead zombie in the style of Greg Rutkowski",
-        "timestamp": 1695547973051,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "bjugOjcHcBHgWTeZ",
+        "prompt": "Fantasy art Unkillable Zombie Brute evil mindless undead unholy zombie in the style of Greg Rutkowski",
+        "timestamp": 1721589050945
     },
     "jEjUHCcGcGinFqOU": {
         "id": "jEjUHCcGcGinFqOU",
@@ -5547,11 +5510,10 @@
         "used_seed": 1024
     },
     "i4PIffSaQO2ry5nb": {
-        "id": "i4PIffSaQO2ry5nb",
-        "prompt": "Fantasy art Kobold Warrior humanoid kobold in the style of Greg Rutkowski",
-        "timestamp": 1695547973052,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "i4PIffSaQO2ry5nb",
+        "prompt": "Fantasy art Kobold Warrior evil humanoid kobold lawful in the style of Greg Rutkowski",
+        "timestamp": 1721589033881
     },
     "LKdTBOV9LUiFrKOU": {
         "id": "LKdTBOV9LUiFrKOU",
@@ -5561,11 +5523,10 @@
         "used_seed": 1024
     },
     "ocdy8RFkw10tCUuY": {
+        "seed": 1025,
         "id": "ocdy8RFkw10tCUuY",
-        "prompt": "Fantasy art Biloko Warrior fey in the style of Greg Rutkowski",
-        "timestamp": 1695547973053,
-        "seed": 1024,
-        "used_seed": 1025
+        "prompt": "Fantasy art Biloko Warrior evil fey in the style of Greg Rutkowski",
+        "timestamp": 1721588711769
     },
     "hevuaQkMCF9o5KZ2": {
         "id": "hevuaQkMCF9o5KZ2",
@@ -5631,11 +5592,10 @@
         "used_seed": 1024
     },
     "RzLRzsHVjaPBKCkh": {
-        "id": "RzLRzsHVjaPBKCkh",
-        "prompt": "Fantasy art Hogweed Leshy leshy plant in the style of Greg Rutkowski",
-        "timestamp": 1695547973056,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "RzLRzsHVjaPBKCkh",
+        "prompt": "Fantasy art Hogweed Leshy chaotic evil leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1721589110110
     },
     "5tDBVocD4ScJHKQz": {
         "id": "5tDBVocD4ScJHKQz",
@@ -5680,18 +5640,16 @@
         "used_seed": 1024
     },
     "8axdoIyHw2WK9anh": {
-        "id": "8axdoIyHw2WK9anh",
-        "prompt": "Fantasy art Ptiro Valner human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973058,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "8axdoIyHw2WK9anh",
+        "prompt": "Fantasy art Ptiro Valner chaotic evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588948849
     },
     "8q3pSr4OLkcIDMIH": {
-        "id": "8q3pSr4OLkcIDMIH",
-        "prompt": "Fantasy art Barralbus human humanoid Male Arcanist in the style of Greg Rutkowski",
-        "timestamp": 1695547973058,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "8q3pSr4OLkcIDMIH",
+        "prompt": "Fantasy art Barralbus evil human humanoid lawful Male Arcanist in the style of Greg Rutkowski",
+        "timestamp": 1721589135665
     },
     "NUFsxlmHqk4LeYlq": {
         "id": "NUFsxlmHqk4LeYlq",
@@ -5722,11 +5680,10 @@
         "used_seed": 1024
     },
     "aWiBgV5B9sIO7UtN": {
-        "id": "aWiBgV5B9sIO7UtN",
-        "prompt": "Fantasy art Human Bandit human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973060,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "aWiBgV5B9sIO7UtN",
+        "prompt": "Fantasy art Human Bandit evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588931764
     },
     "EKwisoYBBn9femPg": {
         "id": "EKwisoYBBn9femPg",
@@ -5750,11 +5707,10 @@
         "used_seed": 1024
     },
     "zJhgmaI99nePKSaY": {
+        "seed": 1025,
         "id": "zJhgmaI99nePKSaY",
-        "prompt": "Fantasy art Boggard Swampseer amphibious boggard humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973061,
-        "seed": 1024,
-        "used_seed": 1025
+        "prompt": "Fantasy art Boggard Swampseer amphibious boggard chaotic evil humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721589008263
     },
     "1eeMzFoSPuQAAsiY": {
         "id": "1eeMzFoSPuQAAsiY",
@@ -5778,11 +5734,10 @@
         "used_seed": 1026
     },
     "NmkeNdV7SWYG7bYe": {
+        "seed": 1025,
         "id": "NmkeNdV7SWYG7bYe",
-        "prompt": "Fantasy art Vengeant Thorn beast in the style of Greg Rutkowski",
-        "timestamp": 1695547973062,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Vengeant Thorn beast evil in the style of Greg Rutkowski",
+        "timestamp": 1721589101694
     },
     "uwAyhK6sEoOyoR96": {
         "id": "uwAyhK6sEoOyoR96",
@@ -5841,11 +5796,10 @@
         "used_seed": 1024
     },
     "NTPKBjuubDmuSJTN": {
-        "id": "NTPKBjuubDmuSJTN",
-        "prompt": "Fantasy art Vicious Vulpine beast in the style of Greg Rutkowski",
-        "timestamp": 1695547973064,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "NTPKBjuubDmuSJTN",
+        "prompt": "Fantasy art Vicious Vulpine beast evil in the style of Greg Rutkowski",
+        "timestamp": 1721588627264
     },
     "QtDH32oEVWpFmlCi": {
         "id": "QtDH32oEVWpFmlCi",
@@ -5855,11 +5809,10 @@
         "used_seed": 1024
     },
     "Gs2zYE86QGrDzCrv": {
-        "id": "Gs2zYE86QGrDzCrv",
-        "prompt": "Fantasy art Human Bandit human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973065,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "Gs2zYE86QGrDzCrv",
+        "prompt": "Fantasy art Human Bandit chaotic human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588771145
     },
     "mjW1q98gMnEmZJKt": {
         "id": "mjW1q98gMnEmZJKt",
@@ -5925,11 +5878,10 @@
         "used_seed": 1024
     },
     "eWlUE6xrNLGMcfMX": {
-        "id": "eWlUE6xrNLGMcfMX",
-        "prompt": "Fantasy art Halfling Druid halfling humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973068,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "eWlUE6xrNLGMcfMX",
+        "prompt": "Fantasy art Halfling Druid evil halfling humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721588889285
     },
     "zE9WuJXq3I4uZNNX": {
         "id": "zE9WuJXq3I4uZNNX",
@@ -5953,11 +5905,10 @@
         "used_seed": 1024
     },
     "lhSKgDzZm8FZknvG": {
-        "id": "lhSKgDzZm8FZknvG",
-        "prompt": "Fantasy art Kobold Scout humanoid kobold in the style of Greg Rutkowski",
-        "timestamp": 1695547973070,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "lhSKgDzZm8FZknvG",
+        "prompt": "Fantasy art Kobold Scout evil humanoid kobold lawful in the style of Greg Rutkowski",
+        "timestamp": 1721589127172
     },
     "ptDF1ghCxNHGhH0h": {
         "id": "ptDF1ghCxNHGhH0h",
@@ -5981,11 +5932,10 @@
         "used_seed": 1024
     },
     "oEHGUzWB0IH26h7y": {
-        "id": "oEHGUzWB0IH26h7y",
-        "prompt": "Fantasy art Mummy Brute mummy mindless undead in the style of Greg Rutkowski",
-        "timestamp": 1695547973071,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "oEHGUzWB0IH26h7y",
+        "prompt": "Fantasy art Mummy Brute evil mindless mummy undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1721589118579
     },
     "4QEU9t2vYef8QfZQ": {
         "id": "4QEU9t2vYef8QfZQ",
