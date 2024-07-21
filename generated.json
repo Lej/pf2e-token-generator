@@ -6018,11 +6018,10 @@
         "used_seed": 1024
     },
     "oPA6PVdRSC43FDDB": {
-        "id": "oPA6PVdRSC43FDDB",
-        "prompt": "Fantasy art Bugbear Slasher goblin humanoid Variant Bugbear Tormentor in the style of Greg Rutkowski",
-        "timestamp": 1695547973081,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "oPA6PVdRSC43FDDB",
+        "prompt": "Fantasy art Bugbear Slasher evil goblin humanoid Variant Bugbear Tormentor in the style of Greg Rutkowski",
+        "timestamp": 1721592935885
     },
     "qdUFJOVrItZjjl6j": {
         "id": "qdUFJOVrItZjjl6j",
@@ -6053,11 +6052,10 @@
         "used_seed": 1024
     },
     "cIa7Zdq9cUziEL3U": {
-        "id": "cIa7Zdq9cUziEL3U",
-        "prompt": "Fantasy art Pups undead Variant scorned hound in the style of Greg Rutkowski",
-        "timestamp": 1695547973083,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "cIa7Zdq9cUziEL3U",
+        "prompt": "Fantasy art Pups chaotic undead Variant scorned hound in the style of Greg Rutkowski",
+        "timestamp": 1721592969993
     },
     "RpDO2ClbBiAUfQCL": {
         "id": "RpDO2ClbBiAUfQCL",
@@ -6123,11 +6121,10 @@
         "used_seed": 1024
     },
     "DSJtkGzddv1y6as5": {
+        "seed": 1025,
         "id": "DSJtkGzddv1y6as5",
-        "prompt": "Fantasy art Vrisk construct golem in the style of Greg Rutkowski",
-        "timestamp": 1695547973088,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Vrisk construct golem good in the style of Greg Rutkowski",
+        "timestamp": 1721592884659
     },
     "7yap6E0QQkY0N9HO": {
         "id": "7yap6E0QQkY0N9HO",
@@ -6151,11 +6148,10 @@
         "used_seed": 1025
     },
     "YcSoXBR5lacVKYzX": {
-        "id": "YcSoXBR5lacVKYzX",
-        "prompt": "Fantasy art Bloody Barber Gang Leader human humanoid Variant gang leader in the style of Greg Rutkowski",
-        "timestamp": 1695547973089,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "YcSoXBR5lacVKYzX",
+        "prompt": "Fantasy art Bloody Barber Gang Leader chaotic evil human humanoid Variant gang leader in the style of Greg Rutkowski",
+        "timestamp": 1721592859276
     },
     "FHOgTGMrt9342ZbI": {
         "id": "FHOgTGMrt9342ZbI",
@@ -6179,11 +6175,10 @@
         "used_seed": 1025
     },
     "1ZUAVNlJb4MWtSCw": {
-        "id": "1ZUAVNlJb4MWtSCw",
-        "prompt": "Fantasy art Witch's Gaze human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973090,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "1ZUAVNlJb4MWtSCw",
+        "prompt": "Fantasy art Witch's Gaze evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721592901739
     },
     "eWJwFmEasIOSGQgu": {
         "id": "eWJwFmEasIOSGQgu",
@@ -6228,11 +6223,10 @@
         "used_seed": 1024
     },
     "1iEGNvvHIG8EdOf1": {
-        "id": "1iEGNvvHIG8EdOf1",
-        "prompt": "Fantasy art Harpy Forager humanoid Variant harpy in the style of Greg Rutkowski",
-        "timestamp": 1695547973092,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "1iEGNvvHIG8EdOf1",
+        "prompt": "Fantasy art Harpy Forager chaotic evil humanoid Variant harpy in the style of Greg Rutkowski",
+        "timestamp": 1721592918819
     },
     "KV2LmRMc9ho9mBPy": {
         "id": "KV2LmRMc9ho9mBPy",
@@ -6263,11 +6257,10 @@
         "used_seed": 1024
     },
     "woCCr4BBVOjc3x92": {
-        "id": "woCCr4BBVOjc3x92",
-        "prompt": "Fantasy art Coven Grave Hag hag humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695547973095,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "woCCr4BBVOjc3x92",
+        "prompt": "Fantasy art Coven Grave Hag chaotic evil hag humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721592893256
     },
     "PKLIiMW0UMWYT6os": {
         "id": "PKLIiMW0UMWYT6os",
@@ -6375,11 +6368,10 @@
         "used_seed": 1024
     },
     "jJwEeklWJu49aXi7": {
-        "id": "jJwEeklWJu49aXi7",
-        "prompt": "Fantasy art Grim Rictus Bridge Guard human humanoid Variant guard in the style of Greg Rutkowski",
-        "timestamp": 1695547973101,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "jJwEeklWJu49aXi7",
+        "prompt": "Fantasy art Grim Rictus Bridge Guard chaotic human humanoid Variant guard in the style of Greg Rutkowski",
+        "timestamp": 1721592825067
     },
     "Q0N3WeP9tulx1Zx6": {
         "id": "Q0N3WeP9tulx1Zx6",
@@ -6564,11 +6556,10 @@
         "used_seed": 1024
     },
     "YjTKd7VZwCFaTWPB": {
-        "id": "YjTKd7VZwCFaTWPB",
-        "prompt": "Fantasy art Elite Smokesight Stalker Wight undead wight Variant prowler wight in the style of Greg Rutkowski",
-        "timestamp": 1695572870103,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "YjTKd7VZwCFaTWPB",
+        "prompt": "Fantasy art Elite Smokesight Stalker Wight evil lawful undead unholy wight Variant prowler wight in the style of Greg Rutkowski",
+        "timestamp": 1721592833590
     },
     "9fBLqeIyvH232sFp": {
         "id": "9fBLqeIyvH232sFp",
@@ -6606,11 +6597,10 @@
         "used_seed": 1024
     },
     "8i1a132Z2xJtqyQI": {
-        "id": "8i1a132Z2xJtqyQI",
-        "prompt": "Fantasy art Witch of the Owl human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695572870104,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "8i1a132Z2xJtqyQI",
+        "prompt": "Fantasy art Witch of the Owl evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721592850654
     },
     "NvaXW0zwejtYSek4": {
         "id": "NvaXW0zwejtYSek4",
@@ -6634,11 +6624,10 @@
         "used_seed": 1024
     },
     "OOwfdaGQYDknAH4e": {
-        "id": "OOwfdaGQYDknAH4e",
-        "prompt": "Fantasy art Shard of Aslynn dream fiend hag humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695572870106,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "OOwfdaGQYDknAH4e",
+        "prompt": "Fantasy art Shard of Aslynn dream evil fiend hag humanoid unholy in the style of Greg Rutkowski",
+        "timestamp": 1721592978558
     },
     "55XJegJx3b5MoB2s": {
         "id": "55XJegJx3b5MoB2s",
@@ -6851,11 +6840,10 @@
         "used_seed": 1024
     },
     "zmOYvFVhxA6zDEBg": {
-        "id": "zmOYvFVhxA6zDEBg",
-        "prompt": "Fantasy art Infested Clockwork Heap clockwork construct in the style of Greg Rutkowski",
-        "timestamp": 1695572870115,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "zmOYvFVhxA6zDEBg",
+        "prompt": "Fantasy art Infested Clockwork Heap chaotic clockwork construct evil in the style of Greg Rutkowski",
+        "timestamp": 1721592867798
     },
     "8h0PJxZu0WVcNm6H": {
         "id": "8h0PJxZu0WVcNm6H",
@@ -6935,11 +6923,10 @@
         "used_seed": 1024
     },
     "MJd091LyUYQR2cK0": {
-        "id": "MJd091LyUYQR2cK0",
-        "prompt": "Fantasy art Ambush Scout elf humanoid Variant ruffian in the style of Greg Rutkowski",
-        "timestamp": 1695572870119,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "MJd091LyUYQR2cK0",
+        "prompt": "Fantasy art Ambush Scout elf evil humanoid Variant ruffian in the style of Greg Rutkowski",
+        "timestamp": 1721592910311
     },
     "iacML9PbFyo49TMe": {
         "id": "iacML9PbFyo49TMe",
@@ -6991,25 +6978,22 @@
         "used_seed": 1024
     },
     "NZpxlgV4KHdjigi4": {
-        "id": "NZpxlgV4KHdjigi4",
-        "prompt": "Fantasy art Skulk Raider humanoid skulk in the style of Greg Rutkowski",
-        "timestamp": 1695572870121,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "NZpxlgV4KHdjigi4",
+        "prompt": "Fantasy art Skulk Raider chaotic evil humanoid skulk in the style of Greg Rutkowski",
+        "timestamp": 1721592842164
     },
     "56GciWoZDuiqjINk": {
-        "id": "56GciWoZDuiqjINk",
-        "prompt": "Fantasy art Weak Clacking Skull Swarm mindless swarm undead in the style of Greg Rutkowski",
-        "timestamp": 1695572870121,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "56GciWoZDuiqjINk",
+        "prompt": "Fantasy art Weak Clacking Skull Swarm evil mindless swarm undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1721592952925
     },
     "ay3mb6lMokkgCxQL": {
-        "id": "ay3mb6lMokkgCxQL",
-        "prompt": "Fantasy art Fey-Touched Great Wolf animal fey in the style of Greg Rutkowski",
-        "timestamp": 1695572870121,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "ay3mb6lMokkgCxQL",
+        "prompt": "Fantasy art Fey-Touched Great Wolf animal chaotic fey in the style of Greg Rutkowski",
+        "timestamp": 1721592927359
     },
     "PIxgIqgDs3he4VV6": {
         "id": "PIxgIqgDs3he4VV6",
@@ -7082,11 +7066,10 @@
         "used_seed": 1024
     },
     "BsuqNSusIHt19ijd": {
-        "id": "BsuqNSusIHt19ijd",
-        "prompt": "Fantasy art Grace of the Owl human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695572870128,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "BsuqNSusIHt19ijd",
+        "prompt": "Fantasy art Grace of the Owl evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721592944439
     },
     "gOmGPZ3Ul1bFtQZO": {
         "id": "gOmGPZ3Ul1bFtQZO",
@@ -7103,11 +7086,10 @@
         "used_seed": 1024
     },
     "weilkjJuw0L1iFdZ": {
-        "id": "weilkjJuw0L1iFdZ",
-        "prompt": "Fantasy art Determined Thisnabel gnome humanoid in the style of Greg Rutkowski",
-        "timestamp": 1695572870130,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "weilkjJuw0L1iFdZ",
+        "prompt": "Fantasy art Determined Thisnabel chaotic gnome good humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721592961493
     },
     "4Kll3POFvVeSNVkH": {
         "id": "4Kll3POFvVeSNVkH",
@@ -22151,11 +22133,10 @@
         "timestamp": 1721591694465
     },
     "WxN19w3aO5MpVY6Z": {
-        "id": "WxN19w3aO5MpVY6Z",
-        "prompt": "Fantasy art Cole Farsen, Gang Leader human humanoid Variant gang leader in the style of Greg Rutkowski",
-        "timestamp": 1696160111712,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "WxN19w3aO5MpVY6Z",
+        "prompt": "Fantasy art Cole Farsen, Gang Leader chaotic evil human humanoid Variant gang leader in the style of Greg Rutkowski",
+        "timestamp": 1721592569013
     },
     "P51YAmzcq1jONhJR": {
         "id": "P51YAmzcq1jONhJR",
@@ -22165,11 +22146,10 @@
         "used_seed": 1024
     },
     "YMT0Hl0LO9QKrb3X": {
-        "id": "YMT0Hl0LO9QKrb3X",
-        "prompt": "Fantasy art Aspis Agent human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1696160111713,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "YMT0Hl0LO9QKrb3X",
+        "prompt": "Fantasy art Aspis Agent evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721592765170
     },
     "S9v8OCktGEL0k6sC": {
         "id": "S9v8OCktGEL0k6sC",
@@ -22185,11 +22165,10 @@
         "timestamp": 1721591762940
     },
     "uJe5OEPDuvIG6eg6": {
-        "id": "uJe5OEPDuvIG6eg6",
-        "prompt": "Fantasy art Ghast Arctic ghoul undead in the style of Greg Rutkowski",
-        "timestamp": 1696160111714,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "uJe5OEPDuvIG6eg6",
+        "prompt": "Fantasy art Ghast Arctic chaotic evil ghoul undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1721592560414
     },
     "gzMCaAr2Bd2gbhrF": {
         "seed": 1024,
@@ -22249,11 +22228,10 @@
         "used_seed": 1024
     },
     "ffzfTw9KfaJopkCx": {
-        "id": "ffzfTw9KfaJopkCx",
-        "prompt": "Fantasy art Peryton Heretical beast in the style of Greg Rutkowski",
-        "timestamp": 1696160111717,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "ffzfTw9KfaJopkCx",
+        "prompt": "Fantasy art Peryton Heretical beast chaotic evil unholy in the style of Greg Rutkowski",
+        "timestamp": 1721592603202
     },
     "L1gzOT7o2xxJoqUD": {
         "id": "L1gzOT7o2xxJoqUD",
@@ -22385,18 +22363,16 @@
         "timestamp": 1721592010862
     },
     "DZwKXXrlzmk5Hqyx": {
-        "id": "DZwKXXrlzmk5Hqyx",
-        "prompt": "Fantasy art Cairn Wight undead wight in the style of Greg Rutkowski",
-        "timestamp": 1696160111724,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "DZwKXXrlzmk5Hqyx",
+        "prompt": "Fantasy art Cairn Wight evil lawful undead unholy wight in the style of Greg Rutkowski",
+        "timestamp": 1721592645985
     },
     "AffE7EuKLFijoJzG": {
-        "id": "AffE7EuKLFijoJzG",
-        "prompt": "Fantasy art Ninth Army Operative human humanoid Variant watch officer in the style of Greg Rutkowski",
-        "timestamp": 1696160111724,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "AffE7EuKLFijoJzG",
+        "prompt": "Fantasy art Ninth Army Operative evil human humanoid lawful Variant watch officer in the style of Greg Rutkowski",
+        "timestamp": 1721592714097
     },
     "Tt9DtLxj1N2TBT9w": {
         "seed": 1024,
@@ -22482,11 +22458,10 @@
         "timestamp": 1721592165573
     },
     "IP4wercLl66JDCaG": {
-        "id": "IP4wercLl66JDCaG",
-        "prompt": "Fantasy art Bloody Barber Leader human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1696160111729,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "IP4wercLl66JDCaG",
+        "prompt": "Fantasy art Bloody Barber Leader evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721592739677
     },
     "QvrnfL8u3azh9lBA": {
         "seed": 1024,
@@ -22501,11 +22476,10 @@
         "timestamp": 1721591985098
     },
     "iibGqYRM92mGVV8h": {
-        "id": "iibGqYRM92mGVV8h",
-        "prompt": "Fantasy art Cog the Torchbearer humanoid ratfolk in the style of Greg Rutkowski",
-        "timestamp": 1696160111730,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "iibGqYRM92mGVV8h",
+        "prompt": "Fantasy art Cog the Torchbearer chaotic humanoid ratfolk in the style of Greg Rutkowski",
+        "timestamp": 1721592696976
     },
     "fiArvThMW2QanZGk": {
         "seed": 1024,
@@ -22527,11 +22501,10 @@
         "used_seed": 1024
     },
     "MK2YstG6JpFwI9sB": {
-        "id": "MK2YstG6JpFwI9sB",
-        "prompt": "Fantasy art Duergar Crusher duergar dwarf humanoid in the style of Greg Rutkowski",
-        "timestamp": 1696160111732,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "MK2YstG6JpFwI9sB",
+        "prompt": "Fantasy art Duergar Crusher duergar dwarf evil humanoid lawful in the style of Greg Rutkowski",
+        "timestamp": 1721592577585
     },
     "DEfeDmBh7lR7c9W8": {
         "id": "DEfeDmBh7lR7c9W8",
@@ -22548,11 +22521,10 @@
         "used_seed": 1024
     },
     "AIO9Hug8KBesUfxI": {
-        "id": "AIO9Hug8KBesUfxI",
-        "prompt": "Fantasy art Bloody Beetle Exoskeleton mindless skeleton undead Variant skeletal giant in the style of Greg Rutkowski",
-        "timestamp": 1696160111732,
         "seed": 1024,
-        "used_seed": 1025
+        "id": "AIO9Hug8KBesUfxI",
+        "prompt": "Fantasy art Bloody Beetle Exoskeleton evil mindless skeleton undead unholy Variant skeletal giant in the style of Greg Rutkowski",
+        "timestamp": 1721592782191
     },
     "mZ2bmxg4JcVh1p2k": {
         "id": "mZ2bmxg4JcVh1p2k",
@@ -22562,11 +22534,10 @@
         "used_seed": 1024
     },
     "xkXMKw8GhdI5FNar": {
-        "id": "xkXMKw8GhdI5FNar",
-        "prompt": "Fantasy art Monastic Bodyguard human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1696160111733,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "xkXMKw8GhdI5FNar",
+        "prompt": "Fantasy art Monastic Bodyguard evil human humanoid lawful in the style of Greg Rutkowski",
+        "timestamp": 1721592679980
     },
     "XyrToL9Wyl4MoAf1": {
         "seed": 1024,
@@ -22652,11 +22623,10 @@
         "timestamp": 1721592379151
     },
     "9FgyBdbHxwMYdGAt": {
-        "id": "9FgyBdbHxwMYdGAt",
-        "prompt": "Fantasy art Pup of Tindalos aberration time Variant hound of Tindalos in the style of Greg Rutkowski",
-        "timestamp": 1696160111737,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "9FgyBdbHxwMYdGAt",
+        "prompt": "Fantasy art Pup of Tindalos aberration evil time Variant hound of Tindalos in the style of Greg Rutkowski",
+        "timestamp": 1721592688459
     },
     "LHEI3E4THLsz0rr0": {
         "seed": 1024,
@@ -22671,11 +22641,10 @@
         "timestamp": 1721591976597
     },
     "2jiOLCpHekITyQTQ": {
-        "id": "2jiOLCpHekITyQTQ",
-        "prompt": "Fantasy art Temporal Echoes undead in the style of Greg Rutkowski",
-        "timestamp": 1696160111737,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "2jiOLCpHekITyQTQ",
+        "prompt": "Fantasy art Temporal Echoes chaotic evil undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1721592756639
     },
     "KSKDACF4qh3HJTDo": {
         "seed": 1024,
@@ -22704,11 +22673,10 @@
         "used_seed": 1024
     },
     "qnu2pwoPe5Hh73vB": {
-        "id": "qnu2pwoPe5Hh73vB",
-        "prompt": "Fantasy art Uncle Jeb human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1696160111739,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "qnu2pwoPe5Hh73vB",
+        "prompt": "Fantasy art Uncle Jeb evil human humanoid lawful in the style of Greg Rutkowski",
+        "timestamp": 1721592731170
     },
     "hqFuN3UINx7ChbqS": {
         "id": "hqFuN3UINx7ChbqS",
@@ -22749,11 +22717,10 @@
         "timestamp": 1721591916915
     },
     "986YKe07u2538RcF": {
-        "id": "986YKe07u2538RcF",
-        "prompt": "Fantasy art Fasiel Ibn Sazadin humanoid skelm Variant street skelm in the style of Greg Rutkowski",
-        "timestamp": 1696160111741,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "986YKe07u2538RcF",
+        "prompt": "Fantasy art Fasiel Ibn Sazadin evil humanoid lawful skelm Variant street skelm in the style of Greg Rutkowski",
+        "timestamp": 1721592705572
     },
     "BcSac9voqpoDjMTy": {
         "seed": 1024,
@@ -22796,11 +22763,10 @@
         "used_seed": 1024
     },
     "39ShWwOPdJq2X5o2": {
-        "id": "39ShWwOPdJq2X5o2",
-        "prompt": "Fantasy art Aydrian Thrune human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1696160111743,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "39ShWwOPdJq2X5o2",
+        "prompt": "Fantasy art Aydrian Thrune evil human humanoid lawful in the style of Greg Rutkowski",
+        "timestamp": 1721592799330
     },
     "zhtkM2GPvDNw3bY1": {
         "seed": 1024,
@@ -22809,11 +22775,10 @@
         "timestamp": 1721592404938
     },
     "vwV33OVSDH6fsdPI": {
-        "id": "vwV33OVSDH6fsdPI",
-        "prompt": "Fantasy art Mummy Guardian mummy undead in the style of Greg Rutkowski",
-        "timestamp": 1696160111744,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "vwV33OVSDH6fsdPI",
+        "prompt": "Fantasy art Mummy Guardian evil mummy undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1721592586151
     },
     "g3UYRJQCwnjdvCm9": {
         "seed": 1024,
@@ -22835,11 +22800,10 @@
         "timestamp": 1721591643454
     },
     "sfStaEmGGvXWftsn": {
-        "id": "sfStaEmGGvXWftsn",
-        "prompt": "Fantasy art Horrid Nightmare beast fiend Variant nightmare in the style of Greg Rutkowski",
-        "timestamp": 1696160111745,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "sfStaEmGGvXWftsn",
+        "prompt": "Fantasy art Horrid Nightmare beast evil fiend unholy Variant nightmare in the style of Greg Rutkowski",
+        "timestamp": 1721592773750
     },
     "EiCWpQOwOlGnvWB8": {
         "id": "EiCWpQOwOlGnvWB8",
@@ -22855,11 +22819,10 @@
         "timestamp": 1721592225649
     },
     "XYBA4EoyegNciY2P": {
-        "id": "XYBA4EoyegNciY2P",
-        "prompt": "Fantasy art Elite Hell Hound beast fiend fire Variant hell hound in the style of Greg Rutkowski",
-        "timestamp": 1696160111745,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "XYBA4EoyegNciY2P",
+        "prompt": "Fantasy art Elite Hell Hound beast evil fiend fire lawful unholy Variant hell hound in the style of Greg Rutkowski",
+        "timestamp": 1721592807910
     },
     "IHuTNi8FQt54OpPj": {
         "id": "IHuTNi8FQt54OpPj",
@@ -22901,11 +22864,10 @@
         "timestamp": 1721592336353
     },
     "RLBOKSaMrOCA4fdZ": {
-        "id": "RLBOKSaMrOCA4fdZ",
-        "prompt": "Fantasy art Ninth Army Ruffian human humanoid Variant ruffian in the style of Greg Rutkowski",
-        "timestamp": 1696160111747,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "RLBOKSaMrOCA4fdZ",
+        "prompt": "Fantasy art Ninth Army Ruffian chaotic evil human humanoid Variant ruffian in the style of Greg Rutkowski",
+        "timestamp": 1721592611753
     },
     "JZtLQye4QlfFjrYT": {
         "seed": 1024,
@@ -22914,18 +22876,16 @@
         "timestamp": 1721592422106
     },
     "CIjBUkWnth0CE30k": {
-        "id": "CIjBUkWnth0CE30k",
-        "prompt": "Fantasy art Cog the Ruffian humanoid ratfolk in the style of Greg Rutkowski",
-        "timestamp": 1696160111747,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "CIjBUkWnth0CE30k",
+        "prompt": "Fantasy art Cog the Ruffian chaotic humanoid ratfolk in the style of Greg Rutkowski",
+        "timestamp": 1721592790792
     },
     "B57HMAtx8pj3kt8u": {
-        "id": "B57HMAtx8pj3kt8u",
-        "prompt": "Fantasy art Fipp the Prophet humanoid ratfolk in the style of Greg Rutkowski",
-        "timestamp": 1696160111748,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "B57HMAtx8pj3kt8u",
+        "prompt": "Fantasy art Fipp the Prophet chaotic good humanoid ratfolk in the style of Greg Rutkowski",
+        "timestamp": 1721592816446
     },
     "DOG6jdFk7JmBDEBg": {
         "seed": 1024,
@@ -22934,11 +22894,10 @@
         "timestamp": 1721592344919
     },
     "x6uXLDuFimMuvz3w": {
-        "id": "x6uXLDuFimMuvz3w",
-        "prompt": "Fantasy art Half-Formed Abrikandilu demon fiend Variant abrikandilu rituals in the style of Greg Rutkowski",
-        "timestamp": 1696160111748,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "x6uXLDuFimMuvz3w",
+        "prompt": "Fantasy art Half-Formed Abrikandilu chaotic demon evil fiend unholy Variant abrikandilu rituals in the style of Greg Rutkowski",
+        "timestamp": 1721592748067
     },
     "MQMfOX5h2OgJrhm6": {
         "seed": 1024,
@@ -22984,11 +22943,10 @@
         "timestamp": 1721591805849
     },
     "plYMMhlfO6OVrtEo": {
-        "id": "plYMMhlfO6OVrtEo",
-        "prompt": "Fantasy art Eloise's Ghost ghost incorporeal spirit undead Variant ghost in the style of Greg Rutkowski",
-        "timestamp": 1696160111751,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "plYMMhlfO6OVrtEo",
+        "prompt": "Fantasy art Eloise's Ghost chaotic evil ghost incorporeal spirit undead unholy Variant ghost in the style of Greg Rutkowski",
+        "timestamp": 1721592637466
     },
     "m1bVKRXsSXnBNka5": {
         "seed": 1024,
@@ -22997,11 +22955,10 @@
         "timestamp": 1721591856971
     },
     "wqJDAf89wSAdG0qy": {
-        "id": "wqJDAf89wSAdG0qy",
-        "prompt": "Fantasy art Peryton Arctic beast in the style of Greg Rutkowski",
-        "timestamp": 1696160111752,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "wqJDAf89wSAdG0qy",
+        "prompt": "Fantasy art Peryton Arctic beast chaotic evil in the style of Greg Rutkowski",
+        "timestamp": 1721592551878
     },
     "LqEHXPTgyVUltvS2": {
         "seed": 1024,
@@ -23124,11 +23081,10 @@
         "timestamp": 1721591702997
     },
     "wLM38nmdIITxkr4k": {
-        "id": "wLM38nmdIITxkr4k",
-        "prompt": "Fantasy art Elite Green Hag hag humanoid Variant green hag rituals in the style of Greg Rutkowski",
-        "timestamp": 1696160111758,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "wLM38nmdIITxkr4k",
+        "prompt": "Fantasy art Elite Green Hag chaotic evil hag humanoid Variant green hag rituals in the style of Greg Rutkowski",
+        "timestamp": 1721592628863
     },
     "gR4cLkgcor3Lp35F": {
         "seed": 1024,
@@ -23144,11 +23100,10 @@
         "used_seed": 1024
     },
     "h65eZJq6Iie69zLD": {
-        "id": "h65eZJq6Iie69zLD",
-        "prompt": "Fantasy art Bloody Barber Ambusher human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1696160111759,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "h65eZJq6Iie69zLD",
+        "prompt": "Fantasy art Bloody Barber Ambusher evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721592662884
     },
     "55uIx8vScaf8JeTY": {
         "id": "55uIx8vScaf8JeTY",
@@ -23196,11 +23151,10 @@
         "timestamp": 1721592072225
     },
     "WB4DMTHCIEBOiitp": {
-        "id": "WB4DMTHCIEBOiitp",
-        "prompt": "Fantasy art Shadow Guardian construct mindless shadow in the style of Greg Rutkowski",
-        "timestamp": 1696160111761,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "WB4DMTHCIEBOiitp",
+        "prompt": "Fantasy art Shadow Guardian construct evil mindless shadow in the style of Greg Rutkowski",
+        "timestamp": 1721592654461
     },
     "g4hfpuGdtTDq7KZw": {
         "seed": 1024,
@@ -23248,11 +23202,10 @@
         "used_seed": 1024
     },
     "RxB7Hj5E3kGcE9Fi": {
-        "id": "RxB7Hj5E3kGcE9Fi",
-        "prompt": "Fantasy art Ruthless Fetchling Sneak fetchling humanoid in the style of Greg Rutkowski",
-        "timestamp": 1696160111763,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "RxB7Hj5E3kGcE9Fi",
+        "prompt": "Fantasy art Ruthless Fetchling Sneak evil fetchling humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721592671465
     },
     "PhnmHglnmoiIb3Al": {
         "id": "PhnmHglnmoiIb3Al",
@@ -23282,11 +23235,10 @@
         "timestamp": 1721592122936
     },
     "hEh3j8Fz8lbjuiRF": {
-        "id": "hEh3j8Fz8lbjuiRF",
-        "prompt": "Fantasy art Aspis Recruit human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1696160111765,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "hEh3j8Fz8lbjuiRF",
+        "prompt": "Fantasy art Aspis Recruit evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721592722688
     },
     "EB00f6ADElWInuix": {
         "id": "EB00f6ADElWInuix",
@@ -23314,11 +23266,10 @@
         "timestamp": 1721592157088
     },
     "xYByANF8t6zhxt4p": {
-        "id": "xYByANF8t6zhxt4p",
-        "prompt": "Fantasy art Veteran Onyx Alliance Scout fetchling humanoid shadow in the style of Greg Rutkowski",
-        "timestamp": 1696160111766,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "xYByANF8t6zhxt4p",
+        "prompt": "Fantasy art Veteran Onyx Alliance Scout evil fetchling humanoid shadow in the style of Greg Rutkowski",
+        "timestamp": 1721592620336
     },
     "YsF8TteK6XsThooV": {
         "id": "YsF8TteK6XsThooV",
@@ -23372,11 +23323,10 @@
         "timestamp": 1721591737268
     },
     "6aGKyGMSHD4fqReA": {
-        "id": "6aGKyGMSHD4fqReA",
-        "prompt": "Fantasy art Weretiger beast human humanoid werecreature in the style of Greg Rutkowski",
-        "timestamp": 1696160111769,
         "seed": 1024,
-        "used_seed": 1025
+        "id": "6aGKyGMSHD4fqReA",
+        "prompt": "Fantasy art Weretiger beast evil human humanoid werecreature in the style of Greg Rutkowski",
+        "timestamp": 1721592594691
     },
     "JXWHVfaSm3eHIb5v": {
         "seed": 1024,
