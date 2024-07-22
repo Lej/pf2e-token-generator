@@ -18789,11 +18789,10 @@
         "used_seed": 1024
     },
     "M05AoaYPBCgYJKDW": {
-        "id": "M05AoaYPBCgYJKDW",
-        "prompt": "Fantasy art Hardened Azarketi Ruffian amphibious azarketi humanoid in the style of Greg Rutkowski",
-        "timestamp": 1696160111193,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "M05AoaYPBCgYJKDW",
+        "prompt": "Fantasy art Hardened Azarketi Ruffian amphibious azarketi chaotic humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721677341690
     },
     "heClAqkkmCgPvm1K": {
         "id": "heClAqkkmCgPvm1K",
@@ -18873,11 +18872,10 @@
         "timestamp": 1721676355737
     },
     "yDcmp9DpXU1gLrop": {
-        "id": "yDcmp9DpXU1gLrop",
-        "prompt": "Fantasy art Azlanti Thief human humanoid in the style of Greg Rutkowski",
-        "timestamp": 1696160111196,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "yDcmp9DpXU1gLrop",
+        "prompt": "Fantasy art Azlanti Thief chaotic evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721677249953
     },
     "0dfF8IyWHPop4IR6": {
         "id": "0dfF8IyWHPop4IR6",
@@ -23650,11 +23648,10 @@
         "timestamp": 1721676523265
     },
     "ACCnvTL2K5L9CAPg": {
-        "id": "ACCnvTL2K5L9CAPg",
-        "prompt": "Fantasy art Barnacle Barnaby amphibious ghoul undead Variant male lacedon in the style of Greg Rutkowski",
-        "timestamp": 1696785964065,
         "seed": 1024,
-        "used_seed": 1025
+        "id": "ACCnvTL2K5L9CAPg",
+        "prompt": "Fantasy art Barnacle Barnaby amphibious chaotic evil ghoul undead unholy Variant male lacedon in the style of Greg Rutkowski",
+        "timestamp": 1721677474908
     },
     "ytb75tCpHFXxryFZ": {
         "seed": 1024,
@@ -23681,11 +23678,10 @@
         "timestamp": 1721676414650
     },
     "VNOQk9lAIaCT5QNW": {
-        "id": "VNOQk9lAIaCT5QNW",
-        "prompt": "Fantasy art Shadowborn Slayer undead in the style of Greg Rutkowski",
-        "timestamp": 1696785964067,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "VNOQk9lAIaCT5QNW",
+        "prompt": "Fantasy art Shadowborn Slayer evil undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1721677132278
     },
     "L55H4HofGvCM02au": {
         "seed": 1024,
@@ -23694,18 +23690,16 @@
         "timestamp": 1721676634772
     },
     "4JnqGDbDbDziIVgI": {
-        "id": "4JnqGDbDbDziIVgI",
-        "prompt": "Fantasy art Alystair Caskwater undead water Variant draugr in the style of Greg Rutkowski",
-        "timestamp": 1696785964070,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "4JnqGDbDbDziIVgI",
+        "prompt": "Fantasy art Alystair Caskwater chaotic evil undead unholy water Variant draugr in the style of Greg Rutkowski",
+        "timestamp": 1721677449881
     },
     "8Zj3XDNa07fjkWAq": {
-        "id": "8Zj3XDNa07fjkWAq",
-        "prompt": "Fantasy art Arisen Shadow Pixie fey shadow sprite undead in the style of Greg Rutkowski",
-        "timestamp": 1696785964070,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "8Zj3XDNa07fjkWAq",
+        "prompt": "Fantasy art Arisen Shadow Pixie chaotic fey shadow sprite undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1721677199658
     },
     "PYdVfyDCOZeX2n9n": {
         "seed": 1024,
@@ -30812,5 +30806,269 @@
         "id": "oU6tQs6uHhf2vuN1",
         "prompt": "Fantasy art Blessed Uirch of the Burning Suns good orc in the style of Greg Rutkowski",
         "timestamp": 1721676995726
+    },
+    "1ytpVvgPTh6J0zxF": {
+        "seed": 1024,
+        "id": "1ytpVvgPTh6J0zxF",
+        "prompt": "Fantasy art Assassins' Guild Rogue human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721677006373
+    },
+    "axWiudjK1tVIL2Yr": {
+        "seed": 1024,
+        "id": "axWiudjK1tVIL2Yr",
+        "prompt": "Fantasy art Burning Sun Orc good orc in the style of Greg Rutkowski",
+        "timestamp": 1721677014781
+    },
+    "85IQFVma3lRsLjNm": {
+        "seed": 1025,
+        "id": "85IQFVma3lRsLjNm",
+        "prompt": "Fantasy art Blue-Scarf Heavy chaotic humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721677031499
+    },
+    "UuOiurvJyyaFZjUB": {
+        "seed": 1024,
+        "id": "UuOiurvJyyaFZjUB",
+        "prompt": "Fantasy art Weak Leaf Leshy leshy plant in the style of Greg Rutkowski",
+        "timestamp": 1721677039952
+    },
+    "4sspCrQyEVJW5wh7": {
+        "seed": 1024,
+        "id": "4sspCrQyEVJW5wh7",
+        "prompt": "Fantasy art Angry Foolhardy Mercenary chaotic human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721677048379
+    },
+    "ytfKFUktZrRur3nO": {
+        "seed": 1024,
+        "id": "ytfKFUktZrRur3nO",
+        "prompt": "Fantasy art Deskari Cultist chaotic evil human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721677056753
+    },
+    "5XCozjNbo5j47UEQ": {
+        "seed": 1024,
+        "id": "5XCozjNbo5j47UEQ",
+        "prompt": "Fantasy art Sharp Pukwudgie evil fey Variant pukwudgie in the style of Greg Rutkowski",
+        "timestamp": 1721677065075
+    },
+    "b7jGiIJ1JDrwb4FC": {
+        "seed": 1024,
+        "id": "b7jGiIJ1JDrwb4FC",
+        "prompt": "Fantasy art Sewer Gator animal in the style of Greg Rutkowski",
+        "timestamp": 1721677073477
+    },
+    "S0LJTh5aCM7de0zE": {
+        "seed": 1024,
+        "id": "S0LJTh5aCM7de0zE",
+        "prompt": "Fantasy art Tough Ghostknife Infiltrator humanoid vishkanya in the style of Greg Rutkowski",
+        "timestamp": 1721677081908
+    },
+    "PS82Nly4bzXQQovZ": {
+        "seed": 1024,
+        "id": "PS82Nly4bzXQQovZ",
+        "prompt": "Fantasy art Shurrizih air chaotic earth elemental fire genie metal water wood Variant jann shuyookh in the style of Greg Rutkowski",
+        "timestamp": 1721677090316
+    },
+    "Nwga1GE1BrsiHVlT": {
+        "seed": 1024,
+        "id": "Nwga1GE1BrsiHVlT",
+        "prompt": "Fantasy art Busoborn Akata aberration in the style of Greg Rutkowski",
+        "timestamp": 1721677098729
+    },
+    "RghG76jeaTeQCT6j": {
+        "seed": 1024,
+        "id": "RghG76jeaTeQCT6j",
+        "prompt": "Fantasy art Sronwa dwarf humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721677107137
+    },
+    "a91e870yzNM7jD93": {
+        "seed": 1024,
+        "id": "a91e870yzNM7jD93",
+        "prompt": "Fantasy art Toxic Sewer Gator animal in the style of Greg Rutkowski",
+        "timestamp": 1721677115512
+    },
+    "epmml7kA0akrIGPG": {
+        "seed": 1024,
+        "id": "epmml7kA0akrIGPG",
+        "prompt": "Fantasy art Little Brother Zibini chaotic goblin good humanoid sylph in the style of Greg Rutkowski",
+        "timestamp": 1721677123896
+    },
+    "JKduEdHCeBVIYcdd": {
+        "seed": 1024,
+        "id": "JKduEdHCeBVIYcdd",
+        "prompt": "Fantasy art Weak Hound Echo aberration evil time in the style of Greg Rutkowski",
+        "timestamp": 1721677140817
+    },
+    "6SDKAujYM3nP4iDC": {
+        "seed": 1024,
+        "id": "6SDKAujYM3nP4iDC",
+        "prompt": "Fantasy art Asper Hajeri evil fiend lawful rakshasa Female rakshasa lieutenant in the style of Greg Rutkowski",
+        "timestamp": 1721677149292
+    },
+    "gEbWlDgtGTmKEmfT": {
+        "seed": 1024,
+        "id": "gEbWlDgtGTmKEmfT",
+        "prompt": "Fantasy art Burning Sun Warrior good orc in the style of Greg Rutkowski",
+        "timestamp": 1721677157699
+    },
+    "fOQBZNOeaFAVstc7": {
+        "seed": 1024,
+        "id": "fOQBZNOeaFAVstc7",
+        "prompt": "Fantasy art Corrosive Slime mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1721677166048
+    },
+    "3w7qrvJsy55a8ct9": {
+        "seed": 1024,
+        "id": "3w7qrvJsy55a8ct9",
+        "prompt": "Fantasy art Spry Blodeuwedd chaotic fey plant Variant blodeuwedd in the style of Greg Rutkowski",
+        "timestamp": 1721677174414
+    },
+    "vT3oWDIHL3ncRVPx": {
+        "seed": 1024,
+        "id": "vT3oWDIHL3ncRVPx",
+        "prompt": "Fantasy art Tok Loyalist evil humanoid kobold lawful in the style of Greg Rutkowski",
+        "timestamp": 1721677182796
+    },
+    "zIi94PzeveWBlxTy": {
+        "seed": 1024,
+        "id": "zIi94PzeveWBlxTy",
+        "prompt": "Fantasy art Orcish Throat Slitters evil human orc in the style of Greg Rutkowski",
+        "timestamp": 1721677191253
+    },
+    "shh9wJMiV7Z5ugZI": {
+        "seed": 1024,
+        "id": "shh9wJMiV7Z5ugZI",
+        "prompt": "Fantasy art Tanuki Prankster chaotic humanoid tanuki in the style of Greg Rutkowski",
+        "timestamp": 1721677208130
+    },
+    "dXSti6gNOpoEYoIF": {
+        "seed": 1024,
+        "id": "dXSti6gNOpoEYoIF",
+        "prompt": "Fantasy art Weak Sewer Ooze mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1721677216538
+    },
+    "5b0fdcM8fB8DZMz7": {
+        "seed": 1024,
+        "id": "5b0fdcM8fB8DZMz7",
+        "prompt": "Fantasy art Salted Ghost Pirate Captain chaotic evil ghost incorporeal spirit undead unholy Variant ghost pirate captain in the style of Greg Rutkowski",
+        "timestamp": 1721677224893
+    },
+    "1kqDiAAQGH26eAC7": {
+        "seed": 1024,
+        "id": "1kqDiAAQGH26eAC7",
+        "prompt": "Fantasy art The Warden construct humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721677233285
+    },
+    "ojgI1Ze5pDqrGH5t": {
+        "seed": 1024,
+        "id": "ojgI1Ze5pDqrGH5t",
+        "prompt": "Fantasy art Experienced Cultist of Sezelrian chaotic evil orc in the style of Greg Rutkowski",
+        "timestamp": 1721677241570
+    },
+    "GJXz9twOPUjoCBsY": {
+        "seed": 1024,
+        "id": "GJXz9twOPUjoCBsY",
+        "prompt": "Fantasy art Carcaras animal electricity Variant crocodile in the style of Greg Rutkowski",
+        "timestamp": 1721677258326
+    },
+    "Hfh8jRPyXBw4B4ic": {
+        "seed": 1024,
+        "id": "Hfh8jRPyXBw4B4ic",
+        "prompt": "Fantasy art Elite Mutant Cryptid Snapdrake elemental plant wood Variant snapdrake in the style of Greg Rutkowski",
+        "timestamp": 1721677266790
+    },
+    "8lrRsd8fGzm9ts5R": {
+        "seed": 1024,
+        "id": "8lrRsd8fGzm9ts5R",
+        "prompt": "Fantasy art Tough Assassins' Guild Rogue human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721677275169
+    },
+    "LWNwaiSnwU0poWgn": {
+        "seed": 1025,
+        "id": "LWNwaiSnwU0poWgn",
+        "prompt": "Fantasy art Shenga Heartrender chaotic evil human orc in the style of Greg Rutkowski",
+        "timestamp": 1721677291768
+    },
+    "Z9ofpt7xRr9o47Ya": {
+        "seed": 1024,
+        "id": "Z9ofpt7xRr9o47Ya",
+        "prompt": "Fantasy art The Upset Warden construct humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721677300094
+    },
+    "yrQTOX05SXnpvEYL": {
+        "seed": 1024,
+        "id": "yrQTOX05SXnpvEYL",
+        "prompt": "Fantasy art Giant-er Mouse animal in the style of Greg Rutkowski",
+        "timestamp": 1721677308480
+    },
+    "V5gA4pv3ewFxfY6L": {
+        "seed": 1026,
+        "id": "V5gA4pv3ewFxfY6L",
+        "prompt": "Fantasy art Tisbah ardande chaotic humanoid vishkanya in the style of Greg Rutkowski",
+        "timestamp": 1721677333285
+    },
+    "ziIkenoVDHSAyUC2": {
+        "seed": 1024,
+        "id": "ziIkenoVDHSAyUC2",
+        "prompt": "Fantasy art Acrid Corrosive Slime mindless ooze in the style of Greg Rutkowski",
+        "timestamp": 1721677350104
+    },
+    "bvhvwHYwL3VOEt8R": {
+        "seed": 1024,
+        "id": "bvhvwHYwL3VOEt8R",
+        "prompt": "Fantasy art Ghostknife Infiltrator humanoid vishkanya in the style of Greg Rutkowski",
+        "timestamp": 1721677358452
+    },
+    "c93xz68jVyaTiAI5": {
+        "seed": 1026,
+        "id": "c93xz68jVyaTiAI5",
+        "prompt": "Fantasy art Weak Cosmic Amoeba amphibious mindless ooze Variant giant amoeba in the style of Greg Rutkowski",
+        "timestamp": 1721677383224
+    },
+    "KCBvB2B1OzeJy2cq": {
+        "seed": 1024,
+        "id": "KCBvB2B1OzeJy2cq",
+        "prompt": "Fantasy art Ashen Brimorak chaotic demon evil fiend unholy Variant brimorak rituals in the style of Greg Rutkowski",
+        "timestamp": 1721677391700
+    },
+    "SFfNRoOqDlefQN4q": {
+        "seed": 1024,
+        "id": "SFfNRoOqDlefQN4q",
+        "prompt": "Fantasy art Hardened Locust Knight fleshwarp humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721677400105
+    },
+    "vXTBGridjDSxFRlU": {
+        "seed": 1024,
+        "id": "vXTBGridjDSxFRlU",
+        "prompt": "Fantasy art Jamimpi aberration good lawful Variant Elite Guardian Naga in the style of Greg Rutkowski",
+        "timestamp": 1721677408534
+    },
+    "05Vy7mpQdzAs55rh": {
+        "seed": 1027,
+        "id": "05Vy7mpQdzAs55rh",
+        "prompt": "Fantasy art Resolved Jamimpi aberration good lawful Variant Guardian Naga in the style of Greg Rutkowski",
+        "timestamp": 1721677441459
+    },
+    "HKYoyKZp8aSJ9dn7": {
+        "seed": 1024,
+        "id": "HKYoyKZp8aSJ9dn7",
+        "prompt": "Fantasy art Uirch of the Burning Suns good orc in the style of Greg Rutkowski",
+        "timestamp": 1721677458175
+    },
+    "qvdMGFjaJe08JQW5": {
+        "seed": 1024,
+        "id": "qvdMGFjaJe08JQW5",
+        "prompt": "Fantasy art Div Worshipper chaotic human Variant cultist in the style of Greg Rutkowski",
+        "timestamp": 1721677466516
+    },
+    "TfhlACV07vdjfTCl": {
+        "seed": 1024,
+        "id": "TfhlACV07vdjfTCl",
+        "prompt": "Fantasy art Topiary Beast construct plant in the style of Greg Rutkowski",
+        "timestamp": 1721677483360
+    },
+    "qO1pjZGoRZfjALiO": {
+        "seed": 1024,
+        "id": "qO1pjZGoRZfjALiO",
+        "prompt": "Fantasy art Tough Ghostknife Gardener ardande human humanoid in the style of Greg Rutkowski",
+        "timestamp": 1721677491772
     }
 }
