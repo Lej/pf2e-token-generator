@@ -21170,11 +21170,10 @@
         "used_seed": 1024
     },
     "jKSirpKNicffmRpW": {
-        "id": "jKSirpKNicffmRpW",
-        "prompt": "Fantasy art Crysmal earth elemental in the style of Greg Rutkowski",
-        "timestamp": 1696160111675,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "jKSirpKNicffmRpW",
+        "prompt": "Fantasy art Cullitox earth elemental in the style of Greg Rutkowski",
+        "timestamp": 1721763346636
     },
     "7zKCt0OyooqW9UkL": {
         "id": "7zKCt0OyooqW9UkL",
@@ -21191,11 +21190,10 @@
         "used_seed": 1024
     },
     "nhIxIC4O6XGUZ8Ng": {
-        "id": "nhIxIC4O6XGUZ8Ng",
-        "prompt": "Fantasy art Nanoshard Swarm elemental metal in the style of Greg Rutkowski",
-        "timestamp": 1696160111676,
         "seed": 1024,
-        "used_seed": 1025
+        "id": "nhIxIC4O6XGUZ8Ng",
+        "prompt": "Fantasy art Nanoshard Swarm elemental metal swarm in the style of Greg Rutkowski",
+        "timestamp": 1721763338250
     },
     "RObxZM2z4P6ZW3hN": {
         "id": "RObxZM2z4P6ZW3hN",
@@ -23031,32 +23029,28 @@
         "used_seed": 1024
     },
     "7ze52pL9OFjZBGWa": {
-        "id": "7ze52pL9OFjZBGWa",
-        "prompt": "Fantasy art Blade Magus human humanoid Human magus in the style of Greg Rutkowski",
-        "timestamp": 1696160111784,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "7ze52pL9OFjZBGWa",
+        "prompt": "Fantasy art Blade Magus evil human humanoid lawful Human magus in the style of Greg Rutkowski",
+        "timestamp": 1721763263224
     },
     "Ig4g6cJOqCVOJiLv": {
+        "seed": 1025,
         "id": "Ig4g6cJOqCVOJiLv",
-        "prompt": "Fantasy art The Keeper fey Variant female vilderavn in the style of Greg Rutkowski",
-        "timestamp": 1696160111785,
-        "seed": 1024,
-        "used_seed": 1025
+        "prompt": "Fantasy art The Keeper evil fey Variant female vilderavn in the style of Greg Rutkowski",
+        "timestamp": 1721763304819
     },
     "pLbDF5JJoF93vgwL": {
-        "id": "pLbDF5JJoF93vgwL",
-        "prompt": "Fantasy art Blade Mercenary human humanoid Human mercenary in the style of Greg Rutkowski",
-        "timestamp": 1696160111785,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "pLbDF5JJoF93vgwL",
+        "prompt": "Fantasy art Blade Mercenary evil human humanoid Human mercenary in the style of Greg Rutkowski",
+        "timestamp": 1721763279970
     },
     "6z5AD99UV8IWMtRU": {
-        "id": "6z5AD99UV8IWMtRU",
-        "prompt": "Fantasy art Vehanezhad dragon earth elemental Variant crystal dragon great wyrm in the style of Greg Rutkowski",
-        "timestamp": 1696160111786,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "6z5AD99UV8IWMtRU",
+        "prompt": "Fantasy art Vehanezhad dragon earth elemental evil lawful Variant crystal dragon great wyrm in the style of Greg Rutkowski",
+        "timestamp": 1721763147217
     },
     "zw2JQhb4cHkDk2zb": {
         "seed": 1025,
@@ -23072,25 +23066,22 @@
         "used_seed": 1024
     },
     "sl9QX8iAen1Aquyp": {
-        "id": "sl9QX8iAen1Aquyp",
-        "prompt": "Fantasy art Zellara Esmeranda ghost incorporeal spirit undead Female human ghost in the style of Greg Rutkowski",
-        "timestamp": 1696160111787,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "sl9QX8iAen1Aquyp",
+        "prompt": "Fantasy art Zellara Esmeranda chaotic ghost good incorporeal spirit undead Female human ghost in the style of Greg Rutkowski",
+        "timestamp": 1721763205199
     },
     "0C9muUhjn4vAL5UW": {
-        "id": "0C9muUhjn4vAL5UW",
-        "prompt": "Fantasy art Ferrugon devil fiend in the style of Greg Rutkowski",
-        "timestamp": 1696160111788,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "0C9muUhjn4vAL5UW",
+        "prompt": "Fantasy art Ferrugon devil evil fiend lawful unholy in the style of Greg Rutkowski",
+        "timestamp": 1721763138915
     },
     "2crt0oeOnu3G3Nhw": {
-        "id": "2crt0oeOnu3G3Nhw",
-        "prompt": "Fantasy art Demongate Colossus construct Variant radiant warden in the style of Greg Rutkowski",
-        "timestamp": 1696160111789,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "2crt0oeOnu3G3Nhw",
+        "prompt": "Fantasy art Demongate Colossus chaotic construct evil Variant radiant warden in the style of Greg Rutkowski",
+        "timestamp": 1721762874236
     },
     "d68XkPVTpU42q8Gj": {
         "seed": 1024,
@@ -23099,11 +23090,10 @@
         "timestamp": 1721762681871
     },
     "XJocGEuiyg9TJiti": {
-        "id": "XJocGEuiyg9TJiti",
-        "prompt": "Fantasy art Raven Nicoletta human humanoid Female human sorcerer in the style of Greg Rutkowski",
-        "timestamp": 1696160111790,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "XJocGEuiyg9TJiti",
+        "prompt": "Fantasy art Raven Nicoletta evil human humanoid Female human sorcerer in the style of Greg Rutkowski",
+        "timestamp": 1721763163601
     },
     "58rzKemMr1sFBTfv": {
         "id": "58rzKemMr1sFBTfv",
@@ -23120,39 +23110,34 @@
         "used_seed": 1024
     },
     "P604YfY14wo4Uu56": {
-        "id": "P604YfY14wo4Uu56",
-        "prompt": "Fantasy art Hala The Rod fey Female norn rituals in the style of Greg Rutkowski",
-        "timestamp": 1696160111793,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "P604YfY14wo4Uu56",
+        "prompt": "Fantasy art Hala The Rod fey lawful Female norn rituals in the style of Greg Rutkowski",
+        "timestamp": 1721763188496
     },
     "bmCBmw4pQeEIelkY": {
+        "seed": 1025,
         "id": "bmCBmw4pQeEIelkY",
-        "prompt": "Fantasy art Hurlilu fiend lilu in the style of Greg Rutkowski",
-        "timestamp": 1696160111793,
-        "seed": 1024,
-        "used_seed": 1025
+        "prompt": "Fantasy art Hurlilu chaotic evil fiend lilu unholy in the style of Greg Rutkowski",
+        "timestamp": 1721762923539
     },
     "9uUmyAyVVq3bowo7": {
-        "id": "9uUmyAyVVq3bowo7",
-        "prompt": "Fantasy art Ghalzarokh demon fiend in the style of Greg Rutkowski",
-        "timestamp": 1696160111794,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "9uUmyAyVVq3bowo7",
+        "prompt": "Fantasy art Ghalzarokh chaotic demon evil fiend unholy in the style of Greg Rutkowski",
+        "timestamp": 1721763288345
     },
     "Zglw4NiZRVgmuI5x": {
-        "id": "Zglw4NiZRVgmuI5x",
-        "prompt": "Fantasy art Ndede humanoid Male popobawa in the style of Greg Rutkowski",
-        "timestamp": 1696160111794,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "Zglw4NiZRVgmuI5x",
+        "prompt": "Fantasy art Ndede chaotic evil humanoid Male popobawa in the style of Greg Rutkowski",
+        "timestamp": 1721763006063
     },
     "KgwkUtJ8czIC0KFj": {
-        "id": "KgwkUtJ8czIC0KFj",
-        "prompt": "Fantasy art Gegnir giant mutant troll Variant jotund troll in the style of Greg Rutkowski",
-        "timestamp": 1696160111795,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "KgwkUtJ8czIC0KFj",
+        "prompt": "Fantasy art Gegnir chaotic evil giant mutant troll Variant jotund troll in the style of Greg Rutkowski",
+        "timestamp": 1721763254918
     },
     "EkPs0okirh66YKa0": {
         "id": "EkPs0okirh66YKa0",
@@ -23162,11 +23147,10 @@
         "used_seed": 1024
     },
     "FHBQg45hdMXLqy3I": {
-        "id": "FHBQg45hdMXLqy3I",
-        "prompt": "Fantasy art Wrath Riot demon fiend troop in the style of Greg Rutkowski",
-        "timestamp": 1696160111796,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "FHBQg45hdMXLqy3I",
+        "prompt": "Fantasy art Wrath Riot chaotic demon evil fiend troop unholy in the style of Greg Rutkowski",
+        "timestamp": 1721763055570
     },
     "ZBMuaCCbIdv8euNx": {
         "seed": 1026,
@@ -23181,11 +23165,10 @@
         "timestamp": 1721762722975
     },
     "nBhR5WE7M1cp1fEm": {
-        "id": "nBhR5WE7M1cp1fEm",
-        "prompt": "Fantasy art Drustan human humanoid Male human tyrant in the style of Greg Rutkowski",
-        "timestamp": 1696160111798,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "nBhR5WE7M1cp1fEm",
+        "prompt": "Fantasy art Drustan evil human humanoid lawful Male human tyrant in the style of Greg Rutkowski",
+        "timestamp": 1721763080529
     },
     "2J1wbM7u7rU7yDzo": {
         "id": "2J1wbM7u7rU7yDzo",
@@ -23201,11 +23184,10 @@
         "timestamp": 1721762839055
     },
     "okLgvERf3ul8JxKk": {
+        "seed": 1028,
         "id": "okLgvERf3ul8JxKk",
-        "prompt": "Fantasy art All-Seeing Hajeck beast Variant lamia matriarch in the style of Greg Rutkowski",
-        "timestamp": 1696160111800,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art All-Seeing Hajeck beast chaotic Variant lamia matriarch in the style of Greg Rutkowski",
+        "timestamp": 1721762980977
     },
     "vooxDReQX3ztMXNj": {
         "id": "vooxDReQX3ztMXNj",
@@ -23242,11 +23224,10 @@
         "used_seed": 1024
     },
     "31xsWAhXQnk2jfIx": {
-        "id": "31xsWAhXQnk2jfIx",
-        "prompt": "Fantasy art Xiuli Cachu humanoid Female morlock priest of Lamashtu in the style of Greg Rutkowski",
-        "timestamp": 1696160111805,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "31xsWAhXQnk2jfIx",
+        "prompt": "Fantasy art Xiuli Cachu chaotic evil humanoid Female morlock priest of Lamashtu in the style of Greg Rutkowski",
+        "timestamp": 1721763047290
     },
     "RLuLdBW6SSs9u2hL": {
         "seed": 1024,
@@ -23255,11 +23236,10 @@
         "timestamp": 1721762805834
     },
     "590fsfQ1S0dF1C3Z": {
-        "id": "590fsfQ1S0dF1C3Z",
-        "prompt": "Fantasy art Kannijo undead vampire Male spirit naga jiangi\u2011shi vampire rituals in the style of Greg Rutkowski",
-        "timestamp": 1696160111807,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "590fsfQ1S0dF1C3Z",
+        "prompt": "Fantasy art Kannijo evil undead unholy vampire Male spirit naga jiangi\u2011shi vampire rituals in the style of Greg Rutkowski",
+        "timestamp": 1721763271610
     },
     "jH57QwQxH7aBs56G": {
         "seed": 1024,
@@ -23268,11 +23248,10 @@
         "timestamp": 1721762747827
     },
     "oWFqioYktqayWFlS": {
-        "id": "oWFqioYktqayWFlS",
-        "prompt": "Fantasy art Arodeth human humanoid Female human magus in the style of Greg Rutkowski",
-        "timestamp": 1696160111808,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "oWFqioYktqayWFlS",
+        "prompt": "Fantasy art Arodeth evil human humanoid lawful Female human magus in the style of Greg Rutkowski",
+        "timestamp": 1721763246518
     },
     "UQabwMtqQucqBDsy": {
         "id": "UQabwMtqQucqBDsy",
@@ -23282,11 +23261,10 @@
         "used_seed": 1024
     },
     "TQXPhj5Adm4pfX31": {
-        "id": "TQXPhj5Adm4pfX31",
-        "prompt": "Fantasy art Fabrina The Spinster fey Female norn rituals in the style of Greg Rutkowski",
-        "timestamp": 1696160111809,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "TQXPhj5Adm4pfX31",
+        "prompt": "Fantasy art Fabrina The Spinster fey lawful Female norn rituals in the style of Greg Rutkowski",
+        "timestamp": 1721763105540
     },
     "cm2OW6wghO7xIC0R": {
         "id": "cm2OW6wghO7xIC0R",
@@ -23296,11 +23274,10 @@
         "used_seed": 1024
     },
     "jXjo59pIAMteUtUD": {
-        "id": "jXjo59pIAMteUtUD",
-        "prompt": "Fantasy art The Shadow Prince illusion mental Variant brainchild in the style of Greg Rutkowski",
-        "timestamp": 1696160111810,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "jXjo59pIAMteUtUD",
+        "prompt": "Fantasy art The Shadow Prince chaotic evil illusion mental Variant brainchild in the style of Greg Rutkowski",
+        "timestamp": 1721763329593
     },
     "6aK7JsTs5zVTjyZN": {
         "id": "6aK7JsTs5zVTjyZN",
@@ -23310,18 +23287,16 @@
         "used_seed": 1024
     },
     "LhyMBLVsJMaUKGME": {
-        "id": "LhyMBLVsJMaUKGME",
-        "prompt": "Fantasy art Bolti Sorrinson undead water Variant male draugr in the style of Greg Rutkowski",
-        "timestamp": 1696160111811,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "LhyMBLVsJMaUKGME",
+        "prompt": "Fantasy art Bolti Sorrinson chaotic undead water Variant male draugr in the style of Greg Rutkowski",
+        "timestamp": 1721762865934
     },
     "laVap7VG0MRaoQnO": {
-        "id": "laVap7VG0MRaoQnO",
-        "prompt": "Fantasy art Phasmadaemon daemon fiend in the style of Greg Rutkowski",
-        "timestamp": 1696160111812,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "laVap7VG0MRaoQnO",
+        "prompt": "Fantasy art Phasmadaemon daemon evil fiend unholy in the style of Greg Rutkowski",
+        "timestamp": 1721762940143
     },
     "88n1uQqK5XbIGnUF": {
         "seed": 1024,
@@ -23330,32 +23305,28 @@
         "timestamp": 1721762814130
     },
     "QiRja8LrBQUwh6St": {
+        "seed": 1025,
         "id": "QiRja8LrBQUwh6St",
-        "prompt": "Fantasy art Sickened Doprillu aberration Variant doprillu in the style of Greg Rutkowski",
-        "timestamp": 1696160111813,
-        "seed": 1024,
-        "used_seed": 1026
+        "prompt": "Fantasy art Sickened Doprillu aberration evil Variant doprillu in the style of Greg Rutkowski",
+        "timestamp": 1721763180056
     },
     "fcMf5NrHPZS54Hkd": {
-        "id": "fcMf5NrHPZS54Hkd",
-        "prompt": "Fantasy art Vincuvicar fiend velstrac in the style of Greg Rutkowski",
-        "timestamp": 1696160111813,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "fcMf5NrHPZS54Hkd",
+        "prompt": "Fantasy art Vincuvicar evil fiend lawful unholy velstrac in the style of Greg Rutkowski",
+        "timestamp": 1721763088864
     },
     "s8pBIwZjOdep4Lfp": {
-        "id": "s8pBIwZjOdep4Lfp",
-        "prompt": "Fantasy art Katpaskir demon fiend in the style of Greg Rutkowski",
-        "timestamp": 1696160111814,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "s8pBIwZjOdep4Lfp",
+        "prompt": "Fantasy art Katpaskir chaotic demon evil fiend unholy in the style of Greg Rutkowski",
+        "timestamp": 1721763313073
     },
     "J7QJMfQZlOd7DOq5": {
-        "id": "J7QJMfQZlOd7DOq5",
-        "prompt": "Fantasy art Markish Aghayarea undead Male marid devourer rituals in the style of Greg Rutkowski",
-        "timestamp": 1696160111815,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "J7QJMfQZlOd7DOq5",
+        "prompt": "Fantasy art Markish Aghayarea evil undead unholy Male marid devourer rituals in the style of Greg Rutkowski",
+        "timestamp": 1721763072211
     },
     "HncSxwlRvg3gtlks": {
         "id": "HncSxwlRvg3gtlks",
@@ -23491,11 +23462,10 @@
         "timestamp": 1721594322632
     },
     "eF3ndkXtyeMHpzZb": {
-        "id": "eF3ndkXtyeMHpzZb",
-        "prompt": "Fantasy art Bhanyada Behemoth aberration in the style of Greg Rutkowski",
-        "timestamp": 1696785964328,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "eF3ndkXtyeMHpzZb",
+        "prompt": "Fantasy art Bhanyada Behemoth aberration evil in the style of Greg Rutkowski",
+        "timestamp": 1721762997690
     },
     "26mSMWZwuYBRDhBM": {
         "id": "26mSMWZwuYBRDhBM",
@@ -23511,18 +23481,16 @@
         "timestamp": 1721762780947
     },
     "WguseVujp1LjEzq4": {
-        "id": "WguseVujp1LjEzq4",
-        "prompt": "Fantasy art Uniila devil fiend in the style of Greg Rutkowski",
-        "timestamp": 1696785964335,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "WguseVujp1LjEzq4",
+        "prompt": "Fantasy art Uniila devil evil fiend lawful unholy in the style of Greg Rutkowski",
+        "timestamp": 1721762989337
     },
     "3OE96zZHIAnMbYWj": {
-        "id": "3OE96zZHIAnMbYWj",
-        "prompt": "Fantasy art Endlo Kiver dwarf humanoid Male dwarf zealot of Gorum in the style of Greg Rutkowski",
-        "timestamp": 1696785964337,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "3OE96zZHIAnMbYWj",
+        "prompt": "Fantasy art Endlo Kiver chaotic dwarf evil humanoid Male dwarf zealot of Gorum in the style of Greg Rutkowski",
+        "timestamp": 1721763122267
     },
     "gmY1qb5fZFsc80d0": {
         "id": "gmY1qb5fZFsc80d0",
@@ -23539,11 +23507,10 @@
         "used_seed": 1024
     },
     "bsjCqkz0jIv9LOBS": {
-        "id": "bsjCqkz0jIv9LOBS",
-        "prompt": "Fantasy art Harpy Warbird humanoid Variant harpy in the style of Greg Rutkowski",
-        "timestamp": 1696785964339,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "bsjCqkz0jIv9LOBS",
+        "prompt": "Fantasy art Harpy Warbird chaotic evil humanoid Variant harpy in the style of Greg Rutkowski",
+        "timestamp": 1721763213487
     },
     "mJyUqZYPGrCx13oT": {
         "id": "mJyUqZYPGrCx13oT",
@@ -23553,11 +23520,10 @@
         "used_seed": 1024
     },
     "ttUZn9WMNZzG9YdZ": {
-        "id": "ttUZn9WMNZzG9YdZ",
-        "prompt": "Fantasy art Bhanyada Swarm aberration swarm in the style of Greg Rutkowski",
-        "timestamp": 1696785964339,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "ttUZn9WMNZzG9YdZ",
+        "prompt": "Fantasy art Bhanyada Swarm aberration evil swarm in the style of Greg Rutkowski",
+        "timestamp": 1721763097237
     },
     "Bn7bG2gbyXYj7mzT": {
         "id": "Bn7bG2gbyXYj7mzT",
@@ -23567,11 +23533,10 @@
         "used_seed": 1024
     },
     "a5B1GrGkM97l20Wk": {
-        "id": "a5B1GrGkM97l20Wk",
-        "prompt": "Fantasy art Torgral demon fiend Male ghalzarokh in the style of Greg Rutkowski",
-        "timestamp": 1696785964340,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "a5B1GrGkM97l20Wk",
+        "prompt": "Fantasy art Torgral chaotic demon evil fiend unholy Male ghalzarokh in the style of Greg Rutkowski",
+        "timestamp": 1721763155415
     },
     "tVZ7ijV3W1HmMwzz": {
         "id": "tVZ7ijV3W1HmMwzz",
@@ -23581,11 +23546,10 @@
         "used_seed": 1026
     },
     "qHCZeqTMADZcqqBp": {
-        "id": "qHCZeqTMADZcqqBp",
-        "prompt": "Fantasy art Svaryr Commander aesir monitor Variant valkyrie in the style of Greg Rutkowski",
-        "timestamp": 1696785964344,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "qHCZeqTMADZcqqBp",
+        "prompt": "Fantasy art Svaryr Commander aesir chaotic monitor Variant valkyrie in the style of Greg Rutkowski",
+        "timestamp": 1721762907067
     },
     "GzkJGkSYO512zr80": {
         "seed": 1024,
@@ -23594,25 +23558,22 @@
         "timestamp": 1721762772627
     },
     "9CR1pTY23jFPi5Xn": {
-        "id": "9CR1pTY23jFPi5Xn",
-        "prompt": "Fantasy art Sonnorae fiend velstrac Female velstrac precentor in the style of Greg Rutkowski",
-        "timestamp": 1696785964347,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "9CR1pTY23jFPi5Xn",
+        "prompt": "Fantasy art Sonnorae evil fiend lawful unholy velstrac Female velstrac precentor in the style of Greg Rutkowski",
+        "timestamp": 1721762931825
     },
     "VCn8GC3XXCES5Cns": {
+        "seed": 1026,
         "id": "VCn8GC3XXCES5Cns",
-        "prompt": "Fantasy art Quoppopak Mummy mummy undead in the style of Greg Rutkowski",
-        "timestamp": 1696785964347,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Quoppopak Mummy evil mummy undead unholy in the style of Greg Rutkowski",
+        "timestamp": 1721762898754
     },
     "u5o9uU9Saweij7mF": {
+        "seed": 1025,
         "id": "u5o9uU9Saweij7mF",
-        "prompt": "Fantasy art Zashuvin fiend lilu Female hurlilu in the style of Greg Rutkowski",
-        "timestamp": 1696785964348,
-        "seed": 1024,
-        "used_seed": 1025
+        "prompt": "Fantasy art Zashuvin chaotic evil fiend lilu unholy Female hurlilu in the style of Greg Rutkowski",
+        "timestamp": 1721763238192
     },
     "KPwAtJ0wFmMTFfWV": {
         "id": "KPwAtJ0wFmMTFfWV",
@@ -23622,11 +23583,10 @@
         "used_seed": 1024
     },
     "mgFca9LCxEI3pqc7": {
-        "id": "mgFca9LCxEI3pqc7",
-        "prompt": "Fantasy art Vharnev the Butcher human humanoid tiefling Male tiefling human mercenary in the style of Greg Rutkowski",
-        "timestamp": 1696785964352,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "mgFca9LCxEI3pqc7",
+        "prompt": "Fantasy art Vharnev the Butcher chaotic evil human humanoid nephilim Male tiefling human mercenary in the style of Greg Rutkowski",
+        "timestamp": 1721763196891
     },
     "IKlSxZfyN1wRZsQn": {
         "seed": 1024,
@@ -23642,11 +23602,10 @@
         "used_seed": 1024
     },
     "mcCHcnMN1gYBHbqA": {
+        "seed": 1026,
         "id": "mcCHcnMN1gYBHbqA",
-        "prompt": "Fantasy art Speaker Of Svaryr fey Variant female huldra in the style of Greg Rutkowski",
-        "timestamp": 1696785964357,
-        "seed": 1024,
-        "used_seed": 1024
+        "prompt": "Fantasy art Speaker Of Svaryr chaotic fey Variant female huldra in the style of Greg Rutkowski",
+        "timestamp": 1721763030611
     },
     "334vtiUd5J507PsX": {
         "seed": 1024,
@@ -23655,25 +23614,22 @@
         "timestamp": 1721762789282
     },
     "eC0O1nNWMjWydbPG": {
-        "id": "eC0O1nNWMjWydbPG",
-        "prompt": "Fantasy art Obcisidaemon daemon fiend in the style of Greg Rutkowski",
-        "timestamp": 1696785964358,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "eC0O1nNWMjWydbPG",
+        "prompt": "Fantasy art Obcisidaemon daemon evil fiend unholy in the style of Greg Rutkowski",
+        "timestamp": 1721763113914
     },
     "c5PsLzWosNiKXU6o": {
-        "id": "c5PsLzWosNiKXU6o",
-        "prompt": "Fantasy art Svaryr Soldier aesir monitor Variant einherji in the style of Greg Rutkowski",
-        "timestamp": 1696785964358,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "c5PsLzWosNiKXU6o",
+        "prompt": "Fantasy art Svaryr Soldier aesir chaotic monitor Variant einherji in the style of Greg Rutkowski",
+        "timestamp": 1721763221807
     },
     "Yg5xl1lu0211JVi7": {
-        "id": "Yg5xl1lu0211JVi7",
-        "prompt": "Fantasy art Raskus humanoid tengu Male tengu commander in the style of Greg Rutkowski",
-        "timestamp": 1696785964359,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "Yg5xl1lu0211JVi7",
+        "prompt": "Fantasy art Raskus chaotic evil humanoid tengu Male tengu commander in the style of Greg Rutkowski",
+        "timestamp": 1721763321382
     },
     "WddCUSjH70mHmzK3": {
         "seed": 1024,
@@ -23696,11 +23652,10 @@
         "used_seed": 1024
     },
     "Cj0oleWD4YOmT1Mn": {
-        "id": "Cj0oleWD4YOmT1Mn",
-        "prompt": "Fantasy art Voricose fiend velstrac Male variant velstrac interlocutor in the style of Greg Rutkowski",
-        "timestamp": 1696785964364,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "Cj0oleWD4YOmT1Mn",
+        "prompt": "Fantasy art Voricose evil fiend lawful unholy velstrac Male variant velstrac interlocutor in the style of Greg Rutkowski",
+        "timestamp": 1721763038981
     },
     "lJnVbE89rKEYJ3Hw": {
         "id": "lJnVbE89rKEYJ3Hw",
@@ -23723,11 +23678,10 @@
         "used_seed": 1024
     },
     "mLDzt35dEHUimp1E": {
-        "id": "mLDzt35dEHUimp1E",
-        "prompt": "Fantasy art Demonic Rabble demon fiend troop in the style of Greg Rutkowski",
-        "timestamp": 1696785964374,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "mLDzt35dEHUimp1E",
+        "prompt": "Fantasy art Demonic Rabble chaotic demon evil fiend troop unholy in the style of Greg Rutkowski",
+        "timestamp": 1721763063937
     },
     "M8Ud2zb5KwfocEd2": {
         "id": "M8Ud2zb5KwfocEd2",
@@ -23756,11 +23710,10 @@
         "timestamp": 1721762855457
     },
     "jYHPxFsTUS6jGY4a": {
-        "id": "jYHPxFsTUS6jGY4a",
-        "prompt": "Fantasy art Ticktock fiend velstrac Male storykin variant sacristan velstrac in the style of Greg Rutkowski",
-        "timestamp": 1696785964380,
         "seed": 1024,
-        "used_seed": 1024
+        "id": "jYHPxFsTUS6jGY4a",
+        "prompt": "Fantasy art Ticktock evil fiend lawful unholy velstrac Male storykin variant sacristan velstrac in the style of Greg Rutkowski",
+        "timestamp": 1721763130603
     },
     "KeOKPlxxBw5m2wly": {
         "seed": 1024,
@@ -31547,5 +31500,23 @@
         "id": "M0hm5JzkOkUCVSFL",
         "prompt": "Fantasy art Red Bishop aberration chaotic evil Male mothman agent of Pazuzu in the style of Greg Rutkowski",
         "timestamp": 1721760499402
+    },
+    "316J8ZDsHytVX162": {
+        "seed": 1024,
+        "id": "316J8ZDsHytVX162",
+        "prompt": "Fantasy art Koata Inuu humanoid strix Female strix elite hunter in the style of Greg Rutkowski",
+        "timestamp": 1721763355115
+    },
+    "s2oc6zKIGTyJkOlA": {
+        "seed": 1024,
+        "id": "s2oc6zKIGTyJkOlA",
+        "prompt": "Fantasy art Primal Warden of Zibik construct plant in the style of Greg Rutkowski",
+        "timestamp": 1721763363502
+    },
+    "M7iUWn7SDzSDFidX": {
+        "seed": 1024,
+        "id": "M7iUWn7SDzSDFidX",
+        "prompt": "Fantasy art Silene spirit undead Variant waldgeist in the style of Greg Rutkowski",
+        "timestamp": 1721763371816
     }
 }
